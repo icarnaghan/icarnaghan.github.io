@@ -8,10 +8,10 @@ $(document).ready(function () {
     /* AJAX Call to RESTful Service */
     $.ajax({
       type: "get",
-      url: "http://services.groupkt.com/country/search",
+      url: "//services.groupkt.com/country/search",
       data:  {text: iso2code}, // Use the format { parameterName: variable },
       success: function(result) {
-      
+
         console.log(result);
         // Build output render
         var output="<table><thead><tr><th>Name</th><th>Alpha 2 Code</th><th>Alpha 3 Code</th></thead><tbody>";

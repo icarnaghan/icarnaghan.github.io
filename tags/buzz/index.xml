@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buzz on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/buzz/</link>
+    <description>Recent content in Buzz on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/buzz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Releases Official Buzz Share Widget with Live Counter</title>
+      <link>https://www.carnaghan.com/google-releases-official-buzz-share-widget-with-live-counter/</link>
+      <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/google-releases-official-buzz-share-widget-with-live-counter/</guid>
+      <description>&lt;p&gt;Google has recently released the beginning of a small API working with Google Buzz. There have been plenty of issues with Google Buzz&amp;rsquo;s widget, and many other sites made their own to fill the gap. However with this newest release even Mashable has updated their Buzz widgets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mashable-Style Google Buzz Widget with Counter Available by Njuice</title>
+      <link>https://www.carnaghan.com/mashable-style-google-buzz-widget-with-counter-available-by-njuice/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/mashable-style-google-buzz-widget-with-counter-available-by-njuice/</guid>
+      <description>&lt;p&gt;As many fans of the popular social media blog Mashable know, over the past month or 2 they have been messing around with a new Google Buzz button. Allowing you to share stories over Google Reader which publish into Google Buzz, this small widget has grown in popularity and it seems like every blogger is looking for one!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Google Buzz is Gaining Many Early Followers</title>
+      <link>https://www.carnaghan.com/how-google-buzz-is-gaining-many-early-followers/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/how-google-buzz-is-gaining-many-early-followers/</guid>
+      <description>&lt;p&gt;Since Google Buzz launched a few months ago, it has had some very impressive early adopters. Mashable and TechCrunch have been the first of many larger blogs to jump on board, with many smaller blogs following suit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

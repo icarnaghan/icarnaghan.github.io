@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Traffic on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/traffic/</link>
+    <description>Recent content in Traffic on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/traffic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why you shouldn&#39;t change WordPress theme often?</title>
+      <link>https://www.carnaghan.com/why-you-shouldnt-change-wordpress-theme-often/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/why-you-shouldnt-change-wordpress-theme-often/</guid>
+      <description>&lt;p&gt;Guys, you may have seen the &amp;ldquo;Leverage browser caching&amp;rdquo; warning when you test your website&amp;rsquo;s speed with the Google page speed insights tool.&lt;/p&gt;
+&lt;p&gt;After finding this message, you head over to Google and search methods to increase cache expiry time. After reading a tutorial on increasing expiry time for static content i.e. JavaSript, CSS files, you go ahead and modify the htaccess or Nginx configuration file.&lt;/p&gt;
+&lt;p&gt;Do you know that if you set an abnormal expiration value to the static files (say 30 days or more), you may be committing a big mistake!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Visual Traceroute is a free WhoIs lookup, Packet sniffer tool for PC</title>
+      <link>https://www.carnaghan.com/open-visual-traceroute-is-a-free-whois-lookup-packet-sniffer-tool-for-pc/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/open-visual-traceroute-is-a-free-whois-lookup-packet-sniffer-tool-for-pc/</guid>
+      <description>&lt;p&gt;Traceroute is an important and one of the most widely used commands. It is recognized in all the operating systems. In case you&amp;rsquo;re searching for standalone Windows program that simulates the traceroute command, try out Open Visual Traceroute.&lt;/p&gt;
+&lt;p&gt;OVT is an open source program that can be used on Windows as well as Linux OS. It has been built with Java and available for download on sourceforge.com. Users must install the Java Runtime Environment to use this program. OVT has the below three essential utilities that webmasters often use:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How i increased blog traffic from search engines (Google &amp; Bing)</title>
+      <link>https://www.carnaghan.com/how-i-increased-blog-traffic-from-search-engines-google-bing/</link>
+      <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/how-i-increased-blog-traffic-from-search-engines-google-bing/</guid>
+      <description>&lt;p&gt;A Blog&amp;rsquo;s income directly depends on the number of visitors your site gets from search engines. In AdSense terms and conditions, it is clearly stated that a user should avoid all fake methods of generating traffic. Affiliate marketing doesn&amp;rsquo;t have strict terms and conditions. My blog&amp;rsquo;s traffic was down several times but I never gave up.&lt;/p&gt;
+&lt;p&gt;When I started with blogging, for the first 6 to 7 months, there were just 500 to 600 visitors/month to my site. When it was affected by a penalty, the traffic dropped to 100 or 200 visitors. These stats were not enough to generate a decent income nor was I eligible for AdSense program. Now the traffic has increased more than 10 times, 50 percent of my online income is from Adsense and the rest comes from four affiliate programs. Before the year 2016 ends, I expect my blog traffic to increase over 10000 UV/day. Here are the techniques I used to improve traffic to my blog.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

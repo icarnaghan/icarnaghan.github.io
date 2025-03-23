@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Templates on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/templates/</link>
+    <description>Recent content in Templates on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Template Monster&#39;s Design Blog Kicks Off!</title>
+      <link>https://www.carnaghan.com/template-monsters-design-blog-kicks-off/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/template-monsters-design-blog-kicks-off/</guid>
+      <description>&lt;p&gt;Out of all the website and Wordpress template sellers out there, Template Monster is clearly the king. Reigning in the business for the past couple of years, the company has grown substantially to offer tens of thousands of templates to it&amp;rsquo;s many customer&amp;rsquo;s.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mobile on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/mobile/</link>
+    <description>Recent content in Mobile on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Merges Startup Visual Search Engine Plink with Google Goggles</title>
+      <link>https://www.carnaghan.com/google-merges-startup-visual-search-engine-plink-with-google-goggles/</link>
+      <pubDate>Mon, 12 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/google-merges-startup-visual-search-engine-plink-with-google-goggles/</guid>
+      <description>&lt;p&gt;Google has taken another step forward in visual and image search after acquiring UK-based startup Plink. Having only launched 4 months ago, Plink is a visual search engine which you can download as an Android app and take a photo of a picture to find out more information about it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

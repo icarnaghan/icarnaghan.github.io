@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prototyping on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/prototyping/</link>
+    <description>Recent content in Prototyping on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Axure Prototype 6</title>
+      <link>https://www.carnaghan.com/axure-prototype-6/</link>
+      <pubDate>Fri, 08 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/axure-prototype-6/</guid>
+      <description>&lt;p&gt;This is the final Axure prototype that will be developed for this project.  It build on the design of prototype 5 and increased consistency between screens.  Additional data elements were added and the interface for creating and managing case studies was redesigned.  Axure has been a useful tool for developing these initial prototypes, however limitations of static web pages and producing complex interactions has proven to be time consuming and difficult. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axure Prototype 5</title>
+      <link>https://www.carnaghan.com/axure-prototype-5/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/axure-prototype-5/</guid>
+      <description>&lt;p&gt;Prototype 5 integrated both expedition and non-expedition subject areas.  The concept of &amp;lsquo;strands&amp;rsquo; being units within the system has been further defined in this design.  The interactions for strands and sub-sections as well as optional elements has been further developed in this prototype.  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axure Prototype 4</title>
+      <link>https://www.carnaghan.com/axure-prototype-4/</link>
+      <pubDate>Thu, 24 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/axure-prototype-4/</guid>
+      <description>&lt;p&gt;Prototype 4 includes a lot of design changes stemming from our FSW and Winter Terms sprint.  These changes include improvements to the homepage and accomodation for non-expedition placeholders for FSW, winter and subject areas.  Other enhancements were made in the expedition forms and sub sections as well as proper differentiation between them and their non-expedition counterparts.  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axure Prototype 3</title>
+      <link>https://www.carnaghan.com/axure-prototype-3/</link>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/axure-prototype-3/</guid>
+      <description>&lt;p&gt;After presenting the second prototype at the last requirements meeting, it was apparent that more work needed to be done with defining what an expedition is and where its sub-sections correctly belong.  Much of the discussion of the meeting concentrated on Standards, Learning Targets, Assessment (STAs) and their correct placement in the map.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axure Prototype 2</title>
+      <link>https://www.carnaghan.com/axure-prototype-2/</link>
+      <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/axure-prototype-2/</guid>
+      <description>&lt;p&gt;This prototype was developed after several discussions via email regarding the initial requirements of the project.  The kickoff meeting was helpful in framing the basics of the system in the first prototype, however it was lacking detail and missing some of the crucial elements of an EL map.  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axure Prototype 1</title>
+      <link>https://www.carnaghan.com/axure-prototype-1/</link>
+      <pubDate>Wed, 10 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/axure-prototype-1/</guid>
+      <description>&lt;p&gt;This prototype was developed after the initial April 10th requirements meeting.  It includes a basic design with an incomplete &amp;lsquo;dashboard&amp;rsquo; page providing user interactions for various parts of the system.  Upon learning more about the unique needs of EL, it was determined the main expedition form / interactions was fundamentally flawed.  &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

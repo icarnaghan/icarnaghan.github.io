@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Developing-With-Php on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/developing-with-php/</link>
+    <description>Recent content in Developing-With-Php on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/developing-with-php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decision Tree Outline</title>
+      <link>https://www.carnaghan.com/decision-tree-outline/</link>
+      <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/decision-tree-outline/</guid>
+      <description>&lt;p&gt;The decision tree application is currently a work-in-progress.  The main source files can be downloaded here: &lt;strong&gt;Source Files.&lt;/strong&gt;  The current demo is non-functional and only shows a subset of the application, which will be developed in the upcoming weeks: &lt;strong&gt;Demo Application (Work in progress)&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Number and Password Problems</title>
+      <link>https://www.carnaghan.com/number-and-password-problems/</link>
+      <pubDate>Fri, 06 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/number-and-password-problems/</guid>
+      <description>&lt;p&gt;The following are my responses to a series of simple PHP problems (attached in the Word File).  I needed to review Doyle (2010) chapters 9 and 10 which cover form submission and session variables in order to complete these exercises.  I also leaned on chapter 18 which goes into depth on regular expressions to assist with pattern recognition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>More PHP String Functions</title>
+      <link>https://www.carnaghan.com/more-php-string-functions/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/more-php-string-functions/</guid>
+      <description>&lt;p&gt;This week I rewrote one of the PHP tasks from earlier and created a new function to emulate the functionality of str_pad.  The function I wrote accepts a text string parameter, length, a reverse parameter (for padding on left or right) and finally an optional symbol parameter to show where the padding is happening.  In addition to this I have outlined what I am planning on developing for a Drupal module later in the semester.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Strings</title>
+      <link>https://www.carnaghan.com/strings/</link>
+      <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/strings/</guid>
+      <description>&lt;p&gt;PHP provides many different functions for manipulating strings.  Some of the more common functions are provided here, however for a full listing of all the available string functions see &lt;a href=&#34;http://www.php.net/manual/en/ref.strings.php&#34;&gt;http://www.php.net/manual/en/ref.strings.php&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PHP Language Basics</title>
+      <link>https://www.carnaghan.com/php-language-basics/</link>
+      <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/php-language-basics/</guid>
+      <description>&lt;p&gt;This week I have been focusing on the first few chapters of Doyle (2010), specifically on PHP language basics, decisions and loops and strings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conditional Statements and Looping</title>
+      <link>https://www.carnaghan.com/conditional-statements-and-looping/</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/conditional-statements-and-looping/</guid>
+      <description>&lt;p&gt;Conditional statements (or decisions) and loops make up a good portion of programming code in general.  I am familiar with these concepts though other languages, however I have never programmed them in PHP.  This week I have been reviewing the first 5 chapters of Beginning PHP 5.3, which has been giving me a good solid introduction to PHP.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Types, Variables and Constants</title>
+      <link>https://www.carnaghan.com/data-types-variables-and-constants/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/data-types-variables-and-constants/</guid>
+      <description>&lt;p&gt;Variables in PHP are similar to define and use as with other programming languages.  PHP uses loose typed variables, in other words they do not have to be defined specifically as a datatype upon initialization and can be changed to other data types using expressions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction to PHP</title>
+      <link>https://www.carnaghan.com/introduction-to-php/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/introduction-to-php/</guid>
+      <description>&lt;p&gt;This week I have been reading the first five chapters of Beginning PHP 5.3, Doyle (2010).  Chapter 1 gave a good overview of PHP and it&amp;rsquo;s advantages.  It drew comparisons to other programming languages, which I found interesting coming from a ColdFusion background.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dynamic Websites</title>
+      <link>https://www.carnaghan.com/dynamic-websites/</link>
+      <pubDate>Mon, 28 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/dynamic-websites/</guid>
+      <description>&lt;p&gt;This summer I have enrolled in a Dynamic Websites independent study for my graduate program.  The course will focus mainly on developing PHP programming skills, something I have been lacking and interested in developing for some time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

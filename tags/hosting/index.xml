@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hosting on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/hosting/</link>
+    <description>Recent content in Hosting on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips on How to be a Successful Blogger</title>
+      <link>https://www.carnaghan.com/tips-on-how-to-be-a-successful-blogger/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/tips-on-how-to-be-a-successful-blogger/</guid>
+      <description>&lt;p&gt;For those that may be unfamiliar with its meaning, the term blog comes from the combination of the words web and log. Blogs can typically consist of entries that include comments on culture, hobbies or everyday life, occasionally featuring a video or music.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

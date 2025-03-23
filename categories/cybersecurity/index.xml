@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cybersecurity on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/categories/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asset Security – Bitesize CISSP Study Notes</title>
+      <link>https://www.carnaghan.com/asset-security-bitesize-cissp-study-notes/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/asset-security-bitesize-cissp-study-notes/</guid>
+      <description>&lt;p&gt;Asset Security is the second domain of the CISSP. This domain focuses heavily on classification of data and labels used, various roles within an organization, data security controls and frameworks, baselining and hardening, and the various states of data. In addition to this data remanence and destruction are also covered and should be understood for the exam, especially understanding the difference between traditional magnetic storage vs newer solid state devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Risk Management - Bitesize CISSP Study Notes</title>
+      <link>https://www.carnaghan.com/security-risk-management-bitesize-cissp-study-notes/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/security-risk-management-bitesize-cissp-study-notes/</guid>
+      <description>&lt;p&gt;Security Risk Management is the first domain of the CISSP. These are some notes highlighting areas of study for this domain and are by no means a comprehensive set of materials for preparing for this certification. The content below is what I have used to better prepare for this domain. Before reviewing this section, if you haven&amp;rsquo;t already taken Kelly Handerhan&amp;rsquo;s CISSP course, I would highly recommend spending some time going through it. It is by far the most engaging and relevant video series I&amp;rsquo;ve seen for CISSP study prep. In the first domain she covers a slide called the tenants of secure design, which is also very relevant here. At a minimum, make sure you are familiar with concepts she covers here including risk analysis, defense in depth, fail safe, KISS (Keep it Simple Stupid), completeness of design, open design, redundancy, separation of duties, mandatory vacations, job rotation, and others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>United States Defense Contractors and Cybersecurity Challenges</title>
+      <link>https://www.carnaghan.com/united-states-defense-contractors-and-cybersecurity-challenges/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/united-states-defense-contractors-and-cybersecurity-challenges/</guid>
+      <description>&lt;p&gt;In the United States, a sizable amount of the overall federal budget is allocated to defense spending. The 2018 Defense Budget was signed into law on December 12, 2017, by President Trump, which authorized just under $700 billion in defense spending (Blankenstein, 2017). In contrast to just a few years ago where the fiscal year defense spending was set at $593 billion, the amount of money set aside for defense continues to grow. Traditionally a lot of this budget has gone into supporting the military, purchasing equipment, machinery, and paying salaries. In recent years, more money has been set-aside for defense contractors, who in turn provide products and services to the Federal Government. In 2016, nearly half of the defense budget was allocated to defense contractors. The biggest beneficiaries included Lockheed Martin- $36.2 billion, Boeing- $24.3 billion, Raytheon- $12.8 billion, General Dynamics- $12.7 billion, and Northrop Grumman- $10.7 billion (Hartung, 2017). A more detailed table of the defense sector follows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SSL Labs Rating Woes</title>
+      <link>https://www.carnaghan.com/ssl-labs-rating-woes/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/ssl-labs-rating-woes/</guid>
+      <description>&lt;p&gt;I was recently notified that one of the sites I support was getting a &amp;lsquo;C&amp;rsquo; rating on SSL Labs. It turned out that there were three main issues that needed to be resolved. Two out of the three were relatively easy to find via the SSL Labs documentation, which required simple fixes to the ssl.conf file.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;This server is vulnerable to the POODLE attack. If possible, disable SSL 3 to mitigate&lt;/strong&gt;. This was relatively easy to fix. I resolved it by modifying ssl_protocols in the &lt;strong&gt;ssl.conf&lt;/strong&gt; file - thank you Digital Ocean for your &lt;strong&gt;comprehensive write-up&lt;/strong&gt; on this!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The server does not support Forward Secrecy with the reference browsers&lt;/strong&gt;. Again, more simple changes in the ssl.conf file. In case you run into a similar issue, be sure to read this helpful article, &lt;strong&gt;Configuring Apache, Nginx, and OpenSSL for Forward Secrecy&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The third issue, however, was not quite as straightforward: &lt;strong&gt;This server accepts RC4 cipher, but only with older protocols&lt;/strong&gt;. I found a number of helpful articles on this stating that by adding !RC4 to exclude RC4 in SSLCipherSuite, will result in mitigation of this vulnerability. I spent quite a bit of time trying different cypher list combinations and always including !RC4, however no matter how many times I tweak this, restart httpd and revisit SSL Labs, I kept getting the annoying &amp;lsquo;B&amp;rsquo; grade and RC4 complaint. For anyone facing similar issues, I highly recommend reading Hardening Your Web Server’s SSL Ciphers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Management Actions that Must Happen Prior to a Cyber Attack</title>
+      <link>https://www.carnaghan.com/management-actions-that-must-happen-prior-to-a-cyber-attack/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/management-actions-that-must-happen-prior-to-a-cyber-attack/</guid>
+      <description>&lt;p&gt;Prior to any cyber attack, an organization should already have a solid crisis management plan and set of disaster recovery precautions in place. In addition to this, a risk analysis should be carried out involving a holistic approach and careful investigation of information systems and the overall environment. The purpose of such an analysis is to evaluate all endpoints that could potentially fail in a disaster or cyber-attack. (Pfleeger &amp;amp; Pfleeger, 2007) The analysis should describe the current state of an organization’s security approaches and examine areas of the company’s infrastructure as well as external factors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving Target Defense (MTD)</title>
+      <link>https://www.carnaghan.com/moving-target-defense-mtd/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/moving-target-defense-mtd/</guid>
+      <description>&lt;p&gt;Organizations continue to struggle with policies and processes to effectively secure their infrastructure to protect their information assets and intellectual property. In recent years, we have seen the increase of cyber-attacks and breaches to the point that they have become common news worldwide. As systems have grown in complexity with increased capacity to store large amounts of data, so to has the appeal of targeting such systems by cyber criminals. Traditional approaches of defense including signature-based detection, behavioral-based detection, and defense in depth strategies are not enough to protect against advanced distributed attacks and zero-day attacks. Current technologies used to detect traffic, whether packet-based, time-based, or behavior-based, can provide some level of defense. Unfortunately, however as our tools and techniques improve, so too do the accuracy and advancements in sophisticated attackers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Three Must Have Security Policies In 2018</title>
+      <link>https://www.carnaghan.com/three-must-have-security-policies-in-2018/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/three-must-have-security-policies-in-2018/</guid>
+      <description>&lt;p&gt;The nature of the Internet and worldwide connectivity has changed the traditional centuries old paradigm regarding proximity.  We now see threats from all parts of the global. What are three cybersecurity policies for a firm that would mitigate risks for cybersecurity attacks at the global level? Cybersecurity threats continue to rise year after year and the problem continues grow due to the global nature of attacks. Organizations must implement security policies in order to protect themselves against such threats. Below are three policies that would help organizations better defend against global threats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulnerability Assessments</title>
+      <link>https://www.carnaghan.com/vulnerability-assessments/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/vulnerability-assessments/</guid>
+      <description>&lt;p&gt;Vulnerability assessments can be a very effective way of gathering information on an organizations internal security posture. The purpose is to accumulate data on any weaknesses revealed that should be proactively mitigated to prevent exploitation. There are a number of tools that can be used to carry out vulnerability assessments. Typically, a software-based tools are used to scan a selected part of an organizations infrastructure. This can range from specific areas that are exposed to the public, to entire sections of the organizations network (Cima, 2001) lists four of the most common types of vulnerability scanner. These include network-based scanning tools, host-based scanning tools, database scanning tools, and wardialers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What are Advanced Persistent Threats?</title>
+      <link>https://www.carnaghan.com/what-are-advanced-persistent-threats/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-are-advanced-persistent-threats/</guid>
+      <description>&lt;p&gt;Advanced Persistent Threats (APTs) are security threats that use advanced techniques to hide their attack from their target. They are commonly used to target specific information in high-profile companies and governments. APTs usually follow a long-term strategy of attack in order to gather information from the breached system. There have been many examples of APTs over the years targeting well known organizations. In 2013 the Mandiant report revealed evidence that a specific Chinese military unit has been behind many major Advanced Persistent Threats (APTs) within the United States. Since then APTs have been used against large companies including Yahoo, Google, Northrop Grumman, and many others. One of the most complex APTs in recent years was the Stuxnet computer worm (“Stuxnet: Advanced Persistent Threat - Ran Levi,” n.d.), which targeted Iran’s nuclear program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helpful Resources for Understanding Web Application Security</title>
+      <link>https://www.carnaghan.com/helpful-resources-for-understanding-web-application-security/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/helpful-resources-for-understanding-web-application-security/</guid>
+      <description>&lt;p&gt;As a developer, knowledge of web application security vulnerabilities is essential in order to build software that is both resilient to attacks and protected through a layered approach of defense. The cybersecurity landscape is constantly shifting, however a good understanding of the most common vulnerabilities is a great place to get started with security. Before reviewing the articles below, be sure to look at 10 Most Common Security Vulnerabilities. The list that follows are a handful of articles I&amp;rsquo;ve written over the years both in my graduate and professional work. They focus on application security specifically as well as an understanding of the people behind such attacks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just What Exactly is Cybersecurity Anyway?</title>
+      <link>https://www.carnaghan.com/just-what-exactly-is-cybersecurity-anyway/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/just-what-exactly-is-cybersecurity-anyway/</guid>
+      <description>&lt;p&gt;The word Cybersecurity is thrown around so much these days it has almost become overused in many conversations. This is due to the vast number of topics associated with its meaning. So how can we define it better? Traditionally Cybersecurity has described as a process for securing information or assets owned by governments, organizations, and individual people. The term itself can be considered a discipline that drives security initiatives and categorizes risks, vulnerabilities, and threats. (Assante &amp;amp; Tobey, 2011) describe Cybersecurity as people (both defenders and attackers), engaged in a contest of playing out on a field of information systems and technology. Cybersecurity influences organizational processes, policies and overall strategy through principles and frameworks. This better informs and fosters the awareness of threats, management of risk, and development of resilient multi-layered security systems. Homeland Security describes the importance of cybersecurity in protecting infrastructure that is vulnerable to a wide range of risk stemming from both physical and cyber threats and hazards (“Cybersecurity Overview,” n.d.). These threats can include internal personnel within an organization, external people, and natural threats such as electricity outages. Within the organization, employees are typically categorized as the highest threat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is an Asymmetric Threat?</title>
+      <link>https://www.carnaghan.com/what-is-an-asymmetric-threat/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-is-an-asymmetric-threat/</guid>
+      <description>&lt;p&gt;The term asymmetric refers to an unequal balance or when thinking about threats, an unfair advantage to the perpetrator. Phillips, A (2012) provided an excellent overview of what an asymmetric threat is. He described attacks of this nature to be undetectable, and once occurred, impossible to determine its origin. Rubin (2007) further elaborates on this concept by defining the term asymmetry as that which focuses on placing one strength against an adversary’s weaknesses, even when the overall forces may favor the adversary. This is opposed to traditional combative threats, which require much more planning, financial means and well-coordinated execution through military groups.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Business Continuity Analysis</title>
+      <link>https://www.carnaghan.com/business-continuity-analysis/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/business-continuity-analysis/</guid>
+      <description>&lt;p&gt;The purpose of business continuity planning is to ensure continued operations of an organization in the event of a catastrophic event, whether this may be a natural disaster or something more sinister. In recent years, we have seen the increase of cyber-attacks and breaches to the point that they have become common news worldwide. As systems have grown in complexity and capacity to store large amounts of data, so too has the appeal of targeting such systems by cyber criminals. In order to meet these challenges head on, business organizations must adapt and implement a comprehensive business continuity plan. Cerullo and Cerullo (2004) describe a business continuity plan as dynamic and evolving as the business environment changes and its dependency on advanced technology changes. They go on to describe three interdependent objectives which include identification of major risks, development of a plan to mitigate or reduce impact of risks, and testing and training. While there is no single recipe to the ideal continuity plan, stakeholders across the organization must play a role in building out a framework for business continuity management that can be used to mitigate major risks while maintaining ‘business as usual’ in the event of a disaster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An analysis of different data sources used in a forensics investigation</title>
+      <link>https://www.carnaghan.com/an-analysis-of-different-data-sources-used-in-a-forensics-investigation/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/an-analysis-of-different-data-sources-used-in-a-forensics-investigation/</guid>
+      <description>&lt;p&gt;This article provides an overview of four different data sources used in various forensics investigations. The first source includes system log files containing system logs within the operating system as well as an overview of some tools that can be used in order to effectively understand these logs. File systems are also discussed including the effectiveness of metadata and their overall relevance to an investigation or analysis. The third source involves intrusion detection and prevention systems that give a greater overview of traffic at the network layer. Finally, the most volatile of data sources, memory is examined in depth along with the impact such data may have on an investigation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Forensics in Business Continuity Planning</title>
+      <link>https://www.carnaghan.com/forensics-in-business-continuity-planning/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/forensics-in-business-continuity-planning/</guid>
+      <description>&lt;p&gt;Business continuity planning in any organization today must incorporate aspects of computer forensics in order to be sustainable. According to Majore, Yoo &amp;amp; Shon (2014) in their article on secure and reliable electronic record management, over 90% of records created today are electronic. In addition to this electronic records require a greater amount of maintenance due to their volatility and dependence on reliable hardware and software. In continuity planning, organizations must face these challenges head on and prepare strategies that integrate digital forensics disciplines into their underlying processes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is the Role of Computer Forensics?</title>
+      <link>https://www.carnaghan.com/what-is-the-role-of-computer-forensics/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-is-the-role-of-computer-forensics/</guid>
+      <description>&lt;p&gt;Computer forensics can play a vital role in an organization’s recovery from a cyber attack. By properly following forensics processes carefully in the aftermath of an attack, recovery can begin to play out. According to Čisar &amp;amp; Maravić Čisar (2012), in accordance with digital forensic analysis methodology three processes are essential, which include preparation, identification, and analysis. It is during these processes that a post-mortem analysis occurs including file system, event logs, and recovery of deleted files.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Malicious Code Detection</title>
+      <link>https://www.carnaghan.com/malicious-code-detection/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/malicious-code-detection/</guid>
+      <description>&lt;p&gt;Malicious code detection is an ongoing obfuscation-deobfuscation game because of the nature of the malware or goals of the attacker. Detection of malicious executables known to an investigator is usually performed using signature-based techniques. In their forensic research article, Rozenberg, Guides, Elovici and Fledel (2010) made the point that obfuscated or encrypted files could not easily be detected this way. Instead they recommended a behavioral approach to real time detection. As hackers continue to find new and more advanced techniques to encrypt and hide malicious code, security personnel will have to continue to upgrade their skills and toolsets used in investigations, resulting in an ongoing obfuscation-deobfuscation game.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remote Access Trojans</title>
+      <link>https://www.carnaghan.com/remote-access-trojans/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/remote-access-trojans/</guid>
+      <description>&lt;p&gt;Remote Access Trojans have become a serious security concern as hackers have developed more sophisticated code that can be installed and hidden on a target system, unknown to the user. According to UMUC (n.d.) Remote Access Trojans are a form of backdoor that can provide unauthorized access and use of digital assets on a victim’s computer system. It essentially masquerades as a legitimate application. They allow hackers to perform a number of malicious tasks such as stealing information from a system, or installing other malicious software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presenting Digital Evidence</title>
+      <link>https://www.carnaghan.com/presenting-digital-evidence/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/presenting-digital-evidence/</guid>
+      <description>&lt;p&gt;Testifying and writing a report are both essential ingredients to a successful digital forensics investigation. Digital forensics personnel will potentially spend months of time working with complex data and processes. The delivery and result of this work is reflected in the forensics report and then ultimately testified in court. Cohen (2012) discussed the report as integral to the overall investigation. Evidence, analysis, interpretation, and attribution, must ultimately be presented in the form of expert reports, depositions, and testimony. The report will present the data captured during the investigation in a way that can be communicated with other people. In addition to this, it serves as a living record that will be referenced and updated throughout the investigation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Confusion over Terminology</title>
+      <link>https://www.carnaghan.com/confusion-over-terminology/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/confusion-over-terminology/</guid>
+      <description>&lt;p&gt;The terms risk, vulnerability and threat are often confusing and sometime interchangeable leading to a lack of understanding when presenting evidence. Risks are usually based on a probability that a threat of some kind will exploit a vulnerability or weakness in a system or network. In recent years risks have been taken more seriously with many businesses that conduct online activities. Vulnerabilities as mentioned above are typically weaknesses that can be exploited by an attacker. This can include anything from poorly configured software and firewalls to badly written pieces of code that can affect secrecy, integrity and control of data and functionality within a system. Bergeron et al. (2001).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Hiding and Steganography</title>
+      <link>https://www.carnaghan.com/data-hiding-and-steganography/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/data-hiding-and-steganography/</guid>
+      <description>&lt;p&gt;The term ‘Steganography’ refers to ‘covered writing’ and encompasses methods of transmitting secret messages through innocuous cover carriers in a manner that their existence is undetectable. Johnson &amp;amp; Jojodia (1998). For years hackers have been finding more innovative ways of hiding data within existing systems usually for the purpose of transporting it to a target destination. The term ‘carrier’ often refers to a type of common file that covert information can be embedded in unknowingly to anyone else. Kessler (2007) discusses the fact that any form of digital information can be stored inside many types of carrier files, including image, audio, video and executable files. Digital forensics tools can be used to scan carriers to determine whether or not suspicious information lies underneath the surface.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preparation Phase of a Digital Search</title>
+      <link>https://www.carnaghan.com/preparation-phase-of-a-digital-search/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/preparation-phase-of-a-digital-search/</guid>
+      <description>&lt;p&gt;The preparation phase of digital search is the most important phase of the digital investigation process. If not carried out correctly, the can lead to improper handling of evidence that may lead to damage of crucial materials to an investigation. This phase involves the preparation of tools, techniques, search warrants, and monitoring authorizations and management support. Venansius &amp;amp; Tushabe (2004). It is therefore important that adequate resources are allocated to the preparation phase. Beebe &amp;amp; Clark (2007) elaborate more on this phase as the process of preparing tools and equipment, honing forensics skills, and continuing to become educated about on new technologies and tools that may be useful in dealing with the incident.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Important Cybercrime Laws</title>
+      <link>https://www.carnaghan.com/important-cybercrime-laws/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/important-cybercrime-laws/</guid>
+      <description>&lt;p&gt;There are a number of cybercrime laws that are extremely important in the field of digital forensics and cybersecurity as a whole. Two of the most important laws include the Computer Fraud and Abuse Act (CFAA) of 1984 and the Electronic Communications Privacy Act (ECPA) of 1986.&lt;/p&gt;
+&lt;p&gt;The original intent of CFAA was to address computer related crimes and more specifically protect information assets. The law made it a federal crime to gain unauthorized access to data or information on protected computer systems. It does not come without criticism. Kerr (2009) made many points that the current law is too vague stating that CFAA has become so broad, and computers so common, that expansive or uncertain interpretations of unauthorized access will render it unconstitutional. Nevertheless, the law has been a cornerstone for shaping the way we deal with cybercrime and since its introduction, has been since amended a number of times.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yet More Theft of Information Assets</title>
+      <link>https://www.carnaghan.com/yet-more-theft-of-information-assets/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/yet-more-theft-of-information-assets/</guid>
+      <description>&lt;p&gt;It doesn’t seem that long ago that I received an official letter in the mail from the United States Office of Personnel Management (OPM) detailing that sensitive information about me had been compromised. I had been following the news and knew about the breach, so the letter didn’t come as a huge shock. It did make me think about the impact of such a breach, originally reported as affecting 4 million individuals, later estimated to have compromised sensitive information of 21.5 million. Christensen et al (2015). Just this past week I once again learned, along with the majority of the country, that with high probability my identity along with millions of others had been stolen in another data breach. It has since come to light that the cause of the breach was unpatched systems affected by Apache’s open-source Struts software, a vulnerability that should have been mitigated months before the breach took place. Brandom (2017).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DNS Rebinding and Intrusion Detection with Contextual Signatures</title>
+      <link>https://www.carnaghan.com/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</guid>
+      <description>&lt;p&gt;This article summarizes and analyzes discussion from two different articles on the subjects of DNS Rebinding and the use of contextual signatures with Intrusion Detection Systems.&lt;/p&gt;
+&lt;p&gt;DNS Rebinding is type of attack that was first documented in the mid 1990s. Since then it has become more prevalent through vulnerabilities inherent the way information is transmitted to and from a typical web browser using JavaScript. This topic is covered in depth along with the various methods of DNS rebinding, vulnerabilities and mitigations efforts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mitigating DoS or Distributed DoS (DDoS) attacks</title>
+      <link>https://www.carnaghan.com/mitigating-dos-or-distributed-dos-ddos-attacks/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/mitigating-dos-or-distributed-dos-ddos-attacks/</guid>
+      <description>&lt;p&gt;Denial of Service (Dos) and Distributed Denial of Service (DDoS) attacks have continued to prove to be one of the most challenging threats in modern times. While DoS has been around for some time, the methods used and practices of distributed botnets and automated scripts have continued to grow in sophistication. This paper survey’s three peer reviewed papers in the areas of Denial of Service Detection, Prevention and Mitigation. Each of these sections provide a rationale for the publication selected along with an overview of the proposed techniques and / or application solutions. Each section concludes by highlighting some benefits and drawbacks for each proposed technique. Additional supporting research has been carried out contribute to this overall paper as outlined in the references section at the end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Common Bluetooth Vulnerabilities to be Aware of</title>
+      <link>https://www.carnaghan.com/common-bluetooth-vulnerabilities-to-be-aware-of/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/common-bluetooth-vulnerabilities-to-be-aware-of/</guid>
+      <description>&lt;p&gt;Bluetooth connectivity has grown immensely in popularity with mobile devices in the last number of years. The convenience factor of being able to have a hands-free experience with a mobile phone while driving or out and about has fueled this growth. Unfortunately, like all conveniences there are typically downsides. In the case of Bluetooth, there have been a number of  vulnerabilities detected over the last number of years ranging from mobile device viruses to attacks on devices from attackers.  In their 2006 publication, Bose &amp;amp; Shin discussed the negative impact of viruses specifically designed to target Bluetooth enabled mobile devices. Their paper discussed the pitfalls of these types of malware that could be spread via SMS/MMS messages and by exploiting Bluetooth vulnerabilities. They analyzed these viruses in order build detection and containment systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mobile Considerations in Network Security Architecture</title>
+      <link>https://www.carnaghan.com/mobile-considerations-in-network-security-architecture/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/mobile-considerations-in-network-security-architecture/</guid>
+      <description>&lt;p&gt;The use of mobile devices including policies and employee restrictions should be considered in any modern network security architecture. Mobile devices are used commonly both at home and at work with some organizations managing BYOD (Bring your Own Device) policies. It is therefore important to consider the implications of this and to ensure any BYOD device is properly locked down, authorized and managed within the corporate network. Westervelt (2010) published an article several years ago on the high amount of vulnerabilities discovered within mobile devices. Many of which were reminiscent of earlier / legacy web application issues. Homeland Security Newswire published an article on the ‘new’ cybersecurity threat of smartphone apps that do more than they say they do in terms of hidden malware and other threats. n.d. (2010).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What are Covert Channels?</title>
+      <link>https://www.carnaghan.com/what-are-covert-channels/</link>
+      <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-are-covert-channels/</guid>
+      <description>&lt;p&gt;A covert storage channel occurs when illegitimate hidden information or data is sent secretly via a legitimate communication channel. The process occurs through the manipulation of communications medium in an unconventional way in order to transmit data that is unseen in everyday operations. Thyer (2008). An example of a covert storage channel involves the hiding of data in ICMP error echoing functionality. OWASP (n.d.). Due to the specification, data can be sent to cause a host to leek information or provide verbose error messages potentially revealing sensitive operating system information. This type of covert channel could lead to gaining knowledge of vulnerabilities and possible future attacks. It can be mitigated by clearing out all reserved fields prior to transmission to ensure no sensitive data is leaked.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modern Application Frameworks, Legacy Browsers and Security Implications</title>
+      <link>https://www.carnaghan.com/modern-application-frameworks-legacy-browsers-and-security-implications/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/modern-application-frameworks-legacy-browsers-and-security-implications/</guid>
+      <description>&lt;p&gt;I was recently sent an article titled ‘How it feels to learn JavaScript in 2016’. Aguinaga, J. (2016).  It is a somewhat amusing take on the current state of JavaScript frameworks and libraries available to web developers and how this environment is changing so quickly. All quirks aside, modern application frameworks provide us with much interactivity and web functionality we take for granted. The modern web browser has to cope with these advancements and continue to evolve to meet the demands of its users and developers. In the Federal government and other organizations that are not able to update their software systems to keep up with the pace, libraries called polyfills have been created to add functionality to legacy browsers that were never designed to run such rich modern web applications. Modernizr is one of the most popular HTML5 polyfills available as open source software at &lt;a href=&#34;https://github.com/Modernizr&#34;&gt;https://github.com/Modernizr&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two Common Router Security Threats</title>
+      <link>https://www.carnaghan.com/two-common-router-security-threats/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/two-common-router-security-threats/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Syn Flood or Denial of Service Attack&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Syn Flood attacks, often referred to as Denial of Service Attacks are caused through exploitation of the TCP protocol. The attacker sends a large number of TCP/SYN packets using a forged address. Because of this, the destination server is unable to successfully establish a proper connection due to the source being unreachable. Lawrence (n.d.). Each time the server attempts to establish a connection, resources are used up with the flooding of packets causing eventual slow down or non-responsiveness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What are Rogue Access Points?</title>
+      <link>https://www.carnaghan.com/what-are-rogue-access-points/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-are-rogue-access-points/</guid>
+      <description>&lt;p&gt;WiFi is commonly used both within organizations and in the general public. In recent years attackers have discovered ways to lure victims by using rogue access points. These are essentially wireless access points that have been installed in a network without authorization. In some cases these may have been installed by employees of an organization for convenience reasons, however this in itself is a security risk. More often than not, an employee who has installed such a device would most likely not have secured it correctly potentially leaving the network open to attack. On the other hand attackers deliberately install a rogue access points in order to deliberately target the network. This can be done through a series of vulnerability testing or scanning once they have access.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Installing Wireshark on Mac OS X (Yosemite)</title>
+      <link>https://www.carnaghan.com/installing-wireshark-on-mac-os-x-yosemite/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/installing-wireshark-on-mac-os-x-yosemite/</guid>
+      <description>&lt;p&gt;Wireshark is a software application for protocol and network traffic analysis, also known as a network sniffer. The application can be downloaded for free at https://www.wireshark.org/#download. I downloaded Wireshark from the url and selected the macOS 10.6 .dmg file. I was able to successfully mount the download image and run the package installer which kept all the default settings with the following installed in my system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;/Applications/Wireshark.app&lt;/em&gt;. The main Wireshark application.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;/Library/LaunchDaemons/org.wireshark.ChmodBPF.plist&lt;/em&gt;. A launch daemon that adjusts permissions on the system&amp;rsquo;s packet capture devices (&lt;em&gt;/dev/bpf&lt;/em&gt;*) when the system starts up.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;/Library/Application Support/Wireshark/ChmodBPF&lt;/em&gt; A copy of the launch daemon property list, and the script that the launch daemon runs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;/usr/local/bin&lt;/em&gt;. A wrapper script and symbolic links which will let you run Wireshark and its associated utilities from the command line. You can access them directly or by adding /usr/local/bin to your PATH if it&amp;rsquo;s not already in your PATH.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(Source: Wireshark Read Me First.rtf)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TCP Congestion Control</title>
+      <link>https://www.carnaghan.com/tcp-congestion-control/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/tcp-congestion-control/</guid>
+      <description>&lt;p&gt;So it&amp;rsquo;s that time of year again where I decided to enroll in another Cybersecurity class at UMUC. I will be posting snippets from the class over the next few weeks. This week TCP Congestion Control was one of the topics I was looking at and so this post will serve as a high level overview.&lt;/p&gt;
+&lt;p&gt;TCP Congestion Control is the process of monitoring and controlling network traffic in order to avoid congestion, which could lead to potential loss of packets and / or poor transmission rates. It determines the available capacity on the network and in turn is equipped with the information needed to know the number of packets that can be safely transmitted. Congestion control maintain a state variable for each connection called a congestion window, which is used to determine limits on the amount of data that can be sent at any given time. The size of the limits defined in this window change accordingly based on congestion levels via the process of the additive increase/multiplicative decrease (AIMD) algorithm. AIMD essentially lowers the limits of the congestion window when there is less congestion and raises them when congestion levels have increased.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing WordPress Login page and WP Admin area</title>
+      <link>https://www.carnaghan.com/securing-wordpress-login-page-and-wp-admin-area/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/securing-wordpress-login-page-and-wp-admin-area/</guid>
+      <description>&lt;p&gt;WP login.php is the most critical page on a WordPress website. Without it, you will not be able to access the WP-admin area aka the WP dashboard and other users will not be able to register an account with your website.&lt;/p&gt;
+&lt;p&gt;No website owner would ever want a hacker or an intruder to get full access to the WP-admin area. If they do manage to get its access, intruders will delete your website, change admin password or remove all your post/pages. To avoid this, you should secure the WordPress login page by:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plugins to add 2 step authentication to WordPress website</title>
+      <link>https://www.carnaghan.com/plugins-to-add-2-step-authentication-to-wordpress-website/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/plugins-to-add-2-step-authentication-to-wordpress-website/</guid>
+      <description>&lt;p&gt;Dual factor authentication has become one of the most important security features in the last few years. Major websites like Google Mail, Outlook, Facebook are now protecting user accounts in a better way by allowing them to use a mobile device as their identity.&lt;/p&gt;
+&lt;p&gt;To activate 2 step authentication, the service provider will ask you to install Google Authenticator app (or any of its alternative). Some websites will ask you to verify the mobile phone number so that the authentication service will send a 4 or 5 digit code when required. This code will be used for one-time verification, and it will be valid only for a few hours.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Web Application Database Vulnerabilities to be Aware of</title>
+      <link>https://www.carnaghan.com/web-application-database-vulnerabilities-to-be-aware-of/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/web-application-database-vulnerabilities-to-be-aware-of/</guid>
+      <description>&lt;p&gt;The use of malicious code attacks against web applications and more specifically, web enabled databases, is on the rise and continues to be a greater threat as systems become more complicated and reliant on third party libraries and frameworks.  There are many different types of exploits and vulnerabilities associated with malicious code attacks which can potentially threaten the very databases that power such applications. Several areas of vulnerabilities are discussed below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL Injection Explained</title>
+      <link>https://www.carnaghan.com/sql-injection-explained/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/sql-injection-explained/</guid>
+      <description>&lt;p&gt;SQL injection has been a method of attacking databases through multiple tiers of application infrastructure for many years, MacVittie (2008).  SQL or Sequential Query Language is a database language used to interact with large quantities of data, typically stored in tables inside a Relational Database Management System (DBMS).  Each command using the SQL language typically generates a result set of data.  An example of this follows:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;select * from accounts
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The (*) is effectively used to return (all) columns of data in the ‘accounts’ table.  A similar, and more dangerous statement could be issued using the drop command:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating Systems Security: Protection Measures Analysis</title>
+      <link>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</guid>
+      <description>&lt;p&gt;The Internet has brought us a wealth of conveniences and everyday tools that we could not live without and more importantly a dependency that we cannot break. In the workplace the Internet has become a part of our day to day lives. We rely on instant communication with our co-workers, friends and colleagues as well as access to a multitude of information at our fingertips. Children from younger ages are becoming more involved with computers and technology in a trend will continue as the Internet of Things evolves around us in every day appliances. Unfortunately, with all these convenience come challenges and risks that we need to deal with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Usable Security? User Friendly Factors</title>
+      <link>https://www.carnaghan.com/usable-security-user-friendly-factors/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/usable-security-user-friendly-factors/</guid>
+      <description>&lt;p&gt;In his article on usable security, Lampson (2009) asserts that usable security needs to begin with policy and how we model security systems within the organization. He makes the case that security has to be simple and at the same time it has to minimize hassle (for the end user). He concludes that the root cause of this problem is one of economics whereby we &amp;ldquo;don’t know the costs either of getting security or of not having it, so users quite rationally don’t care much about it. Therefore, vendors have no incentive to make security usable.&amp;rdquo; To get around this we must first look at simple models of security the user understands.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post Authentication Methods</title>
+      <link>https://www.carnaghan.com/post-authentication-methods/</link>
+      <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/post-authentication-methods/</guid>
+      <description>&lt;p&gt;A lot of time can be spent in an organization firming up authentication and access control systems to ensure greater levels of security to their network. All of this however is only one step to insuring a users credentials are not compromised. Considerations need to be made for post authentication. There are several things organizations can do to mitigate risk associated with post login activities.&lt;/p&gt;
+&lt;p&gt;First and foremost, training should be one of the top priorities of the organization. There must be a comprehensive training program for employees within different divisions of the organization (adjusted accordingly for the various levels of access and privileges).  In terms of proper use of access control technologies (such as tokens, etc.), policies, and best practices, “Organization members (need to) know what questions to ask and how to find the services they need” (Johnson, E. M., &amp;amp; Goetz, E, 2007). They need to be  aware that it is not acceptable, for example, to leave workstations unattended. Policies should be enforced ensuring that systems are locked down effectively when being left unattended.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Freedom of Information Act (FOIA) Quick Overview</title>
+      <link>https://www.carnaghan.com/freedom-of-information-act-foia-quick-overview/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/freedom-of-information-act-foia-quick-overview/</guid>
+      <description>&lt;p&gt;Lately I&amp;rsquo;ve been carrying out some work involving the Freedom of Information Act (FOIA). There is tons of information about FOIA on the web including on the official foia.gov website, however I decided to summarize the main points of this law in an easy to read / digestible format. This article is broken down into three main parts, a brief intro, the main areas covered in the law, and concludes with the exemptions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best WordPress security and malware removal plugins</title>
+      <link>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</guid>
+      <description>&lt;p&gt;WordPress CMS has been prone to many online threats ever since Matt Mullenweg and the team officially launched it. The content management system is impressive, but you can’t stop hackers from attacking websites powered by WP. Attacks can be prevented by installing a WordPress security plugin. If the internet is the only source of your income, you shouldn&amp;rsquo;t risk your site. There are a lot of useful web tools that can keep your website safe. The best ones are listed below:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>More on Limiting Damage to Information Assets</title>
+      <link>https://www.carnaghan.com/more-on-limiting-damage-to-information-assets/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/more-on-limiting-damage-to-information-assets/</guid>
+      <description>&lt;p&gt;Establishing and enforcing policies that limit employee access to sensitive data and IT systems are one of the most effective mitigation strategies against a malicious insider (Brancik, 2008).  There are a number of strategies that organizations can implement in order to better secure their digital assets. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Managing Access to Information Resources</title>
+      <link>https://www.carnaghan.com/managing-access-to-information-resources/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/managing-access-to-information-resources/</guid>
+      <description>&lt;p&gt;Security breaches caused by internal employees, consultants, business partners and any other individual or group of individuals that have privileged access to certain parts of the network remain one of the highest threats to digital assets.  In an article about the employee life cycle and identification of internal organizational threats, Conrad et al (2009) asserts that within an organization, the employee population is the source of potential malicious insiders. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Honeypots: To Lure or Not To Lure</title>
+      <link>https://www.carnaghan.com/honeypots-to-lure-or-not-to-lure/</link>
+      <pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/honeypots-to-lure-or-not-to-lure/</guid>
+      <description>&lt;p&gt;Honeypots are sometimes used as an active defense mechanism for network security and provide a means for targeting attackers and recovering forensic evidence.  A typical honeypot traps attacks, records intrusion information about tools and activities of the hacking process, and prevents attacks outbound the compromised system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intrusion Detection</title>
+      <link>https://www.carnaghan.com/intrusion-detection/</link>
+      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/intrusion-detection/</guid>
+      <description>&lt;p&gt;Intrusion Detection is the process of monitoring an information system in order to determine if any action is being performed with malicious or otherwise cause that may negatively affect its availability, confidentiality or integrity of data contained within.  In order to get started with intrusion detection, it is important to first of all gain an understanding of what an intrusion might look like and how it might impact a system or network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Piracy on an International Scale</title>
+      <link>https://www.carnaghan.com/software-piracy-on-an-international-scale/</link>
+      <pubDate>Sun, 21 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/software-piracy-on-an-international-scale/</guid>
+      <description>&lt;p&gt;Copyright has become a huge issue and talking point recently with continual legal challenges, the introduction and defeat of the Stop Online Piracy Act (SOPA) and considerations for future legislation, challenges and controversy.  The United States leads the world in having some of the toughest copyright laws on the books.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workplace Monitoring and Blocking Software</title>
+      <link>https://www.carnaghan.com/workplace-monitoring-and-blocking-software/</link>
+      <pubDate>Sun, 21 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/workplace-monitoring-and-blocking-software/</guid>
+      <description>&lt;p&gt;Software monitoring and blocking tools have become commonplace within the work environment and have been used in order to protect company intellectual assets from employees who either deliberately or accidentely become the cause of security issues. In addition to this, one of the main arguments for such tools is the idea that they increase employee productivity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Printing, Copyright and Legal Matters</title>
+      <link>https://www.carnaghan.com/3d-printing-copyright-and-legal-matters/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/3d-printing-copyright-and-legal-matters/</guid>
+      <description>&lt;p&gt;During the 1980s the role playing games like Dungeons and Dragons saw the rise in popularity of model or figurine molds, which essentially allowed players to create character’s using casting kits.  These were in effect a very early day version of 3D printing, which has introduced the production of physical objects in the home.  3D printing has become more sophisticated in recent years and with that, the overall costs have decreased dramatically to the point where they are becoming widespread. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulation vs Innovation</title>
+      <link>https://www.carnaghan.com/regulation-vs-innovation/</link>
+      <pubDate>Sun, 07 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/regulation-vs-innovation/</guid>
+      <description>&lt;p&gt;One of the ongoing discussions in the United States focuses on the need for regulation versus the need to free business from restrictive laws that would hinder innovation.  There are many sources that provide strong arguments for both sides.  You only have to look as far as the current state of patent regulations and recent lawsuits involving tech giants Samsung and Apple to see the impact these laws make within the industry. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Identity Theft and Inexperienced Internet Users</title>
+      <link>https://www.carnaghan.com/identity-theft-and-inexperienced-internet-users/</link>
+      <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/identity-theft-and-inexperienced-internet-users/</guid>
+      <description>&lt;p&gt;Identity theft has been a growing concern over the last decade.  In recent years it has become a major problem for many as the Internet has taken over much of the day to day banking many traditionally did at their physical located branches.  Is there however a bigger concern with less knowledgeable and inexperienced Internet users, and are these users at a higher risk of becoming victims of identity theft? &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Online Anonymity: Good or Bad?</title>
+      <link>https://www.carnaghan.com/online-anonymity-good-or-bad/</link>
+      <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/online-anonymity-good-or-bad/</guid>
+      <description>&lt;p&gt;Anonymity on the Internet provides an important layer of protection for people to express themselves online, while keeping their real life identity private.  It has led to both positive as well as negative implications over the years and there has been much discussion on the benefits and drawbacks on both sides. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Financial Sector Cybersecurity Regulations</title>
+      <link>https://www.carnaghan.com/financial-sector-cybersecurity-regulations/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/financial-sector-cybersecurity-regulations/</guid>
+      <description>&lt;p&gt;(Bidgoli, 2006) describes the statutory approach in the United States as being sectorial in nature “because the laws are drawn along industry lines.” This contrasts other parts of the world, such as the European Union, which has a non-sectorial approach where, for example a comprehensive privacy law applies to all organizations regardless of their industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacktivism, Anonymous, and the Bureau of Justice Statistics</title>
+      <link>https://www.carnaghan.com/hacktivism-anonymous-and-the-bureau-of-justice-statistics/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/hacktivism-anonymous-and-the-bureau-of-justice-statistics/</guid>
+      <description>&lt;p&gt;In recent years news stories have highlighted the increasing rate of cybercriminal activity targeting both private organizations and government entities. Cases from mischievous amateur hackers managing to exploit basic vulnerabilities, to more advanced security breaches carried out by expert criminal hackers and cybercrime organizations overseas, have grabbed the attention of the media.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mobile Cybersecurity Policies in the Private and Public Sector</title>
+      <link>https://www.carnaghan.com/mobile-cybersecurity-policies-in-the-private-and-public-sector/</link>
+      <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/mobile-cybersecurity-policies-in-the-private-and-public-sector/</guid>
+      <description>&lt;p&gt;“We are moving into a new era of mobile computing, one that promises greater variety in applications highly improved usability, and speedier networking.” Godwin-Jones (2008). This statement rings true for the past five years where mobile computing has seen a massive explosion in growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacking as an Addiction</title>
+      <link>https://www.carnaghan.com/hacking-as-an-addiction/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/hacking-as-an-addiction/</guid>
+      <description>&lt;p&gt;Hacking can be broken into several categories, including criminal hacking where the perpetrator is motivated by some tangible gain, usually monetary.  There are other forms of hacking which are driven by other factors such as political reasons. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motivation and Intent of Hackers</title>
+      <link>https://www.carnaghan.com/motivation-and-intent-of-hackers/</link>
+      <pubDate>Fri, 22 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/motivation-and-intent-of-hackers/</guid>
+      <description>&lt;p&gt;Just over a decade ago I began learning about web technologies and found myself learning basic HTML.  I was excited when I managed to publish my first website, which was no more than a basic homepage with some external links. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethical vs Non-Ethical Hackers</title>
+      <link>https://www.carnaghan.com/ethical-vs-non-ethical-hackers/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/ethical-vs-non-ethical-hackers/</guid>
+      <description>&lt;p&gt;In their paper on understanding risks associated with hackers/crackers, (Smith, &amp;amp; Rupp 2002) discuss the various types of classification hackers have been placed into by different authors over the years.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Will the Mandiant Report Raise Public Awareness?</title>
+      <link>https://www.carnaghan.com/will-the-mandiant-report-raise-public-awareness/</link>
+      <pubDate>Fri, 08 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/will-the-mandiant-report-raise-public-awareness/</guid>
+      <description>&lt;p&gt;The Mandiant report: APT1: Exposing One of China&amp;rsquo;s Cyber Espionage Units, has stirred up a lot of media attention over the past few weeks.  The report was originally released to show evidence that a specific Chinese military unit has been behind many major Advanced Persistent Threats (APTs) within the United States. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mobile Security</title>
+      <link>https://www.carnaghan.com/mobile-security/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/mobile-security/</guid>
+      <description>&lt;p&gt;Underlying vulnerabilities in mobile device software has also opened up the door to potential security breaches.  In an article describing mobile application security flaws, (Westervelt, 2010) wrote that it was discovered that many mobile application security vulnerabilities were similar to those found in early web applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One audit standard fits all?</title>
+      <link>https://www.carnaghan.com/one-audit-standard-fits-all/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/one-audit-standard-fits-all/</guid>
+      <description>&lt;p&gt;Computer applications are constantly evolving; while web based systems continue to grow in complexity.  It is essential that these systems are properly secured both at the server level as well as at the code or application level, therefore Information Systems audit standards, more specifically focused on application and development measures provide some of the most useful valuable information at an organizations disposal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cultural Values and Moral Legitimacy</title>
+      <link>https://www.carnaghan.com/cultural-values-and-moral-legitimacy/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cultural-values-and-moral-legitimacy/</guid>
+      <description>&lt;p&gt;In a paper that discussed various cyber-crimes throughout the years carried out by juveniles, Radnofsky (2006) points us to the seriousness of these types of threats.  The paper discusses the importance of changing cyber-culture through education and points to education through safety, security and ethics. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cost and Challenges with E-Government</title>
+      <link>https://www.carnaghan.com/cost-and-challenges-with-e-government/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cost-and-challenges-with-e-government/</guid>
+      <description>&lt;p&gt;There is no doubt that E-Government provides conveniences today that many take for granted, however there is an underlying cost for these services.  First of all, government sites are attractive targets for malicious activities, whether or not this involves deliberate disruption of service, or the stealing of sensitive information for profit. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cybercrime: Law Enforcement and E-Government Transnational Issues</title>
+      <link>https://www.carnaghan.com/cybercrime-law-enforcement-and-e-government-transnational-issues/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cybercrime-law-enforcement-and-e-government-transnational-issues/</guid>
+      <description>&lt;p&gt;During his 2013 State of the Union address, President Obama highlighted the importance of defending our nation from the many cyber threats that are continuing to dominate the news cycles. Just days prior to the President’s speech, eighteen people were charged in a massive credit card fraud ring. The Associated Press (2013) described it as a “sprawling international scam that duped credit-rating agencies” by using stolen identities of individual victims to steal $200 million.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Policies</title>
+      <link>https://www.carnaghan.com/security-policies/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/security-policies/</guid>
+      <description>&lt;p&gt;Bosworth et al (2009) stress the importance of formality that should be adopted when creating an ethics policy.  They emphasize that clear documentation, clear motivation, clear sanctions, and clear management support at every level, including the top, are all important pieces of an effective policy. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Risks, Threats and Vulnerabilities</title>
+      <link>https://www.carnaghan.com/risks-threats-and-vulnerabilities/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/risks-threats-and-vulnerabilities/</guid>
+      <description>&lt;p&gt;According to SANS (2009) attacks against websites and web applications constitute more than 60% of total attacks observed on the internet.  The risk of attack is generally based on the probability that a threat of some kind will exploit a vulnerability or weakness in a system or network.  In recent years risks have been taken more seriously with many businesses that conduct online activities. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cybercrime vs Traditional Crime</title>
+      <link>https://www.carnaghan.com/cybercrime-vs-traditional-crime/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cybercrime-vs-traditional-crime/</guid>
+      <description>&lt;p&gt;“Eighteen people were charged in what may be one of the nation&amp;rsquo;s largest credit card fraud rings, a sprawling international scam that duped credit-rating agencies and used thousands of fake identities to steal at least $200 million, federal authorities said Tuesday.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Challenges Policy Makers face to Counter Cybercrime</title>
+      <link>https://www.carnaghan.com/challenges-policy-makers-face-to-counter-cybercrime/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/challenges-policy-makers-face-to-counter-cybercrime/</guid>
+      <description>&lt;p&gt;Pfleeger (2005) reminds us that modern cyber-criminals can often be individuals that are difficult to detect.  They “wear business suits, have university degrees, and appear to be pillars of their communities.”  In addition to this, because of the wide spread accessibility to the internet and communications, it makes it easier for these criminals to operate in groups spread across the globe.  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cybersecurity as a Public Good</title>
+      <link>https://www.carnaghan.com/cybersecurity-as-a-public-good/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cybersecurity-as-a-public-good/</guid>
+      <description>&lt;p&gt;Over the last decade, the boom of the Internet has had a major impact on the way we interact with other individuals and business entities.  Products and services have become available at the touch of a button and access to vast amounts of information has become available to anyone with a direct connection to the web.  Much correspondence, which was traditionally mailed through the postal service now takes place online through e-mail communications.  Management of bank and other financial services accounts can all be administered through online tools where the customer seldom needs to enter a physical branch location anymore. &lt;br&gt;
+There are clearly many advantages to this new connected world and services that are still evolving at the current time will provide even more convenience to users over the next number of years.   Unfortunately many of the conveniences of online services come at a price.  As software systems have become more advanced so too have the criminals who seek to breach these systems to their own end.   Computers have evolved to the point where the information stored now “contain wedding videos, scanned family photos, music libraries, movie collections, and financial and medical records.” (Vacca, 2009)  Vast amounts of information is being stored online in newer cloud based services which is creating even larger targets for cybercriminals.  Consumers have put their trust in many corporate organizations who handle their sensitive data to protect it adequately from those who would seek to steal or destroy it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security of Information Systems Infrastructure of an International Airport</title>
+      <link>https://www.carnaghan.com/security-of-information-systems-infrastructure-of-an-international-airport/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/security-of-information-systems-infrastructure-of-an-international-airport/</guid>
+      <description>&lt;p&gt;As information systems in airports continue to grow in both size and complexity, so too do the risks associated with security vulnerabilities and threats.  Since the terrorist attacks on September 2001, airport security has substantially increased in day to day operations to address modern threats that the transportation infrastructure faces.  Terrorist attacks however are only a portion of the security threats that an international airport faces.&lt;/p&gt;
+&lt;p&gt;Advanced systems used in airports from customer ticketing and check-in, immigration and customs to air traffic control are all depended on daily to maintain operations involving vast numbers of customers travelling throughout the world.  These systems must be secured from a number of threats.  First and foremost, an international airport must be prepared for threats to its physical infrastructure including natural disasters as well as the danger of deliberate attacks.  Risks involved with untrustworthy employees or consultants should be appropriately mitigated through necessary systems permissions and auditing.  External threats of cyber attacks either through the airport’s website booking system or other vulnerable gaps within the information systems must be adequately addressed.  Operations within an airport that are vital to human safety must take a high priority with regards to security investment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baseline Security Analyzer - Testing a Standard Installation of Windows Web Server 2008 R2</title>
+      <link>https://www.carnaghan.com/baseline-security-analyzer-testing-a-standard-installation-of-windows-web-server-2008-r2/</link>
+      <pubDate>Sat, 26 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/baseline-security-analyzer-testing-a-standard-installation-of-windows-web-server-2008-r2/</guid>
+      <description>&lt;p&gt;The objective of this exercise was to use Microsoft Baseline Security Analyzer (MBSA) to identify improper configurations and missing security updates that could lead to vulnerabilities.  The system this was tested on is a dedicated server located at Core Networks (&lt;a href=&#34;http://www.corenetworks.com&#34;&gt;http://www.corenetworks.com&lt;/a&gt;).  The server is used to host small business websites, from freelance web development work.  Up until recently a shared hosting plan was used at a company called Wiredtree, however the need for more server resources meant it was time to move to a dedicated server.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Concerns with Outsourcing IT Services</title>
+      <link>https://www.carnaghan.com/security-concerns-with-outsourcing-it-services/</link>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/security-concerns-with-outsourcing-it-services/</guid>
+      <description>&lt;p&gt;Outsourcing has become very common in recent years, especially in the field of Information Technology. So that companies can focus more on their core business, it makes sense to outsource many of their IT services and work to external organizations. In addition to this, quite often outsourcing can provide a cheaper means of labor if sent off shore, which enables the company to reduce costs and remain competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What exactly is Cyberspace and Cybersecurity?</title>
+      <link>https://www.carnaghan.com/what-exactly-is-cyberspace-and-cybersecurity/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-exactly-is-cyberspace-and-cybersecurity/</guid>
+      <description>&lt;p&gt;There has been a lot of buzz around the web in recent years regarding information assurance and cybersecurity especially with an increasing trend in cyber attacks and intrusions.  UMUC just recently started several cybersecurity degree and certificate programs in the fall of 2010.  Over the next few weeks articles will be posted here related to cybersecurity, starting with answering the basic question of what the terms cyberspace and cybersecurity mean.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Password Cracking - An Exercise Using Cain and Abel to Crack User Passwords</title>
+      <link>https://www.carnaghan.com/password-cracking-an-exercise-using-cain-and-abel-to-crack-user-passwords/</link>
+      <pubDate>Fri, 25 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/password-cracking-an-exercise-using-cain-and-abel-to-crack-user-passwords/</guid>
+      <description>&lt;p&gt;The objective of this exercise was to use the various password cracking tools available in the Cain and Abel software application and to determine the efficiency and effectiveness of each technique.  The following user accounts were created for testing purposes.  The first user account had a relatively easy to break password and the two that followed had slightly more complex password structures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Username           Password            Character set&lt;/strong&gt; ictest1                   testing                  Lowercase letters ictest2                   break1ng             Lowercase letters and numbers ictest3                   Bre@k1ng           Lowercase letters, uppercase letters, numbers and symbols&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Malicious Code Intrusion</title>
+      <link>https://www.carnaghan.com/malicious-code-intrusion/</link>
+      <pubDate>Mon, 14 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/malicious-code-intrusion/</guid>
+      <description>&lt;p&gt;The last decade has seen a noticeable shift of commercial application development from in-house computer software to the web browser in the form of web applications. Many company web sites today have evolved from small collections of informational pages to a combination of massive database driven applications for sales, marketing, finance, extranets and customer relationship management systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Cybersecurity Programs begin Second Semester at UMUC</title>
+      <link>https://www.carnaghan.com/new-cybersecurity-programs-begin-second-semester-at-umuc/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/new-cybersecurity-programs-begin-second-semester-at-umuc/</guid>
+      <description>&lt;p&gt;The University of Maryland University College (UMUC) is getting ready to begin its second semester of offering their new Cybersecurity programs, which opened to students in the fall of 2010. Two masters programs as well as an additional specialization in one of their existing information technology degrees were introduced last semester, along with an undergraduate program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Government Cybersecurity Initiative for a Universal Internet ID</title>
+      <link>https://www.carnaghan.com/government-cybersecurity-initiative-for-a-universal-internet-id/</link>
+      <pubDate>Mon, 10 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/government-cybersecurity-initiative-for-a-universal-internet-id/</guid>
+      <description>&lt;p&gt;The U.S. Commerce Department has been handed the authority from the Whitehouse to create an Internet ID for Americans as one of the latest efforts in Cybersecurity policy.  The idea is that everyone would have one secure login to access many services online to increase security and privacy and reduce the need to remember numerous passwords.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cybersecurity Masters Degree</title>
+      <link>https://www.carnaghan.com/cybersecurity-masters-degree/</link>
+      <pubDate>Mon, 17 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cybersecurity-masters-degree/</guid>
+      <description>&lt;p&gt;Cybersecurity is an interesting, challenging and exciting field for those who wish to pursue a career in I.T. security, cybersecurity analysts, digital forensic experts and many others. The University of Maryland University College (UMUC) recently announced several new degree programs beginning this fall, 2010 in the field of Cybersecurity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evolution of ISPs Introduction</title>
+      <link>https://www.carnaghan.com/evolution-of-isps-introduction/</link>
+      <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/evolution-of-isps-introduction/</guid>
+      <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
+&lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Issues to be Addressed by ISPs</title>
+      <link>https://www.carnaghan.com/security-issues-to-be-addressed-by-isps/</link>
+      <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/security-issues-to-be-addressed-by-isps/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The Internet has become a vast marketplace for global goods and services. For e-commerce to prosper, you have to feel safe about transmitting credit card and other financial information over the Internet. Because information traveling over the network actually passes through many computers along the way, the opportunity exists for someone to steal confidential information. Hackers also break into computers to steal data. No one really knows how often this actually happens.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Evolution of Internet Service Providers</title>
+      <link>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</link>
+      <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</guid>
+      <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
+&lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

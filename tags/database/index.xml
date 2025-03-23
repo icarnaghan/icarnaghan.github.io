@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Database on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/database/</link>
+    <description>Recent content in Database on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best IDE for PHP Web Development</title>
+      <link>https://www.carnaghan.com/best-ide-for-php-web-development/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/best-ide-for-php-web-development/</guid>
+      <description>&lt;p&gt;PHP is a scripting language that powers over some of the busiest websites on the web. Several languages have been introduced since 2005. None of them have affected the popularity of PHP. Before IDEs were launched, seasoned developers and beginners used vi or notepad to write PHP code. Once the code was ready, developers moved the PHP file to the webapps folder of the web server to check whether their code is working as expected or not. If the browser didn&amp;rsquo;t display error, developers used to check log files.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bulk move noindexed posts from All in One SEO to Yoast</title>
+      <link>https://www.carnaghan.com/bulk-move-noindexed-posts-from-all-in-one-seo-to-yoast/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/bulk-move-noindexed-posts-from-all-in-one-seo-to-yoast/</guid>
+      <description>&lt;p&gt;The Yoast SEO plugin includes an option to import meta description and title tags from other popular plugins. While using other plugins, you may have noindexed or nofollowed some or several posts. There are a couple of plugins that enable you to move settings from AIOSEO to Yoast. Unfortunately, none of the plugins provide an option to bulk move noindex posts. People noindex posts to recover from Google quality updates or prevent penalty during an algorithm update.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fixing MySQL Server Has Gone Away problem</title>
+      <link>https://www.carnaghan.com/fixing-mysql-server-has-gone-away-problem/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/fixing-mysql-server-has-gone-away-problem/</guid>
+      <description>&lt;p&gt;All my websites are hosted on an unmanaged VPS. The VPS has enough of RAM and a decent CPU. It can handle ten high traffic blogs.&lt;/p&gt;
+&lt;p&gt;I had never faced any problems until last week when my website started displaying error establishing a database connection to the visitors instead of the content. This error was reported after I changed one of the table&amp;rsquo;s structure.&lt;/p&gt;
+&lt;h4 id=&#34;why-the-heck-did-i-change-the-structure&#34;&gt;Why the heck did I change the structure?&lt;/h4&gt;
+&lt;p&gt;Last week, I noticed Yarpp plugin displayed a message that I need to replace the table structure of my post content table from INNODB to MYISAM so that the plugin can display highly relevant related posts. So I changed the structure of my website&amp;rsquo;s DB table.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fix Error Establishing a Database Connection in WordPress</title>
+      <link>https://www.carnaghan.com/fix-error-establishing-a-database-connection-in-wordpress/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/fix-error-establishing-a-database-connection-in-wordpress/</guid>
+      <description>&lt;p&gt;WordPress saves the post, settings and other data related to your website in an MSQL database. The DB is handled by the user through CMS with a DB management plugin or through a command line terminal from a remote computer (on unmanaged hosting environment).&lt;/p&gt;
+&lt;p&gt;Sometimes, the WordPress PHP files will not be able to connect to the MySQL server, and you&amp;rsquo;ll be notified of this error when you try to access any page of your website.  Today, we&amp;rsquo;ll share some effective tips to fix this common WordPress problem and avoid it in the future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Create WordPress database backup with or without plugin</title>
+      <link>https://www.carnaghan.com/how-to-create-wordpress-database-backup-with-or-without-plugin/</link>
+      <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/how-to-create-wordpress-database-backup-with-or-without-plugin/</guid>
+      <description>&lt;p&gt;Creating a backup of the database is practiced in all the top organisations. For webmasters who work online, it&amp;rsquo;s the most important thing to do.&lt;/p&gt;
+&lt;p&gt;All websites are prone to hacking. Hackers are always in search of a security loophole in a website. When they find one, they&amp;rsquo;ll deface it by changing the index file. Hackers locate the site configuration file stored on the servers to find database password so that they can access the database.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best WordPress Database plugins to optimize, clean your tables</title>
+      <link>https://www.carnaghan.com/best-wordpress-database-plugins-to-optimize-clean-your-tables/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/best-wordpress-database-plugins-to-optimize-clean-your-tables/</guid>
+      <description>&lt;p&gt;Databases like Oracle, MySql, PostgreSQL are designed to store data of the user securely. They&amp;rsquo;re fast and highly secure. Databases are the backbone of almost all types of web applications. Due to incorrect configuration or lack of maintenance, your site or application will slow down. In severe cases, it may also crash.&lt;/p&gt;
+&lt;p&gt;In the major multinational companies, you&amp;rsquo;ll find DB Administrators who will take care of the data. The DBA guys work in shifts so that the firm&amp;rsquo;s applications are always running. If DB server is down, the revenue will be affected.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

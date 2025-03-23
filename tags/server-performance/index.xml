@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Server-Performance on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/server-performance/</link>
+    <description>Recent content in Server-Performance on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/server-performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTFB first byte time : Why it is important and how to reduce it?</title>
+      <link>https://www.carnaghan.com/ttfb-first-byte-time-why-it-is-important-and-how-to-reduce-it/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/ttfb-first-byte-time-why-it-is-important-and-how-to-reduce-it/</guid>
+      <description>&lt;p&gt;TTFB aka first-byte time is nothing but the time taken by the first byte to reach the client machine when the client seeks a response from the server after the browser running on it makes an HTTP GET request. A small TTFB value indicates that your web server is fast. A high TTFB value denotes that your site is slow in responding to the browser&amp;rsquo;s HTTP GET request. To fix the problem, you&amp;rsquo;ll have to work on the code or check web server and DB configuration.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Siteground review 2016 :  powerful features and highly secure environment</title>
+      <link>https://www.carnaghan.com/siteground-review-2016-powerful-features-and-highly-secure-environment/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/siteground-review-2016-powerful-features-and-highly-secure-environment/</guid>
+      <description>&lt;p&gt;Siteground hosting offers various plans that are suitable for deploying new or established websites. Like many other hosting platforms, SG claims to offer 99.9 percent uptime for your site. This is impressive because your blog will be hardly down. Thus your online earnings and revenue will not be impacted by unnecessary downtime.&lt;/p&gt;
+&lt;p&gt;Once my high traffic site was down for 3 hours when it was hosted on ASO, my Adsense earnings for the day were down by a few dollars. With SG, you will never experience such issues because the infrastructure of Siteground hosting company is good.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>W3TC W3 Total Cache vs WP Super cache : the best plugin is...</title>
+      <link>https://www.carnaghan.com/w3tc-w3-total-cache-vs-wp-super-cache-the-best-plugin-is.../</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/w3tc-w3-total-cache-vs-wp-super-cache-the-best-plugin-is.../</guid>
+      <description>&lt;p&gt;Caching is one of the most essential and advanced techniques for improving the performance of websites and reducing server resource usage.&lt;/p&gt;
+&lt;p&gt;Sites using this technology are fast, and they yield pretty good results when tested with GTmetrix or Pingdom tools.&lt;/p&gt;
+&lt;p&gt;WordPress has been the backbone of many powerful and established websites with 1000s of posts. To make their sites more powerful, the user should install the best third party plugins (including a caching system).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Working tips to Reduce CPU Usage in WordPress shared hosting</title>
+      <link>https://www.carnaghan.com/working-tips-to-reduce-cpu-usage-in-wordpress-shared-hosting/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/working-tips-to-reduce-cpu-usage-in-wordpress-shared-hosting/</guid>
+      <description>&lt;p&gt;Shared hosting plans are relatively cheap as compared to VPS or dedicated hosting. This is because your site will be offered around 512MB RAM (or lower) and a CPU, which will be shared by many other websites.&lt;/p&gt;
+&lt;p&gt;Sites that are growing at a very fast rate should always be hosted on VPS servers (use dedicated if you require more RAM). If they&amp;rsquo;re hosted on Shared platform, their account might be suspended because of very high CPU usage.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

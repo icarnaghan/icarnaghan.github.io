@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Csec-630 on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/csec-630/</link>
+    <description>Recent content in Csec-630 on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/csec-630/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Application Database Vulnerabilities to be Aware of</title>
+      <link>https://www.carnaghan.com/web-application-database-vulnerabilities-to-be-aware-of/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/web-application-database-vulnerabilities-to-be-aware-of/</guid>
+      <description>&lt;p&gt;The use of malicious code attacks against web applications and more specifically, web enabled databases, is on the rise and continues to be a greater threat as systems become more complicated and reliant on third party libraries and frameworks.  There are many different types of exploits and vulnerabilities associated with malicious code attacks which can potentially threaten the very databases that power such applications. Several areas of vulnerabilities are discussed below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SQL Injection Explained</title>
+      <link>https://www.carnaghan.com/sql-injection-explained/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/sql-injection-explained/</guid>
+      <description>&lt;p&gt;SQL injection has been a method of attacking databases through multiple tiers of application infrastructure for many years, MacVittie (2008).  SQL or Sequential Query Language is a database language used to interact with large quantities of data, typically stored in tables inside a Relational Database Management System (DBMS).  Each command using the SQL language typically generates a result set of data.  An example of this follows:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;select * from accounts
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The (*) is effectively used to return (all) columns of data in the ‘accounts’ table.  A similar, and more dangerous statement could be issued using the drop command:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating Systems Security: Protection Measures Analysis</title>
+      <link>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</guid>
+      <description>&lt;p&gt;The Internet has brought us a wealth of conveniences and everyday tools that we could not live without and more importantly a dependency that we cannot break. In the workplace the Internet has become a part of our day to day lives. We rely on instant communication with our co-workers, friends and colleagues as well as access to a multitude of information at our fingertips. Children from younger ages are becoming more involved with computers and technology in a trend will continue as the Internet of Things evolves around us in every day appliances. Unfortunately, with all these convenience come challenges and risks that we need to deal with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Usable Security? User Friendly Factors</title>
+      <link>https://www.carnaghan.com/usable-security-user-friendly-factors/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/usable-security-user-friendly-factors/</guid>
+      <description>&lt;p&gt;In his article on usable security, Lampson (2009) asserts that usable security needs to begin with policy and how we model security systems within the organization. He makes the case that security has to be simple and at the same time it has to minimize hassle (for the end user). He concludes that the root cause of this problem is one of economics whereby we &amp;ldquo;don’t know the costs either of getting security or of not having it, so users quite rationally don’t care much about it. Therefore, vendors have no incentive to make security usable.&amp;rdquo; To get around this we must first look at simple models of security the user understands.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post Authentication Methods</title>
+      <link>https://www.carnaghan.com/post-authentication-methods/</link>
+      <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/post-authentication-methods/</guid>
+      <description>&lt;p&gt;A lot of time can be spent in an organization firming up authentication and access control systems to ensure greater levels of security to their network. All of this however is only one step to insuring a users credentials are not compromised. Considerations need to be made for post authentication. There are several things organizations can do to mitigate risk associated with post login activities.&lt;/p&gt;
+&lt;p&gt;First and foremost, training should be one of the top priorities of the organization. There must be a comprehensive training program for employees within different divisions of the organization (adjusted accordingly for the various levels of access and privileges).  In terms of proper use of access control technologies (such as tokens, etc.), policies, and best practices, “Organization members (need to) know what questions to ask and how to find the services they need” (Johnson, E. M., &amp;amp; Goetz, E, 2007). They need to be  aware that it is not acceptable, for example, to leave workstations unattended. Policies should be enforced ensuring that systems are locked down effectively when being left unattended.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>More on Limiting Damage to Information Assets</title>
+      <link>https://www.carnaghan.com/more-on-limiting-damage-to-information-assets/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/more-on-limiting-damage-to-information-assets/</guid>
+      <description>&lt;p&gt;Establishing and enforcing policies that limit employee access to sensitive data and IT systems are one of the most effective mitigation strategies against a malicious insider (Brancik, 2008).  There are a number of strategies that organizations can implement in order to better secure their digital assets. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Managing Access to Information Resources</title>
+      <link>https://www.carnaghan.com/managing-access-to-information-resources/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/managing-access-to-information-resources/</guid>
+      <description>&lt;p&gt;Security breaches caused by internal employees, consultants, business partners and any other individual or group of individuals that have privileged access to certain parts of the network remain one of the highest threats to digital assets.  In an article about the employee life cycle and identification of internal organizational threats, Conrad et al (2009) asserts that within an organization, the employee population is the source of potential malicious insiders. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Honeypots: To Lure or Not To Lure</title>
+      <link>https://www.carnaghan.com/honeypots-to-lure-or-not-to-lure/</link>
+      <pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/honeypots-to-lure-or-not-to-lure/</guid>
+      <description>&lt;p&gt;Honeypots are sometimes used as an active defense mechanism for network security and provide a means for targeting attackers and recovering forensic evidence.  A typical honeypot traps attacks, records intrusion information about tools and activities of the hacking process, and prevents attacks outbound the compromised system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intrusion Detection</title>
+      <link>https://www.carnaghan.com/intrusion-detection/</link>
+      <pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/intrusion-detection/</guid>
+      <description>&lt;p&gt;Intrusion Detection is the process of monitoring an information system in order to determine if any action is being performed with malicious or otherwise cause that may negatively affect its availability, confidentiality or integrity of data contained within.  In order to get started with intrusion detection, it is important to first of all gain an understanding of what an intrusion might look like and how it might impact a system or network.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

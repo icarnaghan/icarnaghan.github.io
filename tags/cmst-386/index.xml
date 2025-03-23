@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cmst-386 on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/cmst-386/</link>
+    <description>Recent content in Cmst-386 on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/cmst-386/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helpful Resources for Understanding Web Application Security</title>
+      <link>https://www.carnaghan.com/helpful-resources-for-understanding-web-application-security/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/helpful-resources-for-understanding-web-application-security/</guid>
+      <description>&lt;p&gt;As a developer, knowledge of web application security vulnerabilities is essential in order to build software that is both resilient to attacks and protected through a layered approach of defense. The cybersecurity landscape is constantly shifting, however a good understanding of the most common vulnerabilities is a great place to get started with security. Before reviewing the articles below, be sure to look at 10 Most Common Security Vulnerabilities. The list that follows are a handful of articles I&amp;rsquo;ve written over the years both in my graduate and professional work. They focus on application security specifically as well as an understanding of the people behind such attacks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sketching out your Perfect Website</title>
+      <link>https://www.carnaghan.com/sketching-out-your-perfect-website/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/sketching-out-your-perfect-website/</guid>
+      <description>&lt;p&gt;You&amp;rsquo;ve decided it&amp;rsquo;s time to start solidifying ideas for your ideal website. You have no doubt spent countless hours in the planning phase identifying your target audience, design considerations, and of course you have a solid idea of your overall content strategy. If you haven&amp;rsquo;t, then do yourself a favor and take a look at The Complete Guide to Building Your Personal Brand, What Makes an Effective Website? and How to Design a Website for a Specific Target Audience? before reading on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting to Know Git, Github and Open Source</title>
+      <link>https://www.carnaghan.com/getting-to-know-git-github-and-open-source/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/getting-to-know-git-github-and-open-source/</guid>
+      <description>&lt;p&gt;Fundamental to all modern web development is a strong foundational knowledge of version control. In recent years Git has emerged as the go-to choice for many developers and continues to gain popularity. Github is a platform that uses Git for source control. It provides an environment that encourages and fosters community open source development. It is a great platform to publish and use for version control on your own web sites and projects. Below I have listed several resources for getting started with Git, Github, Github Pages and Open Source.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTML5, CSS, and SEO Learning Resources</title>
+      <link>https://www.carnaghan.com/html5-css-and-seo-learning-resources/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/html5-css-and-seo-learning-resources/</guid>
+      <description>&lt;p&gt;The HTML5 and CSS learning resources provided here supplement classroom materials for my CMST 386 class taught at the &lt;strong&gt;University of Maryland University College&lt;/strong&gt;. Please report any broken links in the LEO classroom. If you have any  suggestions for additional resources that could be added here, let me know. To access some of these resources you will need to sign up for a free account, which I cannot mandate in class.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

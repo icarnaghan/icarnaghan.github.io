@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reddit on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/reddit/</link>
+    <description>Recent content in Reddit on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Founder of Omegle.com Answers Questions From Redditors</title>
+      <link>https://www.carnaghan.com/founder-of-omegle.com-answers-questions-from-redditors/</link>
+      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/founder-of-omegle.com-answers-questions-from-redditors/</guid>
+      <description>&lt;p&gt;Omegle.com has spread across many social networking hubs, forums, and internet chatrooms rapidly over the past few months. It&amp;rsquo;s a new site with a very simple concept: you log in anonymously and talk to someone else. Someone random, someone you&amp;rsquo;ve *probably* never even met before, just talking about whatever. It seems like a breeding ground for spam and pranks, but it ultimately seen very positive results in traffic and user response.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

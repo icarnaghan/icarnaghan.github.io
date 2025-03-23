@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Csec-670 on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/csec-670/</link>
+    <description>Recent content in Csec-670 on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/csec-670/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United States Defense Contractors and Cybersecurity Challenges</title>
+      <link>https://www.carnaghan.com/united-states-defense-contractors-and-cybersecurity-challenges/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/united-states-defense-contractors-and-cybersecurity-challenges/</guid>
+      <description>&lt;p&gt;In the United States, a sizable amount of the overall federal budget is allocated to defense spending. The 2018 Defense Budget was signed into law on December 12, 2017, by President Trump, which authorized just under $700 billion in defense spending (Blankenstein, 2017). In contrast to just a few years ago where the fiscal year defense spending was set at $593 billion, the amount of money set aside for defense continues to grow. Traditionally a lot of this budget has gone into supporting the military, purchasing equipment, machinery, and paying salaries. In recent years, more money has been set-aside for defense contractors, who in turn provide products and services to the Federal Government. In 2016, nearly half of the defense budget was allocated to defense contractors. The biggest beneficiaries included Lockheed Martin- $36.2 billion, Boeing- $24.3 billion, Raytheon- $12.8 billion, General Dynamics- $12.7 billion, and Northrop Grumman- $10.7 billion (Hartung, 2017). A more detailed table of the defense sector follows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Management Actions that Must Happen Prior to a Cyber Attack</title>
+      <link>https://www.carnaghan.com/management-actions-that-must-happen-prior-to-a-cyber-attack/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/management-actions-that-must-happen-prior-to-a-cyber-attack/</guid>
+      <description>&lt;p&gt;Prior to any cyber attack, an organization should already have a solid crisis management plan and set of disaster recovery precautions in place. In addition to this, a risk analysis should be carried out involving a holistic approach and careful investigation of information systems and the overall environment. The purpose of such an analysis is to evaluate all endpoints that could potentially fail in a disaster or cyber-attack. (Pfleeger &amp;amp; Pfleeger, 2007) The analysis should describe the current state of an organization’s security approaches and examine areas of the company’s infrastructure as well as external factors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving Target Defense (MTD)</title>
+      <link>https://www.carnaghan.com/moving-target-defense-mtd/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/moving-target-defense-mtd/</guid>
+      <description>&lt;p&gt;Organizations continue to struggle with policies and processes to effectively secure their infrastructure to protect their information assets and intellectual property. In recent years, we have seen the increase of cyber-attacks and breaches to the point that they have become common news worldwide. As systems have grown in complexity with increased capacity to store large amounts of data, so to has the appeal of targeting such systems by cyber criminals. Traditional approaches of defense including signature-based detection, behavioral-based detection, and defense in depth strategies are not enough to protect against advanced distributed attacks and zero-day attacks. Current technologies used to detect traffic, whether packet-based, time-based, or behavior-based, can provide some level of defense. Unfortunately, however as our tools and techniques improve, so too do the accuracy and advancements in sophisticated attackers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Three Must Have Security Policies In 2018</title>
+      <link>https://www.carnaghan.com/three-must-have-security-policies-in-2018/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/three-must-have-security-policies-in-2018/</guid>
+      <description>&lt;p&gt;The nature of the Internet and worldwide connectivity has changed the traditional centuries old paradigm regarding proximity.  We now see threats from all parts of the global. What are three cybersecurity policies for a firm that would mitigate risks for cybersecurity attacks at the global level? Cybersecurity threats continue to rise year after year and the problem continues grow due to the global nature of attacks. Organizations must implement security policies in order to protect themselves against such threats. Below are three policies that would help organizations better defend against global threats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vulnerability Assessments</title>
+      <link>https://www.carnaghan.com/vulnerability-assessments/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/vulnerability-assessments/</guid>
+      <description>&lt;p&gt;Vulnerability assessments can be a very effective way of gathering information on an organizations internal security posture. The purpose is to accumulate data on any weaknesses revealed that should be proactively mitigated to prevent exploitation. There are a number of tools that can be used to carry out vulnerability assessments. Typically, a software-based tools are used to scan a selected part of an organizations infrastructure. This can range from specific areas that are exposed to the public, to entire sections of the organizations network (Cima, 2001) lists four of the most common types of vulnerability scanner. These include network-based scanning tools, host-based scanning tools, database scanning tools, and wardialers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What are Advanced Persistent Threats?</title>
+      <link>https://www.carnaghan.com/what-are-advanced-persistent-threats/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-are-advanced-persistent-threats/</guid>
+      <description>&lt;p&gt;Advanced Persistent Threats (APTs) are security threats that use advanced techniques to hide their attack from their target. They are commonly used to target specific information in high-profile companies and governments. APTs usually follow a long-term strategy of attack in order to gather information from the breached system. There have been many examples of APTs over the years targeting well known organizations. In 2013 the Mandiant report revealed evidence that a specific Chinese military unit has been behind many major Advanced Persistent Threats (APTs) within the United States. Since then APTs have been used against large companies including Yahoo, Google, Northrop Grumman, and many others. One of the most complex APTs in recent years was the Stuxnet computer worm (“Stuxnet: Advanced Persistent Threat - Ran Levi,” n.d.), which targeted Iran’s nuclear program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just What Exactly is Cybersecurity Anyway?</title>
+      <link>https://www.carnaghan.com/just-what-exactly-is-cybersecurity-anyway/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/just-what-exactly-is-cybersecurity-anyway/</guid>
+      <description>&lt;p&gt;The word Cybersecurity is thrown around so much these days it has almost become overused in many conversations. This is due to the vast number of topics associated with its meaning. So how can we define it better? Traditionally Cybersecurity has described as a process for securing information or assets owned by governments, organizations, and individual people. The term itself can be considered a discipline that drives security initiatives and categorizes risks, vulnerabilities, and threats. (Assante &amp;amp; Tobey, 2011) describe Cybersecurity as people (both defenders and attackers), engaged in a contest of playing out on a field of information systems and technology. Cybersecurity influences organizational processes, policies and overall strategy through principles and frameworks. This better informs and fosters the awareness of threats, management of risk, and development of resilient multi-layered security systems. Homeland Security describes the importance of cybersecurity in protecting infrastructure that is vulnerable to a wide range of risk stemming from both physical and cyber threats and hazards (“Cybersecurity Overview,” n.d.). These threats can include internal personnel within an organization, external people, and natural threats such as electricity outages. Within the organization, employees are typically categorized as the highest threat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is an Asymmetric Threat?</title>
+      <link>https://www.carnaghan.com/what-is-an-asymmetric-threat/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/what-is-an-asymmetric-threat/</guid>
+      <description>&lt;p&gt;The term asymmetric refers to an unequal balance or when thinking about threats, an unfair advantage to the perpetrator. Phillips, A (2012) provided an excellent overview of what an asymmetric threat is. He described attacks of this nature to be undetectable, and once occurred, impossible to determine its origin. Rubin (2007) further elaborates on this concept by defining the term asymmetry as that which focuses on placing one strength against an adversary’s weaknesses, even when the overall forces may favor the adversary. This is opposed to traditional combative threats, which require much more planning, financial means and well-coordinated execution through military groups.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

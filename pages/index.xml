@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/pages/</link>
+    <description>Recent content in Pages on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitesize JavaScript</title>
+      <link>https://www.carnaghan.com/bitesize-javascript/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/bitesize-javascript/</guid>
+      <description>&lt;p&gt;Bitesize JavaScript is a series of short lessons covering fundamental coding concepts. The goal is to quickly introduce you to the language and provide you with enough information to begin exploring the concepts in more depth. Each lesson is designed take a short amount of time to digest new topics and then apply them through example.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;JavaScript Data Types, Values, and Variables&lt;/li&gt;
+&lt;li&gt;JavaScript Operators&lt;/li&gt;
+&lt;li&gt;JavaScript Conditional Statements&lt;/li&gt;
+&lt;li&gt;JavaScript Loops&lt;/li&gt;
+&lt;li&gt;JavaScript Functions&lt;/li&gt;
+&lt;li&gt;JavaScript Call Stack&lt;/li&gt;
+&lt;li&gt;JavaScript Scope&lt;/li&gt;
+&lt;li&gt;JavaScript Arrays – Fundamentals&lt;/li&gt;
+&lt;li&gt;JavaScript Arrays – Properties and Methods&lt;/li&gt;
+&lt;li&gt;JavaScript Objects&lt;/li&gt;
+&lt;li&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Edit</title>
+      <link>https://www.carnaghan.com/edit/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/edit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[wpuf_edit]&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guest Writers</title>
+      <link>https://www.carnaghan.com/guest-writers/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/guest-writers/</guid>
+      <description>&lt;p&gt;If you are interested in submitting a guest post to this site, please contact me first. I receive different requests for articles to be published here and I am happy to do so provided that the article follows these guidelines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Article must be at least 300 words in length&lt;/li&gt;
+&lt;li&gt;Any images used must be authorized or under royalty-free license&lt;/li&gt;
+&lt;li&gt;No &amp;lsquo;blatant&amp;rsquo; advertisements for a product. I am ok with general reviews that may be of interest&lt;/li&gt;
+&lt;li&gt;Nothing unrelated (i.e. should fall in the general software development, security or analytics topics on this site).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please feel free to reach out to me with any questions. Guest authors can login to the site via the link above.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Account</title>
+      <link>https://www.carnaghan.com/my-account/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/my-account/</guid>
+      <description>&lt;p&gt;[wpuf_account]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search Results Page</title>
+      <link>https://www.carnaghan.com/search-results-page/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/search-results-page/</guid>
+      <description>&lt;p&gt;[vc_row][vc_column][us_post_title tag=&amp;ldquo;h1&amp;rdquo; css=&amp;quot;%7B%22default%22%3A%7B%22margin-bottom%22%3A0%7D%7D&amp;quot;][us_separator][us_grid post_type=&amp;ldquo;current_query&amp;rdquo; pagination=&amp;ldquo;ajax&amp;rdquo; pagination_btn_text=&amp;ldquo;Show More&amp;rdquo; pagination_btn_style=&amp;ldquo;5&amp;rdquo; pagination_btn_fullwidth=&amp;ldquo;1&amp;rdquo; items_layout=&amp;ldquo;blog_14&amp;rdquo; columns=&amp;ldquo;1&amp;rdquo;][/vc_column][/vc_row]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>https://www.carnaghan.com/contact-me/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/contact-me/</guid>
+      <description>&lt;p&gt;If you need to contact me directly, please send a message to my first name at my last name dot com. I am not currently looking to promote guest posts or collaborate on link exchanges. I am also not looking to monetize my blog in any way at the current time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Knowledge Base</title>
+      <link>https://www.carnaghan.com/knowledge-base/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/knowledge-base/</guid>
+      <description>&lt;p&gt;[epkb-knowledge-base id=1]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cookie Policy</title>
+      <link>https://www.carnaghan.com/cookie-policy/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cookie-policy/</guid>
+      <description>&lt;p&gt;This site uses cookies - small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at the About Cookies website which offers guidance for all modern browsers&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.carnaghan.com/privacy-policy/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/privacy-policy/</guid>
+      <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;
+&lt;p&gt;Our website address is: &lt;a href=&#34;http://www.carnaghan.com&#34;&gt;http://www.carnaghan.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;what-personal-data-we-collect-and-why-we-collect-it&#34;&gt;What personal data we collect and why we collect it&lt;/h2&gt;
+&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;
+&lt;p&gt;When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.&lt;/p&gt;
+&lt;p&gt;An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: &lt;a href=&#34;https://automattic.com/privacy/&#34;&gt;https://automattic.com/privacy/&lt;/a&gt;. After approval of your comment, your profile picture is visible to the public in the context of your comment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maintenance Page</title>
+      <link>https://www.carnaghan.com/maintenance-page/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/maintenance-page/</guid>
+      <description>&lt;p&gt;[vc_row height=&amp;ldquo;full&amp;rdquo; valign=&amp;ldquo;center&amp;rdquo;][vc_column][us_iconbox icon=&amp;ldquo;fas|cogs&amp;rdquo; size=&amp;ldquo;120px&amp;rdquo;][/us_iconbox][us_separator size=&amp;ldquo;small&amp;rdquo;][vc_column_text]&lt;/p&gt;
+&lt;h1 id=&#34;site-is-under-construction&#34;&gt;Site Is Under Construction&lt;/h1&gt;
+&lt;p&gt;[/vc_column_text][/vc_column][/vc_row]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cart</title>
+      <link>https://www.carnaghan.com/cart/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cart/</guid>
+      <description>&lt;p&gt;[woocommerce_cart]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shop</title>
+      <link>https://www.carnaghan.com/shop/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/shop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Standard and Custom Widgets</title>
+      <link>https://www.carnaghan.com/standard-and-custom-widgets/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/standard-and-custom-widgets/</guid>
+      <description>&lt;p&gt;Alongside the standard WordPress widgets, Typology features several custom widgets that further extend its functionality. To see the widgets, &lt;strong&gt;please open the sidebar by clicking on the hamburger icon&lt;/strong&gt; in the main navigation. &lt;strong&gt;The footer offers three slots for widgets as well&lt;/strong&gt; - scroll down to see an example.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/typology_sidebar.gif&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://www.carnaghan.com/contact/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/contact/</guid>
+      <description>&lt;p&gt;This is an example of a contact page with full support for the Contact Form by WPForms WordPress plugin. Collaboratively fashion backend users with global platforms. Synergistically monetize user-centric data rather than user-centric e-tailers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample Page</title>
+      <link>https://www.carnaghan.com/sample-page/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/sample-page/</guid>
+      <description>&lt;p&gt;Appropriately productize installed base resources before 2.0 action items. Energistically orchestrate unique human capital with just in time functionalities. Compellingly pontificate user friendly e-services after value-added platforms. Seamlessly morph premium total linkage rather than reliable architectures. Appropriately underwhelm wireless value with resource sucking networks.&lt;/p&gt;
+&lt;p&gt;Rapidiously orchestrate adaptive supply chains for covalent leadership skills. Holisticly foster cost effective niches vis-a-vis orthogonal functionalities. Appropriately e-enable scalable vortals via parallel outsourcing. Completely unleash long-term high-impact materials after top-line resources. Competently cultivate high-quality synergy with emerging core competencies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://www.carnaghan.com/shortcodes/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/shortcodes/</guid>
+      <description>&lt;p&gt;Typology comes with full support for our Meks Flexible Shortcodes WordPress plugin. Check out some of the examples of what you can create inside the page/post content with our shortcodes.&lt;/p&gt;
+&lt;h3 id=&#34;you-can-add-some-columns&#34;&gt;You can add some columns&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;[mks_col]&lt;/p&gt;
+&lt;p&gt;[mks_one_half]&lt;/p&gt;
+&lt;p&gt;Excepteur adipisicing try-hard kale chips et. Meh wolf anim delectus skateboard. Forage scenester mustache skateboard DIY, sapiente laborum whatever. Ethical consectetur non +1 tousled authentic. Enim viral delectus next level. Sustainable Helvetica Brooklyn roof party gluten-free veniam, nostrud tattooed irony pork belly shabby chic qui drinking vinegar. Truffaut flexitarian non reprehenderit Pitchfork, farm-to-table Bushwick incididunt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Styleguide</title>
+      <link>https://www.carnaghan.com/styleguide/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/styleguide/</guid>
+      <description>&lt;p&gt;Lorem ipsum Id tempor laborum in consequat ut in eu id eu incididunt ut sed elit quis veniam sint id sit Duis sunt laborum in consequat tempor laborum in consequat Excepteur consectetur reprehenderit culpa deserunt cillum aute dolor dolor dolor qui. Id tempor laborum in consequat Ut in eu id eu. Shoreditch gastropub whatever. Reprehenderit quis polaroid aben digeth manu.&lt;/p&gt;
+&lt;h1 id=&#34;h1-example-title&#34;&gt;H1 example title&lt;/h1&gt;
+&lt;p&gt;Narwhal messenger bag normcore, fingerstache quinoa food truck four loko bicycle rights letterpress put a bird on it tofu banjo cray semiotics iPhone. Mlkshk twee Neutra Bushwick. Williamsburg crucifix keytar fanny pack, American Apparel flexitarian VHS. Chillwave Godard cray hoodie Neutra. Vinyl pop-up food truck wayfarers semiotics street art.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>https://www.carnaghan.com/home/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/home/</guid>
+      <description>&lt;h1 id=&#34;this-is-the-home-page-content&#34;&gt;This is the home page content&lt;/h1&gt;
+&lt;p&gt;You can choose from several different content types to display here. This example shows the home page content displayed in this area. Whatever you put in the home page editor will automatically appear here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Developer, Blogger, Educator</title>
+      <link>https://www.carnaghan.com/software-developer-blogger-educator/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/software-developer-blogger-educator/</guid>
+      <description>&lt;p&gt;[vc_row][vc_column][vc_row_inner][vc_column_inner width=&amp;ldquo;2/3&amp;rdquo;][us_grid taxonomy_category=&amp;ldquo;coding,ux-design,language-learning&amp;rdquo; items_quantity=&amp;ldquo;1&amp;rdquo; items_layout=&amp;ldquo;9430&amp;rdquo; columns=&amp;ldquo;1&amp;rdquo; title_size=&amp;ldquo;3rem&amp;rdquo; taxonomy_category_post=&amp;ldquo;food,gadgets,girls,travel,video&amp;rdquo;][/vc_column_inner][vc_column_inner width=&amp;ldquo;1/3&amp;rdquo;][us_grid taxonomy_category=&amp;ldquo;coding,ux-design,language-learning&amp;rdquo; items_quantity=&amp;ldquo;3&amp;rdquo; exclude_items=&amp;ldquo;prev&amp;rdquo; items_layout=&amp;ldquo;9455&amp;rdquo; columns=&amp;ldquo;1&amp;rdquo;][/vc_column_inner][/vc_row_inner][us_separator][vc_row_inner el_class=&amp;ldquo;reset-margins&amp;rdquo;][vc_column_inner css=&amp;quot;%7B%22default%22%3A%7B%22border-top-width%22%3A%222px%22%2C%22border-right-width%22%3A%222px%22%2C%22border-bottom-width%22%3A%222px%22%2C%22border-left-width%22%3A%222px%22%2C%22background-color%22%3A%22%23f2f3f5%22%2C%22border-style%22%3A%22solid%22%7D%7D&amp;quot;][us_carousel taxonomy_category=&amp;ldquo;cybersecurity&amp;rdquo; items_quantity=&amp;ldquo;6&amp;rdquo; items_layout=&amp;ldquo;blog_2&amp;rdquo; columns=&amp;ldquo;3&amp;rdquo; items_gap=&amp;ldquo;1rem&amp;rdquo; carousel_autoplay=&amp;ldquo;1&amp;rdquo; carousel_autoplay_smooth=&amp;ldquo;1&amp;rdquo;][/vc_column_inner][/vc_row_inner][us_separator][us_grid taxonomy_category=&amp;ldquo;coding,ux-design&amp;rdquo; items_quantity=&amp;ldquo;6&amp;rdquo; exclude_items=&amp;ldquo;prev&amp;rdquo; items_layout=&amp;ldquo;blog_8&amp;rdquo; breakpoint_2_cols=&amp;ldquo;1&amp;rdquo;][us_separator][vc_row_inner el_class=&amp;ldquo;reset-margins&amp;rdquo;][vc_column_inner css=&amp;quot;%7B%22default%22%3A%7B%22border-top-width%22%3A%222px%22%2C%22border-right-width%22%3A%222px%22%2C%22border-bottom-width%22%3A%222px%22%2C%22border-left-width%22%3A%222px%22%2C%22background-color%22%3A%22%23f2f3f5%22%2C%22border-style%22%3A%22solid%22%7D%7D&amp;quot;][us_carousel taxonomy_category=&amp;ldquo;data-analytics&amp;rdquo; exclude_items=&amp;ldquo;prev&amp;rdquo; columns=&amp;ldquo;5&amp;rdquo; items_gap=&amp;ldquo;1rem&amp;rdquo; img_size=&amp;ldquo;us_600_337_crop&amp;rdquo; carousel_dots=&amp;ldquo;1&amp;rdquo; carousel_autoplay=&amp;ldquo;1&amp;rdquo;][/vc_column_inner][/vc_row_inner][us_separator][us_grid taxonomy_category=&amp;ldquo;cybersecurity&amp;rdquo; items_quantity=&amp;ldquo;4&amp;rdquo; exclude_items=&amp;ldquo;prev&amp;rdquo; pagination=&amp;ldquo;ajax&amp;rdquo; items_layout=&amp;ldquo;blog_8&amp;rdquo; breakpoint_2_cols=&amp;ldquo;1&amp;rdquo;][/vc_column][/vc_row][vc_row color_scheme=&amp;ldquo;secondary&amp;rdquo; title=&amp;quot;&lt;strong&gt;Create your own awesome blog with Impreza!&lt;/strong&gt;&amp;quot; title_tag=&amp;ldquo;h2&amp;rdquo; title_size=&amp;quot;&amp;quot; color=&amp;ldquo;primary&amp;rdquo; bg_color=&amp;quot;&amp;quot; text_color=&amp;quot;&amp;quot; controls=&amp;ldquo;right&amp;rdquo; btn_label=&amp;ldquo;Purchase the theme&amp;rdquo; btn_link=&amp;ldquo;url:https%3A%2F%2F1.envato.market%2Fc%2F1317121%2F275988%2F4415%3Fu%3Dhttps%253A%252F%252Fthemeforest.net%252Fitem%252Fimpreza-retina-responsive-wordpress-theme%252F6434280||target:%20_blank|rel:nofollow&amp;rdquo; btn_style=&amp;ldquo;6&amp;rdquo; btn_size=&amp;ldquo;20px&amp;rdquo; btn_icon=&amp;ldquo;fas|dollar-sign&amp;rdquo; btn_iconpos=&amp;ldquo;left&amp;rdquo; second_button=&amp;quot;&amp;quot; btn2_label=&amp;ldquo;Click Me&amp;rdquo; btn2_link=&amp;quot;&amp;quot; btn2_style=&amp;ldquo;1&amp;rdquo; btn2_size=&amp;ldquo;17px&amp;rdquo; btn2_icon=&amp;quot;&amp;quot; btn2_iconpos=&amp;ldquo;left&amp;rdquo;][vc_column][us_cta title=&amp;quot;&lt;strong&gt;Knowledge Base&lt;/strong&gt;&amp;quot; color=&amp;ldquo;secondary&amp;rdquo; btn_label=&amp;ldquo;Enter&amp;rdquo; btn_link=&amp;ldquo;url:https%3A%2F%2Fwww.carnaghan.com%2Fknowledge-base||target:%20_blank|rel:nofollow&amp;rdquo; btn_style=&amp;ldquo;6&amp;rdquo; btn_size=&amp;ldquo;20px&amp;rdquo;][/us_cta][/vc_column][/vc_row]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Blog</title>
+      <link>https://www.carnaghan.com/about-blog/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/about-blog/</guid>
+      <description>&lt;p&gt;[vc_row][vc_column width=&amp;ldquo;1/2&amp;rdquo;][vc_column_text]&lt;/p&gt;
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Welcome to my website. The carnaghan.com domain started its life in 1999 when I initially registered it in the hope of learning how to build my own web page. Back then I was really just beginning my journey of learning how to design, code and build sites. For many years this site was left dormant. Over the years I published some freelance work but it wasn’t until 2011 I started actively using it as a blog and began writing articles every once in a while. I also managed a different blog for a while called insidethewebb.com, but in the end I found I didn’t have the time for two sites so I merged the content here. Some of the earlier articles from insidethewebb were written by other authors. Today I use this as a space primarily for writing about current topics and concepts I am interested in within web development in general. I recently completed my doctorate and some of my more recent research activities have also been archived here. Hopefully some of what I write will be useful for others in my field, please feel free to leave comments on any posts you may find of interest.[/vc_column_text][/vc_column][vc_column width=&amp;ldquo;1/2&amp;rdquo;][vc_column_text]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Start</title>
+      <link>https://www.carnaghan.com/curriculum-start/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/curriculum-start/</guid>
+      <description>&lt;p&gt;Placeholder for CurriculumStart.com&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://www.carnaghan.com/about-me/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/about-me/</guid>
+      <description>&lt;p&gt;Welcome to my website. The carnaghan.com domain started its life in 1999 when I initially registered it in the hope of learning how to build my own web page. Back then I was really just beginning my journey of learning how to design, code and build sites. For many years this site was left dormant. Over the years I published some freelance work but it wasn&amp;rsquo;t until 2011 I started actively using it as a blog and began writing articles every once in a while. I also managed a different blog for a while called insidethewebb.com, but in the end I found I didn&amp;rsquo;t have the time for two sites so I merged the content here. Some of the earlier articles from insidethewebb were written by other authors. Today I use this as a space primarily for writing about current topics and concepts I am interested in within web development in general. I recently completed my doctorate and some of my more recent research activities have also been archived here. Hopefully some of what I write will be useful for others in my field, please feel free to leave comments on any posts you may find of interest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Classes I Teach</title>
+      <link>https://www.carnaghan.com/classes-i-teach/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/classes-i-teach/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been teaching at the University of Maryland University College for just over a decade. Below are the classes I am currently teaching or will be teaching in the upcoming semester. For more details on these classes including schedule and syllabus see UMUC Schedule of Classes.&lt;/p&gt;
+&lt;h2 id=&#34;current-20202021-school-year&#34;&gt;Current 2020/2021 School Year&lt;/h2&gt;
+&lt;p&gt;CMST 388 Fundamentals of JavaScript | 3 Credits&lt;/p&gt;
+&lt;p&gt;Prerequisite: CMST 386. Recommended: CMST 290. A hands-on, project-based study of JavaScript using a structured programming approach to build dynamic, interactive web pages. The goal is to use client-side JavaScript to create interactive, cross-browser-compatible web pages that minimize security and privacy vulnerabilities. Topics include form validation, web development tools, documentation, dynamic HTML, event handling, cross-browser compatibility, cookies, and security issues. Programming projects are included. Students may receive credit for only one of the following courses: CMST 398J or CMST 388.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://www.carnaghan.com/projects/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications and Papers</title>
+      <link>https://www.carnaghan.com/publications-and-papers/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/publications-and-papers/</guid>
+      <description>&lt;p&gt;See &lt;strong&gt;Academic Papers&lt;/strong&gt; for a list of articles I have published on this blog through my graduate programs. Below, I have included my completed doctoral dissertation for anyone to enjoy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;An Expeditionary Learning Approach to Effective Curriculum Mapping Formalizing the Process by Exploring a User-Centered Framework&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monarch Academy is an Expeditionary Learning (EL) institution, which utilizes a non-traditional educational model that combines all subjects into semester-long projects known as expeditions. In order to properly track the progress of students and to ensure the school is meeting its educational goals, including alignment with Common Core, a process called curriculum mapping has been implemented informally; however, the process has not been centralized nor is it easily accessible by staff and administrators. Commercial curriculum mapping software was researched by administrators, but none met the unique requirements of EL. This study explores and defines a curriculum mapping solution that meets Monarch Academy&amp;rsquo;s needs by providing a centralized, accessible, manageable, and user-centered framework.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

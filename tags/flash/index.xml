@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Flash on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/flash/</link>
+    <description>Recent content in Flash on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Metacafe Stacks up against Video Streaming Apps</title>
+      <link>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s no doubt when it comes to social media and web video, YouTube takes the cake. Currently within top 5 Alexa rank and also owned by the #1 search engine and website online, YouTube has everything backing it. Google doesn&amp;rsquo;t control the monopoly though, there are so many cool video streaming services out there each with their own to offer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YouTube Rolls out new User Interface for Flash Video Player</title>
+      <link>https://www.carnaghan.com/youtube-rolls-out-new-user-interface-for-flash-video-player/</link>
+      <pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/youtube-rolls-out-new-user-interface-for-flash-video-player/</guid>
+      <description>&lt;p&gt;Having seen YouTube roll out new video and profile pages over the past few months, it&amp;rsquo;s been obvious there&amp;rsquo;s been a new Flash User Interface in the works for the common video player. Well as of today, YouTube has finally released the newest UI to most video pages, and are slowly trickling down throughout all videos over the next couple of days.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interview with Adobe&#39;s Primary Developer of Rich Internet Applications Mark Anders</title>
+      <link>https://www.carnaghan.com/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</guid>
+      <description>&lt;p&gt;Mark Anders is a senior principal scientist at Adobe Systems, and one of his core responsibilities is to make Flash the platform for building the next generation of rich internet applications. Prior to Adobe&amp;rsquo;s acquisition of Macromedia, Anders started and led the Flex Builder Team, but he is probably best known for his work at Microsoft, where during a decade-long career he led the creation of ASP.NET.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

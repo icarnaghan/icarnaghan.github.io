@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Real-Estate on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/tags/real-estate/</link>
+    <description>Recent content in Real-Estate on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 May 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/tags/real-estate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview with Dwellicious - Organizing and Sharing Your Real Estate Bookmarks</title>
+      <link>https://www.carnaghan.com/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</link>
+      <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</guid>
+      <description>&lt;p&gt;A real estate searcher&amp;rsquo;s dream, Dwellicious allows it&amp;rsquo;s users to bookmark links from popular real estate sites and compare different features between them. Similar to other social bookmarking sites like Delicious, users can add tags to their bookmarks to separate their different properties into categories.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

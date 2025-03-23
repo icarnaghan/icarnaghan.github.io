@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Ian Carnaghan</title>
+    <link>https://www.carnaghan.com/categories/</link>
+    <description>Recent content in Categories on Ian Carnaghan</description>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.carnaghan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cms</title>
+      <link>https://www.carnaghan.com/categories/cms/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>https://www.carnaghan.com/categories/coding/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language-Learning</title>
+      <link>https://www.carnaghan.com/categories/language-learning/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/language-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>https://www.carnaghan.com/categories/blogging/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital-Media</title>
+      <link>https://www.carnaghan.com/categories/digital-media/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/digital-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet-Marketing</title>
+      <link>https://www.carnaghan.com/categories/internet-marketing/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/internet-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://www.carnaghan.com/categories/cybersecurity/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ux-Design</title>
+      <link>https://www.carnaghan.com/categories/ux-design/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/ux-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Analytics</title>
+      <link>https://www.carnaghan.com/categories/data-analytics/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/data-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hosting</title>
+      <link>https://www.carnaghan.com/categories/hosting/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.carnaghan.com/categories/business/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>https://www.carnaghan.com/categories/gaming/</link>
+      <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/gaming/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -27,17 +27,17 @@
       <guid>https://www.carnaghan.com/bitesize-javascript/</guid>
       <description>&lt;p&gt;Bitesize JavaScript is a series of short lessons covering fundamental coding concepts. The goal is to quickly introduce you to the language and provide you with enough information to begin exploring the concepts in more depth. Each lesson is designed take a short amount of time to digest new topics and then apply them through example.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;JavaScript Data Types, Values, and Variables&lt;/li&gt;
-&lt;li&gt;JavaScript Operators&lt;/li&gt;
-&lt;li&gt;JavaScript Conditional Statements&lt;/li&gt;
-&lt;li&gt;JavaScript Loops&lt;/li&gt;
-&lt;li&gt;JavaScript Functions&lt;/li&gt;
-&lt;li&gt;JavaScript Call Stack&lt;/li&gt;
-&lt;li&gt;JavaScript Scope&lt;/li&gt;
-&lt;li&gt;JavaScript Arrays – Fundamentals&lt;/li&gt;
-&lt;li&gt;JavaScript Arrays – Properties and Methods&lt;/li&gt;
-&lt;li&gt;JavaScript Objects&lt;/li&gt;
-&lt;li&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-data-types-values-and-variables&#34;&gt;JavaScript Data Types, Values, and Variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-operators&#34;&gt;JavaScript Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-conditional-statements&#34;&gt;JavaScript Conditional Statements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-loops&#34;&gt;JavaScript Loops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-funtions&#34;&gt;JavaScript Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-call-stack&#34;&gt;JavaScript Call Stack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-scope&#34;&gt;JavaScript Scope&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-fundmentals&#34;&gt;JavaScript Arrays – Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;javascript-arrays-properties-and-methods&#34;&gt;JavaScript Arrays – Properties and Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-objects&#34;&gt;JavaScript Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom&#34;&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
     <item>

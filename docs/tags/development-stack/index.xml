@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Development-Stack on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/development-stack/</link>
+    <link>https://www.carnaghan.com/tags/development-stack/</link>
     <description>Recent content in Development-Stack on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/development-stack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/development-stack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best IDE for PHP Web Development</title>
-      <link>http://localhost:1313/best-ide-for-php-web-development/</link>
+      <link>https://www.carnaghan.com/best-ide-for-php-web-development/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-ide-for-php-web-development/</guid>
+      <guid>https://www.carnaghan.com/best-ide-for-php-web-development/</guid>
       <description>&lt;p&gt;PHP is a scripting language that powers over some of the busiest websites on the web. Several languages have been introduced since 2005. None of them have affected the popularity of PHP. Before IDEs were launched, seasoned developers and beginners used vi or notepad to write PHP code. Once the code was ready, developers moved the PHP file to the webapps folder of the web server to check whether their code is working as expected or not. If the browser didn&amp;rsquo;t display error, developers used to check log files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Nginx PHP-FPM MySQL (MariaDB) stack for Windows</title>
-      <link>http://localhost:1313/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</link>
+      <link>https://www.carnaghan.com/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</guid>
+      <guid>https://www.carnaghan.com/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</guid>
       <description>&lt;p&gt;I own a laptop which has a dedicated graphics card. I am a developer who prefers using Linux OS. I&amp;rsquo;ve tried 3 distros of Linux, Mint, Ubuntu, OpenSuse. No matter what version of Linux I use, the OS fails to recognize the AMD graphics card in my laptop and the WiFi connection always drops. I fixed the WiFi issue by upgrading the driver but the GPU installation always fails. Hence, I decided to give up using Linux and stick with Windows 10 OS for development tasks.&lt;/p&gt;</description>
     </item>
   </channel>

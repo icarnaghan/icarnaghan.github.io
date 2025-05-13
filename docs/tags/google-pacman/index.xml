@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Google-Pacman on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/google-pacman/</link>
+    <link>https://www.carnaghan.com/tags/google-pacman/</link>
     <description>Recent content in Google-Pacman on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 May 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/google-pacman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/google-pacman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Pacman</title>
-      <link>http://localhost:1313/google-pacman/</link>
+      <link>https://www.carnaghan.com/google-pacman/</link>
       <pubDate>Sat, 22 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/google-pacman/</guid>
+      <guid>https://www.carnaghan.com/google-pacman/</guid>
       <description>&lt;p&gt;Blinky, Pinky, Inky and Clyde have returned today in the form of Google&amp;rsquo;s logo to celebrate the 30th anniversary of our much loved electronic friend from the 80s.   There are sure to be a lot of people across the globe reliving their childhood arcade memories.&lt;/p&gt;</description>
     </item>
   </channel>

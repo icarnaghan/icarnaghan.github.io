@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Spam on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/spam/</link>
+    <link>https://www.carnaghan.com/tags/spam/</link>
     <description>Recent content in Spam on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/spam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/spam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Fred Update: Hybrid of Google Phantom and Penguin algorithms?</title>
-      <link>http://localhost:1313/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</link>
+      <link>https://www.carnaghan.com/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</guid>
+      <guid>https://www.carnaghan.com/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</guid>
       <description>&lt;p&gt;Google has rolled out a new algorithm update on 7th of March. The head of web spam team, Garry Illyes has named the new algorithm as Fred.&lt;/p&gt;
 &lt;p&gt;The Google Fred update has killed the rankings of many websites overnight. It has brought people who were earning good amount of money online to their knees. Since 8th of March, many webmasters have reported that their sites have lost 80 to 90% traffic and some folks have reported a significant increase in organic traffic after March 8.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WPDiscuz plugin: Great Alternative to Disqus and WordPress comment system</title>
-      <link>http://localhost:1313/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</link>
+      <link>https://www.carnaghan.com/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</guid>
+      <guid>https://www.carnaghan.com/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</guid>
       <description>&lt;p&gt;The default WordPress commenting system is good, but some people may want to replace it with a third party plugin like Disqus, Livefyre for better control, spam protection, and administration.&lt;/p&gt;
 &lt;p&gt;Disqus adds a lot of weight to your site, and you should think before using it. I&amp;rsquo;ve seen LiveFyre plugin on high traffic websites, and it looks great. I&amp;rsquo;ve not tested it. In case you&amp;rsquo;re searching for a Disqus or Livefyre alternative for your WordPress site, there&amp;rsquo;s a good new option available for you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best free akismet alternatives that you are not aware of</title>
-      <link>http://localhost:1313/best-free-akismet-alternatives-that-you-are-not-aware-of/</link>
+      <link>https://www.carnaghan.com/best-free-akismet-alternatives-that-you-are-not-aware-of/</link>
       <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-free-akismet-alternatives-that-you-are-not-aware-of/</guid>
+      <guid>https://www.carnaghan.com/best-free-akismet-alternatives-that-you-are-not-aware-of/</guid>
       <description>&lt;p&gt;Akismet is no doubt one of the best plugins to avoid trackback, pingback and comment spam. It is free for WordPress sites. Paid version of this service will cost the user within 5 to 30 dollars. The pro version (security and enterprise) will give WordPress users access to the backup tool and advanced reports. They&amp;rsquo;ll also get quality support from Akismet team.&lt;/p&gt;
 &lt;p&gt;Once you install Akismet, you&amp;rsquo;ll have to have to enter API key by creating an account on the official website of this free service.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Block referrer spam without plugin and Google Analytics filter</title>
-      <link>http://localhost:1313/block-referrer-spam-without-plugin-and-google-analytics-filter/</link>
+      <link>https://www.carnaghan.com/block-referrer-spam-without-plugin-and-google-analytics-filter/</link>
       <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/block-referrer-spam-without-plugin-and-google-analytics-filter/</guid>
+      <guid>https://www.carnaghan.com/block-referrer-spam-without-plugin-and-google-analytics-filter/</guid>
       <description>&lt;p&gt;In the last few months, my Google Analytics account has started showing a lot of referrer spam sites like SexyAli, free-social-buttons, Semalt, etc. The spammers are screwing up my GA reports. I have some websites. Tho site with 1000s of visitors is not affected but for my new portals, the referrers are causing high bounce rate which makes the report data confusing.&lt;/p&gt;
 &lt;p&gt;Some referrers seem to be attacking WordPress sites as the real-time reports show 30+ visitors (from spam sites) from various parts of the world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best free WordPress spam blocker plugins</title>
-      <link>http://localhost:1313/best-free-wordpress-spam-blocker-plugins/</link>
+      <link>https://www.carnaghan.com/best-free-wordpress-spam-blocker-plugins/</link>
       <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-free-wordpress-spam-blocker-plugins/</guid>
+      <guid>https://www.carnaghan.com/best-free-wordpress-spam-blocker-plugins/</guid>
       <description>&lt;p&gt;As WordPress content management system has a commenting and trackback system, it&amp;rsquo;s always on the target of spammers. Trackback links are added below the post content. A spammer who wants his website or YouTube videos to rank high in Google or Bing will drop useless comments with some URLs.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re allowing dofollow backlinks, link juice will be transferred to the commentators website. To avoid this, install and activate the ultimate nofollow plugin on your blog. This plugin will allow you to convert all dofollow links in comments to nofollow. To block spam comments on your WordPress website, you install any of the below free plugins:&lt;/p&gt;</description>
     </item>

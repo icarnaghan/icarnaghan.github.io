@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cybersecurity on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/cybersecurity/</link>
+    <link>https://www.carnaghan.com/tags/cybersecurity/</link>
     <description>Recent content in Cybersecurity on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Cybersecurity Programs begin Second Semester at UMUC</title>
-      <link>http://localhost:1313/new-cybersecurity-programs-begin-second-semester-at-umuc/</link>
+      <link>https://www.carnaghan.com/new-cybersecurity-programs-begin-second-semester-at-umuc/</link>
       <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/new-cybersecurity-programs-begin-second-semester-at-umuc/</guid>
+      <guid>https://www.carnaghan.com/new-cybersecurity-programs-begin-second-semester-at-umuc/</guid>
       <description>&lt;p&gt;The University of Maryland University College (UMUC) is getting ready to begin its second semester of offering their new Cybersecurity programs, which opened to students in the fall of 2010. Two masters programs as well as an additional specialization in one of their existing information technology degrees were introduced last semester, along with an undergraduate program.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybersecurity Masters Degree</title>
-      <link>http://localhost:1313/cybersecurity-masters-degree/</link>
+      <link>https://www.carnaghan.com/cybersecurity-masters-degree/</link>
       <pubDate>Mon, 17 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cybersecurity-masters-degree/</guid>
+      <guid>https://www.carnaghan.com/cybersecurity-masters-degree/</guid>
       <description>&lt;p&gt;Cybersecurity is an interesting, challenging and exciting field for those who wish to pursue a career in I.T. security, cybersecurity analysts, digital forensic experts and many others. The University of Maryland University College (UMUC) recently announced several new degree programs beginning this fall, 2010 in the field of Cybersecurity.&lt;/p&gt;</description>
     </item>
   </channel>

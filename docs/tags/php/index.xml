@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Php on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/php/</link>
+    <link>https://www.carnaghan.com/tags/php/</link>
     <description>Recent content in Php on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lessons Learned using Drupal’s Domain Access Module</title>
-      <link>http://localhost:1313/lessons-learned-using-drupals-domain-access-module/</link>
+      <link>https://www.carnaghan.com/lessons-learned-using-drupals-domain-access-module/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lessons-learned-using-drupals-domain-access-module/</guid>
+      <guid>https://www.carnaghan.com/lessons-learned-using-drupals-domain-access-module/</guid>
       <description>&lt;p&gt;Over the last few months my team has been developing microsites to accompany our main website. The requirements for these sites included having their own domain, theme and separate content. After reviewing options in Drupal 7, I decided the best approach given our situation was to use the Domain Access Module. The Domain Access Module provides a very solid and powerful framework for developing additional sites within your existing Drupal CMS, but it can also be somewhat complicated to setup for any given use case. I have documented some of the lessons learned over the last few months as we implemented Domain Access in our own project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pligg Social News CMS Releases Official 1.0.4 Upgrade</title>
-      <link>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
+      <link>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
       <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
+      <guid>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
       <description>&lt;p&gt;The popular Digg-clone script Pligg has released their latest version as of today, stable release 1.0.4. There are a lot of new features from 1.0.3a and 1.0.3b releases of the CMS script, which have fixed a lot of security issues and bugs in the code.&lt;/p&gt;</description>
     </item>
   </channel>

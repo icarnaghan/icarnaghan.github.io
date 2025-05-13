@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wordpress-Plugins on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/wordpress-plugins/</link>
+    <link>https://www.carnaghan.com/tags/wordpress-plugins/</link>
     <description>Recent content in Wordpress-Plugins on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wordpress-plugins/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/wordpress-plugins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revive Old Post WordPress plugin review</title>
-      <link>http://localhost:1313/revive-old-post-wordpress-plugin-review/</link>
+      <link>https://www.carnaghan.com/revive-old-post-wordpress-plugin-review/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/revive-old-post-wordpress-plugin-review/</guid>
+      <guid>https://www.carnaghan.com/revive-old-post-wordpress-plugin-review/</guid>
       <description>&lt;p&gt;Unlike search engines that rank pages on the basis of various factors, Social networking portals display posts in groups and on pages in first-in-last-out order. If the page is old, you&amp;rsquo;ll have to scroll down the group until you find it. If the title of the post is interesting, people will share the post on their profiles or in groups they&amp;rsquo;ve joined. Such pages are called viral posts. They have the potential of bringing a large amount of traffic to a website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things you should do after Installing WordPress</title>
-      <link>http://localhost:1313/things-you-should-do-after-installing-wordpress/</link>
+      <link>https://www.carnaghan.com/things-you-should-do-after-installing-wordpress/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/things-you-should-do-after-installing-wordpress/</guid>
+      <guid>https://www.carnaghan.com/things-you-should-do-after-installing-wordpress/</guid>
       <description>&lt;p&gt;WordPress is the most powerful content management system. According to analytics tools, WP powers 30% of websites running on the internet. WP is a popular and user-friendly CMS. It is written in PHP and uses MySQL to save data. Unlike scripting languages such as JAVA EE, ASP, PHP is easy to learn.&lt;/p&gt;
 &lt;p&gt;Shared hosting companies offer a 1-click WP installer tool. If you use this tool, you can launch a new website within few minutes. Configuring DNS server and the web server isn&amp;rsquo;t enough. To make sure that your new website is found by search engines and internet users, you must do the below things:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fast Velocity Minify: Plugin that combines CSS and JS files without breaking the site</title>
-      <link>http://localhost:1313/fast-velocity-minify-plugin-that-combines-css-and-js-files-without-breaking-the-site/</link>
+      <link>https://www.carnaghan.com/fast-velocity-minify-plugin-that-combines-css-and-js-files-without-breaking-the-site/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fast-velocity-minify-plugin-that-combines-css-and-js-files-without-breaking-the-site/</guid>
+      <guid>https://www.carnaghan.com/fast-velocity-minify-plugin-that-combines-css-and-js-files-without-breaking-the-site/</guid>
       <description>&lt;p&gt;WordPress repository is the home to 100s of minification plugins. Some plugins may break the site and some will do their job. Fast Velocity Minify is a free plugin that improves the loading speed of your site. The plugin has 20000 active users and it is easy to use. It is a great alternative to Autoptimize and WP Better Minify.&lt;/p&gt;
 &lt;p&gt;FVM supports Nginx gzip_static module and it is compatible with 100s of popular plugins. You can use it with other popular caching plugins i.e. WP Rocket, Super Cache, W3TC, WP Fastest Cache, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to test WordPress plugins online without installing?</title>
-      <link>http://localhost:1313/how-to-test-wordpress-plugins-online-without-installing/</link>
+      <link>https://www.carnaghan.com/how-to-test-wordpress-plugins-online-without-installing/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-test-wordpress-plugins-online-without-installing/</guid>
+      <guid>https://www.carnaghan.com/how-to-test-wordpress-plugins-online-without-installing/</guid>
       <description>&lt;p&gt;If your site is getting good traffic, and if a new version of the plugin you&amp;rsquo;re using has been launched, you&amp;rsquo;ll have the following two questions in the mind:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Will the plugin break your site?&lt;/li&gt;
@@ -50,26 +50,26 @@
     </item>
     <item>
       <title>How to disable or noindex WordPress attachment pages?</title>
-      <link>http://localhost:1313/how-to-disable-or-noindex-wordpress-attachment-pages/</link>
+      <link>https://www.carnaghan.com/how-to-disable-or-noindex-wordpress-attachment-pages/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-disable-or-noindex-wordpress-attachment-pages/</guid>
+      <guid>https://www.carnaghan.com/how-to-disable-or-noindex-wordpress-attachment-pages/</guid>
       <description>&lt;p&gt;Attachment page is the built-in feature of WordPress. When these pages are not handled correctly by the website owner, Google and other search engines will index them.&lt;/p&gt;
 &lt;p&gt;WordPress attachments are thin pages that don&amp;rsquo;t add any value to a blog. These pages should be used only on personal or photography blogs wherein you want the visitors to comment on the pictures, videos, and other media files.&lt;/p&gt;
 &lt;p&gt;WordPress doesn&amp;rsquo;t provide an option to turn off or disable these pages. However, you can use third-party plugins to manage them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>InstaShow Instagram feed plugin review (2018)</title>
-      <link>http://localhost:1313/instashow-instagram-feed-plugin-review-2018/</link>
+      <link>https://www.carnaghan.com/instashow-instagram-feed-plugin-review-2018/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/instashow-instagram-feed-plugin-review-2018/</guid>
+      <guid>https://www.carnaghan.com/instashow-instagram-feed-plugin-review-2018/</guid>
       <description>&lt;p&gt;InstaShow is a premium WordPress plugin that allows you to integrate the Instagram feed on your website. It has registered 6000+ sales on the ThemeForest marketplace. It is a highly customizable plugin that has a rating of 4.87/5.&lt;/p&gt;
 &lt;p&gt;InstaShow is cheap and it provides amazing features. If you own a photography, product review website or a food blog, you can get more Instagram followers by installing this plugin. The Instagram widget provided by InstaShow is a great alternative to a gallery or featured image widget because it saves server resources. Instead of uploading pictures on your server, you can share your images on Instagram and configure InstaShow to display the pictures in a nice interface.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 4 Best free WordPress migration plugins (2018)</title>
-      <link>http://localhost:1313/top-4-best-free-wordpress-migration-plugins-2018/</link>
+      <link>https://www.carnaghan.com/top-4-best-free-wordpress-migration-plugins-2018/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/top-4-best-free-wordpress-migration-plugins-2018/</guid>
+      <guid>https://www.carnaghan.com/top-4-best-free-wordpress-migration-plugins-2018/</guid>
       <description>&lt;p&gt;Even though I have a technical background, I was not comfortable in moving my sites during my initial days of online career. At that time, 2 of my biggest worries were:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Incorrect site configuration can lead to tons of soft 404 or 404 errors.&lt;/li&gt;
@@ -79,162 +79,162 @@
     </item>
     <item>
       <title>Bulk move noindexed posts from All in One SEO to Yoast</title>
-      <link>http://localhost:1313/bulk-move-noindexed-posts-from-all-in-one-seo-to-yoast/</link>
+      <link>https://www.carnaghan.com/bulk-move-noindexed-posts-from-all-in-one-seo-to-yoast/</link>
       <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bulk-move-noindexed-posts-from-all-in-one-seo-to-yoast/</guid>
+      <guid>https://www.carnaghan.com/bulk-move-noindexed-posts-from-all-in-one-seo-to-yoast/</guid>
       <description>&lt;p&gt;The Yoast SEO plugin includes an option to import meta description and title tags from other popular plugins. While using other plugins, you may have noindexed or nofollowed some or several posts. There are a couple of plugins that enable you to move settings from AIOSEO to Yoast. Unfortunately, none of the plugins provide an option to bulk move noindex posts. People noindex posts to recover from Google quality updates or prevent penalty during an algorithm update.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best way to Auto Tag WordPress posts</title>
-      <link>http://localhost:1313/best-way-to-auto-tag-wordpress-posts/</link>
+      <link>https://www.carnaghan.com/best-way-to-auto-tag-wordpress-posts/</link>
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-way-to-auto-tag-wordpress-posts/</guid>
+      <guid>https://www.carnaghan.com/best-way-to-auto-tag-wordpress-posts/</guid>
       <description>&lt;p&gt;WordPress tags are important, no matter how small or large a site is. Tags allow users to group posts. They make website navigation easier. They allow search engines to discover and index new posts quickly. WordPress Related posts plugins use tags to calculate post relevancy and display related articles below blog posts.&lt;/p&gt;
 &lt;p&gt;Human beings make mistakes. Sometimes, a webmaster may delete an important tag unintentionally. Once a tag is removed, the structure of the related post on your site may change. If you have a small blog with 10 to 20 posts, readding tags manually shouldn&amp;rsquo;t be a problem. If you own a large site, readding tags to posts is an annoying task. The best way to add tags to blog posts is to use Automatic Post Tagger WordPress plugin.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Twitter feed plugin and Widgets for WordPress (2018)</title>
-      <link>http://localhost:1313/best-twitter-feed-plugin-and-widgets-for-wordpress-2018/</link>
+      <link>https://www.carnaghan.com/best-twitter-feed-plugin-and-widgets-for-wordpress-2018/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-twitter-feed-plugin-and-widgets-for-wordpress-2018/</guid>
+      <guid>https://www.carnaghan.com/best-twitter-feed-plugin-and-widgets-for-wordpress-2018/</guid>
       <description>&lt;p&gt;Twitter is the world&amp;rsquo;s most popular microblogging site. Twitter has 200+ million users thereby making it one of the best platforms to promote your product. Like Facebook, this site enables webmasters and developers to integrate user activity feed on third-party websites.&lt;/p&gt;
 &lt;p&gt;The Twitter feed aka Embedded Timelines widget displays a list of your recent tweets and retweets from users who have enjoyed reading your post, watching your video, or seeing the picture you&amp;rsquo;ve shared. The feed gets updated in real-time and it increases user engagement.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fix Remove Query Strings from Static Resources warning</title>
-      <link>http://localhost:1313/fix-remove-query-strings-from-static-resources-warning/</link>
+      <link>https://www.carnaghan.com/fix-remove-query-strings-from-static-resources-warning/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fix-remove-query-strings-from-static-resources-warning/</guid>
+      <guid>https://www.carnaghan.com/fix-remove-query-strings-from-static-resources-warning/</guid>
       <description>&lt;p&gt;Yesterday, I was checking the performance of one of my sites with GTmetrix and Pingdom tools. Although my site takes about 1 second to open in any browser, the tools were reporting remove query strings from static resources warning.&lt;/p&gt;
 &lt;p&gt;Anything that follows after the question mark i.e &amp;ldquo;?&amp;rdquo; is called a query string. You&amp;rsquo;ll find URLs with query strings on dynamic sites. If the site serves static content, it doesn&amp;rsquo;t make sense to use them. The website I&amp;rsquo;m talking about is a small blog. Hence, I decided to get rid of the warning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 5 Best CDN 2018: Fastest content delivery networks</title>
-      <link>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
+      <link>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
+      <guid>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
       <description>&lt;p&gt;CDN aka content delivery networks improves the performance of your site. They reduce the latency by serving JavaScript and CSS files from the location closest to the visitor.&lt;/p&gt;
 &lt;p&gt;A CDN provider may have several data centers spread across the world. When you signup for the CDN service, the service will cache static resources of your site on a server nearby the location you specify. You&amp;rsquo;ll have to install a CDN plugin so as to change the website resource URL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 7 Best WordPress SEO plugins (2018)</title>
-      <link>http://localhost:1313/top-7-best-wordpress-seo-plugins-2018/</link>
+      <link>https://www.carnaghan.com/top-7-best-wordpress-seo-plugins-2018/</link>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/top-7-best-wordpress-seo-plugins-2018/</guid>
+      <guid>https://www.carnaghan.com/top-7-best-wordpress-seo-plugins-2018/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re running a website, you must optimize it for search engines to succeed as a blogger, business owner etc.&lt;/p&gt;
 &lt;p&gt;Programmers can have nightmares while making their site or client&amp;rsquo;s website SEO friendly. If you&amp;rsquo;re using a content management system, this task is a piece of cake, thanks to the best SEO plugins.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re new to WordPress CMS or if you&amp;rsquo;re site is not performing well in search engines, you should use the following WordPress SEO plugins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elegant Themes review 2018: Great themes for WordPress</title>
-      <link>http://localhost:1313/elegant-themes-review-2018-great-themes-for-wordpress/</link>
+      <link>https://www.carnaghan.com/elegant-themes-review-2018-great-themes-for-wordpress/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/elegant-themes-review-2018-great-themes-for-wordpress/</guid>
+      <guid>https://www.carnaghan.com/elegant-themes-review-2018-great-themes-for-wordpress/</guid>
       <description>&lt;p&gt;A theme is responsible for the success of a blogger. Many bloggers end up buying a theme which looks attractive but scores 0 when it comes to SEO. Despite publishing high-quality content on their sites, these bloggers don&amp;rsquo;t enjoy success and they quit blogging&lt;/p&gt;
 &lt;p&gt;As a newbie blogger, I had committed a huge mistake of trusting a third class theme developer. The developer rolled out an update which created the dreaded duplicate title, meta description problem on my site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to show or hide widget in WordPress pages or posts?</title>
-      <link>http://localhost:1313/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</link>
+      <link>https://www.carnaghan.com/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</guid>
+      <guid>https://www.carnaghan.com/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</guid>
       <description>&lt;p&gt;Sometimes, you may want to display widgets only on certain pages of a site. If you&amp;rsquo;ve knowledge of PHP, you can show/hide widgets with just 2 lines of codes. The 1st line will have the PHP if else condition to detect the current page or term. If the condition you&amp;rsquo;ve specified in the if statement is true, then the code inside the if block must be executed.&lt;/p&gt;
 &lt;p&gt;The block must have the shortcode or code to display the required widget. It is the 2nd line of our code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The right way to update a WordPress theme or plugin</title>
-      <link>http://localhost:1313/the-right-way-to-update-a-wordpress-theme-or-plugin/</link>
+      <link>https://www.carnaghan.com/the-right-way-to-update-a-wordpress-theme-or-plugin/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-right-way-to-update-a-wordpress-theme-or-plugin/</guid>
+      <guid>https://www.carnaghan.com/the-right-way-to-update-a-wordpress-theme-or-plugin/</guid>
       <description>&lt;p&gt;Themes and plugins are the most important parts of a WordPress website. If the code of the theme is not SEO friendly, your site will not perform well in search engines. Likewise, if the plugin has an erroneous code, it can lead to poor user experience.&lt;/p&gt;
 &lt;p&gt;In worst cases, the problematic theme or plugin may cause high server resource utilization. The search bots will begin to ignore your site. If you don&amp;rsquo;t fix the problem ASAP, the site&amp;rsquo;s rankings will tank.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress Review Plugins (2018)</title>
-      <link>http://localhost:1313/best-wordpress-review-plugins-2018/</link>
+      <link>https://www.carnaghan.com/best-wordpress-review-plugins-2018/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wordpress-review-plugins-2018/</guid>
+      <guid>https://www.carnaghan.com/best-wordpress-review-plugins-2018/</guid>
       <description>&lt;p&gt;Most people use the internet to read reviews of products before they buy them. You may have seen top search engines such as Google or Bing showing star ratings in the search results of its pages. Google doesn&amp;rsquo;t show the ratings for all websites. It shows ratings only for the portals having schema markups and in-depth content.&lt;/p&gt;
 &lt;p&gt;Writing the content is up to the user, but one can easily add schema codes to their site by referring the official guidelines. Modern content management systems provide extensions to add review boxes to their site and add the Schema markup code for the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Must have WordPress Plugins for 2018</title>
-      <link>http://localhost:1313/must-have-wordpress-plugins-for-2018/</link>
+      <link>https://www.carnaghan.com/must-have-wordpress-plugins-for-2018/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/must-have-wordpress-plugins-for-2018/</guid>
+      <guid>https://www.carnaghan.com/must-have-wordpress-plugins-for-2018/</guid>
       <description>&lt;p&gt;WordPress, being a versatile plugin allows you to launch all types of sites. It allows users to install plugins to make website search engine friendly, faster, highly rewarding, etc.&lt;/p&gt;
 &lt;p&gt;WordPress has millions of users. The WordPress repository hosts over 100k plugins of all types. An experienced blogger using WP platform may not difficulty in choosing the right plugin. But the newbie users may get confused.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;must have wordpress plugins 2016&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/must-have-wordpress-plugins-for-2018/images/wordpress-logo.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;must have wordpress plugins 2016&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/must-have-wordpress-plugins-for-2018/images/wordpress-logo.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WP AMP plugin : Accelerated Mobile Pages for WordPress</title>
-      <link>http://localhost:1313/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</link>
+      <link>https://www.carnaghan.com/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</guid>
+      <guid>https://www.carnaghan.com/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</guid>
       <description>&lt;p&gt;People spend more time on mobile phones than computers. Google Engineers realized this a few years back and they made several changes to core Algorithm. They introduced a mobile-friendly testing tool for webmasters and launched page layout algorithm which affects rankings of ad-heavy desktop/mobile sites. In 2016, Google launched a new concept called Accelerated Mobile Pages. After testing AMP on a bunch of top news website, Google now allows all websites to use AMP.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to compress or minify HTML of a WordPress site?</title>
-      <link>http://localhost:1313/how-to-compress-or-minify-html-of-a-wordpress-site/</link>
+      <link>https://www.carnaghan.com/how-to-compress-or-minify-html-of-a-wordpress-site/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-compress-or-minify-html-of-a-wordpress-site/</guid>
+      <guid>https://www.carnaghan.com/how-to-compress-or-minify-html-of-a-wordpress-site/</guid>
       <description>&lt;p&gt;Minification is a process of stripping whitespaces and comments of a page. When you minify a web page, the visitors to your website will experience faster browsing experience on their desktop or mobile device. The page speed insights tool will not request you to minify HTML, JS, or CSS code.&lt;/p&gt;
 &lt;p&gt;When you minify HTML, CSS or JS code on your website, the server will send a small page to the client. The file size is yet another factor in determining the page speed of a website. The browser on the client device will download a smaller file faster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best featured image plugin for WordPress (2018)</title>
-      <link>http://localhost:1313/best-featured-image-plugin-for-wordpress-2018/</link>
+      <link>https://www.carnaghan.com/best-featured-image-plugin-for-wordpress-2018/</link>
       <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-featured-image-plugin-for-wordpress-2018/</guid>
+      <guid>https://www.carnaghan.com/best-featured-image-plugin-for-wordpress-2018/</guid>
       <description>&lt;p&gt;Featured image is a picture that appears in the post excerpt. When the visitor sees the image, he will find the topic interesting, relevant, and will not hesitate in exploring your website further.&lt;/p&gt;
 &lt;p&gt;All the premium and free WordPress themes launched these days support FI. If your website has 100s of posts, it is difficult to set featured images manually unless you are ready to edit posts one by one. You don&amp;rsquo;t have to do so because the below free plugins will automate this task for you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MailMunch Review: Killer plugin to build opt-in forms and get new leads</title>
-      <link>http://localhost:1313/mailmunch-review-killer-plugin-to-build-opt-in-forms-and-get-new-leads/</link>
+      <link>https://www.carnaghan.com/mailmunch-review-killer-plugin-to-build-opt-in-forms-and-get-new-leads/</link>
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mailmunch-review-killer-plugin-to-build-opt-in-forms-and-get-new-leads/</guid>
+      <guid>https://www.carnaghan.com/mailmunch-review-killer-plugin-to-build-opt-in-forms-and-get-new-leads/</guid>
       <description>&lt;p&gt;Opt-in forms and Newsletter subscription services are the best tools to get loyal and regular audiences. Once your blog or website has a couple of thousand regular readers, money will keep flowing.&lt;/p&gt;
 &lt;p&gt;WordPress, without any doubt, is the top CMS. Millions of bloggers use WP to fulfill their dream of running a website or making money from the web. If you use WP and want to add a killer opt-in form to your site for free, then download and install the MailMunch plugin.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top Image Sharing Plugin for WordPress (2016)</title>
-      <link>http://localhost:1313/top-image-sharing-plugin-for-wordpress-2016/</link>
+      <link>https://www.carnaghan.com/top-image-sharing-plugin-for-wordpress-2016/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/top-image-sharing-plugin-for-wordpress-2016/</guid>
+      <guid>https://www.carnaghan.com/top-image-sharing-plugin-for-wordpress-2016/</guid>
       <description>&lt;p&gt;A blog post is incomplete without images. Imagine if a site has no photos, will you spend your time going through the content?&lt;/p&gt;
 &lt;p&gt;A visitor to your website might be impressed with the picture you&amp;rsquo;ve embedded in the blog post. He may want to share the image on social networks. Some users may not waste their time in copying the photo URL by right clicking on the page. They may exit your website and use Google image search to get a link to the picture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Affiliate Link Cloaker Plugin for Wordpress</title>
-      <link>http://localhost:1313/best-affiliate-link-cloaker-plugin-for-wordpress/</link>
+      <link>https://www.carnaghan.com/best-affiliate-link-cloaker-plugin-for-wordpress/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-affiliate-link-cloaker-plugin-for-wordpress/</guid>
+      <guid>https://www.carnaghan.com/best-affiliate-link-cloaker-plugin-for-wordpress/</guid>
       <description>&lt;p&gt;Affiliate links are ugly and long. When the user hovers your mouse on an affiliate link and finds your tracking code in the URL, he may not click the link.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re not a seasoned webmaster, you should use a plugin to create and manage affiliate links.&lt;/p&gt;
 &lt;p&gt;GoCodes was one of the best affiliate link Cloaker plugins. I was using it until I update the PHP on my VPS server. Unfortunately, the plugin has become useless because it has not been updated for 2 years. GoCodes will not work on sites using the latest version of PHP because several functions that GoCodes uses have been deprecated.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress Plugin update manager (2018)</title>
-      <link>http://localhost:1313/best-wordpress-plugin-update-manager-2018/</link>
+      <link>https://www.carnaghan.com/best-wordpress-plugin-update-manager-2018/</link>
       <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wordpress-plugin-update-manager-2018/</guid>
+      <guid>https://www.carnaghan.com/best-wordpress-plugin-update-manager-2018/</guid>
       <description>&lt;p&gt;[et_pb_section admin_label=&amp;ldquo;section&amp;rdquo;] [et_pb_row admin_label=&amp;ldquo;row&amp;rdquo;] [et_pb_column type=&amp;ldquo;4_4&amp;rdquo;] [et_pb_text admin_label=&amp;ldquo;Text&amp;rdquo;] Auttomatic Inc, the developer of WordPress rolls out a new version of WP ever since the first version of this free blogging platform was first launched. It&amp;rsquo;s not only the core that gets regular updates, but plugins and theme developers also publish latest versions of their products.&lt;/p&gt;
 &lt;p&gt;WP-CMS, themes, and plugins get better with every new release. Only the folks who work at Automattic INC know when WordPress update will be released. When a developer releases a newer version of his/her theme or plugin, you&amp;rsquo;ll get a notification for the same in the WP dashboard. The big problem with WordPress is that users will have to update their plugins, core files, and theme manually.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cache Enabler Plugin Review: W3TC and WPSC Alternative</title>
-      <link>http://localhost:1313/cache-enabler-plugin-review-w3tc-and-wpsc-alternative/</link>
+      <link>https://www.carnaghan.com/cache-enabler-plugin-review-w3tc-and-wpsc-alternative/</link>
       <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cache-enabler-plugin-review-w3tc-and-wpsc-alternative/</guid>
+      <guid>https://www.carnaghan.com/cache-enabler-plugin-review-w3tc-and-wpsc-alternative/</guid>
       <description>&lt;p&gt;Caching of WordPress posts and pages are two of the best way to increase the page speed. While most of the WP users prefer using WPSC or W3TC, there are a lot of users who are always in search for different plugins. For such users, today we&amp;rsquo;ll share a review on the Cache Enabler plugin.&lt;/p&gt;
 &lt;p&gt;The cache enabler is one of the lightest WordPress plugins. It has been developed by folks at the popular CDN service provider, KeyCDN.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best free WordPress Events Calendar Plugin (2018)</title>
-      <link>http://localhost:1313/best-free-wordpress-events-calendar-plugin-2018/</link>
+      <link>https://www.carnaghan.com/best-free-wordpress-events-calendar-plugin-2018/</link>
       <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-free-wordpress-events-calendar-plugin-2018/</guid>
+      <guid>https://www.carnaghan.com/best-free-wordpress-events-calendar-plugin-2018/</guid>
       <description>&lt;p&gt;The events calendar plugin by the modern tribe is the best calendar plugin for WordPress. More than 20 developers have authored it.&lt;/p&gt;
 &lt;p&gt;The plugin is active on 0.4 million WordPress websites. It is free. Let&amp;rsquo;s find it out why the plugin is so popular among the WordPress users.&lt;/p&gt;
 &lt;h2 id=&#34;the-wordpress-events-calendar-plugin-review&#34;&gt;The WordPress events calendar plugin review&lt;/h2&gt;
@@ -242,367 +242,367 @@
     </item>
     <item>
       <title>UberMenu plugin : Add responsive mega menu to WordPress site</title>
-      <link>http://localhost:1313/ubermenu-plugin-add-responsive-mega-menu-to-wordpress-site/</link>
+      <link>https://www.carnaghan.com/ubermenu-plugin-add-responsive-mega-menu-to-wordpress-site/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ubermenu-plugin-add-responsive-mega-menu-to-wordpress-site/</guid>
+      <guid>https://www.carnaghan.com/ubermenu-plugin-add-responsive-mega-menu-to-wordpress-site/</guid>
       <description>&lt;p&gt;Mega menus have become a new trend in the world of internet. They make navigation much easier for the user as well makes your website more beautiful.&lt;/p&gt;
 &lt;p&gt;Mega Menus are created with the help of CSS, JS/Jquery, and HTML. Creating them is not an easy task. Only a seasoned developer with good knowledge of the above-mentioned technologies will be able to design and code a perfect mega menu.&lt;/p&gt;
 &lt;p&gt;WordPress users are fortunate because they don&amp;rsquo;t have to write code for implementing new features in their websites. They&amp;rsquo;ll find all types of plugins on the WordPress.org repo and CodeCanyon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Delete unused images in WordPress with Media Cleaner plugin</title>
-      <link>http://localhost:1313/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</link>
+      <link>https://www.carnaghan.com/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</guid>
+      <guid>https://www.carnaghan.com/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</guid>
       <description>&lt;p&gt;The image is one of the most important elements of a blog post. It not only makes the post attractive but also helps in improving the website&amp;rsquo;s search engine visibility.&lt;/p&gt;
 &lt;p&gt;Sometimes, when you update a blog post, you may replace the image/pictures in it with some other pictures. Many users don&amp;rsquo;t bother to delete the old images from the uploads directory of wp-content WordPress installation folder.&lt;/p&gt;
 &lt;p&gt;When a site grows larger, the uploads folder may have tons of unused images. These files waste storage memory, and they impact system&amp;rsquo;s performance. To delete or remove these files, download the Media Cleaner plugin and install it on your WordPress website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elegant Themes Monarch WordPress Plugin Review (2018)</title>
-      <link>http://localhost:1313/elegant-themes-monarch-wordpress-plugin-review-2018/</link>
+      <link>https://www.carnaghan.com/elegant-themes-monarch-wordpress-plugin-review-2018/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/elegant-themes-monarch-wordpress-plugin-review-2018/</guid>
+      <guid>https://www.carnaghan.com/elegant-themes-monarch-wordpress-plugin-review-2018/</guid>
       <description>&lt;p&gt;Blogging is a type of online business. If you invest money in your WordPress site, your business will benefit from it. In WP, investment is nothing but purchasing premium themes and plugins which help in improving UX.&lt;/p&gt;
 &lt;p&gt;When it comes to plugins, the most important plugin is the one that allows visitors to share blog posts on social networks. Yes! You&amp;rsquo;ve guessed it right! We&amp;rsquo;re talking about social media sharing plugins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Securing WordPress Login page and WP Admin area</title>
-      <link>http://localhost:1313/securing-wordpress-login-page-and-wp-admin-area/</link>
+      <link>https://www.carnaghan.com/securing-wordpress-login-page-and-wp-admin-area/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/securing-wordpress-login-page-and-wp-admin-area/</guid>
+      <guid>https://www.carnaghan.com/securing-wordpress-login-page-and-wp-admin-area/</guid>
       <description>&lt;p&gt;WP login.php is the most critical page on a WordPress website. Without it, you will not be able to access the WP-admin area aka the WP dashboard and other users will not be able to register an account with your website.&lt;/p&gt;
 &lt;p&gt;No website owner would ever want a hacker or an intruder to get full access to the WP-admin area. If they do manage to get its access, intruders will delete your website, change admin password or remove all your post/pages. To avoid this, you should secure the WordPress login page by:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fix Error Establishing a Database Connection in WordPress</title>
-      <link>http://localhost:1313/fix-error-establishing-a-database-connection-in-wordpress/</link>
+      <link>https://www.carnaghan.com/fix-error-establishing-a-database-connection-in-wordpress/</link>
       <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fix-error-establishing-a-database-connection-in-wordpress/</guid>
+      <guid>https://www.carnaghan.com/fix-error-establishing-a-database-connection-in-wordpress/</guid>
       <description>&lt;p&gt;WordPress saves the post, settings and other data related to your website in an MSQL database. The DB is handled by the user through CMS with a DB management plugin or through a command line terminal from a remote computer (on unmanaged hosting environment).&lt;/p&gt;
 &lt;p&gt;Sometimes, the WordPress PHP files will not be able to connect to the MySQL server, and you&amp;rsquo;ll be notified of this error when you try to access any page of your website.  Today, we&amp;rsquo;ll share some effective tips to fix this common WordPress problem and avoid it in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WP Customer Reviews plugin allows users to rate product or business</title>
-      <link>http://localhost:1313/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</link>
+      <link>https://www.carnaghan.com/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</guid>
+      <guid>https://www.carnaghan.com/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</guid>
       <description>&lt;p&gt;Before buying any product from a website or before contacting a business, search engine users will go through the reviews. If the reviews are negative, the user may not communicate with the business or he&amp;rsquo;ll leave the website without making any purchase.&lt;/p&gt;
 &lt;p&gt;Customers are the best people to judge a product and the best way to get their feedback is by adding a review section to the website. Reviews may help in improving the rankings of a website as it may have many new keywords.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best way to add Google Fonts to WordPress website</title>
-      <link>http://localhost:1313/best-way-to-add-google-fonts-to-wordpress-website/</link>
+      <link>https://www.carnaghan.com/best-way-to-add-google-fonts-to-wordpress-website/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-way-to-add-google-fonts-to-wordpress-website/</guid>
+      <guid>https://www.carnaghan.com/best-way-to-add-google-fonts-to-wordpress-website/</guid>
       <description>&lt;p&gt;The font is one of the most critical elements on a website. Developers make sure that the typography of their website is best in class. If your visitor finds that your site is ugly, he&amp;rsquo;ll leave it immediately without reading the content or making a purchase.&lt;/p&gt;
 &lt;p&gt;There are 100s of fonts that you can use for free, but you will have to spend a lot of time in searching for them unless you use Google web fonts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dynamic Widgets plugin lets you control widget display in WordPress</title>
-      <link>http://localhost:1313/dynamic-widgets-plugin-lets-you-control-widget-display-in-wordpress/</link>
+      <link>https://www.carnaghan.com/dynamic-widgets-plugin-lets-you-control-widget-display-in-wordpress/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dynamic-widgets-plugin-lets-you-control-widget-display-in-wordpress/</guid>
+      <guid>https://www.carnaghan.com/dynamic-widgets-plugin-lets-you-control-widget-display-in-wordpress/</guid>
       <description>&lt;p&gt;The sidebar is one of the most critical section of a website. It not only helps in improving the revenue of a site by allowing users to place adverts above the fold but also helps in decreasing the bounce rate. On WordPress blogs, you&amp;rsquo;ll find banners, related/latest/popular post&amp;rsquo;s widget on the sidebar.&lt;/p&gt;
 &lt;p&gt;The content you add to the sidebar will be visible on all posts. If there are 1000 posts on your website, each and every advertisement or URL you&amp;rsquo;ll add as a widget will be displayed on each post. You may have grouped your posts in many categories. Suppose there are four categories on your website - phones, laptops, tablets, and desktop. Imagine you&amp;rsquo;ve published an article on a notebook.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple 301 WordPress Redirect plugin fixes broken link issues</title>
-      <link>http://localhost:1313/simple-301-wordpress-redirect-plugin-fixes-broken-link-issues/</link>
+      <link>https://www.carnaghan.com/simple-301-wordpress-redirect-plugin-fixes-broken-link-issues/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/simple-301-wordpress-redirect-plugin-fixes-broken-link-issues/</guid>
+      <guid>https://www.carnaghan.com/simple-301-wordpress-redirect-plugin-fixes-broken-link-issues/</guid>
       <description>&lt;p&gt;The Google Search Console tool make us aware of various errors that Google encountered while crawling our website.&lt;/p&gt;
 &lt;p&gt;404 errors don&amp;rsquo;t have any impact on the ranking of a website. But if the error is generated because of change in permalink or its structure, you&amp;rsquo;ll lose traffic from the search engines as well as the social networks. Page Rank will be lost as well.&lt;/p&gt;
 &lt;p&gt;For the best experience of the search bot and user, it is important that we fix the reported error.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Form DB plugin : Check mails in WordPress Dashboard</title>
-      <link>http://localhost:1313/contact-form-db-plugin-check-mails-in-wordpress-dashboard/</link>
+      <link>https://www.carnaghan.com/contact-form-db-plugin-check-mails-in-wordpress-dashboard/</link>
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact-form-db-plugin-check-mails-in-wordpress-dashboard/</guid>
+      <guid>https://www.carnaghan.com/contact-form-db-plugin-check-mails-in-wordpress-dashboard/</guid>
       <description>&lt;p&gt;We all know how easy it is to create a contact form page in WordPress. If not, then you might be a newbie who should explore the WordPress plugins repository.&lt;/p&gt;
 &lt;p&gt;A contact form plugin will allow you to create and add a customized form to your WordPress website. The plugin will allow the user to add fields of his choice to the contact form page.&lt;/p&gt;
 &lt;p&gt;WordPress CMS has been built with PHP, the server-side scripting language. PHP includes the mail function that accepts some parameters to send a mail to an email address. The function is implement, and many WordPress plugins are powered it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to add and customize Facebook feed in WordPress?</title>
-      <link>http://localhost:1313/how-to-add-and-customize-facebook-feed-in-wordpress/</link>
+      <link>https://www.carnaghan.com/how-to-add-and-customize-facebook-feed-in-wordpress/</link>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-add-and-customize-facebook-feed-in-wordpress/</guid>
+      <guid>https://www.carnaghan.com/how-to-add-and-customize-facebook-feed-in-wordpress/</guid>
       <description>&lt;p&gt;Facebook allows the webmasters to add the Facebook comment form, like box or the page feed to their websites.&lt;/p&gt;
 &lt;p&gt;In WordPress CMS, adding a comment form or the like box is easy, but inserting a page feed is usually a tricky task for a webmaster. Even if the user manages to add FB feed to the sidebar, he won&amp;rsquo;t be able to customize it unless the user knows the working knowledge of CSS. In such cases, the user should use the free custom Facebook feed plugin.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adding WordPress Breadcrumbs navigation and customizing it</title>
-      <link>http://localhost:1313/adding-wordpress-breadcrumbs-navigation-and-customizing-it/</link>
+      <link>https://www.carnaghan.com/adding-wordpress-breadcrumbs-navigation-and-customizing-it/</link>
       <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/adding-wordpress-breadcrumbs-navigation-and-customizing-it/</guid>
+      <guid>https://www.carnaghan.com/adding-wordpress-breadcrumbs-navigation-and-customizing-it/</guid>
       <description>&lt;p&gt;WordPress supports taxonomies. In the WP CMS (content management system), the user can create as many tags and categories as they want.&lt;/p&gt;
 &lt;p&gt;A category is different from a tag. It is used to build a menu. If you create a treemap of WordPress structure, then the categories will always be the child of index or root page. They make navigation easier for the search bots and the visitors. On a small blog or a website, the webmaster should create only a few of them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plugins to add 2 step authentication to WordPress website</title>
-      <link>http://localhost:1313/plugins-to-add-2-step-authentication-to-wordpress-website/</link>
+      <link>https://www.carnaghan.com/plugins-to-add-2-step-authentication-to-wordpress-website/</link>
       <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plugins-to-add-2-step-authentication-to-wordpress-website/</guid>
+      <guid>https://www.carnaghan.com/plugins-to-add-2-step-authentication-to-wordpress-website/</guid>
       <description>&lt;p&gt;Dual factor authentication has become one of the most important security features in the last few years. Major websites like Google Mail, Outlook, Facebook are now protecting user accounts in a better way by allowing them to use a mobile device as their identity.&lt;/p&gt;
 &lt;p&gt;To activate 2 step authentication, the service provider will ask you to install Google Authenticator app (or any of its alternative). Some websites will ask you to verify the mobile phone number so that the authentication service will send a 4 or 5 digit code when required. This code will be used for one-time verification, and it will be valid only for a few hours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call to action buttons : Do they really work?</title>
-      <link>http://localhost:1313/call-to-action-buttons-do-they-really-work/</link>
+      <link>https://www.carnaghan.com/call-to-action-buttons-do-they-really-work/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/call-to-action-buttons-do-they-really-work/</guid>
+      <guid>https://www.carnaghan.com/call-to-action-buttons-do-they-really-work/</guid>
       <description>&lt;p&gt;When it comes to website designing, the User Experience plays a crucial role. If a site is not user-friendly, the conversions and revenue will be flat unless most of your earnings come from Adsense or its alternative advertising platform. This applies to all websites.&lt;/p&gt;
 &lt;p&gt;A good way to make sure that your website is effectively generating revenue and the user visits more than one pages of your site, you should add the call to action buttons.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The SEO Framework plugin review : Free Yoast alternative</title>
-      <link>http://localhost:1313/the-seo-framework-plugin-review-free-yoast-alternative/</link>
+      <link>https://www.carnaghan.com/the-seo-framework-plugin-review-free-yoast-alternative/</link>
       <pubDate>Sat, 13 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-seo-framework-plugin-review-free-yoast-alternative/</guid>
+      <guid>https://www.carnaghan.com/the-seo-framework-plugin-review-free-yoast-alternative/</guid>
       <description>&lt;p&gt;Yoast is no doubt the best SEO plugin, but its version 3.0.x has disappointed a lot of WordPress users. The plugin is useful, but you cannot get support from Joost De Valk and his team unless you&amp;rsquo;re a premium user. Because of these two reasons, many people have switched from Yoast to its alternatives.&lt;/p&gt;
 &lt;p&gt;A new plugin called the SEO framework is getting a good response from the WordPress community and it is emerging as an excellent alternative to Yoast. Is this plugin right for you? Check out the below review to know this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shortcodes ultimate plugin : generate responsive shortcodes easily</title>
-      <link>http://localhost:1313/shortcodes-ultimate-plugin-generate-responsive-shortcodes-easily/</link>
+      <link>https://www.carnaghan.com/shortcodes-ultimate-plugin-generate-responsive-shortcodes-easily/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shortcodes-ultimate-plugin-generate-responsive-shortcodes-easily/</guid>
+      <guid>https://www.carnaghan.com/shortcodes-ultimate-plugin-generate-responsive-shortcodes-easily/</guid>
       <description>&lt;p&gt;Shortcodes Ultimate by Vladimir Anokhin is a top rated WordPress plugin with 700000+ downloads. It allows you to generate and use HTML shortcodes of various styles and colors. The plugin allows customization. The code created by this is responsive and clean. Thus, it will work with all types of plugins.&lt;/p&gt;
 &lt;p&gt;WordPress Shortcodes Ultimate is compatible with other plugins as well. It supports multiple languages and RTL. The plugin supports extensions. For styling, it uses CSS3.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inline Related Posts plugin can lower the bounce rate of your blog</title>
-      <link>http://localhost:1313/inline-related-posts-plugin-can-lower-the-bounce-rate-of-your-blog/</link>
+      <link>https://www.carnaghan.com/inline-related-posts-plugin-can-lower-the-bounce-rate-of-your-blog/</link>
       <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/inline-related-posts-plugin-can-lower-the-bounce-rate-of-your-blog/</guid>
+      <guid>https://www.carnaghan.com/inline-related-posts-plugin-can-lower-the-bounce-rate-of-your-blog/</guid>
       <description>&lt;p&gt;On many established blogs, you&amp;rsquo;ll find related or recommended articles in post content.&lt;/p&gt;
 &lt;p&gt;The posts are embedded in a stylized &lt;!-- raw HTML omitted --&gt;, &lt;!-- raw HTML omitted --&gt; or &lt;!-- raw HTML omitted --&gt; and they attract visitor&amp;rsquo;s attention. They&amp;rsquo;re known as inline related posts (IRP). IRPs, when placed at the right position can reduce the bounce rate of a blog. They can also increase the page-views.&lt;/p&gt;
 &lt;p&gt;Established websites have enough revenue to hire a WordPress developer who can write the code to insert content hyperlinks inline of the post automatically after the post has been published.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bloom plugin review : Create and add stylish Newsletter optin forms</title>
-      <link>http://localhost:1313/bloom-plugin-review-create-and-add-stylish-newsletter-optin-forms/</link>
+      <link>https://www.carnaghan.com/bloom-plugin-review-create-and-add-stylish-newsletter-optin-forms/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bloom-plugin-review-create-and-add-stylish-newsletter-optin-forms/</guid>
+      <guid>https://www.carnaghan.com/bloom-plugin-review-create-and-add-stylish-newsletter-optin-forms/</guid>
       <description>&lt;p&gt;Email Optin forms are useful because they attract visitor&amp;rsquo;s attention. When a visitor signs up with the form, the website will have a new loyal reader.&lt;/p&gt;
 &lt;p&gt;Newsletters will bring referral traffic to your blog. If your site is not ranked in search engines, you can still get free traffic provided that you send a newsletter to an email address or share blog posts on social media networks or the best bookmarking websites.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All in One Security and Firewall plugin secures your WP website</title>
-      <link>http://localhost:1313/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</link>
+      <link>https://www.carnaghan.com/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</link>
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</guid>
+      <guid>https://www.carnaghan.com/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</guid>
       <description>&lt;p&gt;WordPress is claimed to be one of the most secure content management systems of the decade, but you need to take some precautions while using it.&lt;/p&gt;
 &lt;p&gt;The login page is accessible to everyone using the Internet. To access the page, the user has to enter example.com/wp-login.php simply. If you&amp;rsquo;re using a weak password, then a software or a bot can easily hack your website.&lt;/p&gt;
 &lt;p&gt;Some hackers will target your site with a DOS or DDOS attack. If your hosting provider has not set up a firewall for your account, your website and web server will be down. If the site has many visitors, you&amp;rsquo;ll lose some revenue. If the access to the wp-config file is not restricted, the hacker will get your database name and its password.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advanced Ads is Powerful plugin to insert and manage adverts</title>
-      <link>http://localhost:1313/advanced-ads-is-powerful-plugin-to-insert-and-manage-adverts/</link>
+      <link>https://www.carnaghan.com/advanced-ads-is-powerful-plugin-to-insert-and-manage-adverts/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/advanced-ads-is-powerful-plugin-to-insert-and-manage-adverts/</guid>
+      <guid>https://www.carnaghan.com/advanced-ads-is-powerful-plugin-to-insert-and-manage-adverts/</guid>
       <description>&lt;p&gt;Yesterday, I felt the need to install a new third party plugin for inserting advertisements to my blog. My favorite plugin i.e. Quick Adsense has not been updated for over 1.5 years, and it has become unreliable because it has not been tested with latest WordPress versions. I searched the WordPress repository to find a reliable and frequently updated plugin for insert adverts. After a few minutes, I found Advanced ads. I was tempted to try out the plugin after going through its ratings and reviews shared by the real users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Create WordPress database backup with or without plugin</title>
-      <link>http://localhost:1313/how-to-create-wordpress-database-backup-with-or-without-plugin/</link>
+      <link>https://www.carnaghan.com/how-to-create-wordpress-database-backup-with-or-without-plugin/</link>
       <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-create-wordpress-database-backup-with-or-without-plugin/</guid>
+      <guid>https://www.carnaghan.com/how-to-create-wordpress-database-backup-with-or-without-plugin/</guid>
       <description>&lt;p&gt;Creating a backup of the database is practiced in all the top organisations. For webmasters who work online, it&amp;rsquo;s the most important thing to do.&lt;/p&gt;
 &lt;p&gt;All websites are prone to hacking. Hackers are always in search of a security loophole in a website. When they find one, they&amp;rsquo;ll deface it by changing the index file. Hackers locate the site configuration file stored on the servers to find database password so that they can access the database.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yuzo related posts for WordPress review : Free and Powerful</title>
-      <link>http://localhost:1313/yuzo-related-posts-for-wordpress-review-free-and-powerful/</link>
+      <link>https://www.carnaghan.com/yuzo-related-posts-for-wordpress-review-free-and-powerful/</link>
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/yuzo-related-posts-for-wordpress-review-free-and-powerful/</guid>
+      <guid>https://www.carnaghan.com/yuzo-related-posts-for-wordpress-review-free-and-powerful/</guid>
       <description>&lt;p&gt;The developer claims that Yuzo is the fastest and the best plugin for WordPress. We decided to give it a try. Below is our review of this free plugin:&lt;/p&gt;
 &lt;p&gt;Yuzo can be installed via FTP or WordPress dashboard. After its installation, activate the plugin and navigate to its settings page. This page has three tabs, main settings, styling, and productivity.&lt;/p&gt;
 &lt;p&gt;You can configure this plugin to display maximum 50 related posts per page. You can set a custom title for the relevant content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OnePress social locker plugin for WordPress review</title>
-      <link>http://localhost:1313/onepress-social-locker-plugin-for-wordpress-review/</link>
+      <link>https://www.carnaghan.com/onepress-social-locker-plugin-for-wordpress-review/</link>
       <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/onepress-social-locker-plugin-for-wordpress-review/</guid>
+      <guid>https://www.carnaghan.com/onepress-social-locker-plugin-for-wordpress-review/</guid>
       <description>&lt;p&gt;Content locker WordPress plugins are becoming popular these days. They are useful in increasing the Facebook likes Google plus one and twitter tweet counts. The plugin hides your content for visitors (not for search engines) and displays it only when the user shares your post on the pre-configured social networks.&lt;/p&gt;
 &lt;p&gt;OnePress is the best content locker plugin for WordPress. It is available in free and premium versions. The free version of OnePress allows webmasters to add maximum three social sharing buttons, i.e., FB, G+, and tweet. The pro version supports many other popular social networks. OnePress comes with an analytics dashboard. To improve your social visibility, you can use this dashboard for analysis and adjusting the position of the locker.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WP-FFPC settings and features: Powerful caching plugin</title>
-      <link>http://localhost:1313/wp-ffpc-settings-and-features-powerful-caching-plugin/</link>
+      <link>https://www.carnaghan.com/wp-ffpc-settings-and-features-powerful-caching-plugin/</link>
       <pubDate>Sat, 12 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wp-ffpc-settings-and-features-powerful-caching-plugin/</guid>
+      <guid>https://www.carnaghan.com/wp-ffpc-settings-and-features-powerful-caching-plugin/</guid>
       <description>&lt;p&gt;Although W3TC has options to configure Memcache and OPCache modules, this plugin requires some configuration to work according to your expectations. It includes many features that you may not want to use. To be honest, W3TC and WPSC are best plugins for Shared hosting users as users can easily make their site faster by activating disk caching, minification or by setting an expiry date for static resources.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve purchased a VPS package from Hostgator, Bluehost or any other hosting provider, you should try out WP-FFPC. The highlighting feature of this plugin is that it supports various types of web servers and lacks complex features. You can easily run it on NGINX, LightHTTPD, Apache 2 platforms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sumome plugin for WordPress : free list builder social sharing and more</title>
-      <link>http://localhost:1313/sumome-plugin-for-wordpress-free-list-builder-social-sharing-and-more/</link>
+      <link>https://www.carnaghan.com/sumome-plugin-for-wordpress-free-list-builder-social-sharing-and-more/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sumome-plugin-for-wordpress-free-list-builder-social-sharing-and-more/</guid>
+      <guid>https://www.carnaghan.com/sumome-plugin-for-wordpress-free-list-builder-social-sharing-and-more/</guid>
       <description>&lt;p&gt;Suomeme is an awesome all in one plugin for promoting blog posts. It has a powerful sharing button that not only looks great but also allows users to share posts on top social networks without adding a lot of weight on your pages.&lt;/p&gt;
 &lt;p&gt;This plugin lets users add a floating bar in the header or footer area of your blog. Thus you can use it as an alternative to hellobar. Sharing images from your blog posts is possible with Sumome. The buttons for the same will appear automatically when the user hovers mouse cursor on the picture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WPDiscuz plugin: Great Alternative to Disqus and WordPress comment system</title>
-      <link>http://localhost:1313/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</link>
+      <link>https://www.carnaghan.com/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</guid>
+      <guid>https://www.carnaghan.com/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</guid>
       <description>&lt;p&gt;The default WordPress commenting system is good, but some people may want to replace it with a third party plugin like Disqus, Livefyre for better control, spam protection, and administration.&lt;/p&gt;
 &lt;p&gt;Disqus adds a lot of weight to your site, and you should think before using it. I&amp;rsquo;ve seen LiveFyre plugin on high traffic websites, and it looks great. I&amp;rsquo;ve not tested it. In case you&amp;rsquo;re searching for a Disqus or Livefyre alternative for your WordPress site, there&amp;rsquo;s a good new option available for you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WPBakery review: best WordPress page builder</title>
-      <link>http://localhost:1313/wpbakery-review-best-wordpress-page-builder/</link>
+      <link>https://www.carnaghan.com/wpbakery-review-best-wordpress-page-builder/</link>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wpbakery-review-best-wordpress-page-builder/</guid>
+      <guid>https://www.carnaghan.com/wpbakery-review-best-wordpress-page-builder/</guid>
       <description>&lt;p&gt;If you have sound knowledge of PHP, CSS, JS, and HTML, you can quickly build good-looking pages in WordPress. It is also possible with a WPBakery page builder plugin for WordPress. WPBakery is a well-designed plugin that lets users create various types of website layouts and pages with CTA buttons. There are around 29 great designs to choose from. WPBakery is responsive, and your site designed with it will look great on any phone or tablet. It supports all types of WordPress themes, and no other plugin will be affected by its presence. It has a frontend and backend builder.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best way to Change WP Login and admin URL in WordPress</title>
-      <link>http://localhost:1313/best-way-to-change-wp-login-and-admin-url-in-wordpress/</link>
+      <link>https://www.carnaghan.com/best-way-to-change-wp-login-and-admin-url-in-wordpress/</link>
       <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-way-to-change-wp-login-and-admin-url-in-wordpress/</guid>
+      <guid>https://www.carnaghan.com/best-way-to-change-wp-login-and-admin-url-in-wordpress/</guid>
       <description>&lt;p&gt;Every content management system has a login page, and dashboard that allows bloggers and webmasters to manage the data published on their site and WordPress is no exception. This page is relevant. Thus it will always be on the attack of website hackers that may/may not use automated program to gain access to your site&amp;rsquo;s dashboard. The default slug to log in to your WordPress dashboard is wp-login.php, and every hacker and WordPress user knows it knows it. Thus if you&amp;rsquo;re using the default password or if you&amp;rsquo;re using weak login credentials, your site might get easily hacked (You can remove the default user i.e., admin through the users page in WP).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WP super cache settings to increase website page speed</title>
-      <link>http://localhost:1313/best-wp-super-cache-settings-to-increase-website-page-speed/</link>
+      <link>https://www.carnaghan.com/best-wp-super-cache-settings-to-increase-website-page-speed/</link>
       <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wp-super-cache-settings-to-increase-website-page-speed/</guid>
+      <guid>https://www.carnaghan.com/best-wp-super-cache-settings-to-increase-website-page-speed/</guid>
       <description>&lt;p&gt;WordPress is my favorite CMS as you can start any site with it. I have seen classified, job posting, eCommerce, forum sites that employ WordPress content management system. As a webmaster, you must take care of your site as if it is your old dad or newborn child. To improve the performance and user experience, you should first consider improving the page load time. On WordPress site, you can easily do this by installing a caching plugin.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best AdSense plugins for WordPress (2018)</title>
-      <link>http://localhost:1313/best-adsense-plugins-for-wordpress-2018/</link>
+      <link>https://www.carnaghan.com/best-adsense-plugins-for-wordpress-2018/</link>
       <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-adsense-plugins-for-wordpress-2018/</guid>
+      <guid>https://www.carnaghan.com/best-adsense-plugins-for-wordpress-2018/</guid>
       <description>&lt;p&gt;Adsense is being used on millions of blogs, and it is a source of online income for many bloggers. Have you ever wondered how the webmasters manage to add advertisements to the best and hottest positions? Most blogs are using either WordPress or Blogger CMS.&lt;/p&gt;
 &lt;p&gt;Blogger comes with an inbuilt utility to insert ads in various popular areas, i.e., above, middle and below post content. On WordPress, you don&amp;rsquo;t have to be a PHP and HTML programmer to add Google AdSense unit to your favorite position. Simply install any of the below &lt;strong&gt;best Adsense plugins for WordPress&lt;/strong&gt; and follow its setup instructions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best author bio box plugins for WordPress (2016)</title>
-      <link>http://localhost:1313/best-author-bio-box-plugins-for-wordpress-2016/</link>
+      <link>https://www.carnaghan.com/best-author-bio-box-plugins-for-wordpress-2016/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-author-bio-box-plugins-for-wordpress-2016/</guid>
+      <guid>https://www.carnaghan.com/best-author-bio-box-plugins-for-wordpress-2016/</guid>
       <description>&lt;p&gt;You may have seen author bio widget below posts on many popular blogs. Bio section is important as it makes website users aware of the writer&amp;rsquo;s skills, hobbies, experience, etc. Just like about me, disclaimer, privacy policy pages, the bio section is one of the most useful elements of a WordPress site. Most WordPress themes include the author bio box and to display your information in it, navigate to your profile page by hovering your mouse cursor over users menu (This menu appears on the left side of your WordPress dashboard). If your theme lacks this widget, make sure that you install any of the below plugins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easy Social Share Buttons for WordPress Review (latest)</title>
-      <link>http://localhost:1313/easy-social-share-buttons-for-wordpress-review-latest/</link>
+      <link>https://www.carnaghan.com/easy-social-share-buttons-for-wordpress-review-latest/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/easy-social-share-buttons-for-wordpress-review-latest/</guid>
+      <guid>https://www.carnaghan.com/easy-social-share-buttons-for-wordpress-review-latest/</guid>
       <description>&lt;p&gt;Backlinks from social networks like Facebook, Google plus, twitter, etc are nofollow. But you&amp;rsquo;ll be shocked to know that Google uses data from social networks to rank websites in the search engine regardless whether the link is dofollow or nofollow.&lt;/p&gt;
 &lt;p&gt;When someone reads and article on your site and if he/she shares it in a group/page or on his public timeline, this link will be considered as a vote of trust. Thus, if your blog articles are shared 100s of time, there&amp;rsquo;s no doubt that your site will rank in the 1st 2 or 3 pages of Google. Making people share content is not a piece of cake. The user will not share your blog post unless he has a reason to do so.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best free WordPress spam blocker plugins</title>
-      <link>http://localhost:1313/best-free-wordpress-spam-blocker-plugins/</link>
+      <link>https://www.carnaghan.com/best-free-wordpress-spam-blocker-plugins/</link>
       <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-free-wordpress-spam-blocker-plugins/</guid>
+      <guid>https://www.carnaghan.com/best-free-wordpress-spam-blocker-plugins/</guid>
       <description>&lt;p&gt;As WordPress content management system has a commenting and trackback system, it&amp;rsquo;s always on the target of spammers. Trackback links are added below the post content. A spammer who wants his website or YouTube videos to rank high in Google or Bing will drop useless comments with some URLs.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re allowing dofollow backlinks, link juice will be transferred to the commentators website. To avoid this, install and activate the ultimate nofollow plugin on your blog. This plugin will allow you to convert all dofollow links in comments to nofollow. To block spam comments on your WordPress website, you install any of the below free plugins:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Commentluv review : WP plugin to increase referral traffic</title>
-      <link>http://localhost:1313/commentluv-review-wp-plugin-to-increase-referral-traffic/</link>
+      <link>https://www.carnaghan.com/commentluv-review-wp-plugin-to-increase-referral-traffic/</link>
       <pubDate>Sat, 09 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/commentluv-review-wp-plugin-to-increase-referral-traffic/</guid>
+      <guid>https://www.carnaghan.com/commentluv-review-wp-plugin-to-increase-referral-traffic/</guid>
       <description>&lt;p&gt;Commentluv is a powerful WordPress plugin that comes in 2 versions – free &amp;amp; paid. The free version can be found in WordPress.org directory, and it has limited features. The premium or paid variant of CommentLuv offers many interesting and useful utilities that help a webmaster in many ways. When paid or free version of this plugin is active on a blog, visitors will be able to add any of the ten latest posts in the comments. Commentluv premium plugin maintains the number of clicks on a link generated by it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to auto generate meta description tag in WordPress blogs</title>
-      <link>http://localhost:1313/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</link>
+      <link>https://www.carnaghan.com/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</link>
       <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</guid>
+      <guid>https://www.carnaghan.com/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</guid>
       <description>&lt;p&gt;When it comes to blogging and search engine optimization, no other on-page element is as important as title and meta descriptions. According to Google webmaster guidelines, every page on a WordPress blog must have unique meta description and title.&lt;/p&gt;
 &lt;p&gt;If you don&amp;rsquo;t follow this guideline, your site won&amp;rsquo;t rank well in search engines, and if you&amp;rsquo;ve verified your blog with Google Webmaster tools, you&amp;rsquo;ll see duplicate tag warning in HTML improvements section of your GWT account. Meta description is one of the most important on-page elements as it is the first thing that a search engine users see (if your site appears in the search results) when they search for some information. If you&amp;rsquo;ve not added relevant keyword and a useful short information in this tag, the user will not visit your blog. Meta description length should not be less or more than 170 characters, and it shouldn&amp;rsquo;t be stuffed with keywords.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best solution to gravatar redirect chain problem on wp blogs</title>
-      <link>http://localhost:1313/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</link>
+      <link>https://www.carnaghan.com/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</guid>
+      <guid>https://www.carnaghan.com/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</guid>
       <description>&lt;p&gt;Gravatar is one of the top software products of Automatic. It is used on 1000s of WordPress content management powered blogs. With this service, commentators are allowed to add their profile image that will appear alongside their comment on WordPress blogs. Gravatar is useful in many ways. It can increase user engagement on sites, and it saves a little bit of bandwidth because the commentator&amp;rsquo;s image will be served from Gravatar servers. It will also attract more comments on your blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fixing WordPress dashboard not working, showing up properly issue</title>
-      <link>http://localhost:1313/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</link>
+      <link>https://www.carnaghan.com/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</link>
       <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</guid>
+      <guid>https://www.carnaghan.com/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</guid>
       <description>&lt;p&gt;WordPress is no doubt better than many other blogging platforms. As it is a self-hosted CMS, you&amp;rsquo;ll have to manage the site yourself. When you encounter technical issues, you or any other person with good knowledge of PHP, WP, htaccess, CSS should solve the problem. Blogger is user-friendly but it cannot be customized as WordPress. Technical issues in Blogger platform is handled by Google engineers.&lt;/p&gt;
 &lt;p&gt;Today, we&amp;rsquo;ll share 3 working solutions to one of the most frustrating WordPress issue i.e. locked or slow dashboard. If your WordPress site&amp;rsquo;s dashboard is not working, loading or showing up or if it is loading slow, don&amp;rsquo;t worry! Just follow the below instructions to restore access to the dashboard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easiest way to create SEO friendly WordPress slideshows</title>
-      <link>http://localhost:1313/easiest-way-to-create-seo-friendly-wordpress-slideshows/</link>
+      <link>https://www.carnaghan.com/easiest-way-to-create-seo-friendly-wordpress-slideshows/</link>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/easiest-way-to-create-seo-friendly-wordpress-slideshows/</guid>
+      <guid>https://www.carnaghan.com/easiest-way-to-create-seo-friendly-wordpress-slideshows/</guid>
       <description>&lt;p&gt;Slideshows are attractive, aren&amp;rsquo;t they? Blogs with slideshows have a very less bounce rate, high level of user engagement and better conversion rate. Many webmasters embed a picture slideshow in their sites. This makes users spend more time on the sites which in turn increases its search engine rankings.&lt;/p&gt;
 &lt;p&gt;If you want to use an online tool to create slides, there&amp;rsquo;s no better tool than SlideShare. This tool can generate slideshow code. Thus, you can easily embed your slideshow on any blog/website. If you use this code, you will be wasting your page rank as the code will link your site to SlideShare without adding rel=&amp;ldquo;nofollow&amp;rdquo; attribute. The generated code will add an iframe to your site. Some search engines ignore the content in iframes. In such cases, you can use the best WordPress slideshow plugin, the Meta Slider. If you don&amp;rsquo;t use WordPress content management system, you can use a Jquery slideshow plugin. There are two main advantages of using the WP plugin:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Move WordPress site from one server to another with no downtime</title>
-      <link>http://localhost:1313/move-wordpress-site-from-one-server-to-another-with-no-downtime/</link>
+      <link>https://www.carnaghan.com/move-wordpress-site-from-one-server-to-another-with-no-downtime/</link>
       <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/move-wordpress-site-from-one-server-to-another-with-no-downtime/</guid>
+      <guid>https://www.carnaghan.com/move-wordpress-site-from-one-server-to-another-with-no-downtime/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve managed to move my WordPress site from one server to another a couple of times with 0 seconds downtime and no loss of traffic. For a newbie, the transfer process can take almost an hour. For an experienced guy, the time will be reduced to 20 or 25 minutes. Migrating a WordPress site is impossible if you&amp;rsquo;re using a slow internet connection. So make sure that you&amp;rsquo;re a broadband user with a web speed of at least 1 or 2 MBPS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HostGator Review 2018 : Powerful servers and great uptime</title>
-      <link>http://localhost:1313/hostgator-review-2018-powerful-servers-and-great-uptime/</link>
+      <link>https://www.carnaghan.com/hostgator-review-2018-powerful-servers-and-great-uptime/</link>
       <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hostgator-review-2018-powerful-servers-and-great-uptime/</guid>
+      <guid>https://www.carnaghan.com/hostgator-review-2018-powerful-servers-and-great-uptime/</guid>
       <description>&lt;p&gt;Yesterday, the 1st of April might have been the best day for you but it was an awful day for me. My top site, which generates a decent income was down for nearly 4 hours in the daytime. The site was not accessible to 100s of search engine users from 12:30 PM to 4:20 PM. The downtime was due to a network issue and misconfiguration by ASO staff.&lt;/p&gt;
 &lt;p&gt;The network issue started around 12:30 PM and it was resolved after 45 minutes. The staff moved the affected domains to a new IP address but the mapping was not correct. So from 1:00 PM onwards, the homepage of my blog was being redirected to some shi*t site. This resulted in 100s of 404 errors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress security and malware removal plugins</title>
-      <link>http://localhost:1313/best-wordpress-security-and-malware-removal-plugins/</link>
+      <link>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</link>
       <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wordpress-security-and-malware-removal-plugins/</guid>
+      <guid>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</guid>
       <description>&lt;p&gt;WordPress CMS has been prone to many online threats ever since Matt Mullenweg and the team officially launched it. The content management system is impressive, but you can’t stop hackers from attacking websites powered by WP. Attacks can be prevented by installing a WordPress security plugin. If the internet is the only source of your income, you shouldn&amp;rsquo;t risk your site. There are a lot of useful web tools that can keep your website safe. The best ones are listed below:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mailchimp latest Pricing, Review and Features</title>
-      <link>http://localhost:1313/mailchimp-latest-pricing-review-and-features/</link>
+      <link>https://www.carnaghan.com/mailchimp-latest-pricing-review-and-features/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mailchimp-latest-pricing-review-and-features/</guid>
+      <guid>https://www.carnaghan.com/mailchimp-latest-pricing-review-and-features/</guid>
       <description>&lt;p&gt;Many bloggers believe that email marketing is the best strategy to have a loyal and regular audience. Thus, you&amp;rsquo;ll find an email opt-in widget on all popular blogs. There are a lot of email subscription service for blogs and in my perspective, Mailchimp tops the list. Mailchimp pricing is attractive, cheap and its features are powerful. The free version of MailChimp service allows you to change newsletter template, design, title. It can generate newsletter automatically from your blogs RSS feed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best keyword density checker for WordPress (2018)</title>
-      <link>http://localhost:1313/best-keyword-density-checker-for-wordpress-2018/</link>
+      <link>https://www.carnaghan.com/best-keyword-density-checker-for-wordpress-2018/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-keyword-density-checker-for-wordpress-2018/</guid>
+      <guid>https://www.carnaghan.com/best-keyword-density-checker-for-wordpress-2018/</guid>
       <description>&lt;p&gt;My technology blog was penalized at least 4 to 5 times. In my initial days of blogging career, I was not aware of terms like keyword density, on page SEO, backlinks, etc. I indulged myself in link building activities, and I was not focused on sharing top quality content. These three blogging mistakes killed my blog&amp;rsquo;s traffic up to 70 to 80%.&lt;/p&gt;
 &lt;p&gt;As they say, we learn from our mistakes and hard work pays off, I worked hard for 3 to 4 months to regain the lost traffic and rectified all errors that I committed. In those four months, I removed around 400 blog posts and improved the content quality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Wordpress Related Posts Plugins (2018)</title>
-      <link>http://localhost:1313/best-wordpress-related-posts-plugins-2018/</link>
+      <link>https://www.carnaghan.com/best-wordpress-related-posts-plugins-2018/</link>
       <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wordpress-related-posts-plugins-2018/</guid>
+      <guid>https://www.carnaghan.com/best-wordpress-related-posts-plugins-2018/</guid>
       <description>&lt;p&gt;Related posts plugins on blogs are useful in many ways. All blogs powered with WordPress content management system use them. They improve the internal linking structure of your website. They also help in reducing bounce rate of a website.&lt;/p&gt;
 &lt;p&gt;These plugins can be configured to show related posts on the sidebar as a widget. They can show relevant posts above or below a blog post with or without shortcodes. I&amp;rsquo;ve been blogging since the year 2013, and I&amp;rsquo;ve used these below best Wordpress related posts plugins on my blogs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working tricks to reduce bandwidth usage for a site</title>
-      <link>http://localhost:1313/working-tricks-to-reduce-bandwidth-usage-for-a-site/</link>
+      <link>https://www.carnaghan.com/working-tricks-to-reduce-bandwidth-usage-for-a-site/</link>
       <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working-tricks-to-reduce-bandwidth-usage-for-a-site/</guid>
+      <guid>https://www.carnaghan.com/working-tricks-to-reduce-bandwidth-usage-for-a-site/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve signed up for a limited hosting limited plan, then follow the below tricks/methods to reduce the bandwidth usage for your site. I&amp;rsquo;ve successfully implemented the below tricks in one of my site, and the bandwidth usage has reduced by 25 percent.&lt;/p&gt;
 &lt;h2 id=&#34;reduce-image-size&#34;&gt;Reduce Image size&lt;/h2&gt;
 &lt;p&gt;Using large images of a site can kill hosting bandwidth within a week unless you&amp;rsquo;re signed up for an unlimited hosting plan. If you&amp;rsquo;re using a content management system like WordPress, plugins like EWWW Image Optimizer or WP Smush it can take care of pictures you upload. If you&amp;rsquo;ve developed your site from scratch, then you should use Yahoo&amp;rsquo;s smushit online tool. The tool will reduce image size without affecting its quality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Blogging Platform : Blogger vs WordPress Comparision</title>
-      <link>http://localhost:1313/best-blogging-platform-blogger-vs-wordpress-comparision/</link>
+      <link>https://www.carnaghan.com/best-blogging-platform-blogger-vs-wordpress-comparision/</link>
       <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-blogging-platform-blogger-vs-wordpress-comparision/</guid>
+      <guid>https://www.carnaghan.com/best-blogging-platform-blogger-vs-wordpress-comparision/</guid>
       <description>&lt;p&gt;WordPress and Blogger are 2 of the most popular blogging platforms/content management systems of all time. They are free to use. These 2 platforms are so powerful that users can build/launch a new website within a couple of minutes.&lt;/p&gt;
 &lt;p&gt;As a newbie, I used Blogger platform as I didn&amp;rsquo;t want to risk my money in an adventure that I&amp;rsquo;ve never been a part of before. After 5 - 6 months, I migrated my site to WordPress. Well, if you&amp;rsquo;re starting up with blogging and if you&amp;rsquo;re confused in choosing the best blogging platform for you then please go through the below paragraphs:&lt;/p&gt;</description>
     </item>

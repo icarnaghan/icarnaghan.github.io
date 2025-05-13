@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mixx on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/mixx/</link>
+    <link>https://www.carnaghan.com/tags/mixx/</link>
     <description>Recent content in Mixx on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mixx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/mixx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mixx Partners with Marketfish for New Ad Platform</title>
-      <link>http://localhost:1313/mixx-partners-with-marketfish-for-new-ad-platform/</link>
+      <link>https://www.carnaghan.com/mixx-partners-with-marketfish-for-new-ad-platform/</link>
       <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mixx-partners-with-marketfish-for-new-ad-platform/</guid>
+      <guid>https://www.carnaghan.com/mixx-partners-with-marketfish-for-new-ad-platform/</guid>
       <description>&lt;p&gt;With the popularity of social news, there have been many launches and premieres of new apps on the scene. One of the most popular and rising clone site&amp;rsquo;s is Mixx.com. Very similar to Digg, Mixx allows users to vote up the hottest articles and news based on categories ranging from world news, technology, science, and gaming.&lt;/p&gt;</description>
     </item>
   </channel>

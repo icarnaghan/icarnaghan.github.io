@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mashable on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/mashable/</link>
+    <link>https://www.carnaghan.com/tags/mashable/</link>
     <description>Recent content in Mashable on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Feb 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mashable/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/mashable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why is Mashable so Quick to Promote Google Buzz?</title>
-      <link>http://localhost:1313/why-is-mashable-so-quick-to-promote-google-buzz/</link>
+      <link>https://www.carnaghan.com/why-is-mashable-so-quick-to-promote-google-buzz/</link>
       <pubDate>Tue, 23 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/why-is-mashable-so-quick-to-promote-google-buzz/</guid>
+      <guid>https://www.carnaghan.com/why-is-mashable-so-quick-to-promote-google-buzz/</guid>
       <description>&lt;p&gt;Mashable is one huge blog, a very large competitor to Inside the Webb and what I wish we could be someday! They run some amazing articles about social networking, social media, tech news, and everything internet related. They usually have articles hitting the front page of Digg and Delicious, gaining well into 1500+ ReTweets and tons of Stumbles: bottom line, their blog is huge!&lt;/p&gt;</description>
     </item>
   </channel>

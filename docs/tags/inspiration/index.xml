@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inspiration on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/inspiration/</link>
+    <link>https://www.carnaghan.com/tags/inspiration/</link>
     <description>Recent content in Inspiration on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Float Launches their Inspiration Blog with New Posts</title>
-      <link>http://localhost:1313/design-float-launches-their-inspiration-blog-with-new-posts/</link>
+      <link>https://www.carnaghan.com/design-float-launches-their-inspiration-blog-with-new-posts/</link>
       <pubDate>Fri, 16 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/design-float-launches-their-inspiration-blog-with-new-posts/</guid>
+      <guid>https://www.carnaghan.com/design-float-launches-their-inspiration-blog-with-new-posts/</guid>
       <description>&lt;p&gt;Design Float is one of the top social news sites for web design and graphics articles. Having been online for almost 2 years now, there&amp;rsquo;s been a lot of talk and hype about the site which has contributed to its popularity. However over the past few weeks, the owner of DF has begun to post again on the Design Float Blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Q&amp;amp;A with Premium Wordpress Theme Developer WPMonk</title>
-      <link>http://localhost:1313/qampa-with-premium-wordpress-theme-developer-wpmonk/</link>
+      <link>https://www.carnaghan.com/qampa-with-premium-wordpress-theme-developer-wpmonk/</link>
       <pubDate>Wed, 24 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/qampa-with-premium-wordpress-theme-developer-wpmonk/</guid>
+      <guid>https://www.carnaghan.com/qampa-with-premium-wordpress-theme-developer-wpmonk/</guid>
       <description>&lt;p&gt;So many premium Wordpress themes roam the internet these days, all of varying quality and development. I recently found a really neat Premium Wordpress design company WP Monk. They run a very impressive website design, plus their premium themes are impeccable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exclusive Interview with LogoMoose Creator Dirk Leys</title>
-      <link>http://localhost:1313/exclusive-interview-with-logomoose-creator-dirk-leys/</link>
+      <link>https://www.carnaghan.com/exclusive-interview-with-logomoose-creator-dirk-leys/</link>
       <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/exclusive-interview-with-logomoose-creator-dirk-leys/</guid>
+      <guid>https://www.carnaghan.com/exclusive-interview-with-logomoose-creator-dirk-leys/</guid>
       <description>&lt;p&gt;So many inspirational sites have sprung up recently. The web is crawling with CSS galleries and logo galleries, but only a few really break the mold and stand out as the most creative, inspiring, and useful collections. LogoMoose makes it to the top of my list.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Little Box of Ideas Design Blog</title>
-      <link>http://localhost:1313/interview-with-little-box-of-ideas-design-blog/</link>
+      <link>https://www.carnaghan.com/interview-with-little-box-of-ideas-design-blog/</link>
       <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interview-with-little-box-of-ideas-design-blog/</guid>
+      <guid>https://www.carnaghan.com/interview-with-little-box-of-ideas-design-blog/</guid>
       <description>&lt;p&gt;Much alike many designers out there, I&amp;rsquo;m constantly craving new graphic design inspiration, web design galleries, and everything the life of a designer should be filled to the brim with. This leads me on my quest of finding the best design blogs out on the internetz, and my interview today is no shortage. Little Box of Ideas is a great design and creativity blog, focusing on great topics such as graphics tutorials and typography.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Inside Creativity Den: New Inspiration Blog for Designers</title>
-      <link>http://localhost:1313/getting-inside-creativity-den-new-inspiration-blog-for-designers/</link>
+      <link>https://www.carnaghan.com/getting-inside-creativity-den-new-inspiration-blog-for-designers/</link>
       <pubDate>Thu, 14 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/getting-inside-creativity-den-new-inspiration-blog-for-designers/</guid>
+      <guid>https://www.carnaghan.com/getting-inside-creativity-den-new-inspiration-blog-for-designers/</guid>
       <description>&lt;p&gt;Web designers have no shortage of inspiration these days. It seems as though there are new design and inspiration blogs popping up every hour, and there&amp;rsquo;s never a shortage of posts to go around. With new social media sites such as Design Moo and DesignBump, articles for graphic artists and web designers are able to spread like wildfire. It&amp;rsquo;s rare when you run across a unique and helpful blog, and this is the case with CreativityDen.&lt;/p&gt;</description>
     </item>
   </channel>

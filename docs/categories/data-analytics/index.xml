@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data-Analytics on Ian Carnaghan</title>
-    <link>http://localhost:1313/categories/data-analytics/</link>
+    <link>https://www.carnaghan.com/categories/data-analytics/</link>
     <description>Recent content in Data-Analytics on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/categories/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relational vs Star Schema Model</title>
-      <link>http://localhost:1313/relational-vs-star-schema-model/</link>
+      <link>https://www.carnaghan.com/relational-vs-star-schema-model/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/relational-vs-star-schema-model/</guid>
+      <guid>https://www.carnaghan.com/relational-vs-star-schema-model/</guid>
       <description>&lt;p&gt;There are two main philosophies that have become prominent over the past several decades with information management pioneered by Bill Inmon and Ralph Kimball. Nagesh &amp;amp; Cody (2005) provide an overview of these contrasting approaches, which are vastly different with their own merits and downsides. Inmon believes in building a large centralized enterprise-wide data warehouse using a relational database. Kimball on the other hand recommends starting by defining data marts (subsets of data around a specific domain, or use case) within a star schema. In order to understand these approaches, it is essential to understand the main differences between a relational model and a star model.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rapid Reporting and Visualization Development with Watson Analytics</title>
-      <link>http://localhost:1313/rapid-reporting-and-visualization-development-with-watson-analytics/</link>
+      <link>https://www.carnaghan.com/rapid-reporting-and-visualization-development-with-watson-analytics/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rapid-reporting-and-visualization-development-with-watson-analytics/</guid>
+      <guid>https://www.carnaghan.com/rapid-reporting-and-visualization-development-with-watson-analytics/</guid>
       <description>&lt;p&gt;Watson Analytics provides a powerful suite of display and rapid reporting options. This article looks at two distinct datasets from Kaggle, Laptop Price and Mobile Price Classification. By using the display options available within Watson Analytics, the ability to create a compelling story possible. Both sets of analysis are focused around the target variable of price (or price_range), and the details of these datasets have been included below for reference. Laptop Price consists of records of various laptop models, that were last updated six months ago from writing, adding additional laptop characteristics and prices. Mobile Price Classification provides data on mobile phones including price range classifications.  Analysis of data quality and cleansing will not be discussed in this article. Rather the focus of building compelling visualizations and telling a story are the priority here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple Predictive Modeling with Watson Analytics</title>
-      <link>http://localhost:1313/simple-predictive-modeling-with-watson-analytics/</link>
+      <link>https://www.carnaghan.com/simple-predictive-modeling-with-watson-analytics/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/simple-predictive-modeling-with-watson-analytics/</guid>
+      <guid>https://www.carnaghan.com/simple-predictive-modeling-with-watson-analytics/</guid>
       <description>&lt;p&gt;This article focuses on two different predictive models built from two different data sources from Kaggle, Laptop Price and Mobile Price Classification. Laptop Price consists of records of various laptop models, which was last updated six months ago from writing, adding additional laptop characteristics and prices. Mobile Price Classification provides data on mobile phones including price range classifications. The Laptop Prices data consists of the following variables:&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -108,38 +108,38 @@
     </item>
     <item>
       <title>Exploratory Data Analysis with Watson Analytics</title>
-      <link>http://localhost:1313/exploratory-data-analysis-with-watson-analytics/</link>
+      <link>https://www.carnaghan.com/exploratory-data-analysis-with-watson-analytics/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/exploratory-data-analysis-with-watson-analytics/</guid>
+      <guid>https://www.carnaghan.com/exploratory-data-analysis-with-watson-analytics/</guid>
       <description>&lt;p&gt;Watson Analytics provides a suite of analytics tools that are easy to use for non-technical people. The software opens the door for data preparation and exploration for managers and other personnel who would benefit from analysis but don&amp;rsquo;t necessarily have the advanced analytical background. This article details the analysis of a dataset called Laptop Prices, sourced from Kaggle. The dataset comprises 1300 records of various laptop models, which was last updated six months ago from writing, adding additional laptop characteristics and prices. This analysis will begin with Watson Analytics starting points, which is helpful for exploration purposes. Watson provides pre-defined suggestions that help the user determine the best way to proceed with their own analysis. These starting points provide insight on the different facets of data available within the dataset. The Laptop Prices data consists of the following data:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is Your Organization Using Evidence-Based Decision Making?</title>
-      <link>http://localhost:1313/is-your-organization-using-evidence-based-decision-making/</link>
+      <link>https://www.carnaghan.com/is-your-organization-using-evidence-based-decision-making/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/is-your-organization-using-evidence-based-decision-making/</guid>
+      <guid>https://www.carnaghan.com/is-your-organization-using-evidence-based-decision-making/</guid>
       <description>&lt;p&gt;There are more ways to access data through a large amount of software tools than there has ever been in the history of analytics. We have access to a wealth of information that, if used properly, can help drive decisions and bring about success within organizations. Why then are so many top-level executive decisions driven by intuition and gut feel?&lt;/p&gt;
 &lt;p&gt;There have been countless examples over the last decade of commercial failures that could have been avoided if a greater analytical approach had been adopted and used in evidence based thinking and decision making. Unfortunately adopting and integrating analytics into the operational and strategic decisions has it&amp;rsquo;s challenges. Two of the largest hurdles to successful integration of evidence-based decision making fall within the organizational culture and awareness or education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using Data Analytics to Improve Heath Care</title>
-      <link>http://localhost:1313/using-data-analytics-to-improve-heath-care/</link>
+      <link>https://www.carnaghan.com/using-data-analytics-to-improve-heath-care/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/using-data-analytics-to-improve-heath-care/</guid>
+      <guid>https://www.carnaghan.com/using-data-analytics-to-improve-heath-care/</guid>
       <description>&lt;p&gt;The Center for Medicare and Medicaid Services has launched several programs over the years with the goal of improving healthcare in the United States. The Transforming Clinical Practices Initiative (TCPI) is one of these programs, that was built to support clinician practices through peer-based learning. The goals of this initiative is to facilitate large-scale practice transformation through several support structures, Practice Transformation Networks (PTN),  Support and Alignment Networks (SANS), and SANS 2. PTNs are peer-based learning networks with the aim of coaching, mentoring to support clinicians in practice transformation. SANs provide workforce development using existing education, competency and certification tools and support the recruitment of clinician practices in underserved communities. SANs 2 are a catalyst for the adoption of alternative payment models aimed at the new quality payment program.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizational Culture Changes and Impacts on the Individual &amp; Decision Making</title>
-      <link>http://localhost:1313/organizational-culture-changes-and-impacts-on-the-individual-decision-making/</link>
+      <link>https://www.carnaghan.com/organizational-culture-changes-and-impacts-on-the-individual-decision-making/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/organizational-culture-changes-and-impacts-on-the-individual-decision-making/</guid>
+      <guid>https://www.carnaghan.com/organizational-culture-changes-and-impacts-on-the-individual-decision-making/</guid>
       <description>&lt;p&gt;Organizational culture has an impact on how a business functions. (O’Reilly III, Chatman, &amp;amp; Caldwell, 1991) echo the agreement of researchers over the years that culture may be an important factor in determining how well an individual fits an organizational context. I&amp;rsquo;ve witnessed the positive and negative effects of organizational culture both in regards to the individual as well as decision making, that has a profound effect on others. In the article Decision-Making: The Impact of Organizational Culture, (Buchanan, 2018) cites the positives of a small organizational structure with a culture of collaboration (everyone wearing multiple hats and helping each other out). At the same time she warns about misalignment between culture and behaviors and how evidence and data driven decision making, when used incorrectly, can have adverse results.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poor Decisions Impacted by Bias in Software Development</title>
-      <link>http://localhost:1313/poor-decisions-impacted-by-bias-in-software-development/</link>
+      <link>https://www.carnaghan.com/poor-decisions-impacted-by-bias-in-software-development/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/poor-decisions-impacted-by-bias-in-software-development/</guid>
+      <guid>https://www.carnaghan.com/poor-decisions-impacted-by-bias-in-software-development/</guid>
       <description>&lt;p&gt;Beyond Bias provides an excellent overview of the five different categories of biases, similarity, expedience, experience, distance, and safety. As someone who has worked in the software development field for a number of years, I have witnessed accounts of poor decision making and its ramifications within the organizations I have worked for. Specifically within software development I have witnessed poor decision making during proposal efforts, architectural decisions, and delivery.&lt;/p&gt;
 &lt;p&gt;Bidding on work, especially within the federal space, can be a time consuming and involved effort by many parties. On technical proposals, it is essential that the correct mix of people are part of the proposal team. I have observed how biases within the expedience domain can often come to play within business development. One project I was recently involved with in the last few years suffered from lack of technical input during the proposal phase, and availability and confirmation bias led the team to under bid the work. This had negative consequences on expectation of scope and delivery efforts later on. The situation could have been prevented by ensuring more technical expertise was placed within the team and those making the decisions affecting scope did an objective evidence.&lt;/p&gt;</description>
     </item>

@@ -2,207 +2,207 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Academic-Papers on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/academic-papers/</link>
+    <link>https://www.carnaghan.com/tags/academic-papers/</link>
     <description>Recent content in Academic-Papers on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/academic-papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/academic-papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moving Target Defense (MTD)</title>
-      <link>http://localhost:1313/moving-target-defense-mtd/</link>
+      <link>https://www.carnaghan.com/moving-target-defense-mtd/</link>
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/moving-target-defense-mtd/</guid>
+      <guid>https://www.carnaghan.com/moving-target-defense-mtd/</guid>
       <description>&lt;p&gt;Organizations continue to struggle with policies and processes to effectively secure their infrastructure to protect their information assets and intellectual property. In recent years, we have seen the increase of cyber-attacks and breaches to the point that they have become common news worldwide. As systems have grown in complexity with increased capacity to store large amounts of data, so to has the appeal of targeting such systems by cyber criminals. Traditional approaches of defense including signature-based detection, behavioral-based detection, and defense in depth strategies are not enough to protect against advanced distributed attacks and zero-day attacks. Current technologies used to detect traffic, whether packet-based, time-based, or behavior-based, can provide some level of defense. Unfortunately, however as our tools and techniques improve, so too do the accuracy and advancements in sophisticated attackers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Business Continuity Analysis</title>
-      <link>http://localhost:1313/business-continuity-analysis/</link>
+      <link>https://www.carnaghan.com/business-continuity-analysis/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/business-continuity-analysis/</guid>
+      <guid>https://www.carnaghan.com/business-continuity-analysis/</guid>
       <description>&lt;p&gt;The purpose of business continuity planning is to ensure continued operations of an organization in the event of a catastrophic event, whether this may be a natural disaster or something more sinister. In recent years, we have seen the increase of cyber-attacks and breaches to the point that they have become common news worldwide. As systems have grown in complexity and capacity to store large amounts of data, so too has the appeal of targeting such systems by cyber criminals. In order to meet these challenges head on, business organizations must adapt and implement a comprehensive business continuity plan. Cerullo and Cerullo (2004) describe a business continuity plan as dynamic and evolving as the business environment changes and its dependency on advanced technology changes. They go on to describe three interdependent objectives which include identification of major risks, development of a plan to mitigate or reduce impact of risks, and testing and training. While there is no single recipe to the ideal continuity plan, stakeholders across the organization must play a role in building out a framework for business continuity management that can be used to mitigate major risks while maintaining ‘business as usual’ in the event of a disaster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An analysis of different data sources used in a forensics investigation</title>
-      <link>http://localhost:1313/an-analysis-of-different-data-sources-used-in-a-forensics-investigation/</link>
+      <link>https://www.carnaghan.com/an-analysis-of-different-data-sources-used-in-a-forensics-investigation/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/an-analysis-of-different-data-sources-used-in-a-forensics-investigation/</guid>
+      <guid>https://www.carnaghan.com/an-analysis-of-different-data-sources-used-in-a-forensics-investigation/</guid>
       <description>&lt;p&gt;This article provides an overview of four different data sources used in various forensics investigations. The first source includes system log files containing system logs within the operating system as well as an overview of some tools that can be used in order to effectively understand these logs. File systems are also discussed including the effectiveness of metadata and their overall relevance to an investigation or analysis. The third source involves intrusion detection and prevention systems that give a greater overview of traffic at the network layer. Finally, the most volatile of data sources, memory is examined in depth along with the impact such data may have on an investigation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DNS Rebinding and Intrusion Detection with Contextual Signatures</title>
-      <link>http://localhost:1313/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</link>
+      <link>https://www.carnaghan.com/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</guid>
+      <guid>https://www.carnaghan.com/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</guid>
       <description>&lt;p&gt;This article summarizes and analyzes discussion from two different articles on the subjects of DNS Rebinding and the use of contextual signatures with Intrusion Detection Systems.&lt;/p&gt;
 &lt;p&gt;DNS Rebinding is type of attack that was first documented in the mid 1990s. Since then it has become more prevalent through vulnerabilities inherent the way information is transmitted to and from a typical web browser using JavaScript. This topic is covered in depth along with the various methods of DNS rebinding, vulnerabilities and mitigations efforts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitigating DoS or Distributed DoS (DDoS) attacks</title>
-      <link>http://localhost:1313/mitigating-dos-or-distributed-dos-ddos-attacks/</link>
+      <link>https://www.carnaghan.com/mitigating-dos-or-distributed-dos-ddos-attacks/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mitigating-dos-or-distributed-dos-ddos-attacks/</guid>
+      <guid>https://www.carnaghan.com/mitigating-dos-or-distributed-dos-ddos-attacks/</guid>
       <description>&lt;p&gt;Denial of Service (Dos) and Distributed Denial of Service (DDoS) attacks have continued to prove to be one of the most challenging threats in modern times. While DoS has been around for some time, the methods used and practices of distributed botnets and automated scripts have continued to grow in sophistication. This paper survey’s three peer reviewed papers in the areas of Denial of Service Detection, Prevention and Mitigation. Each of these sections provide a rationale for the publication selected along with an overview of the proposed techniques and / or application solutions. Each section concludes by highlighting some benefits and drawbacks for each proposed technique. Additional supporting research has been carried out contribute to this overall paper as outlined in the references section at the end.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Operating Systems Security: Protection Measures Analysis</title>
-      <link>http://localhost:1313/operating-systems-security-protection-measures-analysis/</link>
+      <link>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/operating-systems-security-protection-measures-analysis/</guid>
+      <guid>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</guid>
       <description>&lt;p&gt;The Internet has brought us a wealth of conveniences and everyday tools that we could not live without and more importantly a dependency that we cannot break. In the workplace the Internet has become a part of our day to day lives. We rely on instant communication with our co-workers, friends and colleagues as well as access to a multitude of information at our fingertips. Children from younger ages are becoming more involved with computers and technology in a trend will continue as the Internet of Things evolves around us in every day appliances. Unfortunately, with all these convenience come challenges and risks that we need to deal with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curriculum Mapping for Expeditionary Learning</title>
-      <link>http://localhost:1313/curriculum-mapping-for-expeditionary-learning/</link>
+      <link>https://www.carnaghan.com/curriculum-mapping-for-expeditionary-learning/</link>
       <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/curriculum-mapping-for-expeditionary-learning/</guid>
+      <guid>https://www.carnaghan.com/curriculum-mapping-for-expeditionary-learning/</guid>
       <description>&lt;p&gt;Curriculum Mapping is the process of documenting lessons, activities and assessment methods used within different grade levels and classes in an educational institution.  Expeditionary Learning (EL) is a style of teaching that involves the students in experiences and problem-solving activities.  This paper explores the intersection of these two educational theories and addresses how pedagogical goals are met/not met by designing for both. It also addresses how the research of Heidi Hayes Jacobs (2004) affect efforts to design for and support this intersection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backwards Design</title>
-      <link>http://localhost:1313/backwards-design/</link>
+      <link>https://www.carnaghan.com/backwards-design/</link>
       <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/backwards-design/</guid>
+      <guid>https://www.carnaghan.com/backwards-design/</guid>
       <description>&lt;p&gt;Backwards design is a methodology used to develop curriculum, which promotes the identification of learning results at the start of the design process.  Wiggins and McTighe defined this term as part of their Understanding by Design (UbD) framework.  Backwards design is not a new concept, it has been around for a long time and this paper explores some of the underlying research behind Wiggins and McTighe’s work.  Backwards design promotes a focus on teaching for understanding and learning, as well as designing the curriculum in way that meets learning goals while aligning results with state requirements.  (McTighe &amp;amp; Wiggins, 2012).  Often within education, learning goals are set first, before considering the assessment strategies that will be used to measure students’ understanding.  Without considering the results that are expected of a student, the chances of goals and assessment aligning with required results, or outputs are greatly diminished.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hacktivism, Anonymous, and the Bureau of Justice Statistics</title>
-      <link>http://localhost:1313/hacktivism-anonymous-and-the-bureau-of-justice-statistics/</link>
+      <link>https://www.carnaghan.com/hacktivism-anonymous-and-the-bureau-of-justice-statistics/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hacktivism-anonymous-and-the-bureau-of-justice-statistics/</guid>
+      <guid>https://www.carnaghan.com/hacktivism-anonymous-and-the-bureau-of-justice-statistics/</guid>
       <description>&lt;p&gt;In recent years news stories have highlighted the increasing rate of cybercriminal activity targeting both private organizations and government entities. Cases from mischievous amateur hackers managing to exploit basic vulnerabilities, to more advanced security breaches carried out by expert criminal hackers and cybercrime organizations overseas, have grabbed the attention of the media.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobile Cybersecurity Policies in the Private and Public Sector</title>
-      <link>http://localhost:1313/mobile-cybersecurity-policies-in-the-private-and-public-sector/</link>
+      <link>https://www.carnaghan.com/mobile-cybersecurity-policies-in-the-private-and-public-sector/</link>
       <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mobile-cybersecurity-policies-in-the-private-and-public-sector/</guid>
+      <guid>https://www.carnaghan.com/mobile-cybersecurity-policies-in-the-private-and-public-sector/</guid>
       <description>&lt;p&gt;“We are moving into a new era of mobile computing, one that promises greater variety in applications highly improved usability, and speedier networking.” Godwin-Jones (2008). This statement rings true for the past five years where mobile computing has seen a massive explosion in growth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Online Teaching and Learning Experiences in Higher Education</title>
-      <link>http://localhost:1313/online-teaching-and-learning-experiences-in-higher-education/</link>
+      <link>https://www.carnaghan.com/online-teaching-and-learning-experiences-in-higher-education/</link>
       <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/online-teaching-and-learning-experiences-in-higher-education/</guid>
+      <guid>https://www.carnaghan.com/online-teaching-and-learning-experiences-in-higher-education/</guid>
       <description>&lt;p&gt;In 2007 I graduated from the University of Ulster&amp;rsquo;s new E-Learning masters program.  For my thesis, I developed a research study on collaborative learning and more specifically the adoption of Adobe Connect at the University of Maryland University College.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Health Services and Challenges facing the Low-Literacy Population</title>
-      <link>http://localhost:1313/health-services-and-challenges-facing-the-low-literacy-population/</link>
+      <link>https://www.carnaghan.com/health-services-and-challenges-facing-the-low-literacy-population/</link>
       <pubDate>Fri, 15 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/health-services-and-challenges-facing-the-low-literacy-population/</guid>
+      <guid>https://www.carnaghan.com/health-services-and-challenges-facing-the-low-literacy-population/</guid>
       <description>&lt;p&gt;In the United States, a large proportion of the population falls into the category of having low literacy skills.  “A long-awaited federal study finds that an estimated 32 million adults in the USA — about one in seven — are saddled with such low literacy skills that it would be tough for them to read anything more challenging than a children&amp;rsquo;s picture book or to understand a medication&amp;rsquo;s side effects listed on a pill bottle.” Toppo (2009).  This poses challenges for these individuals seeking services and assistance online using websites that have traditionally not catered for this segment of the population.  Services including health information for vaccinations, information on the availability of free clinics in the area, and advice and support from organizations such as Planned Parenthood, simply aren’t as easily accessible to this group of the general population.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybercrime: Law Enforcement and E-Government Transnational Issues</title>
-      <link>http://localhost:1313/cybercrime-law-enforcement-and-e-government-transnational-issues/</link>
+      <link>https://www.carnaghan.com/cybercrime-law-enforcement-and-e-government-transnational-issues/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cybercrime-law-enforcement-and-e-government-transnational-issues/</guid>
+      <guid>https://www.carnaghan.com/cybercrime-law-enforcement-and-e-government-transnational-issues/</guid>
       <description>&lt;p&gt;During his 2013 State of the Union address, President Obama highlighted the importance of defending our nation from the many cyber threats that are continuing to dominate the news cycles. Just days prior to the President’s speech, eighteen people were charged in a massive credit card fraud ring. The Associated Press (2013) described it as a “sprawling international scam that duped credit-rating agencies” by using stolen identities of individual victims to steal $200 million.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybersecurity as a Public Good</title>
-      <link>http://localhost:1313/cybersecurity-as-a-public-good/</link>
+      <link>https://www.carnaghan.com/cybersecurity-as-a-public-good/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cybersecurity-as-a-public-good/</guid>
+      <guid>https://www.carnaghan.com/cybersecurity-as-a-public-good/</guid>
       <description>&lt;p&gt;Over the last decade, the boom of the Internet has had a major impact on the way we interact with other individuals and business entities.  Products and services have become available at the touch of a button and access to vast amounts of information has become available to anyone with a direct connection to the web.  Much correspondence, which was traditionally mailed through the postal service now takes place online through e-mail communications.  Management of bank and other financial services accounts can all be administered through online tools where the customer seldom needs to enter a physical branch location anymore. &lt;br&gt;
 There are clearly many advantages to this new connected world and services that are still evolving at the current time will provide even more convenience to users over the next number of years.   Unfortunately many of the conveniences of online services come at a price.  As software systems have become more advanced so too have the criminals who seek to breach these systems to their own end.   Computers have evolved to the point where the information stored now “contain wedding videos, scanned family photos, music libraries, movie collections, and financial and medical records.” (Vacca, 2009)  Vast amounts of information is being stored online in newer cloud based services which is creating even larger targets for cybercriminals.  Consumers have put their trust in many corporate organizations who handle their sensitive data to protect it adequately from those who would seek to steal or destroy it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human Cognition Factors in Online Messaging</title>
-      <link>http://localhost:1313/human-cognition-factors-in-online-messaging/</link>
+      <link>https://www.carnaghan.com/human-cognition-factors-in-online-messaging/</link>
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/human-cognition-factors-in-online-messaging/</guid>
+      <guid>https://www.carnaghan.com/human-cognition-factors-in-online-messaging/</guid>
       <description>&lt;p&gt;In a hypothetical study, the Interaction Design and Information Architecture (IDIA) department at the University of Baltimore decided to promote their Humans Computers and Cognition (IDIA 640) course to prospective students already enrolled in the program and to those interested in the field.  In order to foster interest in the program, it was decided that a banner or ticker should be deployed within the department website, providing news updates and information about the program to interest visitors.  This paper documents the development of a ticker prototype intended to serve this purpose.  Discussion of the chosen content, rationale for design from a human centered computing and cognitive standpoint follows in the paper.  The prototype has been designed with an emphasis on addressing memory, forgetting, learning and mood.&lt;/p&gt;</description>
     </item>
     <item>
       <title>“We Choose the Moon” From a Human Attention Perspective</title>
-      <link>http://localhost:1313/we-choose-the-moon-from-a-human-attention-perspective/</link>
+      <link>https://www.carnaghan.com/we-choose-the-moon-from-a-human-attention-perspective/</link>
       <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/we-choose-the-moon-from-a-human-attention-perspective/</guid>
+      <guid>https://www.carnaghan.com/we-choose-the-moon-from-a-human-attention-perspective/</guid>
       <description>&lt;p&gt;Web based games and interactive applications have become a common means of teaching a wide range of concepts throughout K-12 schools in the United States.  With the declining costs of hardware and software coupled with the increase of available bandwidth and transfer speeds, the development of educational applications has advanced significantly in the last five years. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Evaluation of a Major News Website From a Human Cognitive Perspective</title>
-      <link>http://localhost:1313/evaluation-of-a-major-news-website-from-a-human-cognitive-perspective/</link>
+      <link>https://www.carnaghan.com/evaluation-of-a-major-news-website-from-a-human-cognitive-perspective/</link>
       <pubDate>Tue, 20 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/evaluation-of-a-major-news-website-from-a-human-cognitive-perspective/</guid>
+      <guid>https://www.carnaghan.com/evaluation-of-a-major-news-website-from-a-human-cognitive-perspective/</guid>
       <description>&lt;p&gt;Over the last decade, a shift has occurred in the way many people access, read and watch current events and news.  From the traditional newspapers and scheduled television news programs, we have moved to a more dynamic interactive medium, which dispenses information in a real-time format.  News websites are a fairly young media; however they have evolved exponentially since the late 1990s to the current time.&lt;/p&gt;
 &lt;p&gt;This article examines a popular news organization’s web presence and evaluates this resource in terms of human centered design and cognition.  It explores the website’s effectiveness of compiling and distributing news information in a way that is easy for humans to comprehend and process.  Much of the focus has been on the main homepage of the website; however other site pages have been taken into consideration adding context to some of the discussion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Security of Information Systems Infrastructure of an International Airport</title>
-      <link>http://localhost:1313/security-of-information-systems-infrastructure-of-an-international-airport/</link>
+      <link>https://www.carnaghan.com/security-of-information-systems-infrastructure-of-an-international-airport/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-of-information-systems-infrastructure-of-an-international-airport/</guid>
+      <guid>https://www.carnaghan.com/security-of-information-systems-infrastructure-of-an-international-airport/</guid>
       <description>&lt;p&gt;As information systems in airports continue to grow in both size and complexity, so too do the risks associated with security vulnerabilities and threats.  Since the terrorist attacks on September 2001, airport security has substantially increased in day to day operations to address modern threats that the transportation infrastructure faces.  Terrorist attacks however are only a portion of the security threats that an international airport faces.&lt;/p&gt;
 &lt;p&gt;Advanced systems used in airports from customer ticketing and check-in, immigration and customs to air traffic control are all depended on daily to maintain operations involving vast numbers of customers travelling throughout the world.  These systems must be secured from a number of threats.  First and foremost, an international airport must be prepared for threats to its physical infrastructure including natural disasters as well as the danger of deliberate attacks.  Risks involved with untrustworthy employees or consultants should be appropriately mitigated through necessary systems permissions and auditing.  External threats of cyber attacks either through the airport’s website booking system or other vulnerable gaps within the information systems must be adequately addressed.  Operations within an airport that are vital to human safety must take a high priority with regards to security investment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Malicious Code Intrusion</title>
-      <link>http://localhost:1313/malicious-code-intrusion/</link>
+      <link>https://www.carnaghan.com/malicious-code-intrusion/</link>
       <pubDate>Mon, 14 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/malicious-code-intrusion/</guid>
+      <guid>https://www.carnaghan.com/malicious-code-intrusion/</guid>
       <description>&lt;p&gt;The last decade has seen a noticeable shift of commercial application development from in-house computer software to the web browser in the form of web applications. Many company web sites today have evolved from small collections of informational pages to a combination of massive database driven applications for sales, marketing, finance, extranets and customer relationship management systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobile Device Applications from a Development Perspective</title>
-      <link>http://localhost:1313/mobile-device-applications-from-a-development-perspective/</link>
+      <link>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mobile-device-applications-from-a-development-perspective/</guid>
+      <guid>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</guid>
       <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;
 &lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;
 &lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Do We Need Financial Regulation?</title>
-      <link>http://localhost:1313/why-do-we-need-financial-regulation/</link>
+      <link>https://www.carnaghan.com/why-do-we-need-financial-regulation/</link>
       <pubDate>Wed, 15 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/why-do-we-need-financial-regulation/</guid>
+      <guid>https://www.carnaghan.com/why-do-we-need-financial-regulation/</guid>
       <description>&lt;p&gt;[1]  “The purpose of financial regulation is to improve upon the performance of financial markets relative to how they would perform driven solely by the forces of the private marketplace.” Banking is one of the most highly regulated industries within the United States.  We can understand the impact of regulation by taking a look at the history and evolution of the banking system through to the present day.&lt;/p&gt;
 &lt;h3 id=&#34;the-early-banking-system&#34;&gt;&lt;strong&gt;The Early Banking System&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Since the early days of banking, the industry has faced many changes in regulation due to different needs arising throughout the years.  In the early days, government control was not favored among most of the original settlers who had come from countries where too much federal control was exerted.  Therefore the early banking system comprised of a multitude of different small banks printing their own currency, which would often fail and leave customers with lost funds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Electronic Financial Transactions</title>
-      <link>http://localhost:1313/electronic-financial-transactions/</link>
+      <link>https://www.carnaghan.com/electronic-financial-transactions/</link>
       <pubDate>Thu, 11 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/electronic-financial-transactions/</guid>
+      <guid>https://www.carnaghan.com/electronic-financial-transactions/</guid>
       <description>&lt;p&gt;Electronic financial transactions have become a common part of everyday life with enhancements in technology and a gradual acceptance and trust of these new ways of doing business.  As the world continues to grow smaller through communication and other technologies, demands have increased dramatically for methods of providing instant financial services.  This has become especially true for people traveling globally with a need to access their finances in different currencies.  Both credit and debit card transactions provide a convenient 24 hour per day access to funds on demand, while other technologies are available for wiring money and sending electronic funds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Work Visas within the United States</title>
-      <link>http://localhost:1313/work-visas-within-the-united-states/</link>
+      <link>https://www.carnaghan.com/work-visas-within-the-united-states/</link>
       <pubDate>Fri, 25 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work-visas-within-the-united-states/</guid>
+      <guid>https://www.carnaghan.com/work-visas-within-the-united-states/</guid>
       <description>&lt;p&gt;More and more companies within the US are hiring foreign personnel on work visas.  As a result, it is vital that any organization wishing to hire a person from a different country must fully understand the laws behind the process of sponsoring an alien to work for their business.  Obtaining work visas can be complicated and, more importantly, time-consuming processes. It is therefore vital that business objectives be clearly established and that visa planning occurs as early as possible to ensure a smooth process of employment.  There are many ways that foreign citizens can apply for residence to the United States; however, the focus of this research paper is on obtaining a work visa through organizational sponsorship and does not outline immigration-visas or ‘green cards’.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TSI (Ireland) Ltd.</title>
-      <link>http://localhost:1313/tsi-ireland-ltd./</link>
+      <link>https://www.carnaghan.com/tsi-ireland-ltd./</link>
       <pubDate>Mon, 28 Feb 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tsi-ireland-ltd./</guid>
+      <guid>https://www.carnaghan.com/tsi-ireland-ltd./</guid>
       <description>&lt;h2 id=&#34;background-information&#34;&gt;Background Information&lt;/h2&gt;
 &lt;p&gt;TSI Ireland was formed over a year ago in February 1999 as a Private Limited Company.  Financial backing came from the two partners within the company, Mr. Martin Hamill and Mr. Eric Carson (Business Manager for Orange, Northern Ireland).  Staff comprised of 6 full time workers split into the following areas: two Administration personnel, a telecoms engineer, sales director, account manager and the managing director.  The company also undertakes contract work from additional 6 workers who are primarily involved with sales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizational Behavior Leadership and Teamwork</title>
-      <link>http://localhost:1313/organizational-behavior-leadership-and-teamwork/</link>
+      <link>https://www.carnaghan.com/organizational-behavior-leadership-and-teamwork/</link>
       <pubDate>Wed, 10 Mar 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/organizational-behavior-leadership-and-teamwork/</guid>
+      <guid>https://www.carnaghan.com/organizational-behavior-leadership-and-teamwork/</guid>
       <description>&lt;p&gt;During the summer of 1997 I worked for a period of four months on a contract for a company called the Environment and Heritage Service (EHS) Northern Ireland.  During this time I worked primarily within the Computing Department of the organization and our team was involved with all the Information Technology issues across the various offices.&lt;/p&gt;
 &lt;p&gt;This paper will look at the two main areas of leadership and team working as I learned a great deal while working there.  The main Information Technology department comprised of a Systems Manager with three main Network Managers working for him and staff working under the database managers for various computing related jobs. To give an idea of the responsibilities of the staff within the computing department I will list briefly what each position has entailed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advantages of having one large government over individual governments</title>
-      <link>http://localhost:1313/advantages-of-having-one-large-government-over-individual-governments/</link>
+      <link>https://www.carnaghan.com/advantages-of-having-one-large-government-over-individual-governments/</link>
       <pubDate>Tue, 28 Oct 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/advantages-of-having-one-large-government-over-individual-governments/</guid>
+      <guid>https://www.carnaghan.com/advantages-of-having-one-large-government-over-individual-governments/</guid>
       <description>&lt;p&gt;The information gathered for this essay on social space and the European Social Chapter was obtained from various sources.  These included Internet sites listed in the Bibliography and numerous books and material from the University of Ulster Library.&lt;/p&gt;
 &lt;p&gt;It will attempt to show how the benefits for and the objectives against the European Social Chapter affect social space within various countries in the European Union.&lt;/p&gt;
 &lt;h2 id=&#34;european-social-space&#34;&gt;EUROPEAN SOCIAL SPACE&lt;/h2&gt;
@@ -210,18 +210,18 @@ There are clearly many advantages to this new connected world and services that 
     </item>
     <item>
       <title>Manpower Planning Versus Human Resource Planning</title>
-      <link>http://localhost:1313/manpower-planning-versus-human-resource-planning/</link>
+      <link>https://www.carnaghan.com/manpower-planning-versus-human-resource-planning/</link>
       <pubDate>Tue, 28 Oct 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manpower-planning-versus-human-resource-planning/</guid>
+      <guid>https://www.carnaghan.com/manpower-planning-versus-human-resource-planning/</guid>
       <description>&lt;p&gt;The differences between manpower planning and human resource planning will be outlined within this essay along with how human resource planning has built on and developed traditional manpower planning. The main sources of information to compile this assignment have come mostly from Coleraine and Jordanstown University of Ulster Libraries and the books used and referred to have been listed in the references and bibliography section of this essay.&lt;/p&gt;
 &lt;h2 id=&#34;manpower-planning&#34;&gt;MANPOWER PLANNING&lt;/h2&gt;
 &lt;p&gt;The main reason the process of manpower planning came about was to help the management of employees within a business organization.  Manpower planning looks at the organizations current and future need of labour within the business.  The current and future employment needs are a great concern and the examination of supply within the local area for possible new employees if required.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tesco - Marketing Strategy in Northern Ireland</title>
-      <link>http://localhost:1313/tesco-marketing-strategy-in-northern-ireland/</link>
+      <link>https://www.carnaghan.com/tesco-marketing-strategy-in-northern-ireland/</link>
       <pubDate>Wed, 12 Feb 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tesco-marketing-strategy-in-northern-ireland/</guid>
+      <guid>https://www.carnaghan.com/tesco-marketing-strategy-in-northern-ireland/</guid>
       <description>&lt;p&gt;Early in 1996 the supermarket giant Tesco bought over the complete Stewarts / Crazy Prices group for an investment of £641 million.  By 24th November 1996 Crazy Prices, Abbeycentre had been converted to Tesco, Abbeycentre after several other branches including Carrickfergus had undergone the same changeover earlier on in the year.  Although many of the objectives of the company remain the same there are noticeable changes that have occurred within the company as a whole. I will not be focusing on the past ‘Crazy Prices / Stewarts / West Side Stores’ supermarkets therefore as all of my research has been based around the newer Tesco developments&lt;/p&gt;</description>
     </item>
   </channel>

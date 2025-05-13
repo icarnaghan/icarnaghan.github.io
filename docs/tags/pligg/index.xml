@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pligg on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/pligg/</link>
+    <link>https://www.carnaghan.com/tags/pligg/</link>
     <description>Recent content in Pligg on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 11 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pligg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/pligg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Craze.cc - New and Innovative Social News/Discussion Community</title>
-      <link>http://localhost:1313/craze.cc-new-and-innovative-social-news/discussion-community/</link>
+      <link>https://www.carnaghan.com/craze.cc-new-and-innovative-social-news/discussion-community/</link>
       <pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/craze.cc-new-and-innovative-social-news/discussion-community/</guid>
+      <guid>https://www.carnaghan.com/craze.cc-new-and-innovative-social-news/discussion-community/</guid>
       <description>&lt;p&gt;I love social media, I&amp;rsquo;ll get that off my chest right now. There are so many new and innovative websites popping up each and every day which take the idea of social networking and spin it around with some new features and a new look, then present it to you in a clean and elegant way. Well Craze.cc is certainly one of those sites, and the idea is spreading fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pligg Social News CMS Releases Official 1.0.4 Upgrade</title>
-      <link>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
+      <link>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
       <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
+      <guid>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
       <description>&lt;p&gt;The popular Digg-clone script Pligg has released their latest version as of today, stable release 1.0.4. There are a lot of new features from 1.0.3a and 1.0.3b releases of the CMS script, which have fixed a lot of security issues and bugs in the code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CypherBox.net - Great Pligg-based PR4 Social Bookmarking Site</title>
-      <link>http://localhost:1313/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</link>
+      <link>https://www.carnaghan.com/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</link>
       <pubDate>Thu, 11 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</guid>
+      <guid>https://www.carnaghan.com/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</guid>
       <description>&lt;p&gt;I just want to say, I absolutely love Pligg. It&amp;rsquo;s an amazing PHP script, free to download which allows you to set up your own social news site similar to Digg. Many micro-niche sites have popped up running on Pligg&amp;rsquo;s backend, and CypherBox is my latest find.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuring TortoiseSVN to Manage Updates on Pligg Sites</title>
-      <link>http://localhost:1313/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</link>
+      <link>https://www.carnaghan.com/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</link>
       <pubDate>Sat, 14 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</guid>
+      <guid>https://www.carnaghan.com/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</guid>
       <description>&lt;p&gt;I am extremely fond of the new social news script Pligg CMS. I have been following it since early release, and updating Pligg sites used to be very difficult. However from instructions from this wiki, you can use TortoiseSVN to control the version and upgrades of your Pligg site with ease.&lt;/p&gt;</description>
     </item>
   </channel>

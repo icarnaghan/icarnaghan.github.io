@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Javascript on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/javascript/</link>
+    <link>https://www.carnaghan.com/tags/javascript/</link>
     <description>Recent content in Javascript on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Important Features of ES6</title>
-      <link>http://localhost:1313/important-features-of-es6/</link>
+      <link>https://www.carnaghan.com/important-features-of-es6/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/important-features-of-es6/</guid>
+      <guid>https://www.carnaghan.com/important-features-of-es6/</guid>
       <description>&lt;p&gt;EcmaScript is the standardized scripting language that JavaScript and some other languages, like ActionScript implement. JavaScript was invented by Brendan Eich in 1995 and became an ECMA standard in 1997. ECMAScript 2015 is version 6 of the ECMA Script programming language therefore known as ES6. There are many new features in ES6 which are listed below.&lt;/p&gt;
 &lt;h2 id=&#34;block-scoping&#34;&gt;Block Scoping&lt;/h2&gt;
 &lt;p&gt;The lack of block scoping created confusion in ES5. A new keyword &lt;strong&gt;let&lt;/strong&gt; works similarly to var but the variable it declares is block-scoped and exists within the current block only.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Manipulating the Document Object Model (DOM)</title>
-      <link>http://localhost:1313/javascript-manipulating-the-document-object-model-dom/</link>
+      <link>https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-manipulating-the-document-object-model-dom/</guid>
+      <guid>https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom/</guid>
       <description>&lt;p&gt;The way in which logical structure of a document is accessed and manipulated in HTML is known as Document Object Model or DOM. It is a programming interface for HTML. Whenever a document loads in the browser, a tree-like (or forest) structure is created. Methods provided by the DOM can be used to access and manipulate this tree programmatically.&lt;/p&gt;
 &lt;h2 id=&#34;why-use-dom&#34;&gt;Why use DOM?&lt;/h2&gt;
 &lt;p&gt;The DOM is used to access and manipulate elements in an HTML document. But why do we need to use the DOM for this? Let&amp;rsquo;s understand this by use of an example. Let&amp;rsquo;s suppose we have an input field and a button next to it. When the button is clicked, whatever typed in the input field should appear below the input field. How can we do this with plain HTML? We need to dynamically access the value of the input field on the button click and then display the value below in a paragraph. We will implement this example, but first, we should discuss DOM methods that will be needed for accessing and manipulating elements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top Ten Angular Extensions for Visual Studio Code</title>
-      <link>http://localhost:1313/top-ten-angular-extensions-for-visual-studio-code/</link>
+      <link>https://www.carnaghan.com/top-ten-angular-extensions-for-visual-studio-code/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/top-ten-angular-extensions-for-visual-studio-code/</guid>
+      <guid>https://www.carnaghan.com/top-ten-angular-extensions-for-visual-studio-code/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve been doing any development in Angular, the chances are you have been using Visual Studio Code (VS Code) for your editor. If you haven&amp;rsquo;t been using Visual Studio Code, I highly recommend checking it out. There are a number of extensions that I have come to rely on that greatly simplify my development workflow listed below. I&amp;rsquo;ve included my favorite top ten with their descriptions and links below. To install them, simply start VS Code and open the command palette (Ctrl-Shift-P) Windows / Linux or (Cmd-Shift-P) Mac, and select Install Extension. Choose the extension name from the list and once installed reload/restart Visual Studio Code. Hopefully you will find these extensions as useful I do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Objects</title>
-      <link>http://localhost:1313/javascript-objects/</link>
+      <link>https://www.carnaghan.com/javascript-objects/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-objects/</guid>
+      <guid>https://www.carnaghan.com/javascript-objects/</guid>
       <description>&lt;p&gt;The last couple of lessons focused on arrays, and hopefully by now you will have come to see the value of using them in your code. Objects expand on the concept of arrays, except for a few differences, which provide greater control of the data stored. It is said, in Javascript, &amp;ldquo;Almost everything is objects&amp;rdquo;. Dates are always objects, Arrays are always objects, functions are always objects, and regular expressions are always objects. Primitive data types such as Numbers, Boolean and Strings are also objects when defined with the new keyword.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Arrow Functions: How Do They Work?</title>
-      <link>http://localhost:1313/javascript-arrow-functions-how-do-they-work/</link>
+      <link>https://www.carnaghan.com/javascript-arrow-functions-how-do-they-work/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-arrow-functions-how-do-they-work/</guid>
+      <guid>https://www.carnaghan.com/javascript-arrow-functions-how-do-they-work/</guid>
       <description>&lt;p&gt;ES6 introduced a number of exciting features to the JavaScript standard classes, string templates, array and object de-structuring, block-scope variable declarations with &amp;ldquo;let&amp;rdquo; and &amp;ldquo;const&amp;rdquo;, and perhaps the most visible new feature, arrow functions. Arrow functions have quickly become the standard way of writing functions among professional JavaScript developers. Because they are so widespread, it&amp;rsquo;s essential for every JavaScript programmer to understand arrow functions - what they are, how to write them, and how they are different from ordinary functions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Closures</title>
-      <link>http://localhost:1313/javascript-closures/</link>
+      <link>https://www.carnaghan.com/javascript-closures/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-closures/</guid>
+      <guid>https://www.carnaghan.com/javascript-closures/</guid>
       <description>&lt;p&gt;Anyone who has worked in JavaScript for any amount of time will likely come across concepts that require a deeper level of study in order to fully understand. Closures is certainly one of those areas that has caused me to review and experiment with several times. The purpose of this article is to provide a succinct overview of closures and offer several snippets of code to play around with in order to better understand this often tricky to grasp concept. Consciously or Unconsciously, most developers use closures while programming in JavaScript. Most of the time, everything works fine, but it is always better to understand how they work as they provide better control over your code. Moreover, at some point you might be asked to explain what closures are and hopefully by the end of this you will be in a much better position to do that. So let&amp;rsquo;s start with what a closure is. A simplified explanation would be that a closure is an inner function that has access to the variables of the outer function. This is called the scope chain. See my earlier article on JavaScript Scope if you need a refresher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Arrays - Properties and Methods</title>
-      <link>http://localhost:1313/javascript-arrays-properties-and-methods/</link>
+      <link>https://www.carnaghan.com/javascript-arrays-properties-and-methods/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-arrays-properties-and-methods/</guid>
+      <guid>https://www.carnaghan.com/javascript-arrays-properties-and-methods/</guid>
       <description>&lt;p&gt;We are going to cover some of the most commonly used properties and methods in JavaScript, for working with arrays. There are a lot of other methods which are not covered here, including newer ES6 methods. The goal here is to get you started working with arrays and gaining an understanding of the fundamental ways we can access and manipulate data. The table below summarizes the various methods we will cover in this lesson:&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Arrays - Fundamentals</title>
-      <link>http://localhost:1313/javascript-arrays-fundamentals/</link>
+      <link>https://www.carnaghan.com/javascript-arrays-fundamentals/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-arrays-fundamentals/</guid>
+      <guid>https://www.carnaghan.com/javascript-arrays-fundamentals/</guid>
       <description>&lt;p&gt;Earlier we looked at datatypes and variables. Arrays take the concept of a variable or binding one step further and allow us to form groups of values within a data structure, which we can then manage in our code. A good use for an array is a list of data. Arrays not only let you group data, but they offer a range of tools or methods to update and manipulate their contents. They are used commonly across different programming languages and have become a routine way of passing around data within applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Scope</title>
-      <link>http://localhost:1313/javascript-scope/</link>
+      <link>https://www.carnaghan.com/javascript-scope/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-scope/</guid>
+      <guid>https://www.carnaghan.com/javascript-scope/</guid>
       <description>&lt;p&gt;Scope determines what variables or bindings are available to JavaScript within its current context. For example, if a variable is defined outside of any functions within your code (often referred to as the main call stack), these variables are available to all other code embedded within other blocks and functions. Variables defined in main are often referred to as &amp;lsquo;Global Variables&amp;rsquo; because they are globally available throughout your application. But what about those variables that are defined within functions?&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Call Stack</title>
-      <link>http://localhost:1313/javascript-call-stack/</link>
+      <link>https://www.carnaghan.com/javascript-call-stack/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-call-stack/</guid>
+      <guid>https://www.carnaghan.com/javascript-call-stack/</guid>
       <description>&lt;p&gt;In earlier lessons, we wrote code without using any functions. Now that you have been introduced to the various ways we can organize our code within function declarations and expressions, it is helpful to step back for a moment to understand the flow of execution within our code. JavaScript uses a call stack to in order to manage this flow, which is essentially a data structure (or to-do list) that keeps track of function calls using a Last In First Out (LIFO) ordering system. Let&amp;rsquo;s take a look at an example to help explain this concept.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Functions</title>
-      <link>http://localhost:1313/javascript-functions/</link>
+      <link>https://www.carnaghan.com/javascript-functions/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-functions/</guid>
+      <guid>https://www.carnaghan.com/javascript-functions/</guid>
       <description>&lt;p&gt;Functions are repeatable blocks of code. They are fundamental to most programming languages and allow you to build applications with reusable code that can be called with different arguments. The best way to explain functions is through an example. Suppose you wanted a quick way to calculate how much your bill would be with tip (assume for this example the bill amount includes tax).&lt;/p&gt;
 &lt;h2 id=&#34;try-it-out&#34;&gt;&lt;strong&gt;→ Try it out&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Create two files called &lt;strong&gt;index.html&lt;/strong&gt; and &lt;strong&gt;script.js&lt;/strong&gt; and enter the code below into each. Alternatively, if you followed along in the previous lesson, use the existing script.js file and replace its content with code below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Loops</title>
-      <link>http://localhost:1313/javascript-loops/</link>
+      <link>https://www.carnaghan.com/javascript-loops/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-loops/</guid>
+      <guid>https://www.carnaghan.com/javascript-loops/</guid>
       <description>&lt;p&gt;Often in programming, we need to carry out similar instructions a number of different times. Loops help reduce redundant code and let you quickly offload repetitive tasks to the computer. In JavaScript there are several types of loops. In this lesson we are going to examine while, do while, and for loops.&lt;/p&gt;
 &lt;h2 id=&#34;while-and-do-while-loops&#34;&gt;While and Do While loops&lt;/h2&gt;
 &lt;p&gt;As their names suggest, while and do while loops carry out a number of tasks &amp;lsquo;while&amp;rsquo; a certain condition is true. Take for example the need to display a series of  numbers each incrementing by 1 until it we reach a certain limit (10). This could be carried out by writing the following code:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using JavaScript Fetch API to Retrieve sample JSON data</title>
-      <link>http://localhost:1313/using-javascript-fetch-api-to-retrieve-sample-json-data/</link>
+      <link>https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/using-javascript-fetch-api-to-retrieve-sample-json-data/</guid>
+      <guid>https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/</guid>
       <description>&lt;p&gt;A while ago I wrote an article called Using jQuery.AJAX() to Retrieve Sample JSON Data. Since this time I&amp;rsquo;ve been slowly using more and more native JavaScript to get things done, so I thought it was time to revisit this concept using the fetch() API.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It has been very convenient over the years to use jQuery to simplify tasks that otherwise would have been more challenging to write in native JavaScript. Since ES6 has become pretty much mainstream nowadays, it is safe to take advantage of some of the features and benefits it brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Conditional Statements</title>
-      <link>http://localhost:1313/javascript-conditional-statements/</link>
+      <link>https://www.carnaghan.com/javascript-conditional-statements/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-conditional-statements/</guid>
+      <guid>https://www.carnaghan.com/javascript-conditional-statements/</guid>
       <description>&lt;p&gt;Conditional statements (commonly called if statements) provide a way for JavaScript to make decisions and run specified code based on a set of criteria. In JavaScript, the criteria or condition is surrounded in parenthesis and the resulting code to run is contained in a block. Up until now, we have been examining single line statements. In JavaScript, a block of code is surrounded by curly braces. Let&amp;rsquo;s look at an example.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Operators</title>
-      <link>http://localhost:1313/javascript-operators/</link>
+      <link>https://www.carnaghan.com/javascript-operators/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-operators/</guid>
+      <guid>https://www.carnaghan.com/javascript-operators/</guid>
       <description>&lt;p&gt;JavaScript provides different kinds of operators which enable us to perform actions on given values or variables used in our code. As you develop more complex code, you will come to rely on operators for performing the various functionally you are building. Before we dive into operators, let&amp;rsquo;s clear up a couple of fundamental programming terms, statements and expressions.&lt;/p&gt;
 &lt;p&gt;A statement is a line of code or action that consist of values, variables, and operators. In the last lesson you created several statements that assigned values to variables using the assignment = operator. &lt;strong&gt;Statements can set values but do not become values themselves&lt;/strong&gt;. Statements end with a semi-colon. In contrast, an expression is a piece of code that resolves to a value, i.e. values, calculations resulting in other values, variables, and groups of variables.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Data Types, Values, and Variables</title>
-      <link>http://localhost:1313/javascript-data-types-values-and-variables/</link>
+      <link>https://www.carnaghan.com/javascript-data-types-values-and-variables/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/javascript-data-types-values-and-variables/</guid>
+      <guid>https://www.carnaghan.com/javascript-data-types-values-and-variables/</guid>
       <description>&lt;p&gt;JavaScript is one of the three core technologies used to build websites and web applications. Alongside HTML and CSS, JavaScript provides the interactive functionality commonly used throughout the web. In this lesson you will be introduced to some of the core concepts of JavaScript.&lt;/p&gt;
 &lt;p&gt;To follow along, you will need a modern web browser, such as Google Chrome or equivalent with developer tools. You will also need a capable text editor. I highly recommend Microsoft Visual Studio Code. The first concept we are going to cover in this lesson is variables. Variables are spaces of memory where you can store information of a certain type, that can be retrieved later in your code.&lt;/p&gt;</description>
     </item>

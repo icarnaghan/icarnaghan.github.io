@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cmst-290 on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/cmst-290/</link>
+    <link>https://www.carnaghan.com/tags/cmst-290/</link>
     <description>Recent content in Cmst-290 on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cmst-290/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/cmst-290/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modern Design Approaches, Frameworks and Resources</title>
-      <link>http://localhost:1313/modern-design-approaches-frameworks-and-resources/</link>
+      <link>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/modern-design-approaches-frameworks-and-resources/</guid>
+      <guid>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</guid>
       <description>&lt;p&gt;Over the last few years, several web design trends have exploded in popularity and different frameworks and libraries have emerged to support them. It&amp;rsquo;s been close to a decade since the term &amp;lsquo;responsive&amp;rsquo; became mainstream and changed our way of thinking about the structure of our applications across devices. Since that time other design philosophies have followed as we sought ways to improve the user experience across a diverse range of platforms. At the same time tools and techniques have continued to improve to arm designers with the right frameworks, libraries and approaches to deliver the best user experiences possible. In this article I will cover some of the more popular design approaches and libraries that can be used to implement them. I&amp;rsquo;ll conclude with a quick list of several wireframing tools that can also be used in design. I recommend checking out each of these resources via the links provided below.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Programming on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/programming/</link>
+    <link>https://www.carnaghan.com/tags/programming/</link>
     <description>Recent content in Programming on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coldfusion 9 and IIS</title>
-      <link>http://localhost:1313/coldfusion-9-and-iis/</link>
+      <link>https://www.carnaghan.com/coldfusion-9-and-iis/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/coldfusion-9-and-iis/</guid>
+      <guid>https://www.carnaghan.com/coldfusion-9-and-iis/</guid>
       <description>&lt;p&gt;I have been developing in ColdFusion for a while locally using the built in web server. Recently at work several of the projects I am involved with moved to an IIS production server. In order to test fully in my local environment I needed to install IIS and setup ColdFusion to use it as the server instead of its built in version.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get the Latest on ColdFusion at CFHour</title>
-      <link>http://localhost:1313/get-the-latest-on-coldfusion-at-cfhour/</link>
+      <link>https://www.carnaghan.com/get-the-latest-on-coldfusion-at-cfhour/</link>
       <pubDate>Fri, 14 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/get-the-latest-on-coldfusion-at-cfhour/</guid>
+      <guid>https://www.carnaghan.com/get-the-latest-on-coldfusion-at-cfhour/</guid>
       <description>&lt;p&gt;One of the challenges of having a long commute to work is finding new and interesting ways to make the morning and evening drives more interesting. Over the last year I have found the perfect answer by subscribing to podcasts that I am interested in, which have also served to advance my own personal development and education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pligg Social News CMS Releases Official 1.0.4 Upgrade</title>
-      <link>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
+      <link>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
       <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
+      <guid>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
       <description>&lt;p&gt;The popular Digg-clone script Pligg has released their latest version as of today, stable release 1.0.4. There are a lot of new features from 1.0.3a and 1.0.3b releases of the CMS script, which have fixed a lot of security issues and bugs in the code.&lt;/p&gt;</description>
     </item>
   </channel>

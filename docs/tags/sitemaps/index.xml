@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sitemaps on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/sitemaps/</link>
+    <link>https://www.carnaghan.com/tags/sitemaps/</link>
     <description>Recent content in Sitemaps on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sitemaps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/sitemaps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things you should do after Installing WordPress</title>
-      <link>http://localhost:1313/things-you-should-do-after-installing-wordpress/</link>
+      <link>https://www.carnaghan.com/things-you-should-do-after-installing-wordpress/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/things-you-should-do-after-installing-wordpress/</guid>
+      <guid>https://www.carnaghan.com/things-you-should-do-after-installing-wordpress/</guid>
       <description>&lt;p&gt;WordPress is the most powerful content management system. According to analytics tools, WP powers 30% of websites running on the internet. WP is a popular and user-friendly CMS. It is written in PHP and uses MySQL to save data. Unlike scripting languages such as JAVA EE, ASP, PHP is easy to learn.&lt;/p&gt;
 &lt;p&gt;Shared hosting companies offer a 1-click WP installer tool. If you use this tool, you can launch a new website within few minutes. Configuring DNS server and the web server isn&amp;rsquo;t enough. To make sure that your new website is found by search engines and internet users, you must do the below things:&lt;/p&gt;</description>
     </item>
     <item>
       <title>JetPack plugin now lets you create a sitemap for WordPress website</title>
-      <link>http://localhost:1313/jetpack-plugin-now-lets-you-create-a-sitemap-for-wordpress-website/</link>
+      <link>https://www.carnaghan.com/jetpack-plugin-now-lets-you-create-a-sitemap-for-wordpress-website/</link>
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jetpack-plugin-now-lets-you-create-a-sitemap-for-wordpress-website/</guid>
+      <guid>https://www.carnaghan.com/jetpack-plugin-now-lets-you-create-a-sitemap-for-wordpress-website/</guid>
       <description>&lt;p&gt;Jetpack, one of an essential WordPress plugin now allows you to generate a sitemap to google search as well as google news. This new feature has been added to the latest version (v 3.9) of Jetpack&lt;/p&gt;
 &lt;p&gt;A sitemap is an important element of a website (no matter what its niche is). It makes the search engine aware of the latest posts on your site. When Sitemap is submitted to Google, Yandex or Bing, your posts will be indexed faster.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress sitemap plugins for better SEO (2018)</title>
-      <link>http://localhost:1313/best-wordpress-sitemap-plugins-for-better-seo-2018/</link>
+      <link>https://www.carnaghan.com/best-wordpress-sitemap-plugins-for-better-seo-2018/</link>
       <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/best-wordpress-sitemap-plugins-for-better-seo-2018/</guid>
+      <guid>https://www.carnaghan.com/best-wordpress-sitemap-plugins-for-better-seo-2018/</guid>
       <description>&lt;p&gt;A sitemap is one of the most important elements of a website. It is nothing but an XML document that features all the pages and post of your blog. It should be defined in a correct way. Failing to do so will confuse search engines and the users.&lt;/p&gt;
 &lt;p&gt;When users start a new blog, they should immediately create a sitemap and submit it to Google and Bing.&lt;/p&gt;
 &lt;p&gt;Frankly Speaking, these two search engines are smart, and they can determine the structure of your site without a sitemap. But you should add this document to your site as it will be useful for the users (in case they&amp;rsquo;re  looking for it).&lt;/p&gt;</description>

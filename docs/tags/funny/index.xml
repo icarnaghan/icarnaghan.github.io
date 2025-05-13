@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Funny on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/funny/</link>
+    <link>https://www.carnaghan.com/tags/funny/</link>
     <description>Recent content in Funny on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/funny/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bet on Anything You Like with Flusta.com</title>
-      <link>http://localhost:1313/bet-on-anything-you-like-with-flusta.com/</link>
+      <link>https://www.carnaghan.com/bet-on-anything-you-like-with-flusta.com/</link>
       <pubDate>Sat, 04 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bet-on-anything-you-like-with-flusta.com/</guid>
+      <guid>https://www.carnaghan.com/bet-on-anything-you-like-with-flusta.com/</guid>
       <description>&lt;p&gt;Flusa is a new web 2.0 application that allows you to place bets on almost anything you like. Well, not even almost, you can create your own topic and have anyone you want place bets on it, sort of like a &amp;ldquo;social gambling&amp;rdquo; website. Ranging from topics of cutest boys to the best next-gen gaming console, Flusta has it all with a easy-to-use user interface and a great concept in mind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Genius Behind Fark, Drew Curtis</title>
-      <link>http://localhost:1313/interview-with-the-genius-behind-fark-drew-curtis/</link>
+      <link>https://www.carnaghan.com/interview-with-the-genius-behind-fark-drew-curtis/</link>
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interview-with-the-genius-behind-fark-drew-curtis/</guid>
+      <guid>https://www.carnaghan.com/interview-with-the-genius-behind-fark-drew-curtis/</guid>
       <description>&lt;p&gt;Article bookmarking and submission sites have become a commodity on the web today. There have been only a few veterans that have been around long before it was &amp;ldquo;cool&amp;rdquo; to have a site in the social news niche, and Drew Curtis&amp;rsquo; Fark.com is one of them. Fark is social news with a twist: comedy.&lt;/p&gt;</description>
     </item>
   </channel>

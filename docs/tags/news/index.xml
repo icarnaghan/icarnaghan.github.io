@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>News on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/news/</link>
+    <link>https://www.carnaghan.com/tags/news/</link>
     <description>Recent content in News on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Fred Update: Hybrid of Google Phantom and Penguin algorithms?</title>
-      <link>http://localhost:1313/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</link>
+      <link>https://www.carnaghan.com/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</guid>
+      <guid>https://www.carnaghan.com/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</guid>
       <description>&lt;p&gt;Google has rolled out a new algorithm update on 7th of March. The head of web spam team, Garry Illyes has named the new algorithm as Fred.&lt;/p&gt;
 &lt;p&gt;The Google Fred update has killed the rankings of many websites overnight. It has brought people who were earning good amount of money online to their knees. Since 8th of March, many webmasters have reported that their sites have lost 80 to 90% traffic and some folks have reported a significant increase in organic traffic after March 8.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biggest Google algorithm update for 2016 is underway</title>
-      <link>http://localhost:1313/biggest-google-algorithm-update-for-2016-is-underway/</link>
+      <link>https://www.carnaghan.com/biggest-google-algorithm-update-for-2016-is-underway/</link>
       <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/biggest-google-algorithm-update-for-2016-is-underway/</guid>
+      <guid>https://www.carnaghan.com/biggest-google-algorithm-update-for-2016-is-underway/</guid>
       <description>&lt;p&gt;Google Penguin and Panda are two of the most talked about and important algorithm updates in the world of SEO. They are refreshed once or twice a year. Every webmaster keeps an eye on these two updates. Panda algorithm focuses on promoting high-quality content high in the Google search engine. Google Penguin can hit blogs and websites that are not following the webmaster guidelines. Both these algorithms affect&amp;rsquo;s rankings of large as well as new sites.&lt;/p&gt;</description>
     </item>
   </channel>

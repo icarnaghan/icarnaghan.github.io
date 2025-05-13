@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Instagram on Ian Carnaghan</title>
-    <link>http://localhost:1313/tags/instagram/</link>
+    <link>https://www.carnaghan.com/tags/instagram/</link>
     <description>Recent content in Instagram on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.carnaghan.com/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InstaShow Instagram feed plugin review (2018)</title>
-      <link>http://localhost:1313/instashow-instagram-feed-plugin-review-2018/</link>
+      <link>https://www.carnaghan.com/instashow-instagram-feed-plugin-review-2018/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/instashow-instagram-feed-plugin-review-2018/</guid>
+      <guid>https://www.carnaghan.com/instashow-instagram-feed-plugin-review-2018/</guid>
       <description>&lt;p&gt;InstaShow is a premium WordPress plugin that allows you to integrate the Instagram feed on your website. It has registered 6000+ sales on the ThemeForest marketplace. It is a highly customizable plugin that has a rating of 4.87/5.&lt;/p&gt;
 &lt;p&gt;InstaShow is cheap and it provides amazing features. If you own a photography, product review website or a food blog, you can get more Instagram followers by installing this plugin. The Instagram widget provided by InstaShow is a great alternative to a gallery or featured image widget because it saves server resources. Instead of uploading pictures on your server, you can share your images on Instagram and configure InstaShow to display the pictures in a nice interface.&lt;/p&gt;</description>
     </item>

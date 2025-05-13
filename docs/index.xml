@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Modern Design Approaches, Frameworks and Resources</title>
-      <link>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</guid>
-      <description>&lt;p&gt;Over the last few years, several web design trends have exploded in popularity and different frameworks and libraries have emerged to support them. It&amp;rsquo;s been close to a decade since the term &amp;lsquo;responsive&amp;rsquo; became mainstream and changed our way of thinking about the structure of our applications across devices. Since that time other design philosophies have followed as we sought ways to improve the user experience across a diverse range of platforms. At the same time tools and techniques have continued to improve to arm designers with the right frameworks, libraries and approaches to deliver the best user experiences possible. In this article I will cover some of the more popular design approaches and libraries that can be used to implement them. I&amp;rsquo;ll conclude with a quick list of several wireframing tools that can also be used in design. I recommend checking out each of these resources via the links provided below.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Visual Composer Review</title>
       <link>https://www.carnaghan.com/visual-composer-review/</link>
@@ -258,6 +251,13 @@
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/learning-to-program-in-tic-80-a-fantasy-console/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re 40 years old or older, you might have learned how to use a computer on an old Commodore 64, Apple II or another computer about the same age. One of the things you probably learned about was the BASIC programming language. Maybe you were lucky enough to have a computer at home. One thing you probably learned was that if you wanted to play games, one way was to buy computer magazines at the bookstore and type in published source code. If you&amp;rsquo;re like some people, you learned a few things about programming from typing in those games, and went on to write your own. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modern Design Approaches, Frameworks and Resources</title>
+      <link>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</guid>
+      <description>&lt;p&gt;Over the last few years, several web design trends have exploded in popularity and different frameworks and libraries have emerged to support them. It&amp;rsquo;s been close to a decade since the term &amp;lsquo;responsive&amp;rsquo; became mainstream and changed our way of thinking about the structure of our applications across devices. Since that time other design philosophies have followed as we sought ways to improve the user experience across a diverse range of platforms. At the same time tools and techniques have continued to improve to arm designers with the right frameworks, libraries and approaches to deliver the best user experiences possible. In this article I will cover some of the more popular design approaches and libraries that can be used to implement them. I&amp;rsquo;ll conclude with a quick list of several wireframing tools that can also be used in design. I recommend checking out each of these resources via the links provided below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Relational vs Star Schema Model</title>
@@ -10498,10 +10498,10 @@ jQuery(document).ready(function($){
 &lt;p&gt;&lt;strong&gt;Better reputation&lt;/strong&gt;: If authority sites like Huffington post, BGR, TechCrunch are publishing your articles, 1000s of people might know you. You are likely to have a good fan following.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dependency Injection Service Container Example</title>
-      <link>https://www.carnaghan.com/dependency-injection-service-container-example/</link>
+      <title>Dependency Injection / Service Container Example</title>
+      <link>https://www.carnaghan.com/dependency-injection-/-service-container-example/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/dependency-injection-service-container-example/</guid>
+      <guid>https://www.carnaghan.com/dependency-injection-/-service-container-example/</guid>
       <description>&lt;p&gt;In an earlier post, I outlined the basics of dependency injection and talked a little bit about the Drupal 8 service container and how we can use this in our code. Day 16 of Drupal Activity Cards provides a task for us to implement dependency injection in one of the Drupal 8 Example modules.&lt;/p&gt;
 &lt;p&gt;The examples module is a great resource for developers getting started in Drupal coding. The modules included gives us basic functionality that provides easy to follow starting points for a number of different needs. For our dependency injection example we are going to look at page_example, a simple module for generating a Drupal 8 page via a controller. A function called simple() returns a basic page. We are going to extend this function to provide a log entry every time a use visits this page.&lt;/p&gt;</description>
     </item>

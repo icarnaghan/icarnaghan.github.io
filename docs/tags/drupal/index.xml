@@ -35,10 +35,10 @@
       <description>&lt;p&gt;The Acquia Certified Developer exam Drupal 8 just launched a couple of months ago. I was interested in studying for this exam as I have been working in Drupal 8 for the last six months and future projects look most likely to be Drupal 8 based. I had looked at the various Acquia certification tracks in the past, however I was never fully committed to the Drupal 7 track so I was happy when Acquia announced first the Foundations and then later the Certified Developer exams. I took the Foundations exam first and found that while I was weaker in my front-end Drupal 8 skills, I managed to pass. Later when I sat for the Certified Developer exam I realized there was a bit of cross over in terms of the questions, in fact I think a few of them were taken directly from the foundations exam. I would recommend anyone considering the Certified Developer exam to first take Foundations as it will give you a good idea of the type of questions to expect.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dependency Injection Service Container Example</title>
-      <link>https://www.carnaghan.com/dependency-injection-service-container-example/</link>
+      <title>Dependency Injection / Service Container Example</title>
+      <link>https://www.carnaghan.com/dependency-injection-/-service-container-example/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/dependency-injection-service-container-example/</guid>
+      <guid>https://www.carnaghan.com/dependency-injection-/-service-container-example/</guid>
       <description>&lt;p&gt;In an earlier post, I outlined the basics of dependency injection and talked a little bit about the Drupal 8 service container and how we can use this in our code. Day 16 of Drupal Activity Cards provides a task for us to implement dependency injection in one of the Drupal 8 Example modules.&lt;/p&gt;
 &lt;p&gt;The examples module is a great resource for developers getting started in Drupal coding. The modules included gives us basic functionality that provides easy to follow starting points for a number of different needs. For our dependency injection example we are going to look at page_example, a simple module for generating a Drupal 8 page via a controller. A function called simple() returns a basic page. We are going to extend this function to provide a log entry every time a use visits this page.&lt;/p&gt;</description>
     </item>

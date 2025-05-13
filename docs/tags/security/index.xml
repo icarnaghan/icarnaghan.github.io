@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Security on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/security/</link>
+    <link>http://localhost:1313/tags/security/</link>
     <description>Recent content in Security on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to move or renew LetsEncrypt SSL certificate manually?</title>
-      <link>https://www.carnaghan.com/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</link>
+      <link>http://localhost:1313/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</guid>
+      <guid>http://localhost:1313/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</guid>
       <description>&lt;p&gt;As mentioned in my earlier blog post, I am using LetsEncrypt free SSL certificate on one of my sites. The certificate was due to expire in few weeks. The CertBot dispatched an alert message for the same on my official email address.&lt;/p&gt;
 &lt;p&gt;As I&amp;rsquo;m using SSL for the first time and having several doubts in mind, I decided to renew LetsEncrypt certificate immediately. I fired the following command in the Linux terminal (10 days prior the certificate&amp;rsquo;s expiry date) and restarted Nginx.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Letsencrypt review: Should you use free SSL certificate?</title>
-      <link>https://www.carnaghan.com/letsencrypt-review-should-you-use-free-ssl-certificate/</link>
+      <link>http://localhost:1313/letsencrypt-review-should-you-use-free-ssl-certificate/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/letsencrypt-review-should-you-use-free-ssl-certificate/</guid>
+      <guid>http://localhost:1313/letsencrypt-review-should-you-use-free-ssl-certificate/</guid>
       <description>&lt;p&gt;After Google declared HTTPS as a ranking signal, thousands of sites have switched to HTTPS from HTTP. To secure your site with HTTPS, you must install an SSL certificate on the server and configure the web server to redirect HTTP traffic to HTTPS.&lt;/p&gt;
 &lt;p&gt;Before Let&amp;rsquo;s Encrypt Certificate Authority was launched in 2016, companies used to charge a hefty amount for providing SSL certificates. Now, you can easily get free SSL certificates to secure your personal or business portal, thanks to Let&amp;rsquo;s Encrypt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to remove this site may be hacked message from Google?</title>
-      <link>https://www.carnaghan.com/how-to-remove-this-site-may-be-hacked-message-from-google/</link>
+      <link>http://localhost:1313/how-to-remove-this-site-may-be-hacked-message-from-google/</link>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-remove-this-site-may-be-hacked-message-from-google/</guid>
+      <guid>http://localhost:1313/how-to-remove-this-site-may-be-hacked-message-from-google/</guid>
       <description>&lt;p&gt;Google makes sure that the site which the user is about to visit is clean. It displays a warning message for the websites which are not safe. One of the most common messages that a search engine user see is &amp;ldquo;This site may be hacked&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The search engine will show this message in the search results in one of the below cases.&lt;/p&gt;
 &lt;h3 id=&#34;malicious-code-in-web-pages&#34;&gt;Malicious code in web pages&lt;/h3&gt;
@@ -41,34 +41,34 @@
     </item>
     <item>
       <title>Hide My WP Review 2018 : Secures your Website like no other plugin</title>
-      <link>https://www.carnaghan.com/hide-my-wp-review-2018-secures-your-website-like-no-other-plugin/</link>
+      <link>http://localhost:1313/hide-my-wp-review-2018-secures-your-website-like-no-other-plugin/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/hide-my-wp-review-2018-secures-your-website-like-no-other-plugin/</guid>
+      <guid>http://localhost:1313/hide-my-wp-review-2018-secures-your-website-like-no-other-plugin/</guid>
       <description>&lt;p&gt;1000s of WordPress websites are hacked every day because the hackers are aware of the security loopholes in plugins and themes that the website is using. Usually, the websites that use outdated or nulled WordPress plugins and themes fall prey to hackers.&lt;/p&gt;
 &lt;p&gt;There are incidents where websites that use powerful WordPress security plugins are hacked. To keep your WordPress website or blog safe, you must back up the database and images on regular basis. You should also use a WordPress security plugin and tweak web server settings to minimize threats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plugins to add 2 step authentication to WordPress website</title>
-      <link>https://www.carnaghan.com/plugins-to-add-2-step-authentication-to-wordpress-website/</link>
+      <link>http://localhost:1313/plugins-to-add-2-step-authentication-to-wordpress-website/</link>
       <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/plugins-to-add-2-step-authentication-to-wordpress-website/</guid>
+      <guid>http://localhost:1313/plugins-to-add-2-step-authentication-to-wordpress-website/</guid>
       <description>&lt;p&gt;Dual factor authentication has become one of the most important security features in the last few years. Major websites like Google Mail, Outlook, Facebook are now protecting user accounts in a better way by allowing them to use a mobile device as their identity.&lt;/p&gt;
 &lt;p&gt;To activate 2 step authentication, the service provider will ask you to install Google Authenticator app (or any of its alternative). Some websites will ask you to verify the mobile phone number so that the authentication service will send a 4 or 5 digit code when required. This code will be used for one-time verification, and it will be valid only for a few hours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All in One Security and Firewall plugin secures your WP website</title>
-      <link>https://www.carnaghan.com/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</link>
+      <link>http://localhost:1313/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</link>
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</guid>
+      <guid>http://localhost:1313/all-in-one-security-and-firewall-plugin-secures-your-wp-website/</guid>
       <description>&lt;p&gt;WordPress is claimed to be one of the most secure content management systems of the decade, but you need to take some precautions while using it.&lt;/p&gt;
 &lt;p&gt;The login page is accessible to everyone using the Internet. To access the page, the user has to enter example.com/wp-login.php simply. If you&amp;rsquo;re using a weak password, then a software or a bot can easily hack your website.&lt;/p&gt;
 &lt;p&gt;Some hackers will target your site with a DOS or DDOS attack. If your hosting provider has not set up a firewall for your account, your website and web server will be down. If the site has many visitors, you&amp;rsquo;ll lose some revenue. If the access to the wp-config file is not restricted, the hacker will get your database name and its password.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress security and malware removal plugins</title>
-      <link>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</link>
+      <link>http://localhost:1313/best-wordpress-security-and-malware-removal-plugins/</link>
       <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</guid>
+      <guid>http://localhost:1313/best-wordpress-security-and-malware-removal-plugins/</guid>
       <description>&lt;p&gt;WordPress CMS has been prone to many online threats ever since Matt Mullenweg and the team officially launched it. The content management system is impressive, but you can’t stop hackers from attacking websites powered by WP. Attacks can be prevented by installing a WordPress security plugin. If the internet is the only source of your income, you shouldn&amp;rsquo;t risk your site. There are a lot of useful web tools that can keep your website safe. The best ones are listed below:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/tech/</link>
+    <link>http://localhost:1313/tags/tech/</link>
     <description>Recent content in Tech on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Metacafe Stacks up against Video Streaming Apps</title>
-      <link>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</link>
+      <link>http://localhost:1313/how-metacafe-stacks-up-against-video-streaming-apps/</link>
       <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
+      <guid>http://localhost:1313/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s no doubt when it comes to social media and web video, YouTube takes the cake. Currently within top 5 Alexa rank and also owned by the #1 search engine and website online, YouTube has everything backing it. Google doesn&amp;rsquo;t control the monopoly though, there are so many cool video streaming services out there each with their own to offer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jay Adelson Steps Down as CEO of Digg.com</title>
-      <link>https://www.carnaghan.com/jay-adelson-steps-down-as-ceo-of-digg.com/</link>
+      <link>http://localhost:1313/jay-adelson-steps-down-as-ceo-of-digg.com/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/jay-adelson-steps-down-as-ceo-of-digg.com/</guid>
+      <guid>http://localhost:1313/jay-adelson-steps-down-as-ceo-of-digg.com/</guid>
       <description>&lt;p&gt;In a recent blog post entitled simply &amp;ldquo;Update from Jay&amp;rdquo;, it has been officially announced that Jay Adelson will be stepping down as Digg&amp;rsquo;s CEO after 5 prosperous and amazing years. Jay has done an amazing job as CEO, and I firmly believe Digg wouldn&amp;rsquo;t hold it&amp;rsquo;s current success status today if it wasn&amp;rsquo;t for his ideas and inspiration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Author Information and Photo now Displayed After each Post</title>
-      <link>https://www.carnaghan.com/author-information-and-photo-now-displayed-after-each-post/</link>
+      <link>http://localhost:1313/author-information-and-photo-now-displayed-after-each-post/</link>
       <pubDate>Tue, 23 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/author-information-and-photo-now-displayed-after-each-post/</guid>
+      <guid>http://localhost:1313/author-information-and-photo-now-displayed-after-each-post/</guid>
       <description>&lt;p&gt;Yep, I finally decided to add some of those updates I had planned on rolling out so long ago! I&amp;rsquo;ve been meaning to add author info to the posts on Inside the Webb for a while, just haven&amp;rsquo;t had time. Well I finally found some time, and I&amp;rsquo;m glad I did!&lt;/p&gt;</description>
     </item>
     <item>
       <title>CypherBox.net - Great Pligg-based PR4 Social Bookmarking Site</title>
-      <link>https://www.carnaghan.com/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</link>
+      <link>http://localhost:1313/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</link>
       <pubDate>Thu, 11 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</guid>
+      <guid>http://localhost:1313/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</guid>
       <description>&lt;p&gt;I just want to say, I absolutely love Pligg. It&amp;rsquo;s an amazing PHP script, free to download which allows you to set up your own social news site similar to Digg. Many micro-niche sites have popped up running on Pligg&amp;rsquo;s backend, and CypherBox is my latest find.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chill to your Music Library anywhere with Grooveshark</title>
-      <link>https://www.carnaghan.com/chill-to-your-music-library-anywhere-with-grooveshark/</link>
+      <link>http://localhost:1313/chill-to-your-music-library-anywhere-with-grooveshark/</link>
       <pubDate>Tue, 09 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/chill-to-your-music-library-anywhere-with-grooveshark/</guid>
+      <guid>http://localhost:1313/chill-to-your-music-library-anywhere-with-grooveshark/</guid>
       <description>&lt;p&gt;Ever since I found out about Grooveshark a few months ago, it&amp;rsquo;s revolutionized the way I listen to music. No longer am I stuck with my iTunes playlists and limitions on songs - nor do I even need to store the songs on my computer!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Yahoo! Answers Q&amp;amp;A Competitor Blurtit</title>
-      <link>https://www.carnaghan.com/interview-with-yahoo-answers-qampa-competitor-blurtit/</link>
+      <link>http://localhost:1313/interview-with-yahoo-answers-qampa-competitor-blurtit/</link>
       <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-yahoo-answers-qampa-competitor-blurtit/</guid>
+      <guid>http://localhost:1313/interview-with-yahoo-answers-qampa-competitor-blurtit/</guid>
       <description>&lt;p&gt;Yahoo! Answers has to be the most well-known and popular Question &amp;amp; Community on the web. However there is always room for improvement on apps like these, and Blurtit takes the cake. Building more of a community around the idea of the &amp;ldquo;Ask Any Question&amp;rdquo; niche, Blurtit allows users to connect like never before, searching for the most popular questions and sharing knowledge between everyone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuring TortoiseSVN to Manage Updates on Pligg Sites</title>
-      <link>https://www.carnaghan.com/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</link>
+      <link>http://localhost:1313/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</link>
       <pubDate>Sat, 14 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</guid>
+      <guid>http://localhost:1313/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</guid>
       <description>&lt;p&gt;I am extremely fond of the new social news script Pligg CMS. I have been following it since early release, and updating Pligg sites used to be very difficult. However from instructions from this wiki, you can use TortoiseSVN to control the version and upgrades of your Pligg site with ease.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with is.gd URL Shortener</title>
-      <link>https://www.carnaghan.com/interview-with-is.gd-url-shortener/</link>
+      <link>http://localhost:1313/interview-with-is.gd-url-shortener/</link>
       <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-is.gd-url-shortener/</guid>
+      <guid>http://localhost:1313/interview-with-is.gd-url-shortener/</guid>
       <description>&lt;p&gt;New URL Shortening services hit the web every week it seems. I can remember not too long ago when TinyURL was just starting up, and that hit with a huge bang. Ever since then, there have been countless creations of URL shorteners (where some even provided stats). However, only a select few have really succeeded to hit mainstream popularity and be of any use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Inside Scoop on CoolROM&#39;s.com with Founder Edward Chang</title>
-      <link>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
+      <link>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
       <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
+      <guid>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
       <description>&lt;p&gt;Digging through the internet for your favorite ROM can be a frustrating process. Some sites can&amp;rsquo;t be trusted, others just throw you around in loops to find exactly what you&amp;rsquo;re looking for. I have recently gotten a short, sweet, and to the point interview with the founder of CoolRom.com Edward Chang. In it, he discusses revenue streams from the site, traffic stats, and how he built and created a Emulation and ROM empire.&lt;/p&gt;</description>
     </item>
   </channel>

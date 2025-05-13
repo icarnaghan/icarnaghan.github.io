@@ -2,127 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Business on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/business/</link>
+    <link>http://localhost:1313/tags/business/</link>
     <description>Recent content in Business on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aptana acquired by Appcelerator</title>
-      <link>https://www.carnaghan.com/aptana-acquired-by-appcelerator/</link>
+      <link>http://localhost:1313/aptana-acquired-by-appcelerator/</link>
       <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/aptana-acquired-by-appcelerator/</guid>
+      <guid>http://localhost:1313/aptana-acquired-by-appcelerator/</guid>
       <description>&lt;p&gt;Aptana, the company behind the popular programming Integrated Development Environment (IDE) Aptana Studio, announced today that they have been acquired by Appcelerator. Aptana has been the choice for many web development professionals for quite some time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Joomla 1.6 Pushes Enterprise Level Features</title>
-      <link>https://www.carnaghan.com/new-joomla-1.6-pushes-enterprise-level-features/</link>
+      <link>http://localhost:1313/new-joomla-1.6-pushes-enterprise-level-features/</link>
       <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/new-joomla-1.6-pushes-enterprise-level-features/</guid>
+      <guid>http://localhost:1313/new-joomla-1.6-pushes-enterprise-level-features/</guid>
       <description>&lt;p&gt;The new version of the popular Joomla Content Management System (CMS) was released early last week and has already reached over 115k in downloads. 1.6 has been in the making for some time and earlier beta versions have been tested over the last few month. The first release candidate (RC1) was made available for download on December 14th, 2010.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MailBrowser - Simple Gmail Plugin for Managing your Contacts</title>
-      <link>https://www.carnaghan.com/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</link>
+      <link>http://localhost:1313/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</link>
       <pubDate>Sat, 24 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</guid>
+      <guid>http://localhost:1313/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</guid>
       <description>&lt;p&gt;For a long, long time have I been looking for a great Plugin for Gmail to help manage my contacts. I send a lot of e-mails to a lot of different people, and it&amp;rsquo;s difficult to sort through all of my mail and attachments without getting lost in the thousands upon thousands of messages. However with the new browser plug-in MailBrowser, it&amp;rsquo;s actually pretty simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Office 2010 Outlook has some New Digs</title>
-      <link>https://www.carnaghan.com/microsoft-office-2010-outlook-has-some-new-digs/</link>
+      <link>http://localhost:1313/microsoft-office-2010-outlook-has-some-new-digs/</link>
       <pubDate>Sun, 18 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/microsoft-office-2010-outlook-has-some-new-digs/</guid>
+      <guid>http://localhost:1313/microsoft-office-2010-outlook-has-some-new-digs/</guid>
       <description>&lt;p&gt;With Microsoft&amp;rsquo;s official release of Office 2010 being pushed out of Beta, I&amp;rsquo;m excited to see where they plan on going next. I&amp;rsquo;ve been running 2010 beta since they released them for download months ago, and I&amp;rsquo;ve been more than pleased with all of it! The biggest noticeable change is with Outlook, my favorite e-mail client.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jay Adelson Steps Down as CEO of Digg.com</title>
-      <link>https://www.carnaghan.com/jay-adelson-steps-down-as-ceo-of-digg.com/</link>
+      <link>http://localhost:1313/jay-adelson-steps-down-as-ceo-of-digg.com/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/jay-adelson-steps-down-as-ceo-of-digg.com/</guid>
+      <guid>http://localhost:1313/jay-adelson-steps-down-as-ceo-of-digg.com/</guid>
       <description>&lt;p&gt;In a recent blog post entitled simply &amp;ldquo;Update from Jay&amp;rdquo;, it has been officially announced that Jay Adelson will be stepping down as Digg&amp;rsquo;s CEO after 5 prosperous and amazing years. Jay has done an amazing job as CEO, and I firmly believe Digg wouldn&amp;rsquo;t hold it&amp;rsquo;s current success status today if it wasn&amp;rsquo;t for his ideas and inspiration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Template Monster&#39;s Design Blog Kicks Off!</title>
-      <link>https://www.carnaghan.com/template-monsters-design-blog-kicks-off/</link>
+      <link>http://localhost:1313/template-monsters-design-blog-kicks-off/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/template-monsters-design-blog-kicks-off/</guid>
+      <guid>http://localhost:1313/template-monsters-design-blog-kicks-off/</guid>
       <description>&lt;p&gt;Out of all the website and Wordpress template sellers out there, Template Monster is clearly the king. Reigning in the business for the past couple of years, the company has grown substantially to offer tens of thousands of templates to it&amp;rsquo;s many customer&amp;rsquo;s.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Darren Rowse&#39;s ProBlogger.net Bought and Acquired by Google</title>
-      <link>https://www.carnaghan.com/darren-rowses-problogger.net-bought-and-acquired-by-google/</link>
+      <link>http://localhost:1313/darren-rowses-problogger.net-bought-and-acquired-by-google/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/darren-rowses-problogger.net-bought-and-acquired-by-google/</guid>
+      <guid>http://localhost:1313/darren-rowses-problogger.net-bought-and-acquired-by-google/</guid>
       <description>&lt;p&gt;As much of a shock as this comes, Darren Rowse has actually sold ProBlogger. In an official press release held on the blog, Darren announces Google had offered to buy the blog and add it to their Blogger line of applications, to which Darren had rightfully accepted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Professional XHTML/CSS Slicing Company Slicejack</title>
-      <link>https://www.carnaghan.com/interview-with-professional-xhtml/css-slicing-company-slicejack/</link>
+      <link>http://localhost:1313/interview-with-professional-xhtml/css-slicing-company-slicejack/</link>
       <pubDate>Fri, 26 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-professional-xhtml/css-slicing-company-slicejack/</guid>
+      <guid>http://localhost:1313/interview-with-professional-xhtml/css-slicing-company-slicejack/</guid>
       <description>&lt;p&gt;PSD Conversion is a very high-paying business. Many amazing designers know how to work through Photoshop but just don&amp;rsquo;t have the time or haven&amp;rsquo;t learned how to code their designs into XHTML and CSS code. This is where many popular companies come in to help, the most popular being psd2html.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Digg.com is heading for a Major Pitfall</title>
-      <link>https://www.carnaghan.com/why-digg.com-is-heading-for-a-major-pitfall/</link>
+      <link>http://localhost:1313/why-digg.com-is-heading-for-a-major-pitfall/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/why-digg.com-is-heading-for-a-major-pitfall/</guid>
+      <guid>http://localhost:1313/why-digg.com-is-heading-for-a-major-pitfall/</guid>
       <description>&lt;p&gt;I remember a time when Digg used to roam wild in the Social News kingdom. It was the force to be reckoned with when it came to internet marketing - everybody needed to hit the front page to gain some traffic to their site. I&amp;rsquo;m sure tons of blogs have built their popularity off of Digg&amp;rsquo;s massive traffic influx, but there are many signs pointing towards this site closing the lid.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with ThisWebHost - An Impressive new Web Hosting Company</title>
-      <link>https://www.carnaghan.com/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</link>
+      <link>http://localhost:1313/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</link>
       <pubDate>Sat, 24 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</guid>
+      <guid>http://localhost:1313/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</guid>
       <description>&lt;p&gt;Finding a decent web hosting company today is difficult. So many companies overprice, can&amp;rsquo;t keep uptime promises, have horrible support, or offer you barely any space to store your site&amp;rsquo;s files and content. The few that have shown promise in the past are some of my favorites: Hostgator, Dreamhost, Bluehost, etc. However as I was browsing the web one night (like always) I ran into a great looking hosting company, This*.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Behind the Scenes at Posterous.com:  Filesharing Made Easy</title>
-      <link>https://www.carnaghan.com/behind-the-scenes-at-posterous.com-filesharing-made-easy/</link>
+      <link>http://localhost:1313/behind-the-scenes-at-posterous.com-filesharing-made-easy/</link>
       <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/behind-the-scenes-at-posterous.com-filesharing-made-easy/</guid>
+      <guid>http://localhost:1313/behind-the-scenes-at-posterous.com-filesharing-made-easy/</guid>
       <description>&lt;p&gt;Sharing files over the internet used to be a devilish task. Finding the right application, storage space, or transporation method for files used to be very difficult only 5 years ago. Now with file upload sites and forums/bulletin boards to share files, sending your friend a song or posting up a funny picture has never been easier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collection of Photos from Digg&#39;s Office in San Francisco</title>
-      <link>https://www.carnaghan.com/collection-of-photos-from-diggs-office-in-san-francisco/</link>
+      <link>http://localhost:1313/collection-of-photos-from-diggs-office-in-san-francisco/</link>
       <pubDate>Tue, 28 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/collection-of-photos-from-diggs-office-in-san-francisco/</guid>
+      <guid>http://localhost:1313/collection-of-photos-from-diggs-office-in-san-francisco/</guid>
       <description>&lt;p&gt;Digg is undoubtedly the most popular social news website on the internet. Hell, it sort of invented the social news genre itself! Digg has been a huge inspiration to me as a designer and developer, and I have learned so much through Digg&amp;rsquo;s progression over the years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with New Web 2.0 Web Conferencing Tool Fuze Meeting</title>
-      <link>https://www.carnaghan.com/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</link>
+      <link>http://localhost:1313/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</guid>
+      <guid>http://localhost:1313/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</guid>
       <description>&lt;p&gt;We can all agree that connecting with each other is important. This is especially the case in the world of business, where communications can be as important as arranging a business meeting promptly at 9:30AM. I spoke with Patrick Moran of Fuze Meeting&amp;rsquo;s Marketing division, and got the inside scoop on the new web conferencing tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manage Your Businesses Internet Marketing with twtapps</title>
-      <link>https://www.carnaghan.com/manage-your-businesses-internet-marketing-with-twtapps/</link>
+      <link>http://localhost:1313/manage-your-businesses-internet-marketing-with-twtapps/</link>
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/manage-your-businesses-internet-marketing-with-twtapps/</guid>
+      <guid>http://localhost:1313/manage-your-businesses-internet-marketing-with-twtapps/</guid>
       <description>&lt;p&gt;Twitter has skyrocketed into mainstream with seemingly no meaning behind it. The simple application allowing everyone in the world to share what they&amp;rsquo;re doing, thinking, or feeling in 140 characters has grown into one of the most popular web 2.0 applications on the web, and it&amp;rsquo;s no doubt there are many apps on the web to accompany it. Although not affiliate with Twitter in any way, twtapps is a neat website that features some of the coolest web 2.0 applications that help businesses market on Twitter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with ManageME7: Learn to Save Your Money the Easy Way!</title>
-      <link>https://www.carnaghan.com/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</link>
+      <link>http://localhost:1313/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</link>
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</guid>
+      <guid>http://localhost:1313/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</guid>
       <description>&lt;p&gt;Looking for some stability with your income? I think we all do, since we all can&amp;rsquo;t make 100k every month. Especially in times like these, managing money properly is a great skill to have and utilize, and knowing when to spend money and on what can be a challenge. With manageME7, you can manage your money 7 days a week, 24 hours a day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Dwellicious - Organizing and Sharing Your Real Estate Bookmarks</title>
-      <link>https://www.carnaghan.com/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</link>
+      <link>http://localhost:1313/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</link>
       <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</guid>
+      <guid>http://localhost:1313/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</guid>
       <description>&lt;p&gt;A real estate searcher&amp;rsquo;s dream, Dwellicious allows it&amp;rsquo;s users to bookmark links from popular real estate sites and compare different features between them. Similar to other social bookmarking sites like Delicious, users can add tags to their bookmarks to separate their different properties into categories.&lt;/p&gt;</description>
     </item>
   </channel>

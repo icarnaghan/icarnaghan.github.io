@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital-Media on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/categories/digital-media/</link>
+    <link>http://localhost:1313/categories/digital-media/</link>
     <description>Recent content in Digital-Media on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/categories/digital-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/digital-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7 Ways to Improve Your Site&#39;s Crawlability (And Why You Should)</title>
-      <link>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</link>
+      <link>http://localhost:1313/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</guid>
+      <guid>http://localhost:1313/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</guid>
       <description>&lt;p&gt;While keyword research, link-building, content optimization, and other on-page strategies can improve your domain&amp;rsquo;s search ranking, search engine optimization (SEO) starts with getting your pages indexed and to do that you need to ensure they&amp;rsquo;re crawler-friendly.&lt;/p&gt;
 &lt;p&gt;Crawler bots, like human users, appreciate sites which have clear, structured, readable data. However, since crawlers can only spend a limited amount of time and resources per site, domains with incoherent site maps, broken links, or 404 errors might not get indexed at all, effectively invisibilizing it for all potential users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Commerce in a nutshell – the next generation of marketing!</title>
-      <link>https://www.carnaghan.com/social-commerce-in-a-nutshell-the-next-generation-of-marketing/</link>
+      <link>http://localhost:1313/social-commerce-in-a-nutshell-the-next-generation-of-marketing/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/social-commerce-in-a-nutshell-the-next-generation-of-marketing/</guid>
+      <guid>http://localhost:1313/social-commerce-in-a-nutshell-the-next-generation-of-marketing/</guid>
       <description>&lt;p&gt;In today’s modern world, traditional forms of marketing and commerce are being replaced and overtaken by their digital counterparts. The internet has revolutionized the way that we do business and it has presented us with a plethora of new avenues for sales and revenue. One relatively new type of process we are seeing a surge in is social commerce. This article and infographic aim to describe exactly what social commerce is, and why it is so widely used.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MyThemeShop Authority theme review 2018 : Feature packed SEO optimized template</title>
-      <link>https://www.carnaghan.com/mythemeshop-authority-theme-review-2018-feature-packed-seo-optimized-template/</link>
+      <link>http://localhost:1313/mythemeshop-authority-theme-review-2018-feature-packed-seo-optimized-template/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mythemeshop-authority-theme-review-2018-feature-packed-seo-optimized-template/</guid>
+      <guid>http://localhost:1313/mythemeshop-authority-theme-review-2018-feature-packed-seo-optimized-template/</guid>
       <description>&lt;p&gt;Authority is one of the best-selling WordPress templates of MyThemeShop. It has a large number of users. It is inspired by design of the website of popular blogger Matthew Woodward.&lt;/p&gt;
 &lt;p&gt;Authority is a responsive WordPress theme that supports customization of almost every element you&amp;rsquo;ll find on it. It has amazing page speed. It is a premium template with great design and plenty of options.&lt;/p&gt;
 &lt;h2 id=&#34;mythemeshop-authority-wordpress-theme-review&#34;&gt;MyThemeShop Authority WordPress theme review&lt;/h2&gt;
@@ -40,538 +40,538 @@
     </item>
     <item>
       <title>Tips on How to be a Successful Blogger</title>
-      <link>https://www.carnaghan.com/tips-on-how-to-be-a-successful-blogger/</link>
+      <link>http://localhost:1313/tips-on-how-to-be-a-successful-blogger/</link>
       <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/tips-on-how-to-be-a-successful-blogger/</guid>
+      <guid>http://localhost:1313/tips-on-how-to-be-a-successful-blogger/</guid>
       <description>&lt;p&gt;For those that may be unfamiliar with its meaning, the term blog comes from the combination of the words web and log. Blogs can typically consist of entries that include comments on culture, hobbies or everyday life, occasionally featuring a video or music.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coldfusion 9 and IIS</title>
-      <link>https://www.carnaghan.com/coldfusion-9-and-iis/</link>
+      <link>http://localhost:1313/coldfusion-9-and-iis/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/coldfusion-9-and-iis/</guid>
+      <guid>http://localhost:1313/coldfusion-9-and-iis/</guid>
       <description>&lt;p&gt;I have been developing in ColdFusion for a while locally using the built in web server. Recently at work several of the projects I am involved with moved to an IIS production server. In order to test fully in my local environment I needed to install IIS and setup ColdFusion to use it as the server instead of its built in version.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aptana acquired by Appcelerator</title>
-      <link>https://www.carnaghan.com/aptana-acquired-by-appcelerator/</link>
+      <link>http://localhost:1313/aptana-acquired-by-appcelerator/</link>
       <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/aptana-acquired-by-appcelerator/</guid>
+      <guid>http://localhost:1313/aptana-acquired-by-appcelerator/</guid>
       <description>&lt;p&gt;Aptana, the company behind the popular programming Integrated Development Environment (IDE) Aptana Studio, announced today that they have been acquired by Appcelerator. Aptana has been the choice for many web development professionals for quite some time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Joomla 1.6 Pushes Enterprise Level Features</title>
-      <link>https://www.carnaghan.com/new-joomla-1.6-pushes-enterprise-level-features/</link>
+      <link>http://localhost:1313/new-joomla-1.6-pushes-enterprise-level-features/</link>
       <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/new-joomla-1.6-pushes-enterprise-level-features/</guid>
+      <guid>http://localhost:1313/new-joomla-1.6-pushes-enterprise-level-features/</guid>
       <description>&lt;p&gt;The new version of the popular Joomla Content Management System (CMS) was released early last week and has already reached over 115k in downloads. 1.6 has been in the making for some time and earlier beta versions have been tested over the last few month. The first release candidate (RC1) was made available for download on December 14th, 2010.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MySpace More Layoffs and Reflecting on What Went Wrong</title>
-      <link>https://www.carnaghan.com/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</link>
+      <link>http://localhost:1313/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</link>
       <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</guid>
+      <guid>http://localhost:1313/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</guid>
       <description>&lt;p&gt;Last July, Inside the Webb reported on new changes coming to MySpace in an effort to streamline the overall design of the social networking giant. As reported at the time, the changes were long overdue, however overhauling such a large organization was no easy task.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Pacman</title>
-      <link>https://www.carnaghan.com/google-pacman/</link>
+      <link>http://localhost:1313/google-pacman/</link>
       <pubDate>Sat, 22 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/google-pacman/</guid>
+      <guid>http://localhost:1313/google-pacman/</guid>
       <description>&lt;p&gt;Blinky, Pinky, Inky and Clyde have returned today in the form of Google&amp;rsquo;s logo to celebrate the 30th anniversary of our much loved electronic friend from the 80s.   There are sure to be a lot of people across the globe reliving their childhood arcade memories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MailBrowser - Simple Gmail Plugin for Managing your Contacts</title>
-      <link>https://www.carnaghan.com/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</link>
+      <link>http://localhost:1313/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</link>
       <pubDate>Sat, 24 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</guid>
+      <guid>http://localhost:1313/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</guid>
       <description>&lt;p&gt;For a long, long time have I been looking for a great Plugin for Gmail to help manage my contacts. I send a lot of e-mails to a lot of different people, and it&amp;rsquo;s difficult to sort through all of my mail and attachments without getting lost in the thousands upon thousands of messages. However with the new browser plug-in MailBrowser, it&amp;rsquo;s actually pretty simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Discussion Boards and Dynamic Chatrooms with Donut Chat</title>
-      <link>https://www.carnaghan.com/social-discussion-boards-and-dynamic-chatrooms-with-donut-chat/</link>
+      <link>http://localhost:1313/social-discussion-boards-and-dynamic-chatrooms-with-donut-chat/</link>
       <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/social-discussion-boards-and-dynamic-chatrooms-with-donut-chat/</guid>
+      <guid>http://localhost:1313/social-discussion-boards-and-dynamic-chatrooms-with-donut-chat/</guid>
       <description>&lt;p&gt;A new chatroom client has been released on the market, and it runs so smooth I can&amp;rsquo;t believe it&amp;rsquo;s not being used elsewhere. Donut Chat is my latest find in the ways of community and boards, and the software runs perfectly. I&amp;rsquo;m a huge fan of chat rooms, they&amp;rsquo;re useful as support forums, sharing ideas with friends and business partners&amp;hellip; really anything.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social News Website for Financial Articles and Tips at Tip&#39;d</title>
-      <link>https://www.carnaghan.com/social-news-website-for-financial-articles-and-tips-at-tipd/</link>
+      <link>http://localhost:1313/social-news-website-for-financial-articles-and-tips-at-tipd/</link>
       <pubDate>Wed, 21 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/social-news-website-for-financial-articles-and-tips-at-tipd/</guid>
+      <guid>http://localhost:1313/social-news-website-for-financial-articles-and-tips-at-tipd/</guid>
       <description>&lt;p&gt;You don&amp;rsquo;t find many great social news websites these days. You know, the kind that let you vote on stories and the most popular hit the front page? Digg and Reddit are still pretty good, and there are a few nice Pligg sites out there but overall not too many.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Releases Official Buzz Share Widget with Live Counter</title>
-      <link>https://www.carnaghan.com/google-releases-official-buzz-share-widget-with-live-counter/</link>
+      <link>http://localhost:1313/google-releases-official-buzz-share-widget-with-live-counter/</link>
       <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/google-releases-official-buzz-share-widget-with-live-counter/</guid>
+      <guid>http://localhost:1313/google-releases-official-buzz-share-widget-with-live-counter/</guid>
       <description>&lt;p&gt;Google has recently released the beginning of a small API working with Google Buzz. There have been plenty of issues with Google Buzz&amp;rsquo;s widget, and many other sites made their own to fill the gap. However with this newest release even Mashable has updated their Buzz widgets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Find Popular and Useful Websites Easily with TopSite</title>
-      <link>https://www.carnaghan.com/find-popular-and-useful-websites-easily-with-topsite/</link>
+      <link>http://localhost:1313/find-popular-and-useful-websites-easily-with-topsite/</link>
       <pubDate>Wed, 14 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/find-popular-and-useful-websites-easily-with-topsite/</guid>
+      <guid>http://localhost:1313/find-popular-and-useful-websites-easily-with-topsite/</guid>
       <description>&lt;p&gt;Ever find yourself wondering &amp;ldquo;how can I find the best blogs on the web, or the best social media apps for rating food or movies&amp;rdquo;? Well look no further, your web search engine is here! When your trust pal Google has failed you, I recommend giving TopSite a shot. It&amp;rsquo;s a social search engine which tracks down the top 10 most popular websites based on a keyword.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Metacafe Stacks up against Video Streaming Apps</title>
-      <link>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</link>
+      <link>http://localhost:1313/how-metacafe-stacks-up-against-video-streaming-apps/</link>
       <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
+      <guid>http://localhost:1313/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s no doubt when it comes to social media and web video, YouTube takes the cake. Currently within top 5 Alexa rank and also owned by the #1 search engine and website online, YouTube has everything backing it. Google doesn&amp;rsquo;t control the monopoly though, there are so many cool video streaming services out there each with their own to offer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Merges Startup Visual Search Engine Plink with Google Goggles</title>
-      <link>https://www.carnaghan.com/google-merges-startup-visual-search-engine-plink-with-google-goggles/</link>
+      <link>http://localhost:1313/google-merges-startup-visual-search-engine-plink-with-google-goggles/</link>
       <pubDate>Mon, 12 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/google-merges-startup-visual-search-engine-plink-with-google-goggles/</guid>
+      <guid>http://localhost:1313/google-merges-startup-visual-search-engine-plink-with-google-goggles/</guid>
       <description>&lt;p&gt;Google has taken another step forward in visual and image search after acquiring UK-based startup Plink. Having only launched 4 months ago, Plink is a visual search engine which you can download as an Android app and take a photo of a picture to find out more information about it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Craze.cc - New and Innovative Social News/Discussion Community</title>
-      <link>https://www.carnaghan.com/craze.cc-new-and-innovative-social-news/discussion-community/</link>
+      <link>http://localhost:1313/craze.cc-new-and-innovative-social-news/discussion-community/</link>
       <pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/craze.cc-new-and-innovative-social-news/discussion-community/</guid>
+      <guid>http://localhost:1313/craze.cc-new-and-innovative-social-news/discussion-community/</guid>
       <description>&lt;p&gt;I love social media, I&amp;rsquo;ll get that off my chest right now. There are so many new and innovative websites popping up each and every day which take the idea of social networking and spin it around with some new features and a new look, then present it to you in a clean and elegant way. Well Craze.cc is certainly one of those sites, and the idea is spreading fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pligg Social News CMS Releases Official 1.0.4 Upgrade</title>
-      <link>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
+      <link>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</link>
       <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
+      <guid>http://localhost:1313/pligg-social-news-cms-releases-official-1.0.4-upgrade/</guid>
       <description>&lt;p&gt;The popular Digg-clone script Pligg has released their latest version as of today, stable release 1.0.4. There are a lot of new features from 1.0.3a and 1.0.3b releases of the CMS script, which have fixed a lot of security issues and bugs in the code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>YouTube Rolls out new User Interface for Flash Video Player</title>
-      <link>https://www.carnaghan.com/youtube-rolls-out-new-user-interface-for-flash-video-player/</link>
+      <link>http://localhost:1313/youtube-rolls-out-new-user-interface-for-flash-video-player/</link>
       <pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/youtube-rolls-out-new-user-interface-for-flash-video-player/</guid>
+      <guid>http://localhost:1313/youtube-rolls-out-new-user-interface-for-flash-video-player/</guid>
       <description>&lt;p&gt;Having seen YouTube roll out new video and profile pages over the past few months, it&amp;rsquo;s been obvious there&amp;rsquo;s been a new Flash User Interface in the works for the common video player. Well as of today, YouTube has finally released the newest UI to most video pages, and are slowly trickling down throughout all videos over the next couple of days.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jay Adelson Steps Down as CEO of Digg.com</title>
-      <link>https://www.carnaghan.com/jay-adelson-steps-down-as-ceo-of-digg.com/</link>
+      <link>http://localhost:1313/jay-adelson-steps-down-as-ceo-of-digg.com/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/jay-adelson-steps-down-as-ceo-of-digg.com/</guid>
+      <guid>http://localhost:1313/jay-adelson-steps-down-as-ceo-of-digg.com/</guid>
       <description>&lt;p&gt;In a recent blog post entitled simply &amp;ldquo;Update from Jay&amp;rdquo;, it has been officially announced that Jay Adelson will be stepping down as Digg&amp;rsquo;s CEO after 5 prosperous and amazing years. Jay has done an amazing job as CEO, and I firmly believe Digg wouldn&amp;rsquo;t hold it&amp;rsquo;s current success status today if it wasn&amp;rsquo;t for his ideas and inspiration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digzign - New Social News for Designers that Dig</title>
-      <link>https://www.carnaghan.com/digzign-new-social-news-for-designers-that-dig/</link>
+      <link>http://localhost:1313/digzign-new-social-news-for-designers-that-dig/</link>
       <pubDate>Mon, 05 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/digzign-new-social-news-for-designers-that-dig/</guid>
+      <guid>http://localhost:1313/digzign-new-social-news-for-designers-that-dig/</guid>
       <description>&lt;p&gt;Social news has sprung along the web, and with the popularity of web design and graphics blogs sharing links has become commonplace. With popular sites such as DesignFloat and DesignBump, it&amp;rsquo;s hard to imagine much else. However I have recently found a great-looking Digg clone website at &lt;a href=&#34;http://digzign.com/&#34;&gt;http://digzign.com/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mashable-Style Google Buzz Widget with Counter Available by Njuice</title>
-      <link>https://www.carnaghan.com/mashable-style-google-buzz-widget-with-counter-available-by-njuice/</link>
+      <link>http://localhost:1313/mashable-style-google-buzz-widget-with-counter-available-by-njuice/</link>
       <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mashable-style-google-buzz-widget-with-counter-available-by-njuice/</guid>
+      <guid>http://localhost:1313/mashable-style-google-buzz-widget-with-counter-available-by-njuice/</guid>
       <description>&lt;p&gt;As many fans of the popular social media blog Mashable know, over the past month or 2 they have been messing around with a new Google Buzz button. Allowing you to share stories over Google Reader which publish into Google Buzz, this small widget has grown in popularity and it seems like every blogger is looking for one!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Latest Free Icon Search Engine FindIcons.com</title>
-      <link>https://www.carnaghan.com/the-latest-free-icon-search-engine-findicons.com/</link>
+      <link>http://localhost:1313/the-latest-free-icon-search-engine-findicons.com/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-latest-free-icon-search-engine-findicons.com/</guid>
+      <guid>http://localhost:1313/the-latest-free-icon-search-engine-findicons.com/</guid>
       <description>&lt;p&gt;Just a few weeks ago I got a great interview with the creator of IconFinder.net, one of the only free icon search engines online. Recently I&amp;rsquo;ve come across another one which has just as many great icons shared, plus the ability to log in and save your favorite sets!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twitter Releases Sleek, Clean Homepage Redesign</title>
-      <link>https://www.carnaghan.com/twitter-releases-sleek-clean-homepage-redesign/</link>
+      <link>http://localhost:1313/twitter-releases-sleek-clean-homepage-redesign/</link>
       <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/twitter-releases-sleek-clean-homepage-redesign/</guid>
+      <guid>http://localhost:1313/twitter-releases-sleek-clean-homepage-redesign/</guid>
       <description>&lt;p&gt;Although this has been covered by many media blogs, Twitter has indeed released a new home page! I have to say, I&amp;rsquo;m a big fan of the new design and it definitely allows for a better user experience when first arriving at the site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mixx Partners with Marketfish for New Ad Platform</title>
-      <link>https://www.carnaghan.com/mixx-partners-with-marketfish-for-new-ad-platform/</link>
+      <link>http://localhost:1313/mixx-partners-with-marketfish-for-new-ad-platform/</link>
       <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mixx-partners-with-marketfish-for-new-ad-platform/</guid>
+      <guid>http://localhost:1313/mixx-partners-with-marketfish-for-new-ad-platform/</guid>
       <description>&lt;p&gt;With the popularity of social news, there have been many launches and premieres of new apps on the scene. One of the most popular and rising clone site&amp;rsquo;s is Mixx.com. Very similar to Digg, Mixx allows users to vote up the hottest articles and news based on categories ranging from world news, technology, science, and gaming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Google Buzz is Gaining Many Early Followers</title>
-      <link>https://www.carnaghan.com/how-google-buzz-is-gaining-many-early-followers/</link>
+      <link>http://localhost:1313/how-google-buzz-is-gaining-many-early-followers/</link>
       <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-google-buzz-is-gaining-many-early-followers/</guid>
+      <guid>http://localhost:1313/how-google-buzz-is-gaining-many-early-followers/</guid>
       <description>&lt;p&gt;Since Google Buzz launched a few months ago, it has had some very impressive early adopters. Mashable and TechCrunch have been the first of many larger blogs to jump on board, with many smaller blogs following suit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Digg&#39;s New Ad System is Gaining Popularity</title>
-      <link>https://www.carnaghan.com/why-diggs-new-ad-system-is-gaining-popularity/</link>
+      <link>http://localhost:1313/why-diggs-new-ad-system-is-gaining-popularity/</link>
       <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/why-diggs-new-ad-system-is-gaining-popularity/</guid>
+      <guid>http://localhost:1313/why-diggs-new-ad-system-is-gaining-popularity/</guid>
       <description>&lt;p&gt;Digg has always been an extremely innovative company. Launching into the social news bit in 2004, the site has grown immensely popular with monthly pageviews in the tens of millions. Digg&amp;rsquo;s popularity has allowed for a counter-culture of internet users to become Diggers, voting on the best stories to hit the front page and sent traffic spikes to interesting and useful blogs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Martin Leblanc Eigtved, Founder of IconFinder.net</title>
-      <link>https://www.carnaghan.com/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</link>
+      <link>http://localhost:1313/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</link>
       <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</guid>
+      <guid>http://localhost:1313/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</guid>
       <description>&lt;p&gt;So many design blogs and showcases today are giving away icons for free. Even in large sets, social media icons and small graphics are making their way into the big time. I&amp;rsquo;m a huge fan of collecting icons, and all of these free sites are extremely useful and always in my bookmarks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How StumbleUpon Advertising has Increased Traffic</title>
-      <link>https://www.carnaghan.com/how-stumbleupon-advertising-has-increased-traffic/</link>
+      <link>http://localhost:1313/how-stumbleupon-advertising-has-increased-traffic/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-stumbleupon-advertising-has-increased-traffic/</guid>
+      <guid>http://localhost:1313/how-stumbleupon-advertising-has-increased-traffic/</guid>
       <description>&lt;p&gt;Those who use StumbleUpon for both casual web surfing and internet marketing know how powerful the site is. It&amp;rsquo;s grown substantially over the last year or 2, increasing not only it&amp;rsquo;s userbase but also the amount of submitted articles and stumbled posts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Newest Trending Social News Sharing Community Humsurfer</title>
-      <link>https://www.carnaghan.com/the-newest-trending-social-news-sharing-community-humsurfer/</link>
+      <link>http://localhost:1313/the-newest-trending-social-news-sharing-community-humsurfer/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-newest-trending-social-news-sharing-community-humsurfer/</guid>
+      <guid>http://localhost:1313/the-newest-trending-social-news-sharing-community-humsurfer/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s difficult these days to track down the best social news sharing communities. There are the classics such as Digg and Reddit, and also smaller niche communities containing topics like design and programming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Digg-Clone Thuhm Updates Design and Added Features</title>
-      <link>https://www.carnaghan.com/new-digg-clone-thuhm-updates-design-and-added-features/</link>
+      <link>http://localhost:1313/new-digg-clone-thuhm-updates-design-and-added-features/</link>
       <pubDate>Sat, 27 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/new-digg-clone-thuhm-updates-design-and-added-features/</guid>
+      <guid>http://localhost:1313/new-digg-clone-thuhm-updates-design-and-added-features/</guid>
       <description>&lt;p&gt;I had written a Review for Thuhm a while back, and have to say I still love the app. It&amp;rsquo;s a brand new social news website for sharing all kinds of news, and it combines the best features of Reddit and Digg together.&lt;/p&gt;
 &lt;p&gt;Although still just breaking off the ground, Thuhm has a lot to offer it&amp;rsquo;s readers. Recently there had been a post mentioning new updates on the site, including a new front page design and the addition of categories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Utilizing DesignMoo for Social Media Traffic to your Design Blog</title>
-      <link>https://www.carnaghan.com/utilizing-designmoo-for-social-media-traffic-to-your-design-blog/</link>
+      <link>http://localhost:1313/utilizing-designmoo-for-social-media-traffic-to-your-design-blog/</link>
       <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/utilizing-designmoo-for-social-media-traffic-to-your-design-blog/</guid>
+      <guid>http://localhost:1313/utilizing-designmoo-for-social-media-traffic-to-your-design-blog/</guid>
       <description>&lt;p&gt;For all of you running a design blog out there, DesignMoo is a site you&amp;rsquo;re going to want to bookmark. As I&amp;rsquo;m sure we all know of Digg&amp;rsquo;s popularity, this has caused many smaller sites to spawn offspring and grow into micro-niche Digg sites. DesignMoo is one of these style of sites for graphic and web design, and can bring in a lot of traffic to your blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why is Mashable so Quick to Promote Google Buzz?</title>
-      <link>https://www.carnaghan.com/why-is-mashable-so-quick-to-promote-google-buzz/</link>
+      <link>http://localhost:1313/why-is-mashable-so-quick-to-promote-google-buzz/</link>
       <pubDate>Tue, 23 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/why-is-mashable-so-quick-to-promote-google-buzz/</guid>
+      <guid>http://localhost:1313/why-is-mashable-so-quick-to-promote-google-buzz/</guid>
       <description>&lt;p&gt;Mashable is one huge blog, a very large competitor to Inside the Webb and what I wish we could be someday! They run some amazing articles about social networking, social media, tech news, and everything internet related. They usually have articles hitting the front page of Digg and Delicious, gaining well into 1500+ ReTweets and tons of Stumbles: bottom line, their blog is huge!&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Your Compete Rank can Directly Affect your Blog</title>
-      <link>https://www.carnaghan.com/how-your-compete-rank-can-directly-affect-your-blog/</link>
+      <link>http://localhost:1313/how-your-compete-rank-can-directly-affect-your-blog/</link>
       <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-your-compete-rank-can-directly-affect-your-blog/</guid>
+      <guid>http://localhost:1313/how-your-compete-rank-can-directly-affect-your-blog/</guid>
       <description>&lt;p&gt;Mostly all internet marketers are aware of what Google&amp;rsquo;s PageRank is. Ranking pages on a scale of 0-10 based on the amount of backlinks, and the quality of those links. Compete works in a very similar way to Alexa, where it ranks different site&amp;rsquo;s positions in the grand scheme of thinks. Now with Alexa Ranking the lower the better, and the same goes for Compete Ranking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Profitable are Niche Video Game Forums and Communities?</title>
-      <link>https://www.carnaghan.com/how-profitable-are-niche-video-game-forums-and-communities/</link>
+      <link>http://localhost:1313/how-profitable-are-niche-video-game-forums-and-communities/</link>
       <pubDate>Sat, 13 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-profitable-are-niche-video-game-forums-and-communities/</guid>
+      <guid>http://localhost:1313/how-profitable-are-niche-video-game-forums-and-communities/</guid>
       <description>&lt;p&gt;A big part of the web 2.0 boom is communication. People are communicating now more than ever, and it&amp;rsquo;s not a surprise. With the vast size of apps these days, along with almost every website running some type of forum or blog, users are more connected than ever! Many marketers can see ways to utilizing this new &amp;ldquo;social networking fever&amp;rdquo; as a turning point to make some serious money online.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Virtual Online Gaming Community FactPile</title>
-      <link>https://www.carnaghan.com/interview-with-virtual-online-gaming-community-factpile/</link>
+      <link>http://localhost:1313/interview-with-virtual-online-gaming-community-factpile/</link>
       <pubDate>Fri, 12 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-virtual-online-gaming-community-factpile/</guid>
+      <guid>http://localhost:1313/interview-with-virtual-online-gaming-community-factpile/</guid>
       <description>&lt;p&gt;There are so many great online gaming communities. Video games have taken a huge rise in popularity over the years, and what a better way to celebrate your favorite games than hanging out with like-minded people on a fun and active community? FactPile does just that, collecting all gamers and tech-lovers from around the globe to interact and enjoy the community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CypherBox.net - Great Pligg-based PR4 Social Bookmarking Site</title>
-      <link>https://www.carnaghan.com/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</link>
+      <link>http://localhost:1313/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</link>
       <pubDate>Thu, 11 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</guid>
+      <guid>http://localhost:1313/cypherbox.net-great-pligg-based-pr4-social-bookmarking-site/</guid>
       <description>&lt;p&gt;I just want to say, I absolutely love Pligg. It&amp;rsquo;s an amazing PHP script, free to download which allows you to set up your own social news site similar to Digg. Many micro-niche sites have popped up running on Pligg&amp;rsquo;s backend, and CypherBox is my latest find.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rumors of Yahoo! Taking Down MyBlogLog could be False</title>
-      <link>https://www.carnaghan.com/rumors-of-yahoo-taking-down-mybloglog-could-be-false/</link>
+      <link>http://localhost:1313/rumors-of-yahoo-taking-down-mybloglog-could-be-false/</link>
       <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/rumors-of-yahoo-taking-down-mybloglog-could-be-false/</guid>
+      <guid>http://localhost:1313/rumors-of-yahoo-taking-down-mybloglog-could-be-false/</guid>
       <description>&lt;p&gt;Starting around December I had seen a lot of blogs posting about Yahoo! considering closing the doors on MyBlogLog. I was sad to hear this news, as I have been a huge fan of MyBlogLog since it first launched in 2005. It was a simple community of bloggers with a simple goal of uniting the best writers and bloggers on the web.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chill to your Music Library anywhere with Grooveshark</title>
-      <link>https://www.carnaghan.com/chill-to-your-music-library-anywhere-with-grooveshark/</link>
+      <link>http://localhost:1313/chill-to-your-music-library-anywhere-with-grooveshark/</link>
       <pubDate>Tue, 09 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/chill-to-your-music-library-anywhere-with-grooveshark/</guid>
+      <guid>http://localhost:1313/chill-to-your-music-library-anywhere-with-grooveshark/</guid>
       <description>&lt;p&gt;Ever since I found out about Grooveshark a few months ago, it&amp;rsquo;s revolutionized the way I listen to music. No longer am I stuck with my iTunes playlists and limitions on songs - nor do I even need to store the songs on my computer!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Digg.com is heading for a Major Pitfall</title>
-      <link>https://www.carnaghan.com/why-digg.com-is-heading-for-a-major-pitfall/</link>
+      <link>http://localhost:1313/why-digg.com-is-heading-for-a-major-pitfall/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/why-digg.com-is-heading-for-a-major-pitfall/</guid>
+      <guid>http://localhost:1313/why-digg.com-is-heading-for-a-major-pitfall/</guid>
       <description>&lt;p&gt;I remember a time when Digg used to roam wild in the Social News kingdom. It was the force to be reckoned with when it came to internet marketing - everybody needed to hit the front page to gain some traffic to their site. I&amp;rsquo;m sure tons of blogs have built their popularity off of Digg&amp;rsquo;s massive traffic influx, but there are many signs pointing towards this site closing the lid.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Facebook Introduces a Brand New, Sleek Home Design</title>
-      <link>https://www.carnaghan.com/facebook-introduces-a-brand-new-sleek-home-design/</link>
+      <link>http://localhost:1313/facebook-introduces-a-brand-new-sleek-home-design/</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/facebook-introduces-a-brand-new-sleek-home-design/</guid>
+      <guid>http://localhost:1313/facebook-introduces-a-brand-new-sleek-home-design/</guid>
       <description>&lt;p&gt;A few days ago Facebook released their newest design. Nothing has changed on personal profile pages, but when you log into your account you should see some major changes to how everything is layed out. This came as a shock to me when I logged in to check my status for the first time earlier today - a brand new look!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Yahoo! Answers Q&amp;amp;A Competitor Blurtit</title>
-      <link>https://www.carnaghan.com/interview-with-yahoo-answers-qampa-competitor-blurtit/</link>
+      <link>http://localhost:1313/interview-with-yahoo-answers-qampa-competitor-blurtit/</link>
       <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-yahoo-answers-qampa-competitor-blurtit/</guid>
+      <guid>http://localhost:1313/interview-with-yahoo-answers-qampa-competitor-blurtit/</guid>
       <description>&lt;p&gt;Yahoo! Answers has to be the most well-known and popular Question &amp;amp; Community on the web. However there is always room for improvement on apps like these, and Blurtit takes the cake. Building more of a community around the idea of the &amp;ldquo;Ask Any Question&amp;rdquo; niche, Blurtit allows users to connect like never before, searching for the most popular questions and sharing knowledge between everyone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Check Your Username Availability on Tons of Websites with Namechk</title>
-      <link>https://www.carnaghan.com/check-your-username-availability-on-tons-of-websites-with-namechk/</link>
+      <link>http://localhost:1313/check-your-username-availability-on-tons-of-websites-with-namechk/</link>
       <pubDate>Sun, 24 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/check-your-username-availability-on-tons-of-websites-with-namechk/</guid>
+      <guid>http://localhost:1313/check-your-username-availability-on-tons-of-websites-with-namechk/</guid>
       <description>&lt;p&gt;Many of us enjoy sticking with our usernames. We sign up with the same username on multiple websites, and this is especially true with social networking/bookmarking sites as it allows your name to become a presence in the community. Only thing is, there&amp;rsquo;s so many people online that the chances of our username being take is, well, pretty decent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plurk Rivals Twitter as the Next Popular Microblogging Platform</title>
-      <link>https://www.carnaghan.com/plurk-rivals-twitter-as-the-next-popular-microblogging-platform/</link>
+      <link>http://localhost:1313/plurk-rivals-twitter-as-the-next-popular-microblogging-platform/</link>
       <pubDate>Sun, 17 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/plurk-rivals-twitter-as-the-next-popular-microblogging-platform/</guid>
+      <guid>http://localhost:1313/plurk-rivals-twitter-as-the-next-popular-microblogging-platform/</guid>
       <description>&lt;p&gt;Twitter - you either love it or hate it. The application has exploded onto the web, where not only everybody seems to need one, but even larger corporations have set up Twitter accounts. Tweeting is the next big thing! tons of people are getting into this new trend, while naysayers stand behind and wave their fingers in disgust.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Digg-Themed Social News and Media Website Thuhm</title>
-      <link>https://www.carnaghan.com/new-digg-themed-social-news-and-media-website-thuhm/</link>
+      <link>http://localhost:1313/new-digg-themed-social-news-and-media-website-thuhm/</link>
       <pubDate>Fri, 08 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/new-digg-themed-social-news-and-media-website-thuhm/</guid>
+      <guid>http://localhost:1313/new-digg-themed-social-news-and-media-website-thuhm/</guid>
       <description>&lt;p&gt;Digg has become the popular site for internet marketers and bloggers to aspire to. Digg used to be a popular tech website, where tech enthusiasts and internet lovers could gather to share links. Whichever links got the most &amp;ldquo;diggs&amp;rdquo; would hit the front page, generally to recieve a surge of traffic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with New Twitter app Taweet: The Future of Twitter</title>
-      <link>https://www.carnaghan.com/interview-with-new-twitter-app-taweet-the-future-of-twitter/</link>
+      <link>http://localhost:1313/interview-with-new-twitter-app-taweet-the-future-of-twitter/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-new-twitter-app-taweet-the-future-of-twitter/</guid>
+      <guid>http://localhost:1313/interview-with-new-twitter-app-taweet-the-future-of-twitter/</guid>
       <description>&lt;p&gt;As Twitter has blown through other social media sites, it&amp;rsquo;s become one of the most trafficked websites of the present day. Everybody and their grandma is using Twitter, and there&amp;rsquo;s no shortage of helpful applications and Twitter resources for them all! Ranging from Twitter wallpaper creators to free icons or avatars, the internet hosts them all.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organize your Schedule Online with Plan.fm</title>
-      <link>https://www.carnaghan.com/organize-your-schedule-online-with-plan.fm/</link>
+      <link>http://localhost:1313/organize-your-schedule-online-with-plan.fm/</link>
       <pubDate>Tue, 05 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/organize-your-schedule-online-with-plan.fm/</guid>
+      <guid>http://localhost:1313/organize-your-schedule-online-with-plan.fm/</guid>
       <description>&lt;p&gt;So I found another cool app the other day. plan.fm, simple name with a simple purpose of uniting all of your plans in one place. You can draw in feeds from social networking sites such as Facebook and Twitter and merge your plans all into one calendar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuring TortoiseSVN to Manage Updates on Pligg Sites</title>
-      <link>https://www.carnaghan.com/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</link>
+      <link>http://localhost:1313/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</link>
       <pubDate>Sat, 14 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</guid>
+      <guid>http://localhost:1313/configuring-tortoisesvn-to-manage-updates-on-pligg-sites/</guid>
       <description>&lt;p&gt;I am extremely fond of the new social news script Pligg CMS. I have been following it since early release, and updating Pligg sites used to be very difficult. However from instructions from this wiki, you can use TortoiseSVN to control the version and upgrades of your Pligg site with ease.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Web&#39;s Cutest URL Shortening Service Moourl.com</title>
-      <link>https://www.carnaghan.com/the-webs-cutest-url-shortening-service-moourl.com/</link>
+      <link>http://localhost:1313/the-webs-cutest-url-shortening-service-moourl.com/</link>
       <pubDate>Sun, 08 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-webs-cutest-url-shortening-service-moourl.com/</guid>
+      <guid>http://localhost:1313/the-webs-cutest-url-shortening-service-moourl.com/</guid>
       <description>&lt;p&gt;I know I know, I&amp;rsquo;m a guy and the word &amp;ldquo;cute&amp;rdquo; shouldn&amp;rsquo;t be in my vocabulary. Well if I ever needed to use the word cute to describe anything, it would have to be moourl.com. It&amp;rsquo;s a URL shortening service with an actually &lt;em&gt;bearable&lt;/em&gt; design to it. Beautiful vectors and color scheme, I love the site!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with a Digg.com Software Engineer Kurt Wilms</title>
-      <link>https://www.carnaghan.com/interview-with-a-digg.com-software-engineer-kurt-wilms/</link>
+      <link>http://localhost:1313/interview-with-a-digg.com-software-engineer-kurt-wilms/</link>
       <pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-a-digg.com-software-engineer-kurt-wilms/</guid>
+      <guid>http://localhost:1313/interview-with-a-digg.com-software-engineer-kurt-wilms/</guid>
       <description>&lt;p&gt;As a web designer myself, I have found that other web designers I talk to always have favorite websites they go to for inspiration. Not saying they want to copy a specific website, but there are just some site&amp;rsquo;s that &amp;ldquo;stick&amp;rdquo; and really inspire you to create web designs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with is.gd URL Shortener</title>
-      <link>https://www.carnaghan.com/interview-with-is.gd-url-shortener/</link>
+      <link>http://localhost:1313/interview-with-is.gd-url-shortener/</link>
       <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-is.gd-url-shortener/</guid>
+      <guid>http://localhost:1313/interview-with-is.gd-url-shortener/</guid>
       <description>&lt;p&gt;New URL Shortening services hit the web every week it seems. I can remember not too long ago when TinyURL was just starting up, and that hit with a huge bang. Ever since then, there have been countless creations of URL shorteners (where some even provided stats). However, only a select few have really succeeded to hit mainstream popularity and be of any use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobile Device Applications from a Development Perspective</title>
-      <link>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</link>
+      <link>http://localhost:1313/mobile-device-applications-from-a-development-perspective/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</guid>
+      <guid>http://localhost:1313/mobile-device-applications-from-a-development-perspective/</guid>
       <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;
 &lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;
 &lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Founder of Omegle.com Answers Questions From Redditors</title>
-      <link>https://www.carnaghan.com/founder-of-omegle.com-answers-questions-from-redditors/</link>
+      <link>http://localhost:1313/founder-of-omegle.com-answers-questions-from-redditors/</link>
       <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/founder-of-omegle.com-answers-questions-from-redditors/</guid>
+      <guid>http://localhost:1313/founder-of-omegle.com-answers-questions-from-redditors/</guid>
       <description>&lt;p&gt;Omegle.com has spread across many social networking hubs, forums, and internet chatrooms rapidly over the past few months. It&amp;rsquo;s a new site with a very simple concept: you log in anonymously and talk to someone else. Someone random, someone you&amp;rsquo;ve *probably* never even met before, just talking about whatever. It seems like a breeding ground for spam and pranks, but it ultimately seen very positive results in traffic and user response.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Inside Scoop on CoolROM&#39;s.com with Founder Edward Chang</title>
-      <link>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
+      <link>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
       <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
+      <guid>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
       <description>&lt;p&gt;Digging through the internet for your favorite ROM can be a frustrating process. Some sites can&amp;rsquo;t be trusted, others just throw you around in loops to find exactly what you&amp;rsquo;re looking for. I have recently gotten a short, sweet, and to the point interview with the founder of CoolRom.com Edward Chang. In it, he discusses revenue streams from the site, traffic stats, and how he built and created a Emulation and ROM empire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Behind the Scenes at Posterous.com:  Filesharing Made Easy</title>
-      <link>https://www.carnaghan.com/behind-the-scenes-at-posterous.com-filesharing-made-easy/</link>
+      <link>http://localhost:1313/behind-the-scenes-at-posterous.com-filesharing-made-easy/</link>
       <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/behind-the-scenes-at-posterous.com-filesharing-made-easy/</guid>
+      <guid>http://localhost:1313/behind-the-scenes-at-posterous.com-filesharing-made-easy/</guid>
       <description>&lt;p&gt;Sharing files over the internet used to be a devilish task. Finding the right application, storage space, or transporation method for files used to be very difficult only 5 years ago. Now with file upload sites and forums/bulletin boards to share files, sending your friend a song or posting up a funny picture has never been easier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with PSDFan&#39;s Designer and Blogger Tom Ross</title>
-      <link>https://www.carnaghan.com/interview-with-psdfans-designer-and-blogger-tom-ross/</link>
+      <link>http://localhost:1313/interview-with-psdfans-designer-and-blogger-tom-ross/</link>
       <pubDate>Mon, 12 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-psdfans-designer-and-blogger-tom-ross/</guid>
+      <guid>http://localhost:1313/interview-with-psdfans-designer-and-blogger-tom-ross/</guid>
       <description>&lt;p&gt;Finding good tutorials on web design and development can be tough these days. Although so many people have and use Adobe Illustrator, Photoshop, and all of the creative suite, there are very few that know how to utilize the tools properly and create astounding designs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CrazyLeaf Design Blog - Inspiration and Resources for Web Designers</title>
-      <link>https://www.carnaghan.com/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</link>
+      <link>http://localhost:1313/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</link>
       <pubDate>Mon, 05 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</guid>
+      <guid>http://localhost:1313/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</guid>
       <description>&lt;p&gt;Web designers can spend hours looking for inspiration. We&amp;rsquo;ve all been there, up at 1 in the morning trying to work out a project you&amp;rsquo;ve got lined up but nothing seems to be hitting you. Whenever I&amp;rsquo;m at a design roadblock I usually turn to typical web design blogs to get the juices flowing again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with BloggersBase: A Community Built for Bloggers</title>
-      <link>https://www.carnaghan.com/interview-with-bloggersbase-a-community-built-for-bloggers/</link>
+      <link>http://localhost:1313/interview-with-bloggersbase-a-community-built-for-bloggers/</link>
       <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-bloggersbase-a-community-built-for-bloggers/</guid>
+      <guid>http://localhost:1313/interview-with-bloggersbase-a-community-built-for-bloggers/</guid>
       <description>&lt;p&gt;The term &amp;ldquo;blogging&amp;rdquo; is thrown around so much these days. There are millions of blogs, bloggers, blog posts, and people blogging every day. In fact, this post you&amp;rsquo;re reading is on a blog! It&amp;rsquo;s no wonder this area has exploded over the past couple of years, and there are many social networking sites connecting both bloggers and readers together.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collection of Photos from Digg&#39;s Office in San Francisco</title>
-      <link>https://www.carnaghan.com/collection-of-photos-from-diggs-office-in-san-francisco/</link>
+      <link>http://localhost:1313/collection-of-photos-from-diggs-office-in-san-francisco/</link>
       <pubDate>Tue, 28 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/collection-of-photos-from-diggs-office-in-san-francisco/</guid>
+      <guid>http://localhost:1313/collection-of-photos-from-diggs-office-in-san-francisco/</guid>
       <description>&lt;p&gt;Digg is undoubtedly the most popular social news website on the internet. Hell, it sort of invented the social news genre itself! Digg has been a huge inspiration to me as a designer and developer, and I have learned so much through Digg&amp;rsquo;s progression over the years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Listen to Your Music Anywhere with MeCanto</title>
-      <link>https://www.carnaghan.com/listen-to-your-music-anywhere-with-mecanto/</link>
+      <link>http://localhost:1313/listen-to-your-music-anywhere-with-mecanto/</link>
       <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/listen-to-your-music-anywhere-with-mecanto/</guid>
+      <guid>http://localhost:1313/listen-to-your-music-anywhere-with-mecanto/</guid>
       <description>&lt;p&gt;Being able to carry your music library on an iPod or MP3 player has revolutionized how we listen to music. It&amp;rsquo;s allowed us to bring our favorite songs anywhere we go, keep us busy when waiting on appointments, and share some of our favorite music with friends. However, with MeCanto you can now bring your entire music library anywhere you can get an internet collection - that&amp;rsquo;s practically anywhere!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Digg-Clone for Designers DesignBump</title>
-      <link>https://www.carnaghan.com/interview-with-digg-clone-for-designers-designbump/</link>
+      <link>http://localhost:1313/interview-with-digg-clone-for-designers-designbump/</link>
       <pubDate>Sat, 18 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-digg-clone-for-designers-designbump/</guid>
+      <guid>http://localhost:1313/interview-with-digg-clone-for-designers-designbump/</guid>
       <description>&lt;p&gt;Digg was the first social news site to really skyrocket into popularity, gaining millions of pageviews a day to the site. No doubt, there would be similar sites in separate niches on the web. The first of these niche sites in the web design category was Design Float, which has had many issues with databases and keeping the site up and running properly. Therefore, a new competitor has stepped up to the plate: DesignBump.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Indaba Music: The Online Music-Making Community</title>
-      <link>https://www.carnaghan.com/interview-with-indaba-music-the-online-music-making-community/</link>
+      <link>http://localhost:1313/interview-with-indaba-music-the-online-music-making-community/</link>
       <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-indaba-music-the-online-music-making-community/</guid>
+      <guid>http://localhost:1313/interview-with-indaba-music-the-online-music-making-community/</guid>
       <description>&lt;p&gt;Are you a musician looking to find others to jam with, write music with, or just talk to? Or maybe you have a band, but want to find others who are writing the same kind of stuff? Yeah, listen to their tunes, kick back, maybe even share some wisdom with each other. Well look no further, as Indaba Music can cure all your problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Express your 3D Avatars with Frenzoo</title>
-      <link>https://www.carnaghan.com/express-your-3d-avatars-with-frenzoo/</link>
+      <link>http://localhost:1313/express-your-3d-avatars-with-frenzoo/</link>
       <pubDate>Sun, 12 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/express-your-3d-avatars-with-frenzoo/</guid>
+      <guid>http://localhost:1313/express-your-3d-avatars-with-frenzoo/</guid>
       <description>&lt;p&gt;Creating your own avatar online has become a popular trend. Everybody wants to have their own personal expression to make them stand out from the crowd. There is a different type of communication over the internet, and you need something to make yourself stand out next to everyone else. Most people have unique username&amp;rsquo;s on websites, but avatars are a great way to stand out with style.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Adobe&#39;s Primary Developer of Rich Internet Applications Mark Anders</title>
-      <link>https://www.carnaghan.com/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</link>
+      <link>http://localhost:1313/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</link>
       <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</guid>
+      <guid>http://localhost:1313/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</guid>
       <description>&lt;p&gt;Mark Anders is a senior principal scientist at Adobe Systems, and one of his core responsibilities is to make Flash the platform for building the next generation of rich internet applications. Prior to Adobe&amp;rsquo;s acquisition of Macromedia, Anders started and led the Flex Builder Team, but he is probably best known for his work at Microsoft, where during a decade-long career he led the creation of ASP.NET.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Link Your Social Networking Profiles Together with SocialFollow</title>
-      <link>https://www.carnaghan.com/link-your-social-networking-profiles-together-with-socialfollow/</link>
+      <link>http://localhost:1313/link-your-social-networking-profiles-together-with-socialfollow/</link>
       <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/link-your-social-networking-profiles-together-with-socialfollow/</guid>
+      <guid>http://localhost:1313/link-your-social-networking-profiles-together-with-socialfollow/</guid>
       <description>&lt;p&gt;Social Follow is a cool new web application that combines all of your other social networking and social bookmarking profiles. I&amp;rsquo;m sure we all have accounts on Facebook, Twitter, LinkedIn, Digg, and many other profiles around the net. With SocialFollow, you are able to combine all of these profiles into one handy button. These are great for posting to your blog, sharing in your forum sigs, or posting it anywhere around the web!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bet on Anything You Like with Flusta.com</title>
-      <link>https://www.carnaghan.com/bet-on-anything-you-like-with-flusta.com/</link>
+      <link>http://localhost:1313/bet-on-anything-you-like-with-flusta.com/</link>
       <pubDate>Sat, 04 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bet-on-anything-you-like-with-flusta.com/</guid>
+      <guid>http://localhost:1313/bet-on-anything-you-like-with-flusta.com/</guid>
       <description>&lt;p&gt;Flusa is a new web 2.0 application that allows you to place bets on almost anything you like. Well, not even almost, you can create your own topic and have anyone you want place bets on it, sort of like a &amp;ldquo;social gambling&amp;rdquo; website. Ranging from topics of cutest boys to the best next-gen gaming console, Flusta has it all with a easy-to-use user interface and a great concept in mind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with New Web 2.0 Web Conferencing Tool Fuze Meeting</title>
-      <link>https://www.carnaghan.com/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</link>
+      <link>http://localhost:1313/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</guid>
+      <guid>http://localhost:1313/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</guid>
       <description>&lt;p&gt;We can all agree that connecting with each other is important. This is especially the case in the world of business, where communications can be as important as arranging a business meeting promptly at 9:30AM. I spoke with Patrick Moran of Fuze Meeting&amp;rsquo;s Marketing division, and got the inside scoop on the new web conferencing tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Genius Behind Fark, Drew Curtis</title>
-      <link>https://www.carnaghan.com/interview-with-the-genius-behind-fark-drew-curtis/</link>
+      <link>http://localhost:1313/interview-with-the-genius-behind-fark-drew-curtis/</link>
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-the-genius-behind-fark-drew-curtis/</guid>
+      <guid>http://localhost:1313/interview-with-the-genius-behind-fark-drew-curtis/</guid>
       <description>&lt;p&gt;Article bookmarking and submission sites have become a commodity on the web today. There have been only a few veterans that have been around long before it was &amp;ldquo;cool&amp;rdquo; to have a site in the social news niche, and Drew Curtis&amp;rsquo; Fark.com is one of them. Fark is social news with a twist: comedy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manage Your Businesses Internet Marketing with twtapps</title>
-      <link>https://www.carnaghan.com/manage-your-businesses-internet-marketing-with-twtapps/</link>
+      <link>http://localhost:1313/manage-your-businesses-internet-marketing-with-twtapps/</link>
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/manage-your-businesses-internet-marketing-with-twtapps/</guid>
+      <guid>http://localhost:1313/manage-your-businesses-internet-marketing-with-twtapps/</guid>
       <description>&lt;p&gt;Twitter has skyrocketed into mainstream with seemingly no meaning behind it. The simple application allowing everyone in the world to share what they&amp;rsquo;re doing, thinking, or feeling in 140 characters has grown into one of the most popular web 2.0 applications on the web, and it&amp;rsquo;s no doubt there are many apps on the web to accompany it. Although not affiliate with Twitter in any way, twtapps is a neat website that features some of the coolest web 2.0 applications that help businesses market on Twitter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Display Your High-Resolution Photos Online with ClosR.it</title>
-      <link>https://www.carnaghan.com/display-your-high-resolution-photos-online-with-closr.it/</link>
+      <link>http://localhost:1313/display-your-high-resolution-photos-online-with-closr.it/</link>
       <pubDate>Fri, 26 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/display-your-high-resolution-photos-online-with-closr.it/</guid>
+      <guid>http://localhost:1313/display-your-high-resolution-photos-online-with-closr.it/</guid>
       <description>&lt;p&gt;ClosR.it is another great web 2.0 application I stumbled upon while browsing the net. It allows photo enthusiasts, designers, professional photographers, and really anyone who takes pictures to upload their photos in high-resolution. The problem with many other image hosting services is that they cap limits on the site of the photos, or just re-size them. ClosR.it allows full HD image views, perfect to share with all of your photo-enthusiastic friends and family!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kevin Rose&#39;s Failed Microblogging Platform: Where Pownce went Wrong</title>
-      <link>https://www.carnaghan.com/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</link>
+      <link>http://localhost:1313/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</link>
       <pubDate>Fri, 05 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</guid>
+      <guid>http://localhost:1313/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</guid>
       <description>&lt;p&gt;When Pownce first launched in the summer of 2007, I thought it would revolutionize how I communicated and shared stuff with my friends! By the way Kevin Rose had hyped it, you could share any type of file (music, video, .zip archive), share notes, share photos, really anything you wanted to with your friends! This was an application that was desperately needed on the web, and to this day I still claim there needs to be something to fill the void.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with ManageME7: Learn to Save Your Money the Easy Way!</title>
-      <link>https://www.carnaghan.com/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</link>
+      <link>http://localhost:1313/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</link>
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</guid>
+      <guid>http://localhost:1313/interview-with-manageme7-learn-to-save-your-money-the-easy-way/</guid>
       <description>&lt;p&gt;Looking for some stability with your income? I think we all do, since we all can&amp;rsquo;t make 100k every month. Especially in times like these, managing money properly is a great skill to have and utilize, and knowing when to spend money and on what can be a challenge. With manageME7, you can manage your money 7 days a week, 24 hours a day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Blog2Life: Blogging Tips, Tricks, and Secrets!</title>
-      <link>https://www.carnaghan.com/interview-with-blog2life-blogging-tips-tricks-and-secrets/</link>
+      <link>http://localhost:1313/interview-with-blog2life-blogging-tips-tricks-and-secrets/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-blog2life-blogging-tips-tricks-and-secrets/</guid>
+      <guid>http://localhost:1313/interview-with-blog2life-blogging-tips-tricks-and-secrets/</guid>
       <description>&lt;p&gt;Blogging has become a huge part of the internet sub-culture. Hell, look at Inside the Webb! New bloggers appear online every day, and along with these bloggers there are some novice and some professionals. Blog2Life is a blog that offers its readers tips and tricks about how to blog, latest trends, and so much more!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Zemanta: Improving the Way We Blog</title>
-      <link>https://www.carnaghan.com/interview-with-zemanta-improving-the-way-we-blog/</link>
+      <link>http://localhost:1313/interview-with-zemanta-improving-the-way-we-blog/</link>
       <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-zemanta-improving-the-way-we-blog/</guid>
+      <guid>http://localhost:1313/interview-with-zemanta-improving-the-way-we-blog/</guid>
       <description>&lt;p&gt;More and more people are discovering the wonders of web 2.0 technology, working with things such as wikis and social networks. However, nothing has been rising faster than the amount of people learning about blogging. Blogging is a great way to post your ideas, research, thoughts, or random ramblings online and share it with the mass of internet users who stumble upon it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Dwellicious - Organizing and Sharing Your Real Estate Bookmarks</title>
-      <link>https://www.carnaghan.com/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</link>
+      <link>http://localhost:1313/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</link>
       <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</guid>
+      <guid>http://localhost:1313/interview-with-dwellicious-organizing-and-sharing-your-real-estate-bookmarks/</guid>
       <description>&lt;p&gt;A real estate searcher&amp;rsquo;s dream, Dwellicious allows it&amp;rsquo;s users to bookmark links from popular real estate sites and compare different features between them. Similar to other social bookmarking sites like Delicious, users can add tags to their bookmarks to separate their different properties into categories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Psychedelic New App Yooouuutuuube</title>
-      <link>https://www.carnaghan.com/interview-with-the-psychedelic-new-app-yooouuutuuube/</link>
+      <link>http://localhost:1313/interview-with-the-psychedelic-new-app-yooouuutuuube/</link>
       <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-the-psychedelic-new-app-yooouuutuuube/</guid>
+      <guid>http://localhost:1313/interview-with-the-psychedelic-new-app-yooouuutuuube/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re a big fan of Digg.com, I&amp;rsquo;m sure you remember seeing an article hit the front page about 2-3 weeks ago titled The Most Trippy and Hypnotic Thing You Will See Today. It linked to a video of many split-screen Alice in Wonderland clips playing over some neat background music, and really was the most trippy thing I&amp;rsquo;d seen! After this first discovery, tons of videos from Yooouuutuuube.com started popping up everywhere.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flick.to.Twitt - Easily share your Flickr Photos on Twitter</title>
-      <link>https://www.carnaghan.com/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</link>
+      <link>http://localhost:1313/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</link>
       <pubDate>Thu, 21 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</guid>
+      <guid>http://localhost:1313/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</guid>
       <description>&lt;p&gt;Twitter has become one of the largest web 2.0 applications on the web today, in comparison with Facebook, MySpace, and Digg. Along with this, Flickr has become a giant web app where users can share their photos. However, with the use of Flick.to.Twitt you are now able to post your Flickr photos right to your Twitter account! I have an interview with the site&amp;rsquo;s founder Marco Almeida, in which we discussed the site&amp;rsquo;s creation and also future goals for the site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 3Com Audrey</title>
-      <link>https://www.carnaghan.com/the-3com-audrey/</link>
+      <link>http://localhost:1313/the-3com-audrey/</link>
       <pubDate>Sun, 14 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-3com-audrey/</guid>
+      <guid>http://localhost:1313/the-3com-audrey/</guid>
       <description>&lt;p&gt;The Internet has become extremely popular within the last few years, however there are many people throughout the world that cannot afford to invest money on expensive PC systems to access this vast service of information and services.  To combat this problem, products have been released recently to allow Internet access at a reduced cost, a complete Internet solution without the cost of purchasing a PC.&lt;/p&gt;
 &lt;p&gt;3Com is such a company that has released a system called Audrey.  Audrey has been designed no only to be a cost-effective solution, but also an easy to use appliance suited towards the home family.  It has been designed with a futuristic look of many of the sci-fi television shows suited for family use of the new millennium.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yahoo Search Engine</title>
-      <link>https://www.carnaghan.com/yahoo-search-engine/</link>
+      <link>http://localhost:1313/yahoo-search-engine/</link>
       <pubDate>Tue, 09 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/yahoo-search-engine/</guid>
+      <guid>http://localhost:1313/yahoo-search-engine/</guid>
       <description>&lt;p&gt;Yahoo’s Search engine is broken down into categories and sub categories which allows users to browse through directories down to the levels of information they are seeking.  This is a lot more noticeable than many other search engines, which offer many categories but does not specifically split up sub categories into as many options.&lt;/p&gt;
 &lt;p&gt;Within Yahoo Advanced Search link on the home page, users can perform a variety of different search techniques.  There are four main search methods listed under this area.&lt;/p&gt;</description>
     </item>

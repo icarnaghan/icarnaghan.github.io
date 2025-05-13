@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Language-Learning on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/categories/language-learning/</link>
+    <link>http://localhost:1313/categories/language-learning/</link>
     <description>Recent content in Language-Learning on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/categories/language-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/language-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Path of Least Resistance</title>
-      <link>https://www.carnaghan.com/the-path-of-least-resistance/</link>
+      <link>http://localhost:1313/the-path-of-least-resistance/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-path-of-least-resistance/</guid>
+      <guid>http://localhost:1313/the-path-of-least-resistance/</guid>
       <description>&lt;p&gt;In an ever more global and connected world, knowing a foreign language is becoming a more valuable and necessary skill. Fortunately, the modern age has added a new dimension to language learning and today’s learner has more tools at his disposal than ever before, all thanks to the Internet. But at the end of the day, it’s still the same old problem that you can lead a horse to water but you can’t make it drink. Learning a language still takes persistence and the willingness to learn, and unfortunately there is no tool yet invented to combat that, and I don’t think there ever will be, but the problem in successful language learning may lie in us purposefully choosing the most difficult path.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Language Learning Journey</title>
-      <link>https://www.carnaghan.com/my-language-learning-journey/</link>
+      <link>http://localhost:1313/my-language-learning-journey/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/my-language-learning-journey/</guid>
+      <guid>http://localhost:1313/my-language-learning-journey/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always had an interest in learning Spanish. Over the years, I&amp;rsquo;ve dabbled with various language learning programs, however I never really stuck at them for long.  I have probably spent more time researching language learning programs and techniques, than I have actually practiced the language.&lt;/p&gt;
 &lt;p&gt;The United States Foreign Service Institute, or FSI, estimates that the Spanish language takes approximately 750 hours of study to build fluency. Unfortunately, FSI classes are reserved for Diplomats and involve dedicating 30 weeks of full-time study to reach the desired hours needed for mastery.  My approach has involved a longer-term strategy involving daily practice and drills using multiple modes of learning, vocabulary building using spaced repetition, and immersion techniques.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spanish Language Learning Resources</title>
-      <link>https://www.carnaghan.com/spanish-language-learning-resources/</link>
+      <link>http://localhost:1313/spanish-language-learning-resources/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/spanish-language-learning-resources/</guid>
+      <guid>http://localhost:1313/spanish-language-learning-resources/</guid>
       <description>&lt;p&gt;This past September (2019) I decided I would make a commitment to making language learning a daily part of my life. As it so happened, my job also changed around this time, increasing my commute time and therefore bringing a new opportunity to use this time wisely. Since then, I have completed all five levels of Pimsleur Spanish and coupled my study with several other programs. My approach seems to be working at lease for me currently and my goal is to reach B1 proficiency by September 2020. This write up is to share my some of the success I&amp;rsquo;ve had with various language learning resources and communities that have informed and guided my studies. These are just my own opinions and experiences, I in no way claim to be an expert on language learning.&lt;/p&gt;</description>
     </item>
   </channel>

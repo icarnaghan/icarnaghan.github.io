@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Image-Optimization on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/image-optimization/</link>
+    <link>http://localhost:1313/tags/image-optimization/</link>
     <description>Recent content in Image-Optimization on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/image-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/image-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InstaShow Instagram feed plugin review (2018)</title>
-      <link>https://www.carnaghan.com/instashow-instagram-feed-plugin-review-2018/</link>
+      <link>http://localhost:1313/instashow-instagram-feed-plugin-review-2018/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/instashow-instagram-feed-plugin-review-2018/</guid>
+      <guid>http://localhost:1313/instashow-instagram-feed-plugin-review-2018/</guid>
       <description>&lt;p&gt;InstaShow is a premium WordPress plugin that allows you to integrate the Instagram feed on your website. It has registered 6000+ sales on the ThemeForest marketplace. It is a highly customizable plugin that has a rating of 4.87/5.&lt;/p&gt;
 &lt;p&gt;InstaShow is cheap and it provides amazing features. If you own a photography, product review website or a food blog, you can get more Instagram followers by installing this plugin. The Instagram widget provided by InstaShow is a great alternative to a gallery or featured image widget because it saves server resources. Instead of uploading pictures on your server, you can share your images on Instagram and configure InstaShow to display the pictures in a nice interface.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 5 Best CDN 2018: Fastest content delivery networks</title>
-      <link>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
+      <link>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
+      <guid>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
       <description>&lt;p&gt;CDN aka content delivery networks improves the performance of your site. They reduce the latency by serving JavaScript and CSS files from the location closest to the visitor.&lt;/p&gt;
 &lt;p&gt;A CDN provider may have several data centers spread across the world. When you signup for the CDN service, the service will cache static resources of your site on a server nearby the location you specify. You&amp;rsquo;ll have to install a CDN plugin so as to change the website resource URL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image SEO tips and tools to make photos search engine friendly</title>
-      <link>https://www.carnaghan.com/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</link>
+      <link>http://localhost:1313/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</guid>
+      <guid>http://localhost:1313/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</guid>
       <description>&lt;p&gt;Do you know? Images can bring tons of high-quality organic traffic to your blog or website. A website without pictures looks strange. Visitors may not find such sites attractive. If the blog post doesn&amp;rsquo;t have related pictures, visitors may not read the full content.&lt;/p&gt;
 &lt;p&gt;Today, we&amp;rsquo;ve shared 7 useful tips for image optimization. If your site has many pictures, but if it doesn&amp;rsquo;t get a good amount of traffic from Google image search, follow the below tips.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Delete unused images in WordPress with Media Cleaner plugin</title>
-      <link>https://www.carnaghan.com/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</link>
+      <link>http://localhost:1313/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</guid>
+      <guid>http://localhost:1313/delete-unused-images-in-wordpress-with-media-cleaner-plugin/</guid>
       <description>&lt;p&gt;The image is one of the most important elements of a blog post. It not only makes the post attractive but also helps in improving the website&amp;rsquo;s search engine visibility.&lt;/p&gt;
 &lt;p&gt;Sometimes, when you update a blog post, you may replace the image/pictures in it with some other pictures. Many users don&amp;rsquo;t bother to delete the old images from the uploads directory of wp-content WordPress installation folder.&lt;/p&gt;
 &lt;p&gt;When a site grows larger, the uploads folder may have tons of unused images. These files waste storage memory, and they impact system&amp;rsquo;s performance. To delete or remove these files, download the Media Cleaner plugin and install it on your WordPress website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Pingdom alternatives to check website speed</title>
-      <link>https://www.carnaghan.com/best-pingdom-alternatives-to-check-website-speed/</link>
+      <link>http://localhost:1313/best-pingdom-alternatives-to-check-website-speed/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-pingdom-alternatives-to-check-website-speed/</guid>
+      <guid>http://localhost:1313/best-pingdom-alternatives-to-check-website-speed/</guid>
       <description>&lt;p&gt;A website which opens quickly in the browser ensures the best user experience and higher rankings in Google search engine. Thus, the first thing that you should do after launching a new website is to check the page loading speed.&lt;/p&gt;
 &lt;p&gt;Pingdom is one of the most widely used website speed checking tools, but it offers limited features due to which many people will use its below 2 top alternatives:&lt;/p&gt;
 &lt;h3 id=&#34;gtmetrix&#34;&gt;GTmetrix&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;gtmetrix pingdom alternatives check website speed&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/best-pingdom-alternatives-to-check-website-speed/images/gtmetrix.jpeg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;gtmetrix pingdom alternatives check website speed&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/best-pingdom-alternatives-to-check-website-speed/images/gtmetrix.jpeg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EWWW image optimizer reduces JPG, PNG file size on WP blogs</title>
-      <link>https://www.carnaghan.com/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</link>
+      <link>http://localhost:1313/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</link>
       <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</guid>
+      <guid>http://localhost:1313/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</guid>
       <description>&lt;p&gt;Reducing jpg, png file size on self-hosted WordPress blogs will not only improve its load time but it will also increase the search engine rankings of your post. Google considers site speed as a ranking factor. There are two ways to reduce picture size before uploading to your blog. Install a standalone Windows or Linux software that will resize images or use a WP plugin. The 2nd option is better than the 1st. Ever since I started blogging, I used the WP-SmushIt plugin for the same. Last night, after updating the WP-smushIt plugin, I saw a message that Yahoo would be stopping its free version of WP-smushIt service and to continue using the plugin, I have to upgrade to pro version. This made me search for a WP-smushIt alternative. After doing a bit of internet research, I ended up installing EWWW. Here&amp;rsquo;s my review for the same.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web-Video on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/web-video/</link>
+    <link>http://localhost:1313/tags/web-video/</link>
     <description>Recent content in Web-Video on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/web-video/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/web-video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MailBrowser - Simple Gmail Plugin for Managing your Contacts</title>
-      <link>https://www.carnaghan.com/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</link>
+      <link>http://localhost:1313/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</link>
       <pubDate>Sat, 24 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</guid>
+      <guid>http://localhost:1313/mailbrowser-simple-gmail-plugin-for-managing-your-contacts/</guid>
       <description>&lt;p&gt;For a long, long time have I been looking for a great Plugin for Gmail to help manage my contacts. I send a lot of e-mails to a lot of different people, and it&amp;rsquo;s difficult to sort through all of my mail and attachments without getting lost in the thousands upon thousands of messages. However with the new browser plug-in MailBrowser, it&amp;rsquo;s actually pretty simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Metacafe Stacks up against Video Streaming Apps</title>
-      <link>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</link>
+      <link>http://localhost:1313/how-metacafe-stacks-up-against-video-streaming-apps/</link>
       <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
+      <guid>http://localhost:1313/how-metacafe-stacks-up-against-video-streaming-apps/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s no doubt when it comes to social media and web video, YouTube takes the cake. Currently within top 5 Alexa rank and also owned by the #1 search engine and website online, YouTube has everything backing it. Google doesn&amp;rsquo;t control the monopoly though, there are so many cool video streaming services out there each with their own to offer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>YouTube Rolls out new User Interface for Flash Video Player</title>
-      <link>https://www.carnaghan.com/youtube-rolls-out-new-user-interface-for-flash-video-player/</link>
+      <link>http://localhost:1313/youtube-rolls-out-new-user-interface-for-flash-video-player/</link>
       <pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/youtube-rolls-out-new-user-interface-for-flash-video-player/</guid>
+      <guid>http://localhost:1313/youtube-rolls-out-new-user-interface-for-flash-video-player/</guid>
       <description>&lt;p&gt;Having seen YouTube roll out new video and profile pages over the past few months, it&amp;rsquo;s been obvious there&amp;rsquo;s been a new Flash User Interface in the works for the common video player. Well as of today, YouTube has finally released the newest UI to most video pages, and are slowly trickling down throughout all videos over the next couple of days.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Virtual Online Gaming Community FactPile</title>
-      <link>https://www.carnaghan.com/interview-with-virtual-online-gaming-community-factpile/</link>
+      <link>http://localhost:1313/interview-with-virtual-online-gaming-community-factpile/</link>
       <pubDate>Fri, 12 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-virtual-online-gaming-community-factpile/</guid>
+      <guid>http://localhost:1313/interview-with-virtual-online-gaming-community-factpile/</guid>
       <description>&lt;p&gt;There are so many great online gaming communities. Video games have taken a huge rise in popularity over the years, and what a better way to celebrate your favorite games than hanging out with like-minded people on a fun and active community? FactPile does just that, collecting all gamers and tech-lovers from around the globe to interact and enjoy the community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with New Web 2.0 Web Conferencing Tool Fuze Meeting</title>
-      <link>https://www.carnaghan.com/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</link>
+      <link>http://localhost:1313/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</guid>
+      <guid>http://localhost:1313/interview-with-new-web-2.0-web-conferencing-tool-fuze-meeting/</guid>
       <description>&lt;p&gt;We can all agree that connecting with each other is important. This is especially the case in the world of business, where communications can be as important as arranging a business meeting promptly at 9:30AM. I spoke with Patrick Moran of Fuze Meeting&amp;rsquo;s Marketing division, and got the inside scoop on the new web conferencing tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Psychedelic New App Yooouuutuuube</title>
-      <link>https://www.carnaghan.com/interview-with-the-psychedelic-new-app-yooouuutuuube/</link>
+      <link>http://localhost:1313/interview-with-the-psychedelic-new-app-yooouuutuuube/</link>
       <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-the-psychedelic-new-app-yooouuutuuube/</guid>
+      <guid>http://localhost:1313/interview-with-the-psychedelic-new-app-yooouuutuuube/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re a big fan of Digg.com, I&amp;rsquo;m sure you remember seeing an article hit the front page about 2-3 weeks ago titled The Most Trippy and Hypnotic Thing You Will See Today. It linked to a video of many split-screen Alice in Wonderland clips playing over some neat background music, and really was the most trippy thing I&amp;rsquo;d seen! After this first discovery, tons of videos from Yooouuutuuube.com started popping up everywhere.&lt;/p&gt;</description>
     </item>
   </channel>

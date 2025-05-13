@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reviews on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/reviews/</link>
+    <link>http://localhost:1313/tags/reviews/</link>
     <description>Recent content in Reviews on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoDaddy review: A web hosting and domain registration company</title>
-      <link>https://www.carnaghan.com/godaddy-review-a-web-hosting-and-domain-registration-company/</link>
+      <link>http://localhost:1313/godaddy-review-a-web-hosting-and-domain-registration-company/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/godaddy-review-a-web-hosting-and-domain-registration-company/</guid>
+      <guid>http://localhost:1313/godaddy-review-a-web-hosting-and-domain-registration-company/</guid>
       <description>&lt;p&gt;Godaddy is one of the top domain registrars and hosting companies of the world. It has over 500K customers. I&amp;rsquo;m one of the customers of Godaddy. I&amp;rsquo;ve been using its email hosting and domain registration service for 5 years. Here&amp;rsquo;s my review of the company.&lt;/p&gt;
 &lt;h3 id=&#34;list-of-godaddy-services-that-i-use&#34;&gt;List of GoDaddy services that I use&lt;/h3&gt;
 &lt;ul&gt;
@@ -29,102 +29,102 @@
     </item>
     <item>
       <title>InMotion hosting review 2016 : Superb plans and SSD powered servers</title>
-      <link>https://www.carnaghan.com/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</link>
+      <link>http://localhost:1313/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</guid>
+      <guid>http://localhost:1313/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</guid>
       <description>&lt;p&gt;InMotion is one of the top-rated hosting providers in the world. It is an independent company and not a subsidiary of EIG. IM has cheap and feature packed web hosting plans suitable for all types of users.&lt;/p&gt;
 &lt;p&gt;InMotion supports over 399 web applications and uses the high-speed SSDs aka sold state drives in their servers. It has excellent ratings on various review websites. Genuine users like you have published their honest reviews.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress Review Plugins (2018)</title>
-      <link>https://www.carnaghan.com/best-wordpress-review-plugins-2018/</link>
+      <link>http://localhost:1313/best-wordpress-review-plugins-2018/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-review-plugins-2018/</guid>
+      <guid>http://localhost:1313/best-wordpress-review-plugins-2018/</guid>
       <description>&lt;p&gt;Most people use the internet to read reviews of products before they buy them. You may have seen top search engines such as Google or Bing showing star ratings in the search results of its pages. Google doesn&amp;rsquo;t show the ratings for all websites. It shows ratings only for the portals having schema markups and in-depth content.&lt;/p&gt;
 &lt;p&gt;Writing the content is up to the user, but one can easily add schema codes to their site by referring the official guidelines. Modern content management systems provide extensions to add review boxes to their site and add the Schema markup code for the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WP AMP plugin : Accelerated Mobile Pages for WordPress</title>
-      <link>https://www.carnaghan.com/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</link>
+      <link>http://localhost:1313/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</guid>
+      <guid>http://localhost:1313/best-wp-amp-plugin-accelerated-mobile-pages-for-wordpress/</guid>
       <description>&lt;p&gt;People spend more time on mobile phones than computers. Google Engineers realized this a few years back and they made several changes to core Algorithm. They introduced a mobile-friendly testing tool for webmasters and launched page layout algorithm which affects rankings of ad-heavy desktop/mobile sites. In 2016, Google launched a new concept called Accelerated Mobile Pages. After testing AMP on a bunch of top news website, Google now allows all websites to use AMP.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Ocean Review 2018 : Top Class Cheap VPS Hosting</title>
-      <link>https://www.carnaghan.com/digital-ocean-review-2018-top-class-cheap-vps-hosting/</link>
+      <link>http://localhost:1313/digital-ocean-review-2018-top-class-cheap-vps-hosting/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/digital-ocean-review-2018-top-class-cheap-vps-hosting/</guid>
+      <guid>http://localhost:1313/digital-ocean-review-2018-top-class-cheap-vps-hosting/</guid>
       <description>&lt;p&gt;Launched in 2011, Digital Ocean has become one of the most popular cloud VPS hosting services in the world. I recently came to know that Digital Ocean has set up a data center in the country from which my websites get the maximum traffic. I immediately moved my sites from Hostgator VPS to DigitalOcean. I&amp;rsquo;ve been using DO for 21 days now. Here&amp;rsquo;s my review of this unmanaged Linux VPS hosting service.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MyThemeShop Schema Theme Review 2018 : 100% SEO friendly template</title>
-      <link>https://www.carnaghan.com/mythemeshop-schema-theme-review-2018-100-seo-friendly-template/</link>
+      <link>http://localhost:1313/mythemeshop-schema-theme-review-2018-100-seo-friendly-template/</link>
       <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mythemeshop-schema-theme-review-2018-100-seo-friendly-template/</guid>
+      <guid>http://localhost:1313/mythemeshop-schema-theme-review-2018-100-seo-friendly-template/</guid>
       <description>&lt;p&gt;Buying a premium WordPress theme ensures that you&amp;rsquo;ll be given assistance when you encounter problems with the theme.&lt;/p&gt;
 &lt;p&gt;The theme will have clean code and it will be search engine and mobile friendly. Unfortunately, the premium theme which I used earlier on this blog was a waste of my money. I had bought it when I was a newbie blogger after reading a review.&lt;/p&gt;
 &lt;p&gt;The theme was good initially, but the developer removed its inbuilt review system. When I asked the development team why they did so? They asked me to wait for a few weeks because they&amp;rsquo;ll be launching a review plugin. It has been 5 months now, the plugins have not been released yet. All my reviews and the schema start rating markups were gone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WP Customer Reviews plugin allows users to rate product or business</title>
-      <link>https://www.carnaghan.com/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</link>
+      <link>http://localhost:1313/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</guid>
+      <guid>http://localhost:1313/wp-customer-reviews-plugin-allows-users-to-rate-product-or-business/</guid>
       <description>&lt;p&gt;Before buying any product from a website or before contacting a business, search engine users will go through the reviews. If the reviews are negative, the user may not communicate with the business or he&amp;rsquo;ll leave the website without making any purchase.&lt;/p&gt;
 &lt;p&gt;Customers are the best people to judge a product and the best way to get their feedback is by adding a review section to the website. Reviews may help in improving the rankings of a website as it may have many new keywords.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Classipress review : Best WordPress classifieds theme (2018)</title>
-      <link>https://www.carnaghan.com/classipress-review-best-wordpress-classifieds-theme-2018/</link>
+      <link>http://localhost:1313/classipress-review-best-wordpress-classifieds-theme-2018/</link>
       <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/classipress-review-best-wordpress-classifieds-theme-2018/</guid>
+      <guid>http://localhost:1313/classipress-review-best-wordpress-classifieds-theme-2018/</guid>
       <description>&lt;p&gt;Creating a classified site manually from scratch is not an easy task. You must have exceptional website development skills with good knowledge of local SEO, server configuration, database, HTML, JavaScript, and a website scripting language like PHP, Ruby on Rails, ASP, etc.&lt;/p&gt;
 &lt;p&gt;If you don&amp;rsquo;t have the skills mentioned above, there&amp;rsquo;s an easy way to launch a classified website. Yes, Believe Me! You can quickly launch your own classified&amp;rsquo;s portal like OLX, Quikr, Craigslist in half an hour with the world&amp;rsquo;s most robust content management system named WordPress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Siteground review 2016 :  powerful features and highly secure environment</title>
-      <link>https://www.carnaghan.com/siteground-review-2016-powerful-features-and-highly-secure-environment/</link>
+      <link>http://localhost:1313/siteground-review-2016-powerful-features-and-highly-secure-environment/</link>
       <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/siteground-review-2016-powerful-features-and-highly-secure-environment/</guid>
+      <guid>http://localhost:1313/siteground-review-2016-powerful-features-and-highly-secure-environment/</guid>
       <description>&lt;p&gt;Siteground hosting offers various plans that are suitable for deploying new or established websites. Like many other hosting platforms, SG claims to offer 99.9 percent uptime for your site. This is impressive because your blog will be hardly down. Thus your online earnings and revenue will not be impacted by unnecessary downtime.&lt;/p&gt;
 &lt;p&gt;Once my high traffic site was down for 3 hours when it was hosted on ASO, my Adsense earnings for the day were down by a few dollars. With SG, you will never experience such issues because the infrastructure of Siteground hosting company is good.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OnePress social locker plugin for WordPress review</title>
-      <link>https://www.carnaghan.com/onepress-social-locker-plugin-for-wordpress-review/</link>
+      <link>http://localhost:1313/onepress-social-locker-plugin-for-wordpress-review/</link>
       <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/onepress-social-locker-plugin-for-wordpress-review/</guid>
+      <guid>http://localhost:1313/onepress-social-locker-plugin-for-wordpress-review/</guid>
       <description>&lt;p&gt;Content locker WordPress plugins are becoming popular these days. They are useful in increasing the Facebook likes Google plus one and twitter tweet counts. The plugin hides your content for visitors (not for search engines) and displays it only when the user shares your post on the pre-configured social networks.&lt;/p&gt;
 &lt;p&gt;OnePress is the best content locker plugin for WordPress. It is available in free and premium versions. The free version of OnePress allows webmasters to add maximum three social sharing buttons, i.e., FB, G+, and tweet. The pro version supports many other popular social networks. OnePress comes with an analytics dashboard. To improve your social visibility, you can use this dashboard for analysis and adjusting the position of the locker.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Long Tail Pro 3.0 Discount and Review (Aug 2016)</title>
-      <link>https://www.carnaghan.com/long-tail-pro-3.0-discount-and-review-aug-2016/</link>
+      <link>http://localhost:1313/long-tail-pro-3.0-discount-and-review-aug-2016/</link>
       <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/long-tail-pro-3.0-discount-and-review-aug-2016/</guid>
+      <guid>http://localhost:1313/long-tail-pro-3.0-discount-and-review-aug-2016/</guid>
       <description>&lt;p&gt;When the user opens a search engine like google or bing? What is the 1st thing he sees? A large text box accompanied with a search button. To find information, the user must enter some data in the textbox. This data in SEO world is known as the keyword. Many bloggers, webmasters, and SEO professionals use keywords to rank their websites in search engines.&lt;/p&gt;
 &lt;p&gt;Finding the right keywords is not an easy task. You&amp;rsquo;ll have to spend plenty of hours using online tools like Google AdWords, sem rush, etc. Adwords is owned by Google. It is used by online marketing professionals and agencies to advertise products or websites in Google. The advertisers use AdWords to find keywords that a user enters in the search field of the Google. You can use this free tool only if you have a Google account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mailchimp latest Pricing, Review and Features</title>
-      <link>https://www.carnaghan.com/mailchimp-latest-pricing-review-and-features/</link>
+      <link>http://localhost:1313/mailchimp-latest-pricing-review-and-features/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mailchimp-latest-pricing-review-and-features/</guid>
+      <guid>http://localhost:1313/mailchimp-latest-pricing-review-and-features/</guid>
       <description>&lt;p&gt;Many bloggers believe that email marketing is the best strategy to have a loyal and regular audience. Thus, you&amp;rsquo;ll find an email opt-in widget on all popular blogs. There are a lot of email subscription service for blogs and in my perspective, Mailchimp tops the list. Mailchimp pricing is attractive, cheap and its features are powerful. The free version of MailChimp service allows you to change newsletter template, design, title. It can generate newsletter automatically from your blogs RSS feed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A small Orange Review and coupon codes (2018)</title>
-      <link>https://www.carnaghan.com/a-small-orange-review-and-coupon-codes-2018/</link>
+      <link>http://localhost:1313/a-small-orange-review-and-coupon-codes-2018/</link>
       <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/a-small-orange-review-and-coupon-codes-2018/</guid>
+      <guid>http://localhost:1313/a-small-orange-review-and-coupon-codes-2018/</guid>
       <description>&lt;p&gt;This month, i decided to switch hosting from ******* to some other service. As there are many website hosting companies, i was confused to decide which one should I signup for. I was impressed with reviews on Hostgator, Inmotion, Bluehost and A2webhosting but I ended signing up for a small orange. ASO was suggested by some that folks have their blogs deployed on ASO servers. It has been a week since I moved my blog. I&amp;rsquo;m very satisfied with the performance of my new host. Here&amp;rsquo;s &lt;strong&gt;my review of a small orange hosting&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Review of Anthony Feint&#39;s E-book Flipped - Guide to Flipping Websites for Profit</title>
-      <link>https://www.carnaghan.com/review-of-anthony-feints-e-book-flipped-guide-to-flipping-websites-for-profit/</link>
+      <link>http://localhost:1313/review-of-anthony-feints-e-book-flipped-guide-to-flipping-websites-for-profit/</link>
       <pubDate>Sat, 17 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/review-of-anthony-feints-e-book-flipped-guide-to-flipping-websites-for-profit/</guid>
+      <guid>http://localhost:1313/review-of-anthony-feints-e-book-flipped-guide-to-flipping-websites-for-profit/</guid>
       <description>&lt;p&gt;I have been reading Anthony Feint&amp;rsquo;s blog at &lt;a href=&#34;http://feint.me/&#34;&gt;http://feint.me/&lt;/a&gt; for a long time now. He shares some amazing motivational posts about getting into the real world of internet marketing, and also provides tips and tricks about how to substantially grow your website and keep motivated.. really it&amp;rsquo;s more of an inspirational blog than anything else.&lt;/p&gt;</description>
     </item>
   </channel>

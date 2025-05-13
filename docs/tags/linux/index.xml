@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to limit CPU usage on server effectively?</title>
-      <link>https://www.carnaghan.com/how-to-limit-cpu-usage-on-server-effectively/</link>
+      <link>http://localhost:1313/how-to-limit-cpu-usage-on-server-effectively/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-limit-cpu-usage-on-server-effectively/</guid>
+      <guid>http://localhost:1313/how-to-limit-cpu-usage-on-server-effectively/</guid>
       <description>&lt;p&gt;Most hosting companies have introduced 2+ plans. The price of the hosting depends on the hardware and software the company is offering the customer. A plan that offers a low amount of RAM or a single core processor will be less expensive as compared to a plan that provides heaps of system memory and CPU.&lt;/p&gt;
 &lt;p&gt;No matter what plan you use, you must always keep an eye on the server CPU usage. If you don&amp;rsquo;t do so, a user process may use up to 90 - 100% CPU and other applications/system processes won&amp;rsquo;t be able to execute their tasks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linode Review 2018: Great uptime and affordable plans</title>
-      <link>https://www.carnaghan.com/linode-review-2018-great-uptime-and-affordable-plans/</link>
+      <link>http://localhost:1313/linode-review-2018-great-uptime-and-affordable-plans/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/linode-review-2018-great-uptime-and-affordable-plans/</guid>
+      <guid>http://localhost:1313/linode-review-2018-great-uptime-and-affordable-plans/</guid>
       <description>&lt;p&gt;I started my online career with a site hosted on Godaddy. I switched to A Small Orange from Godaddy after finding its plans cheap. After a major DNS incident, I quit ASO and bought shared hosting plan from Hostgator. HG shared plans are great for growing sites.&lt;/p&gt;
 &lt;p&gt;The traffic to my site grew and I had launched a few more sites. To make sure that HG doesn&amp;rsquo;t ban my sites by high server resource usage, I bought unmanaged Hostgator VPS plan. The VPS had 512 MB RAM. Everything was going great. When I was holidaying at my native place, my sites were down for 8 hours. To find the reason for this, I logged into the server to go through PHP, Nginx, MySQL log, and system log files. The system log file had several &amp;ldquo;MYSQL server has gone away&amp;rdquo; entries. This problem occurs when the system doesn&amp;rsquo;t have enough free memory for MySQL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The OOM Killer : How to Fix Out of Memory Error in Linux?</title>
-      <link>https://www.carnaghan.com/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</link>
+      <link>http://localhost:1313/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</guid>
+      <guid>http://localhost:1313/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</guid>
       <description>&lt;p&gt;Since two weeks, my website was frequently crashing because the MySQL server stopped abruptly at random times of the day.&lt;/p&gt;
 &lt;p&gt;This issue started when I was on a holiday. My site was down for several hours. I configured crontab to start MySQL server when the service had stopped. This didn&amp;rsquo;t help.&lt;/p&gt;
 &lt;p&gt;I enabled query cache to reduce the load on the server. I use NGINX Fast CGI cache, APCu, and OpCache for my sites. Thus, I didn&amp;rsquo;t felt the need to install a caching plugin for my WordPress blog.&lt;/p&gt;</description>

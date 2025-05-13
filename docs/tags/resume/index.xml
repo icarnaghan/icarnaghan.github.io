@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resume on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/resume/</link>
+    <link>http://localhost:1313/tags/resume/</link>
     <description>Recent content in Resume on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 May 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interview with GigTide - The Online Resume Builder</title>
-      <link>https://www.carnaghan.com/interview-with-gigtide-the-online-resume-builder/</link>
+      <link>http://localhost:1313/interview-with-gigtide-the-online-resume-builder/</link>
       <pubDate>Sat, 23 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-gigtide-the-online-resume-builder/</guid>
+      <guid>http://localhost:1313/interview-with-gigtide-the-online-resume-builder/</guid>
       <description>&lt;p&gt;There are many online applications to help with business-type things: You&amp;rsquo;ve got your invoice applications, e-mail marketing, time management, project management&amp;hellip; the list could go on and on. And although there are so many sites out there for businesses to utilize, GigTide is definitely one of the greatest all-around useful sites for anybody looking to create, manage, or perfect their resume&amp;rsquo;s online.&lt;/p&gt;</description>
     </item>
   </channel>

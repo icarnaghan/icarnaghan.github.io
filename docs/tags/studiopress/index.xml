@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Studiopress on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/studiopress/</link>
+    <link>http://localhost:1313/tags/studiopress/</link>
     <description>Recent content in Studiopress on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/studiopress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/studiopress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>StudioPress News Pro theme review</title>
-      <link>https://www.carnaghan.com/studiopress-news-pro-theme-review/</link>
+      <link>http://localhost:1313/studiopress-news-pro-theme-review/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/studiopress-news-pro-theme-review/</guid>
+      <guid>http://localhost:1313/studiopress-news-pro-theme-review/</guid>
       <description>&lt;p&gt;News Pro is one of the flagship StudioPress themes. It is also one of the most widely used WP magazine templates. Powered by the HTML5 markup, StudioPress NP is based on minimal flat responsive design. It is ideal for magazine sites that cover a variety of topics.&lt;/p&gt;
 &lt;p&gt;NP is built on Genesis Framework which powers 100K+ sites. Is the News Pro theme suitable for your site? Is it easy to use and SEO friendly? Let&amp;rsquo;s find it out:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Academy Pro review: Great theme for educational and membership sites</title>
-      <link>https://www.carnaghan.com/academy-pro-review-great-theme-for-educational-and-membership-sites/</link>
+      <link>http://localhost:1313/academy-pro-review-great-theme-for-educational-and-membership-sites/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/academy-pro-review-great-theme-for-educational-and-membership-sites/</guid>
+      <guid>http://localhost:1313/academy-pro-review-great-theme-for-educational-and-membership-sites/</guid>
       <description>&lt;p&gt;Academy Pro is a premium WordPress theme developed by StudioPress. It has a brilliant design and many features. It is ideal for membership and educational websites.&lt;/p&gt;
 &lt;p&gt;Academy Pro is powered by Genesis framework and it looks great on all types of computing devices. Here&amp;rsquo;s my review of this theme:&lt;/p&gt;
 &lt;h2 id=&#34;academy-pro-review&#34;&gt;Academy Pro review&lt;/h2&gt;
@@ -33,59 +33,59 @@
     </item>
     <item>
       <title>Top 10 Best WordPress restaurant theme (2018)</title>
-      <link>https://www.carnaghan.com/top-10-best-wordpress-restaurant-theme-2018/</link>
+      <link>http://localhost:1313/top-10-best-wordpress-restaurant-theme-2018/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-10-best-wordpress-restaurant-theme-2018/</guid>
+      <guid>http://localhost:1313/top-10-best-wordpress-restaurant-theme-2018/</guid>
       <description>&lt;p&gt;There are plenty of free website builder tools with which you can launch a restaurant site within an hour. The site builders have limited features. Furthermore, they don&amp;rsquo;t allow you to add maps, reservation forms, etc.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re serious about your restaurant business, you must use the WordPress CMS. WP allows you to create an incredibly powerful restaurant website within 50 to 55 minutes.&lt;/p&gt;
 &lt;p&gt;To launch your restaurant site, you must download one of below top WordPress restaurant themes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>StudioPress Foodie Pro Theme review (2018)</title>
-      <link>https://www.carnaghan.com/studiopress-foodie-pro-theme-review-2018/</link>
+      <link>http://localhost:1313/studiopress-foodie-pro-theme-review-2018/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/studiopress-foodie-pro-theme-review-2018/</guid>
+      <guid>http://localhost:1313/studiopress-foodie-pro-theme-review-2018/</guid>
       <description>&lt;p&gt;Unlike tech and WordPress niche, food blogging is not a competitive niche. Hence, if you share unique recipes on the food blog, you can make good money online.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re planning to start a food blog or you already own a food blog, your objective should be to get as many loyal visitors as you can and make money from the site without affecting the visitor experience. To get desired results, you must use a powerful and SEO friendly food blog theme. One of the best templates for the recipe sites is Foodie Pro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>StudioPress Sites review 2018: Great alternative to managed hosting</title>
-      <link>https://www.carnaghan.com/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</link>
+      <link>http://localhost:1313/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</guid>
+      <guid>http://localhost:1313/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</guid>
       <description>&lt;p&gt;StudioPress is a popular name in the world of WorldPress. It has launched several SEO optimized WordPress themes. Popular blogs and news websites use its themes.&lt;/p&gt;
 &lt;p&gt;Last year, Copyblogger Media, the company that owns StudioPress had launched StudioPress sites, a great and cheaper alternative to managed WordPress hosting.&lt;/p&gt;
 &lt;p&gt;Managed WordPress hosting from a reputed company costs no less than $25. For example, KINSTA and WP Engine are two of the most popular managed hosting providers. Their subscription fee starts at $100 and $29 per month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Magazine Pro Theme Review 2018 : SEO Friendly and Fast</title>
-      <link>https://www.carnaghan.com/magazine-pro-theme-review-2018-seo-friendly-and-fast/</link>
+      <link>http://localhost:1313/magazine-pro-theme-review-2018-seo-friendly-and-fast/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/magazine-pro-theme-review-2018-seo-friendly-and-fast/</guid>
+      <guid>http://localhost:1313/magazine-pro-theme-review-2018-seo-friendly-and-fast/</guid>
       <description>&lt;p&gt;The Magazine Pro Theme from StudioPress is a powerful WP template for news and technology websites. It is based on responsive and minimal design.&lt;/p&gt;
 &lt;p&gt;The theme lacks lengthy CSS and JS codes and it looks great. It has clean SEO friendly HTML tags. The small assets and search engine friendly nature of the Magazine Pro make it one of the fastest loading WordPress themes.&lt;/p&gt;
 &lt;p&gt;The M Pro Genesis Child theme comes with valid Schema markups that help search engines identify various elements on your site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SPI Smart Passive Income Pro Theme Review (2018)</title>
-      <link>https://www.carnaghan.com/spi-smart-passive-income-pro-theme-review-2018/</link>
+      <link>http://localhost:1313/spi-smart-passive-income-pro-theme-review-2018/</link>
       <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/spi-smart-passive-income-pro-theme-review-2018/</guid>
+      <guid>http://localhost:1313/spi-smart-passive-income-pro-theme-review-2018/</guid>
       <description>&lt;p&gt;StupdioPress has launched the new Smart Passive Income Pro theme which resembles the blog of famous blogger Patt Flynn. For those who don&amp;rsquo;t know, Patt is one of the smartest affiliate marketing professionals who has been making over $100000 every month through his Smart Passive Income blog. Patt Flynn has earned over a 3 million dollars so far because of his great strategies and smart design of his blog.&lt;/p&gt;
 &lt;p&gt;The highlighting feature of SPI Pro theme is its large fonts in the footer, sidebar, and header section. The big size immaculate fonts give a distinct look to the blog using the SPI Pro template.&lt;/p&gt;</description>
     </item>
     <item>
       <title>StudioPress Genesis Pro Plus Package : All themes at great price</title>
-      <link>https://www.carnaghan.com/studiopress-genesis-pro-plus-package-all-themes-at-great-price/</link>
+      <link>http://localhost:1313/studiopress-genesis-pro-plus-package-all-themes-at-great-price/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/studiopress-genesis-pro-plus-package-all-themes-at-great-price/</guid>
+      <guid>http://localhost:1313/studiopress-genesis-pro-plus-package-all-themes-at-great-price/</guid>
       <description>&lt;p&gt;StudioPress Genesis Framework powers 1000s of WordPress sites. It is better than Thesis and many other WP frameworks. It is SEO friendly, mobile optimized, lightweight, and fast. SGF includes several intuitive features. It includes special modules that save your money. Example, you won&amp;rsquo;t need a premium opt-in form aka newsletter plugin if you use SGF. Many top bloggers who earn six figure income per month use SGF. StudioPress Genesis is the highest rated and most successful WordPress product.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Genesis Child Themes for blogs and business (2018)</title>
-      <link>https://www.carnaghan.com/best-genesis-child-themes-for-blogs-and-business-2018/</link>
+      <link>http://localhost:1313/best-genesis-child-themes-for-blogs-and-business-2018/</link>
       <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-genesis-child-themes-for-blogs-and-business-2018/</guid>
+      <guid>http://localhost:1313/best-genesis-child-themes-for-blogs-and-business-2018/</guid>
       <description>&lt;p&gt;Genesis Framework is a WordPress product from the owners of Copyblogger content marketing blog. It is so popular that every blogger using WP is aware of the Genesis Framework and its premium themes. If your site is using this framework, then you&amp;rsquo;ll not face any SEO issues unless you do something wrong Ex: changing code. Genesis Framework powers many top websites and blogs built with WordPress.&lt;/p&gt;
 &lt;p&gt;All the themes launched by StudioPress Genesis Framework are SEO friendly, responsive, Google AdSense ready, and adhere to HTML5 standards. As they are designed and developed by experts, the templates performance will be great even if the user is using shared hosting service. In case you&amp;rsquo;re planning to purchase the StudioPress Genesis Framework, go through the paragraphs we have shared below as today we&amp;rsquo;ve shared the top best Genesis Child Themes for 2016.&lt;/p&gt;</description>
     </item>

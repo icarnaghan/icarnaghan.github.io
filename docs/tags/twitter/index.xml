@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Twitter on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/twitter/</link>
+    <link>http://localhost:1313/tags/twitter/</link>
     <description>Recent content in Twitter on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twitter Releases Sleek, Clean Homepage Redesign</title>
-      <link>https://www.carnaghan.com/twitter-releases-sleek-clean-homepage-redesign/</link>
+      <link>http://localhost:1313/twitter-releases-sleek-clean-homepage-redesign/</link>
       <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/twitter-releases-sleek-clean-homepage-redesign/</guid>
+      <guid>http://localhost:1313/twitter-releases-sleek-clean-homepage-redesign/</guid>
       <description>&lt;p&gt;Although this has been covered by many media blogs, Twitter has indeed released a new home page! I have to say, I&amp;rsquo;m a big fan of the new design and it definitely allows for a better user experience when first arriving at the site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with New Twitter app Taweet: The Future of Twitter</title>
-      <link>https://www.carnaghan.com/interview-with-new-twitter-app-taweet-the-future-of-twitter/</link>
+      <link>http://localhost:1313/interview-with-new-twitter-app-taweet-the-future-of-twitter/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-new-twitter-app-taweet-the-future-of-twitter/</guid>
+      <guid>http://localhost:1313/interview-with-new-twitter-app-taweet-the-future-of-twitter/</guid>
       <description>&lt;p&gt;As Twitter has blown through other social media sites, it&amp;rsquo;s become one of the most trafficked websites of the present day. Everybody and their grandma is using Twitter, and there&amp;rsquo;s no shortage of helpful applications and Twitter resources for them all! Ranging from Twitter wallpaper creators to free icons or avatars, the internet hosts them all.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manage Your Businesses Internet Marketing with twtapps</title>
-      <link>https://www.carnaghan.com/manage-your-businesses-internet-marketing-with-twtapps/</link>
+      <link>http://localhost:1313/manage-your-businesses-internet-marketing-with-twtapps/</link>
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/manage-your-businesses-internet-marketing-with-twtapps/</guid>
+      <guid>http://localhost:1313/manage-your-businesses-internet-marketing-with-twtapps/</guid>
       <description>&lt;p&gt;Twitter has skyrocketed into mainstream with seemingly no meaning behind it. The simple application allowing everyone in the world to share what they&amp;rsquo;re doing, thinking, or feeling in 140 characters has grown into one of the most popular web 2.0 applications on the web, and it&amp;rsquo;s no doubt there are many apps on the web to accompany it. Although not affiliate with Twitter in any way, twtapps is a neat website that features some of the coolest web 2.0 applications that help businesses market on Twitter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kevin Rose&#39;s Failed Microblogging Platform: Where Pownce went Wrong</title>
-      <link>https://www.carnaghan.com/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</link>
+      <link>http://localhost:1313/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</link>
       <pubDate>Fri, 05 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</guid>
+      <guid>http://localhost:1313/kevin-roses-failed-microblogging-platform-where-pownce-went-wrong/</guid>
       <description>&lt;p&gt;When Pownce first launched in the summer of 2007, I thought it would revolutionize how I communicated and shared stuff with my friends! By the way Kevin Rose had hyped it, you could share any type of file (music, video, .zip archive), share notes, share photos, really anything you wanted to with your friends! This was an application that was desperately needed on the web, and to this day I still claim there needs to be something to fill the void.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flick.to.Twitt - Easily share your Flickr Photos on Twitter</title>
-      <link>https://www.carnaghan.com/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</link>
+      <link>http://localhost:1313/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</link>
       <pubDate>Thu, 21 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</guid>
+      <guid>http://localhost:1313/flick.to.twitt-easily-share-your-flickr-photos-on-twitter/</guid>
       <description>&lt;p&gt;Twitter has become one of the largest web 2.0 applications on the web today, in comparison with Facebook, MySpace, and Digg. Along with this, Flickr has become a giant web app where users can share their photos. However, with the use of Flick.to.Twitt you are now able to post your Flickr photos right to your Twitter account! I have an interview with the site&amp;rsquo;s founder Marco Almeida, in which we discussed the site&amp;rsquo;s creation and also future goals for the site.&lt;/p&gt;</description>
     </item>
   </channel>

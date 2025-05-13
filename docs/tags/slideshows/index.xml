@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Slideshows on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/slideshows/</link>
+    <link>http://localhost:1313/tags/slideshows/</link>
     <description>Recent content in Slideshows on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 09 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/slideshows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/slideshows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easiest way to create SEO friendly WordPress slideshows</title>
-      <link>https://www.carnaghan.com/easiest-way-to-create-seo-friendly-wordpress-slideshows/</link>
+      <link>http://localhost:1313/easiest-way-to-create-seo-friendly-wordpress-slideshows/</link>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/easiest-way-to-create-seo-friendly-wordpress-slideshows/</guid>
+      <guid>http://localhost:1313/easiest-way-to-create-seo-friendly-wordpress-slideshows/</guid>
       <description>&lt;p&gt;Slideshows are attractive, aren&amp;rsquo;t they? Blogs with slideshows have a very less bounce rate, high level of user engagement and better conversion rate. Many webmasters embed a picture slideshow in their sites. This makes users spend more time on the sites which in turn increases its search engine rankings.&lt;/p&gt;
 &lt;p&gt;If you want to use an online tool to create slides, there&amp;rsquo;s no better tool than SlideShare. This tool can generate slideshow code. Thus, you can easily embed your slideshow on any blog/website. If you use this code, you will be wasting your page rank as the code will link your site to SlideShare without adding rel=&amp;ldquo;nofollow&amp;rdquo; attribute. The generated code will add an iframe to your site. Some search engines ignore the content in iframes. In such cases, you can use the best WordPress slideshow plugin, the Meta Slider. If you don&amp;rsquo;t use WordPress content management system, you can use a Jquery slideshow plugin. There are two main advantages of using the WP plugin:&lt;/p&gt;</description>
     </item>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Facebook on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/facebook/</link>
+    <link>http://localhost:1313/tags/facebook/</link>
     <description>Recent content in Facebook on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facebook Marketplace vs Craigslist: Which site is better?</title>
-      <link>https://www.carnaghan.com/facebook-marketplace-vs-craigslist-which-site-is-better/</link>
+      <link>http://localhost:1313/facebook-marketplace-vs-craigslist-which-site-is-better/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/facebook-marketplace-vs-craigslist-which-site-is-better/</guid>
+      <guid>http://localhost:1313/facebook-marketplace-vs-craigslist-which-site-is-better/</guid>
       <description>&lt;p&gt;After destroying MySpace, Orkut, Flickr and several other internet companies. FB is now after Craigslist, Olx, Kijiji, and 100s of other classified listing sites.&lt;/p&gt;
 &lt;p&gt;The social networking giant opened its marketplace for everyone using FB. The new feature has not gone well with people using this site just for fun. But it has been received well by business owners using Facebook.&lt;/p&gt;
 &lt;p&gt;Is FB&amp;rsquo;s new tool a great alternative to OLX, CL, and other similar websites? Go through the below comparison of the two sites to get the answer!&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to add and customize Facebook feed in WordPress?</title>
-      <link>https://www.carnaghan.com/how-to-add-and-customize-facebook-feed-in-wordpress/</link>
+      <link>http://localhost:1313/how-to-add-and-customize-facebook-feed-in-wordpress/</link>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-add-and-customize-facebook-feed-in-wordpress/</guid>
+      <guid>http://localhost:1313/how-to-add-and-customize-facebook-feed-in-wordpress/</guid>
       <description>&lt;p&gt;Facebook allows the webmasters to add the Facebook comment form, like box or the page feed to their websites.&lt;/p&gt;
 &lt;p&gt;In WordPress CMS, adding a comment form or the like box is easy, but inserting a page feed is usually a tricky task for a webmaster. Even if the user manages to add FB feed to the sidebar, he won&amp;rsquo;t be able to customize it unless the user knows the working knowledge of CSS. In such cases, the user should use the free custom Facebook feed plugin.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Facebook Introduces a Brand New, Sleek Home Design</title>
-      <link>https://www.carnaghan.com/facebook-introduces-a-brand-new-sleek-home-design/</link>
+      <link>http://localhost:1313/facebook-introduces-a-brand-new-sleek-home-design/</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/facebook-introduces-a-brand-new-sleek-home-design/</guid>
+      <guid>http://localhost:1313/facebook-introduces-a-brand-new-sleek-home-design/</guid>
       <description>&lt;p&gt;A few days ago Facebook released their newest design. Nothing has changed on personal profile pages, but when you log into your account you should see some major changes to how everything is layed out. This came as a shock to me when I logged in to check my status for the first time earlier today - a brand new look!&lt;/p&gt;</description>
     </item>
   </channel>

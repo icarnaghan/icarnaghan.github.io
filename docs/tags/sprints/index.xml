@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sprints on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/sprints/</link>
+    <link>http://localhost:1313/tags/sprints/</link>
     <description>Recent content in Sprints on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Dec 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/sprints/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sprints/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application Demo and Reporting</title>
-      <link>https://www.carnaghan.com/application-demo-and-reporting/</link>
+      <link>http://localhost:1313/application-demo-and-reporting/</link>
       <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/application-demo-and-reporting/</guid>
+      <guid>http://localhost:1313/application-demo-and-reporting/</guid>
       <description>&lt;p&gt;Since the last sprint, the first iteration of the actual application was developed using ASP.NET MVC 5 and SQL Server backend database.  This application is being used for the upcoming remote usability testing sessions. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Data Elements Review and Reporting</title>
-      <link>https://www.carnaghan.com/data-elements-review-and-reporting/</link>
+      <link>http://localhost:1313/data-elements-review-and-reporting/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/data-elements-review-and-reporting/</guid>
+      <guid>http://localhost:1313/data-elements-review-and-reporting/</guid>
       <description>&lt;p&gt;Today a short meeting was held to discuss the overall progress of the prototype to date and demonstrate the key functionality to the EL representative for the school.  Comments were made on how further improvements could be made to the data collection part of the system.  The group is going to review the prototype over the next week further and share feedback at our next meeting.  &lt;/p&gt;</description>
     </item>
     <item>
       <title>Non-Expedition Subject Areas</title>
-      <link>https://www.carnaghan.com/non-expedition-subject-areas/</link>
+      <link>http://localhost:1313/non-expedition-subject-areas/</link>
       <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/non-expedition-subject-areas/</guid>
+      <guid>http://localhost:1313/non-expedition-subject-areas/</guid>
       <description>&lt;p&gt;This sprint continued discussion of non-expeditions.  This week we focused primarily on restructuring the prototype to correctly integrate subject areas that do not fall under the typical expedition.  The home page was refined further and several changes were made to the math non-expedition subject area created for prototype 4.  &lt;/p&gt;</description>
     </item>
     <item>
       <title>FSW and Winter Terms</title>
-      <link>https://www.carnaghan.com/fsw-and-winter-terms/</link>
+      <link>http://localhost:1313/fsw-and-winter-terms/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/fsw-and-winter-terms/</guid>
+      <guid>http://localhost:1313/fsw-and-winter-terms/</guid>
       <description>&lt;p&gt;The purpose of this meeting was to finalize the data-entry sections of the system by further describing functionality specifically on non-expedition semesters.  Non-expeditions were discussed both as FSW / Winter term as well as other subject areas or strands of the curriculum delivered in parallel to expeditions.  The majority of this meeting focused on refining prototype 3 further by improving the placement of FSW and winter semesters.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Defining Expeditions</title>
-      <link>https://www.carnaghan.com/defining-expeditions/</link>
+      <link>http://localhost:1313/defining-expeditions/</link>
       <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/defining-expeditions/</guid>
+      <guid>http://localhost:1313/defining-expeditions/</guid>
       <description>&lt;p&gt;This meeting focused on prototype 3 and refining the structural breakdown of expeditions and their sub-components.  New terminology was introduced to describe the various elements of semester based expeditions and non-expeditions and certain elements were re-positioned within the data-entry screens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>High-Level Requirements</title>
-      <link>https://www.carnaghan.com/high-level-requirements/</link>
+      <link>http://localhost:1313/high-level-requirements/</link>
       <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/high-level-requirements/</guid>
+      <guid>http://localhost:1313/high-level-requirements/</guid>
       <description>&lt;p&gt;This was the first requirements meeting since the initial kickoff back in April.  Prototype 2 served as the main discussion for this meeting as we dove deeper into the expected functionality and nuances of an EL curriculum map.  &lt;/p&gt;</description>
     </item>
   </channel>

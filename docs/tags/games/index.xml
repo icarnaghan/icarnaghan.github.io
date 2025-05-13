@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Games on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/games/</link>
+    <link>http://localhost:1313/tags/games/</link>
     <description>Recent content in Games on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Feb 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Profitable are Niche Video Game Forums and Communities?</title>
-      <link>https://www.carnaghan.com/how-profitable-are-niche-video-game-forums-and-communities/</link>
+      <link>http://localhost:1313/how-profitable-are-niche-video-game-forums-and-communities/</link>
       <pubDate>Sat, 13 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-profitable-are-niche-video-game-forums-and-communities/</guid>
+      <guid>http://localhost:1313/how-profitable-are-niche-video-game-forums-and-communities/</guid>
       <description>&lt;p&gt;A big part of the web 2.0 boom is communication. People are communicating now more than ever, and it&amp;rsquo;s not a surprise. With the vast size of apps these days, along with almost every website running some type of forum or blog, users are more connected than ever! Many marketers can see ways to utilizing this new &amp;ldquo;social networking fever&amp;rdquo; as a turning point to make some serious money online.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Virtual Online Gaming Community FactPile</title>
-      <link>https://www.carnaghan.com/interview-with-virtual-online-gaming-community-factpile/</link>
+      <link>http://localhost:1313/interview-with-virtual-online-gaming-community-factpile/</link>
       <pubDate>Fri, 12 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-virtual-online-gaming-community-factpile/</guid>
+      <guid>http://localhost:1313/interview-with-virtual-online-gaming-community-factpile/</guid>
       <description>&lt;p&gt;There are so many great online gaming communities. Video games have taken a huge rise in popularity over the years, and what a better way to celebrate your favorite games than hanging out with like-minded people on a fun and active community? FactPile does just that, collecting all gamers and tech-lovers from around the globe to interact and enjoy the community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Inside Scoop on CoolROM&#39;s.com with Founder Edward Chang</title>
-      <link>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
+      <link>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
       <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
+      <guid>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
       <description>&lt;p&gt;Digging through the internet for your favorite ROM can be a frustrating process. Some sites can&amp;rsquo;t be trusted, others just throw you around in loops to find exactly what you&amp;rsquo;re looking for. I have recently gotten a short, sweet, and to the point interview with the founder of CoolRom.com Edward Chang. In it, he discusses revenue streams from the site, traffic stats, and how he built and created a Emulation and ROM empire.&lt;/p&gt;</description>
     </item>
   </channel>

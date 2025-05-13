@@ -2,106 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cool on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/cool/</link>
+    <link>http://localhost:1313/tags/cool/</link>
     <description>Recent content in Cool on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 22 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/cool/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adobe&#39;s Secrets Revealed for New Creative Suite 5</title>
-      <link>https://www.carnaghan.com/adobes-secrets-revealed-for-new-creative-suite-5/</link>
+      <link>http://localhost:1313/adobes-secrets-revealed-for-new-creative-suite-5/</link>
       <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/adobes-secrets-revealed-for-new-creative-suite-5/</guid>
+      <guid>http://localhost:1313/adobes-secrets-revealed-for-new-creative-suite-5/</guid>
       <description>&lt;p&gt;There have been quite a few videos in regards to the new Adobe Creative Suite 5, most specifically Photoshop and design software. There have been a lot of updates from the not-so-old CS4 set of Web and Graphic design software.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Craze.cc - New and Innovative Social News/Discussion Community</title>
-      <link>https://www.carnaghan.com/craze.cc-new-and-innovative-social-news/discussion-community/</link>
+      <link>http://localhost:1313/craze.cc-new-and-innovative-social-news/discussion-community/</link>
       <pubDate>Sun, 11 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/craze.cc-new-and-innovative-social-news/discussion-community/</guid>
+      <guid>http://localhost:1313/craze.cc-new-and-innovative-social-news/discussion-community/</guid>
       <description>&lt;p&gt;I love social media, I&amp;rsquo;ll get that off my chest right now. There are so many new and innovative websites popping up each and every day which take the idea of social networking and spin it around with some new features and a new look, then present it to you in a clean and elegant way. Well Craze.cc is certainly one of those sites, and the idea is spreading fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Check Your Username Availability on Tons of Websites with Namechk</title>
-      <link>https://www.carnaghan.com/check-your-username-availability-on-tons-of-websites-with-namechk/</link>
+      <link>http://localhost:1313/check-your-username-availability-on-tons-of-websites-with-namechk/</link>
       <pubDate>Sun, 24 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/check-your-username-availability-on-tons-of-websites-with-namechk/</guid>
+      <guid>http://localhost:1313/check-your-username-availability-on-tons-of-websites-with-namechk/</guid>
       <description>&lt;p&gt;Many of us enjoy sticking with our usernames. We sign up with the same username on multiple websites, and this is especially true with social networking/bookmarking sites as it allows your name to become a presence in the community. Only thing is, there&amp;rsquo;s so many people online that the chances of our username being take is, well, pretty decent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Inside Creativity Den: New Inspiration Blog for Designers</title>
-      <link>https://www.carnaghan.com/getting-inside-creativity-den-new-inspiration-blog-for-designers/</link>
+      <link>http://localhost:1313/getting-inside-creativity-den-new-inspiration-blog-for-designers/</link>
       <pubDate>Thu, 14 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/getting-inside-creativity-den-new-inspiration-blog-for-designers/</guid>
+      <guid>http://localhost:1313/getting-inside-creativity-den-new-inspiration-blog-for-designers/</guid>
       <description>&lt;p&gt;Web designers have no shortage of inspiration these days. It seems as though there are new design and inspiration blogs popping up every hour, and there&amp;rsquo;s never a shortage of posts to go around. With new social media sites such as Design Moo and DesignBump, articles for graphic artists and web designers are able to spread like wildfire. It&amp;rsquo;s rare when you run across a unique and helpful blog, and this is the case with CreativityDen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with is.gd URL Shortener</title>
-      <link>https://www.carnaghan.com/interview-with-is.gd-url-shortener/</link>
+      <link>http://localhost:1313/interview-with-is.gd-url-shortener/</link>
       <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-is.gd-url-shortener/</guid>
+      <guid>http://localhost:1313/interview-with-is.gd-url-shortener/</guid>
       <description>&lt;p&gt;New URL Shortening services hit the web every week it seems. I can remember not too long ago when TinyURL was just starting up, and that hit with a huge bang. Ever since then, there have been countless creations of URL shorteners (where some even provided stats). However, only a select few have really succeeded to hit mainstream popularity and be of any use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Inside Scoop on CoolROM&#39;s.com with Founder Edward Chang</title>
-      <link>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
+      <link>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</link>
       <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
+      <guid>http://localhost:1313/the-inside-scoop-on-coolroms.com-with-founder-edward-chang/</guid>
       <description>&lt;p&gt;Digging through the internet for your favorite ROM can be a frustrating process. Some sites can&amp;rsquo;t be trusted, others just throw you around in loops to find exactly what you&amp;rsquo;re looking for. I have recently gotten a short, sweet, and to the point interview with the founder of CoolRom.com Edward Chang. In it, he discusses revenue streams from the site, traffic stats, and how he built and created a Emulation and ROM empire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with BloggersBase: A Community Built for Bloggers</title>
-      <link>https://www.carnaghan.com/interview-with-bloggersbase-a-community-built-for-bloggers/</link>
+      <link>http://localhost:1313/interview-with-bloggersbase-a-community-built-for-bloggers/</link>
       <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-bloggersbase-a-community-built-for-bloggers/</guid>
+      <guid>http://localhost:1313/interview-with-bloggersbase-a-community-built-for-bloggers/</guid>
       <description>&lt;p&gt;The term &amp;ldquo;blogging&amp;rdquo; is thrown around so much these days. There are millions of blogs, bloggers, blog posts, and people blogging every day. In fact, this post you&amp;rsquo;re reading is on a blog! It&amp;rsquo;s no wonder this area has exploded over the past couple of years, and there are many social networking sites connecting both bloggers and readers together.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collection of Photos from Digg&#39;s Office in San Francisco</title>
-      <link>https://www.carnaghan.com/collection-of-photos-from-diggs-office-in-san-francisco/</link>
+      <link>http://localhost:1313/collection-of-photos-from-diggs-office-in-san-francisco/</link>
       <pubDate>Tue, 28 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/collection-of-photos-from-diggs-office-in-san-francisco/</guid>
+      <guid>http://localhost:1313/collection-of-photos-from-diggs-office-in-san-francisco/</guid>
       <description>&lt;p&gt;Digg is undoubtedly the most popular social news website on the internet. Hell, it sort of invented the social news genre itself! Digg has been a huge inspiration to me as a designer and developer, and I have learned so much through Digg&amp;rsquo;s progression over the years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Indaba Music: The Online Music-Making Community</title>
-      <link>https://www.carnaghan.com/interview-with-indaba-music-the-online-music-making-community/</link>
+      <link>http://localhost:1313/interview-with-indaba-music-the-online-music-making-community/</link>
       <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-indaba-music-the-online-music-making-community/</guid>
+      <guid>http://localhost:1313/interview-with-indaba-music-the-online-music-making-community/</guid>
       <description>&lt;p&gt;Are you a musician looking to find others to jam with, write music with, or just talk to? Or maybe you have a band, but want to find others who are writing the same kind of stuff? Yeah, listen to their tunes, kick back, maybe even share some wisdom with each other. Well look no further, as Indaba Music can cure all your problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bet on Anything You Like with Flusta.com</title>
-      <link>https://www.carnaghan.com/bet-on-anything-you-like-with-flusta.com/</link>
+      <link>http://localhost:1313/bet-on-anything-you-like-with-flusta.com/</link>
       <pubDate>Sat, 04 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bet-on-anything-you-like-with-flusta.com/</guid>
+      <guid>http://localhost:1313/bet-on-anything-you-like-with-flusta.com/</guid>
       <description>&lt;p&gt;Flusa is a new web 2.0 application that allows you to place bets on almost anything you like. Well, not even almost, you can create your own topic and have anyone you want place bets on it, sort of like a &amp;ldquo;social gambling&amp;rdquo; website. Ranging from topics of cutest boys to the best next-gen gaming console, Flusta has it all with a easy-to-use user interface and a great concept in mind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Genius Behind Fark, Drew Curtis</title>
-      <link>https://www.carnaghan.com/interview-with-the-genius-behind-fark-drew-curtis/</link>
+      <link>http://localhost:1313/interview-with-the-genius-behind-fark-drew-curtis/</link>
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-the-genius-behind-fark-drew-curtis/</guid>
+      <guid>http://localhost:1313/interview-with-the-genius-behind-fark-drew-curtis/</guid>
       <description>&lt;p&gt;Article bookmarking and submission sites have become a commodity on the web today. There have been only a few veterans that have been around long before it was &amp;ldquo;cool&amp;rdquo; to have a site in the social news niche, and Drew Curtis&amp;rsquo; Fark.com is one of them. Fark is social news with a twist: comedy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Zemanta: Improving the Way We Blog</title>
-      <link>https://www.carnaghan.com/interview-with-zemanta-improving-the-way-we-blog/</link>
+      <link>http://localhost:1313/interview-with-zemanta-improving-the-way-we-blog/</link>
       <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-zemanta-improving-the-way-we-blog/</guid>
+      <guid>http://localhost:1313/interview-with-zemanta-improving-the-way-we-blog/</guid>
       <description>&lt;p&gt;More and more people are discovering the wonders of web 2.0 technology, working with things such as wikis and social networks. However, nothing has been rising faster than the amount of people learning about blogging. Blogging is a great way to post your ideas, research, thoughts, or random ramblings online and share it with the mass of internet users who stumble upon it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Psychedelic New App Yooouuutuuube</title>
-      <link>https://www.carnaghan.com/interview-with-the-psychedelic-new-app-yooouuutuuube/</link>
+      <link>http://localhost:1313/interview-with-the-psychedelic-new-app-yooouuutuuube/</link>
       <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-the-psychedelic-new-app-yooouuutuuube/</guid>
+      <guid>http://localhost:1313/interview-with-the-psychedelic-new-app-yooouuutuuube/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re a big fan of Digg.com, I&amp;rsquo;m sure you remember seeing an article hit the front page about 2-3 weeks ago titled The Most Trippy and Hypnotic Thing You Will See Today. It linked to a video of many split-screen Alice in Wonderland clips playing over some neat background music, and really was the most trippy thing I&amp;rsquo;d seen! After this first discovery, tons of videos from Yooouuutuuube.com started popping up everywhere.&lt;/p&gt;</description>
     </item>
   </channel>

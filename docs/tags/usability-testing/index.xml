@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Usability-Testing on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/usability-testing/</link>
+    <link>http://localhost:1313/tags/usability-testing/</link>
     <description>Recent content in Usability-Testing on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/usability-testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/usability-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Perform Heuristics Evaluation On A Website?</title>
-      <link>https://www.carnaghan.com/how-to-perform-heuristics-evaluation-on-a-website/</link>
+      <link>http://localhost:1313/how-to-perform-heuristics-evaluation-on-a-website/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-perform-heuristics-evaluation-on-a-website/</guid>
+      <guid>http://localhost:1313/how-to-perform-heuristics-evaluation-on-a-website/</guid>
       <description>&lt;p&gt;Every User Experience Researcher in the world gets the request of performing a &lt;strong&gt;Heuristic Evaluation&lt;/strong&gt; at least once in their lifetime. But it is not always clear if the requester knows precisely about this process of evaluation. What happens is, they hear a word in trend, and they request it.&lt;/p&gt;
 &lt;p&gt;But before you dive right into the heuristics evaluation of the website, you need to be aware of what it is and how you can conduct it with precision. Take some time and learn about all the ins and outs of the technique.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heather Remote Usability Session 10</title>
-      <link>https://www.carnaghan.com/heather-remote-usability-session-10/</link>
+      <link>http://localhost:1313/heather-remote-usability-session-10/</link>
       <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/heather-remote-usability-session-10/</guid>
+      <guid>http://localhost:1313/heather-remote-usability-session-10/</guid>
       <description>&lt;p&gt;Heather also experienced some workflow issues with the application where she was unable to locate various areas of the system.  She commented that the excessive scrolling contributed to her confusion with this.  In addition to this she noted concern with the various grid updates and format of the STA grid for editing and updating.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meg Remote Usability Session 9</title>
-      <link>https://www.carnaghan.com/meg-remote-usability-session-9/</link>
+      <link>http://localhost:1313/meg-remote-usability-session-9/</link>
       <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/meg-remote-usability-session-9/</guid>
+      <guid>http://localhost:1313/meg-remote-usability-session-9/</guid>
       <description>&lt;p&gt;Meg had some difficulty working with the various grids, however once she learned the process, she was able to easily complete the remaining tasks.  She also had some initial trouble with the &amp;lsquo;Big Ideas&amp;rsquo; drop-down selection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Michael Remote Usability Session 8</title>
-      <link>https://www.carnaghan.com/michael-remote-usability-session-8/</link>
+      <link>http://localhost:1313/michael-remote-usability-session-8/</link>
       <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/michael-remote-usability-session-8/</guid>
+      <guid>http://localhost:1313/michael-remote-usability-session-8/</guid>
       <description>&lt;p&gt;Michael was able to complete all tasks without many concerns.  He observer and pointed out a few potential enhancements with the system, however the only issue he ran into was the recurring problem with the &amp;lsquo;Final Product&amp;rsquo; text area box.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Romey Remote Usability Session 7</title>
-      <link>https://www.carnaghan.com/romey-remote-usability-session-7/</link>
+      <link>http://localhost:1313/romey-remote-usability-session-7/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/romey-remote-usability-session-7/</guid>
+      <guid>http://localhost:1313/romey-remote-usability-session-7/</guid>
       <description>&lt;p&gt;Romey completed most tasks with ease, however on a few occasions she came across recurring issues.  She had trouble working with the &amp;lsquo;Big Ideas&amp;rsquo; control, updating the various expedition and case study grids, and not correctly saving each form.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jeff Remote Usability Session 6</title>
-      <link>https://www.carnaghan.com/jeff-remote-usability-session-6/</link>
+      <link>http://localhost:1313/jeff-remote-usability-session-6/</link>
       <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/jeff-remote-usability-session-6/</guid>
+      <guid>http://localhost:1313/jeff-remote-usability-session-6/</guid>
       <description>&lt;p&gt;Jeff ran into some problems when he did not save the form page he was on and lost changes.  He had trouble remembering to press the update button on the various grids.  In addition to this, he also came across problems with the &amp;lsquo;Big Ideas&amp;rsquo; control and text area bug for &amp;lsquo;Final Product&amp;rsquo; that others faced.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lorie Remote Usability Session 4</title>
-      <link>https://www.carnaghan.com/lorie-remote-usability-session-4/</link>
+      <link>http://localhost:1313/lorie-remote-usability-session-4/</link>
       <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/lorie-remote-usability-session-4/</guid>
+      <guid>http://localhost:1313/lorie-remote-usability-session-4/</guid>
       <description>&lt;p&gt;This usability testing session revealed some issues with the using the Big Ideas drop-down selectors for adding new records.  In addition to this, the process for adding standards, targets and assessments appeared confusing to the user.  There were some issues with workflow where the user was confused about which screen she was on.  Recommendations were made for allowing file uploads.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Megan Remote Usability Session 5</title>
-      <link>https://www.carnaghan.com/megan-remote-usability-session-5/</link>
+      <link>http://localhost:1313/megan-remote-usability-session-5/</link>
       <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/megan-remote-usability-session-5/</guid>
+      <guid>http://localhost:1313/megan-remote-usability-session-5/</guid>
       <description>&lt;p&gt;Megan was able to complete most tasks with ease.  The only issue she seemed to have was related to workflow and finding specific sections or areas of the application.  The confusion stemmed from differentiating between the case study and expedition screens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kate - Remote Usability Session 3</title>
-      <link>https://www.carnaghan.com/kate-remote-usability-session-3/</link>
+      <link>http://localhost:1313/kate-remote-usability-session-3/</link>
       <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/kate-remote-usability-session-3/</guid>
+      <guid>http://localhost:1313/kate-remote-usability-session-3/</guid>
       <description>&lt;p&gt;This remote usability test also revealed some problems with workflow as well as keyboard accessibility problems not previously discovered.  In addition to this, Kate noted several problems with form controls including the &amp;lsquo;Big Ideas&amp;rsquo; dropdown selection and &amp;lsquo;Common Core&amp;rsquo; search picker.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rob - Remote Usability Session 2</title>
-      <link>https://www.carnaghan.com/rob-remote-usability-session-2/</link>
+      <link>http://localhost:1313/rob-remote-usability-session-2/</link>
       <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/rob-remote-usability-session-2/</guid>
+      <guid>http://localhost:1313/rob-remote-usability-session-2/</guid>
       <description>&lt;p&gt;The second remote usability test revealed some recurring issues as well as new observations.  Rob noted some issues in remembering to click update on the various grids.  He also ran into some problems with workflow and general navigation in terms of locating various parts of the system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beth - Remote Usability Session 1</title>
-      <link>https://www.carnaghan.com/beth-remote-usability-session-1/</link>
+      <link>http://localhost:1313/beth-remote-usability-session-1/</link>
       <pubDate>Tue, 17 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/beth-remote-usability-session-1/</guid>
+      <guid>http://localhost:1313/beth-remote-usability-session-1/</guid>
       <description>&lt;p&gt;The first remote usability test revealed some issues regarding various interactions within the application.  For the most part the various tasks were completed with ease, however on one occasion a system bug caused problems.  Later in the session, Beth ran into problems using the text area box for final product description.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Helen - Pilot Usability Session</title>
-      <link>https://www.carnaghan.com/helen-pilot-usability-session/</link>
+      <link>http://localhost:1313/helen-pilot-usability-session/</link>
       <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/helen-pilot-usability-session/</guid>
+      <guid>http://localhost:1313/helen-pilot-usability-session/</guid>
       <description>&lt;p&gt;The pilot usability testing was held at the University of Baltimore&amp;rsquo;s usability lab.  The pilot involved the new ASP.NET application, which enabled for more realistic interactions when compared to the earlier Axure wireframes.  Several problems were discovered with the application in terms of bugs identified with browser inconsistencies, not previously anticipated. &lt;/p&gt;</description>
     </item>
   </channel>

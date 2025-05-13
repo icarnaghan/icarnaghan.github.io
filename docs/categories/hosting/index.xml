@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hosting on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/categories/hosting/</link>
+    <link>http://localhost:1313/categories/hosting/</link>
     <description>Recent content in Hosting on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Makes AWS A Great Choice For Small Businesses?</title>
-      <link>https://www.carnaghan.com/what-makes-aws-a-great-choice-for-small-businesses/</link>
+      <link>http://localhost:1313/what-makes-aws-a-great-choice-for-small-businesses/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/what-makes-aws-a-great-choice-for-small-businesses/</guid>
+      <guid>http://localhost:1313/what-makes-aws-a-great-choice-for-small-businesses/</guid>
       <description>&lt;p&gt;Even though Amazon Web Services has been around for many years now, several persistent misconceptions abound, particularly among owners of small businesses. For instance, many of them believe AWS is for big players only.&lt;/p&gt;
 &lt;p&gt;Perhaps this perception arises from the fact that many online giants use AWS servers for hosting, including AOL, Reddit, and Netflix. Or perhaps the fact that AWS is the undisputed king of the cloud development world, with $17B sales in 2017 alone, has precipitated this misbelief.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GoDaddy review: A web hosting and domain registration company</title>
-      <link>https://www.carnaghan.com/godaddy-review-a-web-hosting-and-domain-registration-company/</link>
+      <link>http://localhost:1313/godaddy-review-a-web-hosting-and-domain-registration-company/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/godaddy-review-a-web-hosting-and-domain-registration-company/</guid>
+      <guid>http://localhost:1313/godaddy-review-a-web-hosting-and-domain-registration-company/</guid>
       <description>&lt;p&gt;Godaddy is one of the top domain registrars and hosting companies of the world. It has over 500K customers. I&amp;rsquo;m one of the customers of Godaddy. I&amp;rsquo;ve been using its email hosting and domain registration service for 5 years. Here&amp;rsquo;s my review of the company.&lt;/p&gt;
 &lt;h3 id=&#34;list-of-godaddy-services-that-i-use&#34;&gt;List of GoDaddy services that I use&lt;/h3&gt;
 &lt;ul&gt;
@@ -37,224 +37,224 @@
     </item>
     <item>
       <title>How to limit CPU usage on server effectively?</title>
-      <link>https://www.carnaghan.com/how-to-limit-cpu-usage-on-server-effectively/</link>
+      <link>http://localhost:1313/how-to-limit-cpu-usage-on-server-effectively/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-limit-cpu-usage-on-server-effectively/</guid>
+      <guid>http://localhost:1313/how-to-limit-cpu-usage-on-server-effectively/</guid>
       <description>&lt;p&gt;Most hosting companies have introduced 2+ plans. The price of the hosting depends on the hardware and software the company is offering the customer. A plan that offers a low amount of RAM or a single core processor will be less expensive as compared to a plan that provides heaps of system memory and CPU.&lt;/p&gt;
 &lt;p&gt;No matter what plan you use, you must always keep an eye on the server CPU usage. If you don&amp;rsquo;t do so, a user process may use up to 90 - 100% CPU and other applications/system processes won&amp;rsquo;t be able to execute their tasks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highest paying affiliate programs (2018)</title>
-      <link>https://www.carnaghan.com/highest-paying-affiliate-programs-2018/</link>
+      <link>http://localhost:1313/highest-paying-affiliate-programs-2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/highest-paying-affiliate-programs-2018/</guid>
+      <guid>http://localhost:1313/highest-paying-affiliate-programs-2018/</guid>
       <description>&lt;p&gt;Affiliate programs are great alternatives to PPC and CPC networks. Once you join an AP, you&amp;rsquo;ll get access to tools that will allow you to build affiliate links. A webmaster/website owner must use the tool to generate affiliate links. Once you generate a link, paste it into the blog posts. When a visitor clicks the link and buys a product from a website, you&amp;rsquo;ll earn a commission.&lt;/p&gt;
 &lt;p&gt;To know how your site is performing and which URLs on your website are giving you leads, the affiliate programs features a reporting section. There are 1000s of affiliate programs, but the ones that pay affiliates the highest commission fee are mentioned below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A2 Hosting review: Is it the fastest shared hosting service?</title>
-      <link>https://www.carnaghan.com/a2-hosting-review-is-it-the-fastest-shared-hosting-service/</link>
+      <link>http://localhost:1313/a2-hosting-review-is-it-the-fastest-shared-hosting-service/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/a2-hosting-review-is-it-the-fastest-shared-hosting-service/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;A2 Hosting&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/a2-hosting-review-is-it-the-fastest-shared-hosting-service/images/A2-Hosting.jpeg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/a2-hosting-review-is-it-the-fastest-shared-hosting-service/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;A2 Hosting&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/a2-hosting-review-is-it-the-fastest-shared-hosting-service/images/A2-Hosting.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A2 is one of the top 10 hosting companies in the world. The company has been operating since 2001/2002 and it has launched several hosting plans for every budget. As of today, over 10K sites are hosted on A2 servers.&lt;/p&gt;
 &lt;p&gt;A2 offers cloud, VPS, dedicated and shared hosting service. Is it a reliable hosting firm? Are its plans affordable? Is its support staff customer friendly? Let&amp;rsquo;s find it out!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linode Review 2018: Great uptime and affordable plans</title>
-      <link>https://www.carnaghan.com/linode-review-2018-great-uptime-and-affordable-plans/</link>
+      <link>http://localhost:1313/linode-review-2018-great-uptime-and-affordable-plans/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/linode-review-2018-great-uptime-and-affordable-plans/</guid>
+      <guid>http://localhost:1313/linode-review-2018-great-uptime-and-affordable-plans/</guid>
       <description>&lt;p&gt;I started my online career with a site hosted on Godaddy. I switched to A Small Orange from Godaddy after finding its plans cheap. After a major DNS incident, I quit ASO and bought shared hosting plan from Hostgator. HG shared plans are great for growing sites.&lt;/p&gt;
 &lt;p&gt;The traffic to my site grew and I had launched a few more sites. To make sure that HG doesn&amp;rsquo;t ban my sites by high server resource usage, I bought unmanaged Hostgator VPS plan. The VPS had 512 MB RAM. Everything was going great. When I was holidaying at my native place, my sites were down for 8 hours. To find the reason for this, I logged into the server to go through PHP, Nginx, MySQL log, and system log files. The system log file had several &amp;ldquo;MYSQL server has gone away&amp;rdquo; entries. This problem occurs when the system doesn&amp;rsquo;t have enough free memory for MySQL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>StudioPress Sites review 2018: Great alternative to managed hosting</title>
-      <link>https://www.carnaghan.com/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</link>
+      <link>http://localhost:1313/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</guid>
+      <guid>http://localhost:1313/studiopress-sites-review-2018-great-alternative-to-managed-hosting/</guid>
       <description>&lt;p&gt;StudioPress is a popular name in the world of WorldPress. It has launched several SEO optimized WordPress themes. Popular blogs and news websites use its themes.&lt;/p&gt;
 &lt;p&gt;Last year, Copyblogger Media, the company that owns StudioPress had launched StudioPress sites, a great and cheaper alternative to managed WordPress hosting.&lt;/p&gt;
 &lt;p&gt;Managed WordPress hosting from a reputed company costs no less than $25. For example, KINSTA and WP Engine are two of the most popular managed hosting providers. Their subscription fee starts at $100 and $29 per month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 5 Best CDN 2018: Fastest content delivery networks</title>
-      <link>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
+      <link>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
+      <guid>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
       <description>&lt;p&gt;CDN aka content delivery networks improves the performance of your site. They reduce the latency by serving JavaScript and CSS files from the location closest to the visitor.&lt;/p&gt;
 &lt;p&gt;A CDN provider may have several data centers spread across the world. When you signup for the CDN service, the service will cache static resources of your site on a server nearby the location you specify. You&amp;rsquo;ll have to install a CDN plugin so as to change the website resource URL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>InMotion hosting review 2016 : Superb plans and SSD powered servers</title>
-      <link>https://www.carnaghan.com/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</link>
+      <link>http://localhost:1313/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</guid>
+      <guid>http://localhost:1313/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</guid>
       <description>&lt;p&gt;InMotion is one of the top-rated hosting providers in the world. It is an independent company and not a subsidiary of EIG. IM has cheap and feature packed web hosting plans suitable for all types of users.&lt;/p&gt;
 &lt;p&gt;InMotion supports over 399 web applications and uses the high-speed SSDs aka sold state drives in their servers. It has excellent ratings on various review websites. Genuine users like you have published their honest reviews.&lt;/p&gt;</description>
     </item>
     <item>
       <title>InMotion vs Hostgator 2018 : Which hosting is worth the money?</title>
-      <link>https://www.carnaghan.com/inmotion-vs-hostgator-2018-which-hosting-is-worth-the-money/</link>
+      <link>http://localhost:1313/inmotion-vs-hostgator-2018-which-hosting-is-worth-the-money/</link>
       <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inmotion-vs-hostgator-2018-which-hosting-is-worth-the-money/</guid>
+      <guid>http://localhost:1313/inmotion-vs-hostgator-2018-which-hosting-is-worth-the-money/</guid>
       <description>&lt;p&gt;Several hosting companies challenge Hostgator by providing competitive plans with mouth-watering features. But the big question always haunts the minds of money spenders. Are the plans worth the money or is the company reliable?&lt;/p&gt;
 &lt;p&gt;As an answer to the above two big questions, we&amp;rsquo;ve shared comparisons and reviews of various hosting services. We&amp;rsquo;ve decided to share more comparisons so that you can buy get the best hosting for your site. Today, we&amp;rsquo;ve compared InMotion and Hostgator plans and features.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One.com hosting review (2018) : 1 year free hosting and domain</title>
-      <link>https://www.carnaghan.com/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</link>
+      <link>http://localhost:1313/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</guid>
+      <guid>http://localhost:1313/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</guid>
       <description>&lt;p&gt;One.com is a hosting company founded 14 years back by Jacob Jensen. The firm hosts around a million sites and has branches in various countries. Top brands and experts recommend one.com hosting for its quality service and great uptime of over 99%.&lt;/p&gt;
 &lt;p&gt;Below are the various features the customers of One.com hosting enjoy.&lt;/p&gt;
 &lt;h3 id=&#34;control-panel&#34;&gt;Control panel&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;one com : control panel&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/one.com-hosting-review-2018-1-year-free-hosting-and-domain/images/one-com-control-panel.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;one com : control panel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/one.com-hosting-review-2018-1-year-free-hosting-and-domain/images/one-com-control-panel.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A control panel is a web-based server and website management tool. You&amp;rsquo;ll find an option to install CMS such as WordPress and manage database in the control panel. One.com offers a beautiful CP with plenty of options.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is Shared hosting bad for SEO and is it safe for your site?</title>
-      <link>https://www.carnaghan.com/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</link>
+      <link>http://localhost:1313/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</link>
       <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</guid>
+      <guid>http://localhost:1313/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</guid>
       <description>&lt;p&gt;SH is a type of hosting in which your site will run along with several other websites on the same server. If you are planning to purchase a web hosting plan, you may be having a doubt whether shared hosting is bad for SEO and is it safe? I will try to clear the confusion for you but before that, you should know the below important points.&lt;/p&gt;
 &lt;p&gt;Shared website hosting assigns:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bluehost vs Hostmonster vs JustHost (2018)</title>
-      <link>https://www.carnaghan.com/bluehost-vs-hostmonster-vs-justhost-2018/</link>
+      <link>http://localhost:1313/bluehost-vs-hostmonster-vs-justhost-2018/</link>
       <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bluehost-vs-hostmonster-vs-justhost-2018/</guid>
+      <guid>http://localhost:1313/bluehost-vs-hostmonster-vs-justhost-2018/</guid>
       <description>&lt;p&gt;People are often confused in choosing a hosting service for their sites. On the internet, you will find details on 100s of web hosting companies. Yesterday, one of our readers dropped me an email to know which is the best hosting among Bluehost, Justhost, and HostMonster.&lt;/p&gt;
 &lt;p&gt;The reader was confused because the plans and features offered by the companies are almost the same. I have shared a comparison of JH, HM, and BH in this article to help our readers in buying the best hosting plan for their site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Justhost vs Hostgator Comparison (March 2018)</title>
-      <link>https://www.carnaghan.com/justhost-vs-hostgator-comparison-march-2018/</link>
+      <link>http://localhost:1313/justhost-vs-hostgator-comparison-march-2018/</link>
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/justhost-vs-hostgator-comparison-march-2018/</guid>
+      <guid>http://localhost:1313/justhost-vs-hostgator-comparison-march-2018/</guid>
       <description>&lt;p&gt;Many people shortlist Hostgator and Justhost for their new WordPress blog or website. But they are unsure about the hosting company they should signup for. For such people, today we have shared a detailed comparison of Justhost and Hostgator.&lt;/p&gt;
 &lt;p&gt;Endurance International Group owns Hostgator as well Justhost. The two shared hosting providers might be owned by the same company, but the infrastructure and services offered by HG &amp;amp; JH are different. Check the below comparison to understand the difference between the features and services offered by the two organisations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bluehost vs GoDaddy hosting Comparison and Plans (2018)</title>
-      <link>https://www.carnaghan.com/bluehost-vs-godaddy-hosting-comparison-and-plans-2018/</link>
+      <link>http://localhost:1313/bluehost-vs-godaddy-hosting-comparison-and-plans-2018/</link>
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bluehost-vs-godaddy-hosting-comparison-and-plans-2018/</guid>
+      <guid>http://localhost:1313/bluehost-vs-godaddy-hosting-comparison-and-plans-2018/</guid>
       <description>&lt;p&gt;If you are planning to launch a new WordPress blog or a website, you may have shortlisted BlueHost and GoDaddy to host your site. Isn&amp;rsquo;t it? The reason why you may have chosen the two companies is their immense popularity.&lt;/p&gt;
 &lt;p&gt;GoDaddy uses TV channels as a promotion medium. BlueHost, being a decade old company is very popular among bloggers. Today, we have shared a detailed comparison of these two hosting providers so that it becomes easier for you to buy a hosting plan for your WordPress project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPage vs HostGator shared Hosting Comparison (March 2018)</title>
-      <link>https://www.carnaghan.com/ipage-vs-hostgator-shared-hosting-comparison-march-2018/</link>
+      <link>http://localhost:1313/ipage-vs-hostgator-shared-hosting-comparison-march-2018/</link>
       <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/ipage-vs-hostgator-shared-hosting-comparison-march-2018/</guid>
+      <guid>http://localhost:1313/ipage-vs-hostgator-shared-hosting-comparison-march-2018/</guid>
       <description>&lt;p&gt;iPage and Hostgator are two of the most popular shared website hosting companies. They have a customer base of over a million users. iPage is operational since 1998 whereas HostGator brand started flourishing from 2002 onward. Both companies are reliable. Thus, many users who want to launch a new website or change the host are often confused in choosing a shared hosting service between the two.&lt;/p&gt;
 &lt;p&gt;Today, we&amp;rsquo;ll try to clear the confusion for you by sharing a comparison of the pricing, performance, uptime, features and customer support offered by iPage and HostGator.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linode vs DigitalOcean : Best Cloud hosting platform is...</title>
-      <link>https://www.carnaghan.com/linode-vs-digitalocean-best-cloud-hosting-platform-is.../</link>
+      <link>http://localhost:1313/linode-vs-digitalocean-best-cloud-hosting-platform-is.../</link>
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/linode-vs-digitalocean-best-cloud-hosting-platform-is.../</guid>
+      <guid>http://localhost:1313/linode-vs-digitalocean-best-cloud-hosting-platform-is.../</guid>
       <description>&lt;p&gt;Linode and Digital Ocean cloud VPS providers offer KVM based servers for hosting a website and 40 GbE for high-speed networking. These two companies are growing at a very fast rate giving a cut throat competition to Hostgator, Bluehost, Vultr, and many other VPS providers.&lt;/p&gt;
 &lt;p&gt;Today, we have compared the features and services offered by Linode and Digital Ocean. In case you&amp;rsquo;re confused in choosing between DO &amp;amp; Linode, go through the paragraphs shared below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Ocean Review 2018 : Top Class Cheap VPS Hosting</title>
-      <link>https://www.carnaghan.com/digital-ocean-review-2018-top-class-cheap-vps-hosting/</link>
+      <link>http://localhost:1313/digital-ocean-review-2018-top-class-cheap-vps-hosting/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/digital-ocean-review-2018-top-class-cheap-vps-hosting/</guid>
+      <guid>http://localhost:1313/digital-ocean-review-2018-top-class-cheap-vps-hosting/</guid>
       <description>&lt;p&gt;Launched in 2011, Digital Ocean has become one of the most popular cloud VPS hosting services in the world. I recently came to know that Digital Ocean has set up a data center in the country from which my websites get the maximum traffic. I immediately moved my sites from Hostgator VPS to DigitalOcean. I&amp;rsquo;ve been using DO for 21 days now. Here&amp;rsquo;s my review of this unmanaged Linux VPS hosting service.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hostgator VPS review 2018 : Linux Hosting with great uptime</title>
-      <link>https://www.carnaghan.com/hostgator-vps-review-2018-linux-hosting-with-great-uptime/</link>
+      <link>http://localhost:1313/hostgator-vps-review-2018-linux-hosting-with-great-uptime/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/hostgator-vps-review-2018-linux-hosting-with-great-uptime/</guid>
+      <guid>http://localhost:1313/hostgator-vps-review-2018-linux-hosting-with-great-uptime/</guid>
       <description>&lt;p&gt;Shared hosting plans are suitable for beginners and people with no knowledge of PHP, MySQL and Web servers. In a shared hosting, the company offers PhpMyAdmin, CPanel, Awstats (Google Analytics Alternative) and many more tools to make website configuration or deployment easier for a webmaster.&lt;/p&gt;
 &lt;p&gt;Shared hosting comes with several limitations. Your site will be hosted with several other web portals, and it will have limited resource to use. Bandwidth usage will be a matter of concern. You are not allowed to experiment with PHP MySQL modules. Nor you can switch from Apache/Nginx to some other web server.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BigRock Hosting Review, Plans and Coupon code 2018</title>
-      <link>https://www.carnaghan.com/bigrock-hosting-review-plans-and-coupon-code-2018/</link>
+      <link>http://localhost:1313/bigrock-hosting-review-plans-and-coupon-code-2018/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bigrock-hosting-review-plans-and-coupon-code-2018/</guid>
+      <guid>http://localhost:1313/bigrock-hosting-review-plans-and-coupon-code-2018/</guid>
       <description>&lt;p&gt;BigRock is an India web hosting and domain name registration company owned by Directi, a company with excellent infrastructure and revenue more than 300 MN USD. It is one of the best hosting companies in India.&lt;/p&gt;
 &lt;p&gt;Bigrock is the first choice for people who have just begun their online careers by launching a website., thanks to the cheap web hosting plans. Around million users use it.&lt;/p&gt;
 &lt;p&gt;Bigrock is ideal for hosting websites that target Indian audiences and for registering domain names at a cheap rate. It offers customer support with highly talented staff members.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Siteground review 2016 :  powerful features and highly secure environment</title>
-      <link>https://www.carnaghan.com/siteground-review-2016-powerful-features-and-highly-secure-environment/</link>
+      <link>http://localhost:1313/siteground-review-2016-powerful-features-and-highly-secure-environment/</link>
       <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/siteground-review-2016-powerful-features-and-highly-secure-environment/</guid>
+      <guid>http://localhost:1313/siteground-review-2016-powerful-features-and-highly-secure-environment/</guid>
       <description>&lt;p&gt;Siteground hosting offers various plans that are suitable for deploying new or established websites. Like many other hosting platforms, SG claims to offer 99.9 percent uptime for your site. This is impressive because your blog will be hardly down. Thus your online earnings and revenue will not be impacted by unnecessary downtime.&lt;/p&gt;
 &lt;p&gt;Once my high traffic site was down for 3 hours when it was hosted on ASO, my Adsense earnings for the day were down by a few dollars. With SG, you will never experience such issues because the infrastructure of Siteground hosting company is good.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bluehost hosting review 2018: Should you use it or not?</title>
-      <link>https://www.carnaghan.com/bluehost-hosting-review-2018-should-you-use-it-or-not/</link>
+      <link>http://localhost:1313/bluehost-hosting-review-2018-should-you-use-it-or-not/</link>
       <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bluehost-hosting-review-2018-should-you-use-it-or-not/</guid>
+      <guid>http://localhost:1313/bluehost-hosting-review-2018-should-you-use-it-or-not/</guid>
       <description>&lt;p&gt;Many website hosting providers offer better features and more free add-ons but if budget is not a problem for you, choose a product on the basis of its quality, not quantity. Frankly speaking, the best hosting companies in the world are Hostgator and Bluehost.&lt;/p&gt;
 &lt;p&gt;Hostgator is a superb platform for hosting websites, but if your site has been banned for high resource utilization or some other reasons, you should consider signing up with Bluehost as it offers similar features.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HostGator Review 2018 : Powerful servers and great uptime</title>
-      <link>https://www.carnaghan.com/hostgator-review-2018-powerful-servers-and-great-uptime/</link>
+      <link>http://localhost:1313/hostgator-review-2018-powerful-servers-and-great-uptime/</link>
       <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/hostgator-review-2018-powerful-servers-and-great-uptime/</guid>
+      <guid>http://localhost:1313/hostgator-review-2018-powerful-servers-and-great-uptime/</guid>
       <description>&lt;p&gt;Yesterday, the 1st of April might have been the best day for you but it was an awful day for me. My top site, which generates a decent income was down for nearly 4 hours in the daytime. The site was not accessible to 100s of search engine users from 12:30 PM to 4:20 PM. The downtime was due to a network issue and misconfiguration by ASO staff.&lt;/p&gt;
 &lt;p&gt;The network issue started around 12:30 PM and it was resolved after 45 minutes. The staff moved the affected domains to a new IP address but the mapping was not correct. So from 1:00 PM onwards, the homepage of my blog was being redirected to some shi*t site. This resulted in 100s of 404 errors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A small Orange Review and coupon codes (2018)</title>
-      <link>https://www.carnaghan.com/a-small-orange-review-and-coupon-codes-2018/</link>
+      <link>http://localhost:1313/a-small-orange-review-and-coupon-codes-2018/</link>
       <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/a-small-orange-review-and-coupon-codes-2018/</guid>
+      <guid>http://localhost:1313/a-small-orange-review-and-coupon-codes-2018/</guid>
       <description>&lt;p&gt;This month, i decided to switch hosting from ******* to some other service. As there are many website hosting companies, i was confused to decide which one should I signup for. I was impressed with reviews on Hostgator, Inmotion, Bluehost and A2webhosting but I ended signing up for a small orange. ASO was suggested by some that folks have their blogs deployed on ASO servers. It has been a week since I moved my blog. I&amp;rsquo;m very satisfied with the performance of my new host. Here&amp;rsquo;s &lt;strong&gt;my review of a small orange hosting&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inside The Webb</title>
-      <link>https://www.carnaghan.com/inside-the-webb/</link>
+      <link>http://localhost:1313/inside-the-webb/</link>
       <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inside-the-webb/</guid>
+      <guid>http://localhost:1313/inside-the-webb/</guid>
       <description>&lt;p&gt;For the last few years I have been maintaining insidethewebb.com, however unfortunately I have not had the time to put into this site that I originally hoped when I first took it over and have decided to close the site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Inside The Webb Layout with Genesis</title>
-      <link>https://www.carnaghan.com/new-inside-the-webb-layout-with-genesis/</link>
+      <link>http://localhost:1313/new-inside-the-webb-layout-with-genesis/</link>
       <pubDate>Sun, 09 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/new-inside-the-webb-layout-with-genesis/</guid>
+      <guid>http://localhost:1313/new-inside-the-webb-layout-with-genesis/</guid>
       <description>&lt;p&gt;It has been a while since the last major update to Inside The Webb, so I am pleased to post that today I completed customization of the new site layout using Studiopress Genesis Wordpress theme framework.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inside the Webb v3.0 Launches Live!</title>
-      <link>https://www.carnaghan.com/inside-the-webb-v3.0-launches-live/</link>
+      <link>http://localhost:1313/inside-the-webb-v3.0-launches-live/</link>
       <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inside-the-webb-v3.0-launches-live/</guid>
+      <guid>http://localhost:1313/inside-the-webb-v3.0-launches-live/</guid>
       <description>&lt;p&gt;Version 3.0 of Inside the Webb has finally launched live. Since our last design update in December I&amp;rsquo;ve been busy at work contemplating how I could take Inside the Webb to the next level. Well it hit me about a week ago, and since then I&amp;rsquo;ve been tweaking the latest and greatest design launch!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Author Information and Photo now Displayed After each Post</title>
-      <link>https://www.carnaghan.com/author-information-and-photo-now-displayed-after-each-post/</link>
+      <link>http://localhost:1313/author-information-and-photo-now-displayed-after-each-post/</link>
       <pubDate>Tue, 23 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/author-information-and-photo-now-displayed-after-each-post/</guid>
+      <guid>http://localhost:1313/author-information-and-photo-now-displayed-after-each-post/</guid>
       <description>&lt;p&gt;Yep, I finally decided to add some of those updates I had planned on rolling out so long ago! I&amp;rsquo;ve been meaning to add author info to the posts on Inside the Webb for a while, just haven&amp;rsquo;t had time. Well I finally found some time, and I&amp;rsquo;m glad I did!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inside the Webb is back with a New Design</title>
-      <link>https://www.carnaghan.com/inside-the-webb-is-back-with-a-new-design/</link>
+      <link>http://localhost:1313/inside-the-webb-is-back-with-a-new-design/</link>
       <pubDate>Tue, 29 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inside-the-webb-is-back-with-a-new-design/</guid>
+      <guid>http://localhost:1313/inside-the-webb-is-back-with-a-new-design/</guid>
       <description>&lt;p&gt;So yes, there haven&amp;rsquo;t been many updates here at Inside the Webb in the past few months. However, we&amp;rsquo;re starting a whole new batch of great interviews, reviews, and demos of the latest and greatest web 2.0 apps across the internet! We&amp;rsquo;ve launched with a brand new design and look, and we&amp;rsquo;re back to claim all web 2.0.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Development of the Internet &amp; Service Providers</title>
-      <link>https://www.carnaghan.com/development-of-the-internet-service-providers/</link>
+      <link>http://localhost:1313/development-of-the-internet-service-providers/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/development-of-the-internet-service-providers/</guid>
+      <guid>http://localhost:1313/development-of-the-internet-service-providers/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The Internet was the result of some visionary people in the early 1960s who saw great potential value in allowing computers to share information on research and development in scientific and military fields.&lt;/p&gt;
 &lt;p&gt;Howe, W (1998) A Brief History of the Internet&lt;br&gt;
@@ -264,47 +264,47 @@
     </item>
     <item>
       <title>Evolution of ISPs Introduction</title>
-      <link>https://www.carnaghan.com/evolution-of-isps-introduction/</link>
+      <link>http://localhost:1313/evolution-of-isps-introduction/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/evolution-of-isps-introduction/</guid>
+      <guid>http://localhost:1313/evolution-of-isps-introduction/</guid>
       <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
 &lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ISPs Currently in Today’s Changing Market</title>
-      <link>https://www.carnaghan.com/isps-currently-in-todays-changing-market/</link>
+      <link>http://localhost:1313/isps-currently-in-todays-changing-market/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/isps-currently-in-todays-changing-market/</guid>
+      <guid>http://localhost:1313/isps-currently-in-todays-changing-market/</guid>
       <description>&lt;p&gt;As mentioned within the last chapter, Internet Service Providers have been forced and are currently being driven away from the traditional subscription access only service. Nowadays, many ISPs have started to offer free access to the Internet in order to drive customers to their services. The first of this kind of service within the United Kingdom was Freeserve. They originally had the backing of the Currys group to market their free Tier 3 ISP to the general public, which proved to be extremely successful. After the launch of Freeserve, many other Internet Service Providers began to offer free access through a dial-up service in order to compete within the market.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ITS Internet Case Study</title>
-      <link>https://www.carnaghan.com/its-internet-case-study/</link>
+      <link>http://localhost:1313/its-internet-case-study/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/its-internet-case-study/</guid>
+      <guid>http://localhost:1313/its-internet-case-study/</guid>
       <description>&lt;p&gt;It has been surprising to see the amount of small Internet based companies that have ‘made it big’ within a very short period of time. Perhaps it has been the pure innovation of releasing a particular service on-line or offering goods that no one else had yet thought of. Perhaps it has just been a case of the company getting in before others had giving them the edge that would continue for many years to come.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Security Issues to be Addressed by ISPs</title>
-      <link>https://www.carnaghan.com/security-issues-to-be-addressed-by-isps/</link>
+      <link>http://localhost:1313/security-issues-to-be-addressed-by-isps/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/security-issues-to-be-addressed-by-isps/</guid>
+      <guid>http://localhost:1313/security-issues-to-be-addressed-by-isps/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The Internet has become a vast marketplace for global goods and services. For e-commerce to prosper, you have to feel safe about transmitting credit card and other financial information over the Internet. Because information traveling over the network actually passes through many computers along the way, the opportunity exists for someone to steal confidential information. Hackers also break into computers to steal data. No one really knows how often this actually happens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Evolution of Internet Service Providers</title>
-      <link>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</link>
+      <link>http://localhost:1313/the-evolution-of-internet-service-providers/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</guid>
+      <guid>http://localhost:1313/the-evolution-of-internet-service-providers/</guid>
       <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
 &lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of ISPs</title>
-      <link>https://www.carnaghan.com/the-future-of-isps/</link>
+      <link>http://localhost:1313/the-future-of-isps/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-future-of-isps/</guid>
+      <guid>http://localhost:1313/the-future-of-isps/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Internet Service Providers (ISP) frequently have to face the question as to how they can protect their existing business and, at the same time, remain profitable in the future. For, on the one hand, the strong concentration process drastically shrinks the margins of pure access providing. New competitors, for example the major telecommunications companies, are flooding the market with ever cheaper offers. Prices continue to fall. And customers, who are becoming more and more &amp;ldquo;literate&amp;rdquo;, are now designing their own HTML pages. To quote a study issued by the European Union (EG DGXIII.A3) ISPs will not survive in the long term if they do not provide add-on services such as consulting or electronic publishing.&lt;/p&gt;</description>
     </item>

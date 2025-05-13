@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ssd on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/ssd/</link>
+    <link>http://localhost:1313/tags/ssd/</link>
     <description>Recent content in Ssd on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InMotion hosting review 2016 : Superb plans and SSD powered servers</title>
-      <link>https://www.carnaghan.com/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</link>
+      <link>http://localhost:1313/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</guid>
+      <guid>http://localhost:1313/inmotion-hosting-review-2016-superb-plans-and-ssd-powered-servers/</guid>
       <description>&lt;p&gt;InMotion is one of the top-rated hosting providers in the world. It is an independent company and not a subsidiary of EIG. IM has cheap and feature packed web hosting plans suitable for all types of users.&lt;/p&gt;
 &lt;p&gt;InMotion supports over 399 web applications and uses the high-speed SSDs aka sold state drives in their servers. It has excellent ratings on various review websites. Genuine users like you have published their honest reviews.&lt;/p&gt;</description>
     </item>

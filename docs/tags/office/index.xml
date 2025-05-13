@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Office on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/office/</link>
+    <link>http://localhost:1313/tags/office/</link>
     <description>Recent content in Office on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/office/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/office/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft Office 2010 Outlook has some New Digs</title>
-      <link>https://www.carnaghan.com/microsoft-office-2010-outlook-has-some-new-digs/</link>
+      <link>http://localhost:1313/microsoft-office-2010-outlook-has-some-new-digs/</link>
       <pubDate>Sun, 18 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/microsoft-office-2010-outlook-has-some-new-digs/</guid>
+      <guid>http://localhost:1313/microsoft-office-2010-outlook-has-some-new-digs/</guid>
       <description>&lt;p&gt;With Microsoft&amp;rsquo;s official release of Office 2010 being pushed out of Beta, I&amp;rsquo;m excited to see where they plan on going next. I&amp;rsquo;ve been running 2010 beta since they released them for download months ago, and I&amp;rsquo;ve been more than pleased with all of it! The biggest noticeable change is with Outlook, my favorite e-mail client.&lt;/p&gt;</description>
     </item>
   </channel>

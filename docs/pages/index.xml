@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitesize JavaScript</title>
-      <link>https://www.carnaghan.com/bitesize-javascript/</link>
+      <link>http://localhost:1313/bitesize-javascript/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bitesize-javascript/</guid>
+      <guid>http://localhost:1313/bitesize-javascript/</guid>
       <description>&lt;p&gt;Bitesize JavaScript is a series of short lessons covering fundamental coding concepts. The goal is to quickly introduce you to the language and provide you with enough information to begin exploring the concepts in more depth. Each lesson is designed take a short amount of time to digest new topics and then apply them through example.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-data-types-values-and-variables&#34;&gt;JavaScript Data Types, Values, and Variables&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-operators&#34;&gt;JavaScript Operators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-conditional-statements&#34;&gt;JavaScript Conditional Statements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-loops&#34;&gt;JavaScript Loops&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-functions&#34;&gt;JavaScript Functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-call-stack&#34;&gt;JavaScript Call Stack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-scope&#34;&gt;JavaScript Scope&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-fundamentals&#34;&gt;JavaScript Arrays – Fundamentals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-properties-and-methods&#34;&gt;JavaScript Arrays – Properties and Methods&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-objects&#34;&gt;JavaScript Objects&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom&#34;&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-data-types-values-and-variables&#34;&gt;JavaScript Data Types, Values, and Variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-operators&#34;&gt;JavaScript Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-conditional-statements&#34;&gt;JavaScript Conditional Statements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-loops&#34;&gt;JavaScript Loops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-functions&#34;&gt;JavaScript Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-call-stack&#34;&gt;JavaScript Call Stack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-scope&#34;&gt;JavaScript Scope&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-arrays-fundamentals&#34;&gt;JavaScript Arrays – Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-arrays-properties-and-methods&#34;&gt;JavaScript Arrays – Properties and Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-objects&#34;&gt;JavaScript Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/javascript-manipulating-the-document-object-model-dom&#34;&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
     <item>
       <title>Contact Me</title>
-      <link>https://www.carnaghan.com/contact-me/</link>
+      <link>http://localhost:1313/contact-me/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/contact-me/</guid>
+      <guid>http://localhost:1313/contact-me/</guid>
       <description>&lt;p&gt;If you need to contact me directly, please send a message to my first name at my last name dot com. I am not currently looking to promote guest posts or collaborate on link exchanges. I am also not looking to monetize my blog in any way at the current time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cookie Policy</title>
-      <link>https://www.carnaghan.com/cookie-policy/</link>
+      <link>http://localhost:1313/cookie-policy/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/cookie-policy/</guid>
+      <guid>http://localhost:1313/cookie-policy/</guid>
       <description>&lt;p&gt;This site uses cookies - small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at the About Cookies website which offers guidance for all modern browsers&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://www.carnaghan.com/privacy-policy/</link>
+      <link>http://localhost:1313/privacy-policy/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/privacy-policy/</guid>
+      <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;
 &lt;p&gt;Our website address is: &lt;a href=&#34;http://www.carnaghan.com&#34;&gt;http://www.carnaghan.com&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;what-personal-data-we-collect-and-why-we-collect-it&#34;&gt;What personal data we collect and why we collect it&lt;/h2&gt;
@@ -61,31 +61,31 @@
     </item>
     <item>
       <title>Home</title>
-      <link>https://www.carnaghan.com/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       <description>&lt;h1 id=&#34;this-is-the-home-page-content&#34;&gt;This is the home page content&lt;/h1&gt;
 &lt;p&gt;You can choose from several different content types to display here. This example shows the home page content displayed in this area. Whatever you put in the home page editor will automatically appear here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curriculum Start</title>
-      <link>https://www.carnaghan.com/curriculum-start/</link>
+      <link>http://localhost:1313/curriculum-start/</link>
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/curriculum-start/</guid>
+      <guid>http://localhost:1313/curriculum-start/</guid>
       <description>&lt;p&gt;Placeholder for CurriculumStart.com&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://www.carnaghan.com/about-me/</link>
+      <link>http://localhost:1313/about-me/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/about-me/</guid>
+      <guid>http://localhost:1313/about-me/</guid>
       <description>&lt;p&gt;Welcome to my website. The carnaghan.com domain started its life in 1999 when I initially registered it in the hope of learning how to build my own web page. Back then I was really just beginning my journey of learning how to design, code and build sites. For many years this site was left dormant. Over the years I published some freelance work but it wasn&amp;rsquo;t until 2011 I started actively using it as a blog and began writing articles every once in a while. I also managed a different blog for a while called insidethewebb.com, but in the end I found I didn&amp;rsquo;t have the time for two sites so I merged the content here. Some of the earlier articles from insidethewebb were written by other authors. Today I use this as a space primarily for writing about current topics and concepts I am interested in within web development in general. I recently completed my doctorate and some of my more recent research activities have also been archived here. Hopefully some of what I write will be useful for others in my field, please feel free to leave comments on any posts you may find of interest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Classes I Teach</title>
-      <link>https://www.carnaghan.com/classes-i-teach/</link>
+      <link>http://localhost:1313/classes-i-teach/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/classes-i-teach/</guid>
+      <guid>http://localhost:1313/classes-i-teach/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been teaching at the University of Maryland University College for just over a decade. Below are the classes I am currently teaching or will be teaching in the upcoming semester. For more details on these classes including schedule and syllabus see UMUC Schedule of Classes.&lt;/p&gt;
 &lt;h2 id=&#34;current-20202021-school-year&#34;&gt;Current 2020/2021 School Year&lt;/h2&gt;
 &lt;p&gt;CMST 388 Fundamentals of JavaScript | 3 Credits&lt;/p&gt;
@@ -93,9 +93,9 @@
     </item>
     <item>
       <title>Publications and Papers</title>
-      <link>https://www.carnaghan.com/publications-and-papers/</link>
+      <link>http://localhost:1313/publications-and-papers/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/publications-and-papers/</guid>
+      <guid>http://localhost:1313/publications-and-papers/</guid>
       <description>&lt;p&gt;See &lt;strong&gt;Academic Papers&lt;/strong&gt; for a list of articles I have published on this blog through my graduate programs. Below, I have included my completed doctoral dissertation for anyone to enjoy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;An Expeditionary Learning Approach to Effective Curriculum Mapping Formalizing the Process by Exploring a User-Centered Framework&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Monarch Academy is an Expeditionary Learning (EL) institution, which utilizes a non-traditional educational model that combines all subjects into semester-long projects known as expeditions. In order to properly track the progress of students and to ensure the school is meeting its educational goals, including alignment with Common Core, a process called curriculum mapping has been implemented informally; however, the process has not been centralized nor is it easily accessible by staff and administrators. Commercial curriculum mapping software was researched by administrators, but none met the unique requirements of EL. This study explores and defines a curriculum mapping solution that meets Monarch Academy&amp;rsquo;s needs by providing a centralized, accessible, manageable, and user-centered framework.&lt;/p&gt;</description>

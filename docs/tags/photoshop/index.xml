@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photoshop on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/photoshop/</link>
+    <link>http://localhost:1313/tags/photoshop/</link>
     <description>Recent content in Photoshop on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CrazyLeaf Design Blog - Inspiration and Resources for Web Designers</title>
-      <link>https://www.carnaghan.com/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</link>
+      <link>http://localhost:1313/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</link>
       <pubDate>Mon, 05 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</guid>
+      <guid>http://localhost:1313/crazyleaf-design-blog-inspiration-and-resources-for-web-designers/</guid>
       <description>&lt;p&gt;Web designers can spend hours looking for inspiration. We&amp;rsquo;ve all been there, up at 1 in the morning trying to work out a project you&amp;rsquo;ve got lined up but nothing seems to be hitting you. Whenever I&amp;rsquo;m at a design roadblock I usually turn to typical web design blogs to get the juices flowing again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Inside Colorburned with Designer Grant Friedman</title>
-      <link>https://www.carnaghan.com/getting-inside-colorburned-with-designer-grant-friedman/</link>
+      <link>http://localhost:1313/getting-inside-colorburned-with-designer-grant-friedman/</link>
       <pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/getting-inside-colorburned-with-designer-grant-friedman/</guid>
+      <guid>http://localhost:1313/getting-inside-colorburned-with-designer-grant-friedman/</guid>
       <description>&lt;p&gt;Having a large collection of design blogs leaves your options open to so much. You can find original content very quickly, learn a lot more through tutorials and freebies, and also get to know a lot of people in the design community. Colorburned is another very popular and well-respected graphic design blog which features some of the best design news, resources, and tutorials from around the web. This can include free textures, patterns, Photoshop brushes, tutorials, and a whole lot more.&lt;/p&gt;</description>
     </item>
   </channel>

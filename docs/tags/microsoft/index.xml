@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Microsoft on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/microsoft/</link>
+    <link>http://localhost:1313/tags/microsoft/</link>
     <description>Recent content in Microsoft on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 10 Best VScode Extensions</title>
-      <link>https://www.carnaghan.com/top-10-best-vscode-extensions/</link>
+      <link>http://localhost:1313/top-10-best-vscode-extensions/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-10-best-vscode-extensions/</guid>
+      <guid>http://localhost:1313/top-10-best-vscode-extensions/</guid>
       <description>&lt;p&gt;Because of erroneous PHP and Java extensions, I&amp;rsquo;ve switched from Atom to Microsoft&amp;rsquo;s VSCode aka Visual Code Editor for writing applications.&lt;/p&gt;
 &lt;p&gt;VSCode is a powerful editor. With the help of some extensions, you can use VSCode as a replacement for RAM hogging Integrated Development Environments.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve just installed VScode and you&amp;rsquo;re searching for extensions that will improve your productivity, you&amp;rsquo;re at the right place. Below, I&amp;rsquo;ve shared the list of best Visual Code extensions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Office 2010 Outlook has some New Digs</title>
-      <link>https://www.carnaghan.com/microsoft-office-2010-outlook-has-some-new-digs/</link>
+      <link>http://localhost:1313/microsoft-office-2010-outlook-has-some-new-digs/</link>
       <pubDate>Sun, 18 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/microsoft-office-2010-outlook-has-some-new-digs/</guid>
+      <guid>http://localhost:1313/microsoft-office-2010-outlook-has-some-new-digs/</guid>
       <description>&lt;p&gt;With Microsoft&amp;rsquo;s official release of Office 2010 being pushed out of Beta, I&amp;rsquo;m excited to see where they plan on going next. I&amp;rsquo;ve been running 2010 beta since they released them for download months ago, and I&amp;rsquo;ve been more than pleased with all of it! The biggest noticeable change is with Outlook, my favorite e-mail client.&lt;/p&gt;</description>
     </item>
   </channel>

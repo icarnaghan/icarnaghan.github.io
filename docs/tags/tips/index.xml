@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/tips/</link>
+    <link>http://localhost:1313/tags/tips/</link>
     <description>Recent content in Tips on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 8 Best Business Listing Sites (2018)</title>
-      <link>https://www.carnaghan.com/top-8-best-business-listing-sites-2018/</link>
+      <link>http://localhost:1313/top-8-best-business-listing-sites-2018/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-8-best-business-listing-sites-2018/</guid>
+      <guid>http://localhost:1313/top-8-best-business-listing-sites-2018/</guid>
       <description>&lt;p&gt;The number of internet users has grown from 100 to 3+ billion. Although a lot of firms have benefited from the internet revolution, many businesses have become bankrupt. eCommerce platforms have destroyed the business of 1000s of brick and mortar stores. The only way to survive the wrath of these sites is to make people aware of your shop/service and the products you sell.&lt;/p&gt;
 &lt;p&gt;Listing a business online is the best way to promote it. Although there are 100s of sites where you can list your office, shop, or service, not all sites are trustworthy or complete. Businesses won&amp;rsquo;t benefit from such sites. Hence, they should not be listed on it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GoDaddy review: A web hosting and domain registration company</title>
-      <link>https://www.carnaghan.com/godaddy-review-a-web-hosting-and-domain-registration-company/</link>
+      <link>http://localhost:1313/godaddy-review-a-web-hosting-and-domain-registration-company/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/godaddy-review-a-web-hosting-and-domain-registration-company/</guid>
+      <guid>http://localhost:1313/godaddy-review-a-web-hosting-and-domain-registration-company/</guid>
       <description>&lt;p&gt;Godaddy is one of the top domain registrars and hosting companies of the world. It has over 500K customers. I&amp;rsquo;m one of the customers of Godaddy. I&amp;rsquo;ve been using its email hosting and domain registration service for 5 years. Here&amp;rsquo;s my review of the company.&lt;/p&gt;
 &lt;h3 id=&#34;list-of-godaddy-services-that-i-use&#34;&gt;List of GoDaddy services that I use&lt;/h3&gt;
 &lt;ul&gt;
@@ -37,24 +37,24 @@
     </item>
     <item>
       <title>Things you should do after Installing WordPress</title>
-      <link>https://www.carnaghan.com/things-you-should-do-after-installing-wordpress/</link>
+      <link>http://localhost:1313/things-you-should-do-after-installing-wordpress/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/things-you-should-do-after-installing-wordpress/</guid>
+      <guid>http://localhost:1313/things-you-should-do-after-installing-wordpress/</guid>
       <description>&lt;p&gt;WordPress is the most powerful content management system. According to analytics tools, WP powers 30% of websites running on the internet. WP is a popular and user-friendly CMS. It is written in PHP and uses MySQL to save data. Unlike scripting languages such as JAVA EE, ASP, PHP is easy to learn.&lt;/p&gt;
 &lt;p&gt;Shared hosting companies offer a 1-click WP installer tool. If you use this tool, you can launch a new website within few minutes. Configuring DNS server and the web server isn&amp;rsquo;t enough. To make sure that your new website is found by search engines and internet users, you must do the below things:&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to exclude pages or posts from sitemap in WordPress?</title>
-      <link>https://www.carnaghan.com/how-to-exclude-pages-or-posts-from-sitemap-in-wordpress/</link>
+      <link>http://localhost:1313/how-to-exclude-pages-or-posts-from-sitemap-in-wordpress/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-exclude-pages-or-posts-from-sitemap-in-wordpress/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;wordpress logo&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/how-to-exclude-pages-or-posts-from-sitemap-in-wordpress/images/wordpress-logo.jpg&#34;&gt;A blogger or webmaster may add the robots meta noindex or nofollow tag to irrelevant or thin pages or posts. When you add the attribute to pages, search engines will remove the pages from their index. If you don&amp;rsquo;t remove the no-indexed posts from the sitemap, search engines might crawl the posts even though they&amp;rsquo;re not relevant to your site. If you want Googlebot or Bingbot to crawl only the important pages on your site, follow the below two steps.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/how-to-exclude-pages-or-posts-from-sitemap-in-wordpress/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;wordpress logo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/how-to-exclude-pages-or-posts-from-sitemap-in-wordpress/images/wordpress-logo.jpg&#34;&gt;A blogger or webmaster may add the robots meta noindex or nofollow tag to irrelevant or thin pages or posts. When you add the attribute to pages, search engines will remove the pages from their index. If you don&amp;rsquo;t remove the no-indexed posts from the sitemap, search engines might crawl the posts even though they&amp;rsquo;re not relevant to your site. If you want Googlebot or Bingbot to crawl only the important pages on your site, follow the below two steps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google AMP pros and cons: Should you implement AMP on your website?</title>
-      <link>https://www.carnaghan.com/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</link>
+      <link>http://localhost:1313/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</guid>
+      <guid>http://localhost:1313/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</guid>
       <description>&lt;p&gt;After Googleweblight, AMP aka Accelerated Mobile Pages is the new initiative from the search engine giant Google to make the web fast. As of today, over 900K sites are powered by AMP.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve used AMP on my site for a month. Below, I&amp;rsquo;ve shared the Pros and Cons of Google AMP.&lt;/p&gt;
 &lt;h2 id=&#34;pros-of-google-amp-advantages&#34;&gt;Pros of Google AMP (Advantages)&lt;/h2&gt;
@@ -63,34 +63,34 @@
     </item>
     <item>
       <title>How to increase traffic to blog for free?</title>
-      <link>https://www.carnaghan.com/how-to-increase-traffic-to-blog-for-free/</link>
+      <link>http://localhost:1313/how-to-increase-traffic-to-blog-for-free/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-increase-traffic-to-blog-for-free/</guid>
+      <guid>http://localhost:1313/how-to-increase-traffic-to-blog-for-free/</guid>
       <description>&lt;p&gt;Starting a new blog is easy but making it popular is difficult. People find blogging as one of the easiest ways to make money online. Well, making money through a blog is not a piece of cake. Only websites getting decent traffic generate revenue for their owners.&lt;/p&gt;
 &lt;p&gt;A successful blogger is one who earns enough money only to feed his family and pay internet and web hosting bills. Frankly speaking, the website&amp;rsquo;s fate depends on the traffic. If a site is getting traffic, it will make money for the owner. If it hardly gets visitors, it is of no use to the owner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 5 Best CDN 2018: Fastest content delivery networks</title>
-      <link>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
+      <link>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
+      <guid>http://localhost:1313/top-5-best-cdn-2018-fastest-content-delivery-networks/</guid>
       <description>&lt;p&gt;CDN aka content delivery networks improves the performance of your site. They reduce the latency by serving JavaScript and CSS files from the location closest to the visitor.&lt;/p&gt;
 &lt;p&gt;A CDN provider may have several data centers spread across the world. When you signup for the CDN service, the service will cache static resources of your site on a server nearby the location you specify. You&amp;rsquo;ll have to install a CDN plugin so as to change the website resource URL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 7 Best WordPress SEO plugins (2018)</title>
-      <link>https://www.carnaghan.com/top-7-best-wordpress-seo-plugins-2018/</link>
+      <link>http://localhost:1313/top-7-best-wordpress-seo-plugins-2018/</link>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-7-best-wordpress-seo-plugins-2018/</guid>
+      <guid>http://localhost:1313/top-7-best-wordpress-seo-plugins-2018/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re running a website, you must optimize it for search engines to succeed as a blogger, business owner etc.&lt;/p&gt;
 &lt;p&gt;Programmers can have nightmares while making their site or client&amp;rsquo;s website SEO friendly. If you&amp;rsquo;re using a content management system, this task is a piece of cake, thanks to the best SEO plugins.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re new to WordPress CMS or if you&amp;rsquo;re site is not performing well in search engines, you should use the following WordPress SEO plugins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blogging vs YouTube (Vlogging): Which is better?</title>
-      <link>https://www.carnaghan.com/blogging-vs-youtube-vlogging-which-is-better/</link>
+      <link>http://localhost:1313/blogging-vs-youtube-vlogging-which-is-better/</link>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/blogging-vs-youtube-vlogging-which-is-better/</guid>
+      <guid>http://localhost:1313/blogging-vs-youtube-vlogging-which-is-better/</guid>
       <description>&lt;p&gt;Blogging and Vlogging are two sides of the same coin. Many people employ these two methods to earn money online.&lt;/p&gt;
 &lt;p&gt;In blogging, you start a new website and publish reviews and details of your favorite products, tips, etc.&lt;/p&gt;
 &lt;p&gt;In Vlogging, you ask someone to record your video or if you&amp;rsquo;re publishing a video tutorial, you use a screen recorder tool to capture the desktop.&lt;/p&gt;
@@ -98,57 +98,57 @@
     </item>
     <item>
       <title>How to move or renew LetsEncrypt SSL certificate manually?</title>
-      <link>https://www.carnaghan.com/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</link>
+      <link>http://localhost:1313/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</guid>
+      <guid>http://localhost:1313/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</guid>
       <description>&lt;p&gt;As mentioned in my earlier blog post, I am using LetsEncrypt free SSL certificate on one of my sites. The certificate was due to expire in few weeks. The CertBot dispatched an alert message for the same on my official email address.&lt;/p&gt;
 &lt;p&gt;As I&amp;rsquo;m using SSL for the first time and having several doubts in mind, I decided to renew LetsEncrypt certificate immediately. I fired the following command in the Linux terminal (10 days prior the certificate&amp;rsquo;s expiry date) and restarted Nginx.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is the best WordPress permalink structure for SEO?</title>
-      <link>https://www.carnaghan.com/what-is-the-best-wordpress-permalink-structure-for-seo/</link>
+      <link>http://localhost:1313/what-is-the-best-wordpress-permalink-structure-for-seo/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/what-is-the-best-wordpress-permalink-structure-for-seo/</guid>
+      <guid>http://localhost:1313/what-is-the-best-wordpress-permalink-structure-for-seo/</guid>
       <description>&lt;p&gt;WordPress saves the permalink of the page/post in a database table. It doesn&amp;rsquo;t generate them on the fly. Hence, you can change the structure of the post/page URL anytime.&lt;/p&gt;
 &lt;p&gt;You should avoid changing permalinks often because it complicates your site. When you change the URL structure, you&amp;rsquo;ll have to redirect the old URL to the newer URL with a proper HTTP status code. If you don&amp;rsquo;t implement the redirect correctly, your site&amp;rsquo;s traffic from search engines will decline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to show or hide widget in WordPress pages or posts?</title>
-      <link>https://www.carnaghan.com/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</link>
+      <link>http://localhost:1313/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</guid>
+      <guid>http://localhost:1313/how-to-show-or-hide-widget-in-wordpress-pages-or-posts/</guid>
       <description>&lt;p&gt;Sometimes, you may want to display widgets only on certain pages of a site. If you&amp;rsquo;ve knowledge of PHP, you can show/hide widgets with just 2 lines of codes. The 1st line will have the PHP if else condition to detect the current page or term. If the condition you&amp;rsquo;ve specified in the if statement is true, then the code inside the if block must be executed.&lt;/p&gt;
 &lt;p&gt;The block must have the shortcode or code to display the required widget. It is the 2nd line of our code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Site deindexed by Google: Possible reasons why your website is removed</title>
-      <link>https://www.carnaghan.com/site-deindexed-by-google-possible-reasons-why-your-website-is-removed/</link>
+      <link>http://localhost:1313/site-deindexed-by-google-possible-reasons-why-your-website-is-removed/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/site-deindexed-by-google-possible-reasons-why-your-website-is-removed/</guid>
+      <guid>http://localhost:1313/site-deindexed-by-google-possible-reasons-why-your-website-is-removed/</guid>
       <description>&lt;p&gt;Site deindexed from Google is the worst nightmare for any blogger or business owner. When Google removes your site from its index, your AdSense earnings are down by 70 to 90%.&lt;/p&gt;
 &lt;p&gt;If traffic from social networks to your site is high, you can recover the earnings by becoming an affiliate marketer. If your site doesn&amp;rsquo;t get good traffic from Facebook, Twitter or any other social site, your website will be of no use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HTTP to HTTPS migration: Important thing you should know</title>
-      <link>https://www.carnaghan.com/http-to-https-migration-important-thing-you-should-know/</link>
+      <link>http://localhost:1313/http-to-https-migration-important-thing-you-should-know/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/http-to-https-migration-important-thing-you-should-know/</guid>
+      <guid>http://localhost:1313/http-to-https-migration-important-thing-you-should-know/</guid>
       <description>&lt;p&gt;According to Google, HTTPS is a ranking signal. If you make your website secure by configuring the web server to deliver HTTPS pages, your site may rank higher than an HTTP only portal.&lt;/p&gt;
 &lt;p&gt;More importantly, web browsers have begun to warn their users of non-secure web pages. The Google Chrome browser (version 56) marks non-https website pages as insecure when they have an HTML field for entering passwords, credit or debit card details, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to set preferred domain correctly in Google Search Console</title>
-      <link>https://www.carnaghan.com/how-to-set-preferred-domain-correctly-in-google-search-console/</link>
+      <link>http://localhost:1313/how-to-set-preferred-domain-correctly-in-google-search-console/</link>
       <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-set-preferred-domain-correctly-in-google-search-console/</guid>
+      <guid>http://localhost:1313/how-to-set-preferred-domain-correctly-in-google-search-console/</guid>
       <description>&lt;p&gt;Setting a preferred domain is one of the most important things to do after launching a new site. It takes few seconds to set a PD. Before setting a preferred domain, you should make sure that Google indexes only the URLS which you want to appear in search results. To do so, you must set up a 301 redirect.&lt;/p&gt;
 &lt;p&gt;A 301 redirect will prevent duplicate content issues. It will tell search engines that they should index the correct web pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search traffic dropped after switching to HTTPS? Try these solutions</title>
-      <link>https://www.carnaghan.com/search-traffic-dropped-after-switching-to-https-try-these-solutions/</link>
+      <link>http://localhost:1313/search-traffic-dropped-after-switching-to-https-try-these-solutions/</link>
       <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/search-traffic-dropped-after-switching-to-https-try-these-solutions/</guid>
+      <guid>http://localhost:1313/search-traffic-dropped-after-switching-to-https-try-these-solutions/</guid>
       <description>&lt;p&gt;HTTPS protocol makes your website secure. Google had declared HTTPS as a ranking signal last year which means that secure sites can have higher organic visibility than nonsecure websites.&lt;/p&gt;
 &lt;p&gt;If your site is selling products online, you&amp;rsquo;ll see a boost in conversion because the browsers will mark your website as safe.&lt;/p&gt;
 &lt;p&gt;Before you go ahead and enable HTTPS on your website, you must learn the Google Content Guidelines.&lt;/p&gt;
@@ -156,50 +156,50 @@
     </item>
     <item>
       <title>The best way to deal with content scrapers</title>
-      <link>https://www.carnaghan.com/the-best-way-to-deal-with-content-scrapers/</link>
+      <link>http://localhost:1313/the-best-way-to-deal-with-content-scrapers/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-best-way-to-deal-with-content-scrapers/</guid>
+      <guid>http://localhost:1313/the-best-way-to-deal-with-content-scrapers/</guid>
       <description>&lt;p&gt;As we&amp;rsquo;ve mentioned in one of our blog posts, duplicate content is not good for the site&amp;rsquo;s health. When Google refreshes the Panda Algorithm, the search traffic of sites with duplicate content are affected the most.&lt;/p&gt;
 &lt;p&gt;Webmasters with experience of creating search engine friendly sites by following the Google Webmaster Guidelines take care of content issues caused by the content management system. But they can&amp;rsquo;t identify scrapped content unless their site&amp;rsquo;s search engine traffic is impacted by a Google Algorithm Update.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress widgets for your blog (2018)</title>
-      <link>https://www.carnaghan.com/best-wordpress-widgets-for-your-blog-2018/</link>
+      <link>http://localhost:1313/best-wordpress-widgets-for-your-blog-2018/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-widgets-for-your-blog-2018/</guid>
+      <guid>http://localhost:1313/best-wordpress-widgets-for-your-blog-2018/</guid>
       <description>&lt;p&gt;Widgets are one of the most impressive and powerful features of the WordPress content management system. They make your website look attractive and user-friendly.&lt;/p&gt;
 &lt;p&gt;Once you install WordPress, the CMS will add up to 10 different widgets to your blog or website. These widgets have limited functionality. Furthermore, they&amp;rsquo;re not customizable.&lt;/p&gt;
 &lt;p&gt;Free themes may not add new widgets to your WP site. To add a new widget, you&amp;rsquo;ll have to install a new WP plugin. As a blogger, you should know that too many plugins may slow down your website. If the plugin is badly programmed, it will lead to high server resource consumption.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best cheap WordPress hosting with great reviews (2018)</title>
-      <link>https://www.carnaghan.com/best-cheap-wordpress-hosting-with-great-reviews-2018/</link>
+      <link>http://localhost:1313/best-cheap-wordpress-hosting-with-great-reviews-2018/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-cheap-wordpress-hosting-with-great-reviews-2018/</guid>
+      <guid>http://localhost:1313/best-cheap-wordpress-hosting-with-great-reviews-2018/</guid>
       <description>&lt;p&gt;WordPress is the best blogging software and free content management system. It performs well on a powerful server. If the server has a poor configuration, WordPress may not provide the best experience.&lt;/p&gt;
 &lt;p&gt;Websites hosted on an underpowered server suffers from heavy downtimes. The website takes ages to open on the visitor&amp;rsquo;s browser. This results in poor user experience. As the first impression is the best impression, visitors may not visit your site in the future. Search engines fuelled by Artifical Intelligence can distinguish between a user-friendly and a user-hostile website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advantages and Disadvantages of Blogging</title>
-      <link>https://www.carnaghan.com/advantages-and-disadvantages-of-blogging/</link>
+      <link>http://localhost:1313/advantages-and-disadvantages-of-blogging/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/advantages-and-disadvantages-of-blogging/</guid>
+      <guid>http://localhost:1313/advantages-and-disadvantages-of-blogging/</guid>
       <description>&lt;p&gt;You may have recently learned that blogging is one of the best ways to earn money online. Hence, you might be planning to quit your regular job and pursue a career in blogging or you have just completed your education and want to become a full-time blogger.&lt;/p&gt;
 &lt;p&gt;Blogging is no doubt a great career option. If you become a successful blogger, you&amp;rsquo;ll make more money than a manager, team leader, chartered accountants, doctors, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The right way to update a WordPress theme or plugin</title>
-      <link>https://www.carnaghan.com/the-right-way-to-update-a-wordpress-theme-or-plugin/</link>
+      <link>http://localhost:1313/the-right-way-to-update-a-wordpress-theme-or-plugin/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-right-way-to-update-a-wordpress-theme-or-plugin/</guid>
+      <guid>http://localhost:1313/the-right-way-to-update-a-wordpress-theme-or-plugin/</guid>
       <description>&lt;p&gt;Themes and plugins are the most important parts of a WordPress website. If the code of the theme is not SEO friendly, your site will not perform well in search engines. Likewise, if the plugin has an erroneous code, it can lead to poor user experience.&lt;/p&gt;
 &lt;p&gt;In worst cases, the problematic theme or plugin may cause high server resource utilization. The search bots will begin to ignore your site. If you don&amp;rsquo;t fix the problem ASAP, the site&amp;rsquo;s rankings will tank.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to find and fix thin Content that leads to Google Panda penalty?</title>
-      <link>https://www.carnaghan.com/how-to-find-and-fix-thin-content-that-leads-to-google-panda-penalty/</link>
+      <link>http://localhost:1313/how-to-find-and-fix-thin-content-that-leads-to-google-panda-penalty/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-find-and-fix-thin-content-that-leads-to-google-panda-penalty/</guid>
+      <guid>http://localhost:1313/how-to-find-and-fix-thin-content-that-leads-to-google-panda-penalty/</guid>
       <description>&lt;p&gt;If your website is not performing well in the search engines, it is either hit by Google Penguin algorithm or has loads of thin content.&lt;/p&gt;
 &lt;p&gt;If you have built backlinks manually or used a software to do so, it is likely that your website is affected by the real-time Penguin update.&lt;/p&gt;
 &lt;p&gt;Go through the following articles to learn why Penguin algorithm has struck your website.&lt;/p&gt;
@@ -213,50 +213,50 @@
     </item>
     <item>
       <title>WordPress cost per year and money saving tips for bloggers</title>
-      <link>https://www.carnaghan.com/wordpress-cost-per-year-and-money-saving-tips-for-bloggers/</link>
+      <link>http://localhost:1313/wordpress-cost-per-year-and-money-saving-tips-for-bloggers/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wordpress-cost-per-year-and-money-saving-tips-for-bloggers/</guid>
+      <guid>http://localhost:1313/wordpress-cost-per-year-and-money-saving-tips-for-bloggers/</guid>
       <description>&lt;p&gt;Planning to launch a self-hosted WordPress blog or site? Your decision is great. WordPress is the backbone of millions of websites. It is the most widely used free blogging software. Although WP is a free CMS, you cannot use it unless you deploy it on a server.&lt;/p&gt;
 &lt;p&gt;You can run WordPress on your PC by installing the NGINX, PHP-FPM, MySQL stack on your PC. The website deployed on localhost is accessible through an IP address. If you want your WordPress blog to be accessible from computers or mobile devices across the world, you&amp;rsquo;ll have to buy a domain name.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why you shouldn&#39;t change WordPress theme often?</title>
-      <link>https://www.carnaghan.com/why-you-shouldnt-change-wordpress-theme-often/</link>
+      <link>http://localhost:1313/why-you-shouldnt-change-wordpress-theme-often/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/why-you-shouldnt-change-wordpress-theme-often/</guid>
+      <guid>http://localhost:1313/why-you-shouldnt-change-wordpress-theme-often/</guid>
       <description>&lt;p&gt;Guys, you may have seen the &amp;ldquo;Leverage browser caching&amp;rdquo; warning when you test your website&amp;rsquo;s speed with the Google page speed insights tool.&lt;/p&gt;
 &lt;p&gt;After finding this message, you head over to Google and search methods to increase cache expiry time. After reading a tutorial on increasing expiry time for static content i.e. JavaSript, CSS files, you go ahead and modify the htaccess or Nginx configuration file.&lt;/p&gt;
 &lt;p&gt;Do you know that if you set an abnormal expiration value to the static files (say 30 days or more), you may be committing a big mistake!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get Hostgator Black Friday 2016 discount - best deal of the year</title>
-      <link>https://www.carnaghan.com/get-hostgator-black-friday-2016-discount-best-deal-of-the-year/</link>
+      <link>http://localhost:1313/get-hostgator-black-friday-2016-discount-best-deal-of-the-year/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/get-hostgator-black-friday-2016-discount-best-deal-of-the-year/</guid>
+      <guid>http://localhost:1313/get-hostgator-black-friday-2016-discount-best-deal-of-the-year/</guid>
       <description>&lt;p&gt;As a newbie blogger, I kept changing my hosting provider until I signed up for HostGator. To be honest, I had faced a hard time in finding the best hosting provider for my website. To help you out in choosing the best themes and plugins, I have shared the list of WordPress Black Friday deals. Today, I&amp;rsquo;ll share a special Hostgator deal, with which you can get flat 65% off on any hosting of your choice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WordPress Black Friday Deals 2016 : Unbelievable discounts for you</title>
-      <link>https://www.carnaghan.com/wordpress-black-friday-deals-2016-unbelievable-discounts-for-you/</link>
+      <link>http://localhost:1313/wordpress-black-friday-deals-2016-unbelievable-discounts-for-you/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wordpress-black-friday-deals-2016-unbelievable-discounts-for-you/</guid>
+      <guid>http://localhost:1313/wordpress-black-friday-deals-2016-unbelievable-discounts-for-you/</guid>
       <description>&lt;p&gt;If you have been waiting for the WordPress Black Friday sale 2016, then your wait is over. The WP BF sale has begun and top WordPress theme and plugin developers are throwing massive discounts on their top products. Hence, if you buy a premium product now, you&amp;rsquo;ll save huge money by the end of next year.&lt;/p&gt;
 &lt;p&gt;In case you&amp;rsquo;re not able to find the best deals for WordPress, here is the list of top offers you can avail this November.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Must have WordPress Plugins for 2018</title>
-      <link>https://www.carnaghan.com/must-have-wordpress-plugins-for-2018/</link>
+      <link>http://localhost:1313/must-have-wordpress-plugins-for-2018/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/must-have-wordpress-plugins-for-2018/</guid>
+      <guid>http://localhost:1313/must-have-wordpress-plugins-for-2018/</guid>
       <description>&lt;p&gt;WordPress, being a versatile plugin allows you to launch all types of sites. It allows users to install plugins to make website search engine friendly, faster, highly rewarding, etc.&lt;/p&gt;
 &lt;p&gt;WordPress has millions of users. The WordPress repository hosts over 100k plugins of all types. An experienced blogger using WP platform may not difficulty in choosing the right plugin. But the newbie users may get confused.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;must have wordpress plugins 2016&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/must-have-wordpress-plugins-for-2018/images/wordpress-logo.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;must have wordpress plugins 2016&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/must-have-wordpress-plugins-for-2018/images/wordpress-logo.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to increase Amazon Affiliate sales?</title>
-      <link>https://www.carnaghan.com/how-to-increase-amazon-affiliate-sales/</link>
+      <link>http://localhost:1313/how-to-increase-amazon-affiliate-sales/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-increase-amazon-affiliate-sales/</guid>
+      <guid>http://localhost:1313/how-to-increase-amazon-affiliate-sales/</guid>
       <description>&lt;p&gt;Amazon Associates affiliate program is one of the most important sources of revenue for many bloggers. If you&amp;rsquo;re struggling to earn money from Amazon, follow the below tips.&lt;/p&gt;
 &lt;h2 id=&#34;effective-tips-to-increase-amazon-affiliatesales&#34;&gt;Effective tips to increase Amazon affiliate sales&lt;/h2&gt;
 &lt;h3 id=&#34;send-more-traffic&#34;&gt;Send more traffic:&lt;/h3&gt;
@@ -264,102 +264,102 @@
     </item>
     <item>
       <title>Top 7 Best web hosting services for 2018</title>
-      <link>https://www.carnaghan.com/top-7-best-web-hosting-services-for-2018/</link>
+      <link>http://localhost:1313/top-7-best-web-hosting-services-for-2018/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-7-best-web-hosting-services-for-2018/</guid>
+      <guid>http://localhost:1313/top-7-best-web-hosting-services-for-2018/</guid>
       <description>&lt;p&gt;Web hosting is the backbone of a website. It is crucial to the success of a blogger, business, and the website. A poor web hosting firm will have big downtimes. Because of poor infrastructure, the network latency will be high and your site will rank below faster websites in the search engines.&lt;/p&gt;
 &lt;p&gt;Web hosting services are of three types, shared, VPS, dedicated, and cloud. The shared hosting plans are the cheapest of the three. They are ideal for small sites owned by newbie webmasters and beginners. VPS and dedicated plans are costly as compared to shared. They are suitable for business or larger websites owned by experienced webmasters. Cloud platforms are suitable for websites whose traffic may explode anytime.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Job Board Themes for WordPress (2018)</title>
-      <link>https://www.carnaghan.com/best-job-board-themes-for-wordpress-2018/</link>
+      <link>http://localhost:1313/best-job-board-themes-for-wordpress-2018/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-job-board-themes-for-wordpress-2018/</guid>
+      <guid>http://localhost:1313/best-job-board-themes-for-wordpress-2018/</guid>
       <description>&lt;p&gt;Recruiting a right person is crucial to the success of a business firm. Creating a website that allows you to publish job listings and managing them is not a huge task for a website developer. The developer can take anything between 20 to 50 days to create a job board site and he&amp;rsquo;ll charge you over $500 as a fee. If you&amp;rsquo;re are looking for a cheaper option, consider using WordPress content management system and buy one of the best Job Board Themes for WordPress we have shared in this article.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fixing WordPress HTTP error on media or image upload</title>
-      <link>https://www.carnaghan.com/fixing-wordpress-http-error-on-media-or-image-upload/</link>
+      <link>http://localhost:1313/fixing-wordpress-http-error-on-media-or-image-upload/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/fixing-wordpress-http-error-on-media-or-image-upload/</guid>
+      <guid>http://localhost:1313/fixing-wordpress-http-error-on-media-or-image-upload/</guid>
       <description>&lt;p&gt;Today, I have addressed one major issue the WordPress users face i.e. HTTP error on uploading media or image files. I encountered this error yesterday while trying to upload a picture in my latest blog post. The picture uploader tool was repeatedly throwing cannot upload error.&lt;/p&gt;
 &lt;p&gt;I logged into the server and checked PHP error log files generated by the website and PHP web server. The files were clean. I checked WP memory limit in the wp-config.php file. The memory allocated to my site was 64 megabytes and all my sites were using 15% of the allocated system memory. Hence, I ruled out the low memory issue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Google Penalty Checker tool for sites whose traffic is down</title>
-      <link>https://www.carnaghan.com/best-google-penalty-checker-tool-for-sites-whose-traffic-is-down/</link>
+      <link>http://localhost:1313/best-google-penalty-checker-tool-for-sites-whose-traffic-is-down/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-google-penalty-checker-tool-for-sites-whose-traffic-is-down/</guid>
+      <guid>http://localhost:1313/best-google-penalty-checker-tool-for-sites-whose-traffic-is-down/</guid>
       <description>&lt;p&gt;1000s of changes have been made to Google Search Engine since it was launched in 1998. Engineers working at Google don&amp;rsquo;t reveal what changes were made, but they do warn or alert webmasters that their website traffic may be impacted by an update.&lt;/p&gt;
 &lt;p&gt;In case your blog or website is not performing well suddenly in Google, you must know that your site has suffered a Google Penalty. To know which Google Algorithm has affected your site, you can either post help message in the webmaster central forum or use the Baracuda Panguin tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One.com hosting review (2018) : 1 year free hosting and domain</title>
-      <link>https://www.carnaghan.com/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</link>
+      <link>http://localhost:1313/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</guid>
+      <guid>http://localhost:1313/one.com-hosting-review-2018-1-year-free-hosting-and-domain/</guid>
       <description>&lt;p&gt;One.com is a hosting company founded 14 years back by Jacob Jensen. The firm hosts around a million sites and has branches in various countries. Top brands and experts recommend one.com hosting for its quality service and great uptime of over 99%.&lt;/p&gt;
 &lt;p&gt;Below are the various features the customers of One.com hosting enjoy.&lt;/p&gt;
 &lt;h3 id=&#34;control-panel&#34;&gt;Control panel&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;one com : control panel&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/one.com-hosting-review-2018-1-year-free-hosting-and-domain/images/one-com-control-panel.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;one com : control panel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/one.com-hosting-review-2018-1-year-free-hosting-and-domain/images/one-com-control-panel.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A control panel is a web-based server and website management tool. You&amp;rsquo;ll find an option to install CMS such as WordPress and manage database in the control panel. One.com offers a beautiful CP with plenty of options.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix White Screen of Death Problem?</title>
-      <link>https://www.carnaghan.com/how-to-fix-white-screen-of-death-problem/</link>
+      <link>http://localhost:1313/how-to-fix-white-screen-of-death-problem/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-fix-white-screen-of-death-problem/</guid>
+      <guid>http://localhost:1313/how-to-fix-white-screen-of-death-problem/</guid>
       <description>&lt;p&gt;Like the Blue screen of death error, the WSOD is the most commonly reported error. The white screen problem occurs because of few lines of code crashing the entire application. Experienced programmers can fix the issue in a few minutes. If a novice user who hired a freelancer or uses a content management system sees the white screen, he should follow the below two methods to fix the problem.&lt;/p&gt;
 &lt;h3 id=&#34;wsod-in-sites-other-than-cms&#34;&gt;WSOD in sites other than CMS&lt;/h3&gt;
 &lt;p&gt;When you see the white screen of death, the first thing you should do is check log files. Unless you change the path of log files in the server&amp;rsquo;s config file, the web and DB server creates log files in the /var/ directory in Linux. In most of the cases, you&amp;rsquo;ll find the root cause problem for the WSOD problem in these files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image SEO tips and tools to make photos search engine friendly</title>
-      <link>https://www.carnaghan.com/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</link>
+      <link>http://localhost:1313/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</guid>
+      <guid>http://localhost:1313/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</guid>
       <description>&lt;p&gt;Do you know? Images can bring tons of high-quality organic traffic to your blog or website. A website without pictures looks strange. Visitors may not find such sites attractive. If the blog post doesn&amp;rsquo;t have related pictures, visitors may not read the full content.&lt;/p&gt;
 &lt;p&gt;Today, we&amp;rsquo;ve shared 7 useful tips for image optimization. If your site has many pictures, but if it doesn&amp;rsquo;t get a good amount of traffic from Google image search, follow the below tips.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EMD SEO and Google : 3 Important things that you should know</title>
-      <link>https://www.carnaghan.com/emd-seo-and-google-3-important-things-that-you-should-know/</link>
+      <link>http://localhost:1313/emd-seo-and-google-3-important-things-that-you-should-know/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/emd-seo-and-google-3-important-things-that-you-should-know/</guid>
+      <guid>http://localhost:1313/emd-seo-and-google-3-important-things-that-you-should-know/</guid>
       <description>&lt;p&gt;Google penalizes spammy EMD sites, but do you know that Exact match domain names can outrank an authority site for a specific keyword? If you don&amp;rsquo;t know this, you are probably a newbie or an immature SEO professional. Here are the three important things that you should know as a Sear Engine Optimization professional.&lt;/p&gt;
 &lt;h3 id=&#34;emd-domains-rank&#34;&gt;EMD domains rank&lt;/h3&gt;
 &lt;p&gt;I can give 10 good examples that exact match domain names rank high for the keywords. Google starts ranking EMD sites only after a certain time period. The sites using EMD have 100s of polished articles with an average content length of 500 words.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freelance Writing vs Blogging : Which is better?</title>
-      <link>https://www.carnaghan.com/freelance-writing-vs-blogging-which-is-better/</link>
+      <link>http://localhost:1313/freelance-writing-vs-blogging-which-is-better/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/freelance-writing-vs-blogging-which-is-better/</guid>
+      <guid>http://localhost:1313/freelance-writing-vs-blogging-which-is-better/</guid>
       <description>&lt;p&gt;Freelance writing and blogging are two of the most preferred options for making money online by working from home. If you are planning to begin your career as an FW or a blogger, go through the below pros/cons of these two career options.&lt;/p&gt;
 &lt;h3 id=&#34;pros-of-freelance-writing&#34;&gt;Pros of Freelance Writing&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Better reputation&lt;/strong&gt;: If authority sites like Huffington post, BGR, TechCrunch are publishing your articles, 1000s of people might know you. You are likely to have a good fan following.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backlinks or content : What&#39;s more important?</title>
-      <link>https://www.carnaghan.com/backlinks-or-content-whats-more-important/</link>
+      <link>http://localhost:1313/backlinks-or-content-whats-more-important/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/backlinks-or-content-whats-more-important/</guid>
+      <guid>http://localhost:1313/backlinks-or-content-whats-more-important/</guid>
       <description>&lt;p&gt;Two of the most commonly used terms by bloggers and webmasters are backlinks and content. A site must have both else it will not rank in first seven pages of world&amp;rsquo;s busiest and largest search engine, Google.&lt;/p&gt;
 &lt;p&gt;Backlinks aka inbound links are the most important criteria Google considers for ranking content of a website in their pages. One can easily prove this. Search for a product in Google. Popular sites with 1000s of backlinks will occupy first few pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is Shared hosting bad for SEO and is it safe for your site?</title>
-      <link>https://www.carnaghan.com/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</link>
+      <link>http://localhost:1313/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</link>
       <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</guid>
+      <guid>http://localhost:1313/is-shared-hosting-bad-for-seo-and-is-it-safe-for-your-site/</guid>
       <description>&lt;p&gt;SH is a type of hosting in which your site will run along with several other websites on the same server. If you are planning to purchase a web hosting plan, you may be having a doubt whether shared hosting is bad for SEO and is it safe? I will try to clear the confusion for you but before that, you should know the below important points.&lt;/p&gt;
 &lt;p&gt;Shared website hosting assigns:&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to get great blog post ideas for free in 2018?</title>
-      <link>https://www.carnaghan.com/how-to-get-great-blog-post-ideas-for-free-in-2018/</link>
+      <link>http://localhost:1313/how-to-get-great-blog-post-ideas-for-free-in-2018/</link>
       <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-get-great-blog-post-ideas-for-free-in-2018/</guid>
+      <guid>http://localhost:1313/how-to-get-great-blog-post-ideas-for-free-in-2018/</guid>
       <description>&lt;p&gt;Being a professional blogger is not easy. You will have to think about new blog post every day. Sometimes, you will struggle to get new ideas. You will be frustrated, depressed and think of quitting as a blogger.&lt;/p&gt;
 &lt;p&gt;Before you take any major decision, go through the below top five places from which you can get new topics for your blog.&lt;/p&gt;
 &lt;h2 id=&#34;how-to-get-new-blog-post-ideas&#34;&gt;How to get new blog post ideas?&lt;/h2&gt;
@@ -368,9 +368,9 @@
     </item>
     <item>
       <title>How to remove this site may be hacked message from Google?</title>
-      <link>https://www.carnaghan.com/how-to-remove-this-site-may-be-hacked-message-from-google/</link>
+      <link>http://localhost:1313/how-to-remove-this-site-may-be-hacked-message-from-google/</link>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-remove-this-site-may-be-hacked-message-from-google/</guid>
+      <guid>http://localhost:1313/how-to-remove-this-site-may-be-hacked-message-from-google/</guid>
       <description>&lt;p&gt;Google makes sure that the site which the user is about to visit is clean. It displays a warning message for the websites which are not safe. One of the most common messages that a search engine user see is &amp;ldquo;This site may be hacked&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The search engine will show this message in the search results in one of the below cases.&lt;/p&gt;
 &lt;h3 id=&#34;malicious-code-in-web-pages&#34;&gt;Malicious code in web pages&lt;/h3&gt;
@@ -378,393 +378,393 @@
     </item>
     <item>
       <title>Why Blog Commenting is the Worst Link Building Strategy?</title>
-      <link>https://www.carnaghan.com/why-blog-commenting-is-the-worst-link-building-strategy/</link>
+      <link>http://localhost:1313/why-blog-commenting-is-the-worst-link-building-strategy/</link>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/why-blog-commenting-is-the-worst-link-building-strategy/</guid>
+      <guid>http://localhost:1313/why-blog-commenting-is-the-worst-link-building-strategy/</guid>
       <description>&lt;p&gt;Blog commenting is the worst strategy of link building.&lt;/p&gt;
 &lt;p&gt;Many pro bloggers recommend their followers to drop a comment on high page rank or high domain authority blogs (with similar niche). I think, this is the worst tip ever.&lt;/p&gt;
 &lt;p&gt;Have you seen the pro bloggers comment on other blogs which are more popular and have higher DA than their websites? The answer is no. Pro bloggers know that commenting on other sites will result in low-quality backlinks and their website&amp;rsquo;s traffic might be affected by this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BigRock Hosting Review, Plans and Coupon code 2018</title>
-      <link>https://www.carnaghan.com/bigrock-hosting-review-plans-and-coupon-code-2018/</link>
+      <link>http://localhost:1313/bigrock-hosting-review-plans-and-coupon-code-2018/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/bigrock-hosting-review-plans-and-coupon-code-2018/</guid>
+      <guid>http://localhost:1313/bigrock-hosting-review-plans-and-coupon-code-2018/</guid>
       <description>&lt;p&gt;BigRock is an India web hosting and domain name registration company owned by Directi, a company with excellent infrastructure and revenue more than 300 MN USD. It is one of the best hosting companies in India.&lt;/p&gt;
 &lt;p&gt;Bigrock is the first choice for people who have just begun their online careers by launching a website., thanks to the cheap web hosting plans. Around million users use it.&lt;/p&gt;
 &lt;p&gt;Bigrock is ideal for hosting websites that target Indian audiences and for registering domain names at a cheap rate. It offers customer support with highly talented staff members.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blogging mistakes that fail you as a blogger</title>
-      <link>https://www.carnaghan.com/blogging-mistakes-that-fail-you-as-a-blogger/</link>
+      <link>http://localhost:1313/blogging-mistakes-that-fail-you-as-a-blogger/</link>
       <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/blogging-mistakes-that-fail-you-as-a-blogger/</guid>
+      <guid>http://localhost:1313/blogging-mistakes-that-fail-you-as-a-blogger/</guid>
       <description>&lt;p&gt;Blogging is the best way to express thoughts, share knowledge and reviews. Starting a blog is easy, but making money through it is difficult. Many people abandon/delete their websites or fail to succeed online because of the below blogging mistakes:&lt;/p&gt;
 &lt;h3 id=&#34;not-using-self-hosted-blogging-platform&#34;&gt;Not using self hosted blogging platform&lt;/h3&gt;
 &lt;p&gt;A self hosted platform is one which allows you to install a blog software of your choice on a shared, cloud or a VPS server. It gives you freedom to use any type of extension or plugin you wish to use. Self hosted sites are easy to set up. To do so, you&amp;rsquo;ll have to buy a hosting plan from a reputed company like Hostgator, Bluehost, Siteground, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improve Alexa Rank of your Website to attract advertisers</title>
-      <link>https://www.carnaghan.com/improve-alexa-rank-of-your-website-to-attract-advertisers/</link>
+      <link>http://localhost:1313/improve-alexa-rank-of-your-website-to-attract-advertisers/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/improve-alexa-rank-of-your-website-to-attract-advertisers/</guid>
+      <guid>http://localhost:1313/improve-alexa-rank-of-your-website-to-attract-advertisers/</guid>
       <description>&lt;p&gt;Google PR is dead, and it will never be updated in the future. Advertisers have started using Moz rank and domain authority to know whether a website is ranking high in search engines or not. One more important factor they consider for checking the popularity of a website is the Alexa rank.&lt;/p&gt;
 &lt;p&gt;Domain authority and MR is generated by inbound link data of a website. Thus, a site with a good number of backlinks will have a good DA/MR. In one of our articles, we have mentioned that you shouldn&amp;rsquo;t create inbound links manually. Make sure that you go through the article to know what happens when backlinks are created artificially.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Pingdom alternatives to check website speed</title>
-      <link>https://www.carnaghan.com/best-pingdom-alternatives-to-check-website-speed/</link>
+      <link>http://localhost:1313/best-pingdom-alternatives-to-check-website-speed/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-pingdom-alternatives-to-check-website-speed/</guid>
+      <guid>http://localhost:1313/best-pingdom-alternatives-to-check-website-speed/</guid>
       <description>&lt;p&gt;A website which opens quickly in the browser ensures the best user experience and higher rankings in Google search engine. Thus, the first thing that you should do after launching a new website is to check the page loading speed.&lt;/p&gt;
 &lt;p&gt;Pingdom is one of the most widely used website speed checking tools, but it offers limited features due to which many people will use its below 2 top alternatives:&lt;/p&gt;
 &lt;h3 id=&#34;gtmetrix&#34;&gt;GTmetrix&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;gtmetrix pingdom alternatives check website speed&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/best-pingdom-alternatives-to-check-website-speed/images/gtmetrix.jpeg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;gtmetrix pingdom alternatives check website speed&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/best-pingdom-alternatives-to-check-website-speed/images/gtmetrix.jpeg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guest Blogging is injurious to your Blog and Online Career</title>
-      <link>https://www.carnaghan.com/guest-blogging-is-injurious-to-your-blog-and-online-career/</link>
+      <link>http://localhost:1313/guest-blogging-is-injurious-to-your-blog-and-online-career/</link>
       <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/guest-blogging-is-injurious-to-your-blog-and-online-career/</guid>
+      <guid>http://localhost:1313/guest-blogging-is-injurious-to-your-blog-and-online-career/</guid>
       <description>&lt;p&gt;There was a time when bloggers used the guest blogging technique to create backlinks. For those who are not aware, in Guest blogging, SEO agencies or companies pay website owners or writers to publish a guest blog post with one or two backlinks to another site.&lt;/p&gt;
 &lt;p&gt;Companies use this technique to rank their sites high in search engines. They are constantly in search of high domain authority websites or sites that have a valid Google page rank. When the company&amp;rsquo;s SEO executive find such site, he&amp;rsquo;ll drop an email to the webmaster asking them to publish a guest post in exchange for some USD or free product.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress search plugins (2018)</title>
-      <link>https://www.carnaghan.com/best-wordpress-search-plugins-2018/</link>
+      <link>http://localhost:1313/best-wordpress-search-plugins-2018/</link>
       <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-search-plugins-2018/</guid>
+      <guid>http://localhost:1313/best-wordpress-search-plugins-2018/</guid>
       <description>&lt;p&gt;The default WordPress search module is useful, but not the best. No matter what keyword or term you search for, you&amp;rsquo;ll not be satisfied with the results generated by it.&lt;/p&gt;
 &lt;p&gt;This module is critical because people use it to find relevant information on your site. It can also reduce the bounce rate.&lt;/p&gt;
 &lt;p&gt;Although the WordPress content management system supports hierarchical pages (categories, tags, authors, attachment pages) that make navigation easy for the visitor, it is always a good decision to add a powerful search function to your blog. Thankfully, we don&amp;rsquo;t have to write PHP code for the same. There are a lot of free WordPress search plugins available for download. But the below two plugins are the best and most powerful among them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should you disable WordPress comments or not?</title>
-      <link>https://www.carnaghan.com/should-you-disable-wordpress-comments-or-not/</link>
+      <link>http://localhost:1313/should-you-disable-wordpress-comments-or-not/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/should-you-disable-wordpress-comments-or-not/</guid>
+      <guid>http://localhost:1313/should-you-disable-wordpress-comments-or-not/</guid>
       <description>&lt;p&gt;People disable comments from their website thinking that spammers or hackers will not target their sites. Well, it&amp;rsquo;s true that this form is always responsible for spam, but you should never think of removing it. Spam can be easily avoided with Akismet or its alternatives.&lt;/p&gt;
 &lt;p&gt;Comments are an important section of a website. Without it, your blog would look hostile and naked. No one would like to interact with you. Many people buy products from affiliate links only after reading comments. If you remove this form from your website, your conversion will be low. Moreover, the visitor will leave your site as soon as he finishes reading your post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This is the best WordPress popular posts plugin for blogs</title>
-      <link>https://www.carnaghan.com/this-is-the-best-wordpress-popular-posts-plugin-for-blogs/</link>
+      <link>http://localhost:1313/this-is-the-best-wordpress-popular-posts-plugin-for-blogs/</link>
       <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/this-is-the-best-wordpress-popular-posts-plugin-for-blogs/</guid>
+      <guid>http://localhost:1313/this-is-the-best-wordpress-popular-posts-plugin-for-blogs/</guid>
       <description>&lt;p&gt;Displaying popular posts in blog sidebar is useful in many ways. As your top articles are posted, the link juice aka page rank will transfer to them which in turn will help your posts rank higher in search engines like Google, Bing, etc. Adding a widget for the same is a good way of strengthening the internal link structure of your website. If your top posts have affiliate links, displaying them in the sidebar will boost your income and conversions. There are a lot of popular post widgets and plugins but the one which I&amp;rsquo;ve shared today is what you&amp;rsquo;re probably looking for.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WP-FFPC settings and features: Powerful caching plugin</title>
-      <link>https://www.carnaghan.com/wp-ffpc-settings-and-features-powerful-caching-plugin/</link>
+      <link>http://localhost:1313/wp-ffpc-settings-and-features-powerful-caching-plugin/</link>
       <pubDate>Sat, 12 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wp-ffpc-settings-and-features-powerful-caching-plugin/</guid>
+      <guid>http://localhost:1313/wp-ffpc-settings-and-features-powerful-caching-plugin/</guid>
       <description>&lt;p&gt;Although W3TC has options to configure Memcache and OPCache modules, this plugin requires some configuration to work according to your expectations. It includes many features that you may not want to use. To be honest, W3TC and WPSC are best plugins for Shared hosting users as users can easily make their site faster by activating disk caching, minification or by setting an expiry date for static resources.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve purchased a VPS package from Hostgator, Bluehost or any other hosting provider, you should try out WP-FFPC. The highlighting feature of this plugin is that it supports various types of web servers and lacks complex features. You can easily run it on NGINX, LightHTTPD, Apache 2 platforms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WPDiscuz plugin: Great Alternative to Disqus and WordPress comment system</title>
-      <link>https://www.carnaghan.com/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</link>
+      <link>http://localhost:1313/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</guid>
+      <guid>http://localhost:1313/wpdiscuz-plugin-great-alternative-to-disqus-and-wordpress-comment-system/</guid>
       <description>&lt;p&gt;The default WordPress commenting system is good, but some people may want to replace it with a third party plugin like Disqus, Livefyre for better control, spam protection, and administration.&lt;/p&gt;
 &lt;p&gt;Disqus adds a lot of weight to your site, and you should think before using it. I&amp;rsquo;ve seen LiveFyre plugin on high traffic websites, and it looks great. I&amp;rsquo;ve not tested it. In case you&amp;rsquo;re searching for a Disqus or Livefyre alternative for your WordPress site, there&amp;rsquo;s a good new option available for you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yoast vs All in One SEO pack : The best WordPress plugin is...</title>
-      <link>https://www.carnaghan.com/yoast-vs-all-in-one-seo-pack-the-best-wordpress-plugin-is.../</link>
+      <link>http://localhost:1313/yoast-vs-all-in-one-seo-pack-the-best-wordpress-plugin-is.../</link>
       <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/yoast-vs-all-in-one-seo-pack-the-best-wordpress-plugin-is.../</guid>
+      <guid>http://localhost:1313/yoast-vs-all-in-one-seo-pack-the-best-wordpress-plugin-is.../</guid>
       <description>&lt;p&gt;WordPress is an excellent content management system, but it has a lot of modules that may cause duplicate content problems and many other SEO related issues. Thus anyone using WordPress to power their websites should install an SEO plugin. An excellent plugin will have options to disable unnecessary WordPress features which in turn improves SEO score of your blog. It will take care of meta description, titles, redirects, etc.&lt;/p&gt;
 &lt;p&gt;There are a lot of free and premium SEO plugins available for download in the WordPress directory, but people trust just 2 of them - Yoast and All in One SEO. If you&amp;rsquo;re confused in choosing between these two plugins, go through the below paragraphs where we&amp;rsquo;ve covered a detailed comparison of Yoast vs. ALL in One SEO pack.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conditionally load scripts in WordPress to boost speed</title>
-      <link>https://www.carnaghan.com/conditionally-load-scripts-in-wordpress-to-boost-speed/</link>
+      <link>http://localhost:1313/conditionally-load-scripts-in-wordpress-to-boost-speed/</link>
       <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/conditionally-load-scripts-in-wordpress-to-boost-speed/</guid>
+      <guid>http://localhost:1313/conditionally-load-scripts-in-wordpress-to-boost-speed/</guid>
       <description>&lt;p&gt;Imagine you&amp;rsquo;ve installed a WordPress table plugin on your site. You have 1000 blog posts, and only 10 of them has a table. The Javascript and CSS files for the same will be inserted in the header section, and it will be called on all the pages even though you have not added a table. This increases the page size, and it can affect the page loading time. To solve this problem, you can either write a PHP code that will insert CSS and JS scripts in the site header only when required or you can install WordPress plugin organizer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Disqus WordPress plugin : Pros, Cons, issues and fixes</title>
-      <link>https://www.carnaghan.com/disqus-wordpress-plugin-pros-cons-issues-and-fixes/</link>
+      <link>http://localhost:1313/disqus-wordpress-plugin-pros-cons-issues-and-fixes/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/disqus-wordpress-plugin-pros-cons-issues-and-fixes/</guid>
+      <guid>http://localhost:1313/disqus-wordpress-plugin-pros-cons-issues-and-fixes/</guid>
       <description>&lt;p&gt;When a lot of users are commenting on your articles, you should make sure that the comments do not affect the load time of the page. If it is affecting posts load time, the user should enable pagination for the same by navigating to Settings&amp;mdash;&amp;gt; discussions page or he must search for an alternative solution.&lt;/p&gt;
 &lt;p&gt;One of my tech blog&amp;rsquo; posts was having over 150 comments from visitors. The post is well written and has 1500 words in it. Due to a large number of comments, the visitor had to scroll down for more than 10 seconds to navigate to the footer section of my site. The footer is the important section for me because it has links to contact me, privacy policy, disclaimer pages, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best live chat plugins for WordPress (2018)</title>
-      <link>https://www.carnaghan.com/best-live-chat-plugins-for-wordpress-2018/</link>
+      <link>http://localhost:1313/best-live-chat-plugins-for-wordpress-2018/</link>
       <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-live-chat-plugins-for-wordpress-2018/</guid>
+      <guid>http://localhost:1313/best-live-chat-plugins-for-wordpress-2018/</guid>
       <description>&lt;p&gt;Live chat system is an application that you&amp;rsquo;ll find on many websites. When a customer has some doubts about a product or a service, he can use this web-app to get his doubts cleared before making a purchase. This application is used by costumers as well as support teams at the same time.&lt;/p&gt;
 &lt;p&gt;WordPress is a robust content management system, and you can create any website with it. Developers have published several plugins for WordPress and webmasters use live chat plugin on many business websites.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress sitemap plugins for better SEO (2018)</title>
-      <link>https://www.carnaghan.com/best-wordpress-sitemap-plugins-for-better-seo-2018/</link>
+      <link>http://localhost:1313/best-wordpress-sitemap-plugins-for-better-seo-2018/</link>
       <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-sitemap-plugins-for-better-seo-2018/</guid>
+      <guid>http://localhost:1313/best-wordpress-sitemap-plugins-for-better-seo-2018/</guid>
       <description>&lt;p&gt;A sitemap is one of the most important elements of a website. It is nothing but an XML document that features all the pages and post of your blog. It should be defined in a correct way. Failing to do so will confuse search engines and the users.&lt;/p&gt;
 &lt;p&gt;When users start a new blog, they should immediately create a sitemap and submit it to Google and Bing.&lt;/p&gt;
 &lt;p&gt;Frankly Speaking, these two search engines are smart, and they can determine the structure of your site without a sitemap. But you should add this document to your site as it will be useful for the users (in case they&amp;rsquo;re  looking for it).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Here&#39;s the reason why you should not buy backlinks</title>
-      <link>https://www.carnaghan.com/heres-the-reason-why-you-should-not-buy-backlinks/</link>
+      <link>http://localhost:1313/heres-the-reason-why-you-should-not-buy-backlinks/</link>
       <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/heres-the-reason-why-you-should-not-buy-backlinks/</guid>
+      <guid>http://localhost:1313/heres-the-reason-why-you-should-not-buy-backlinks/</guid>
       <description>&lt;p&gt;You may have seen fiverr gigs in which people try to sell 1000s of backlinks for just 5 dollars. These people will use an automated tool to build links to authority sites. If they don&amp;rsquo;t have a software, people will drop links in dofollow forums, or they&amp;rsquo;ll use the guest posting technique for the same. When I had started my career as a blogger, I read many blog posts that suggested newbies to build backlinks for getting traffic to my website. I followed this strategy for a while, and after Google algorithm penalized my blog, I had to delete more than 50 articles (with 500+ words) that were linked to dofollow blogs. Backlinks are now considered harmful. You should not buy backlinks or build them because of these two reasons:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Regular 9 to 5 job vs Working from Home Online</title>
-      <link>https://www.carnaghan.com/regular-9-to-5-job-vs-working-from-home-online/</link>
+      <link>http://localhost:1313/regular-9-to-5-job-vs-working-from-home-online/</link>
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/regular-9-to-5-job-vs-working-from-home-online/</guid>
+      <guid>http://localhost:1313/regular-9-to-5-job-vs-working-from-home-online/</guid>
       <description>&lt;p&gt;Many people think that working from 9 to 5 is a nightmare. Some believe that working from home is a great experience. Well, I&amp;rsquo;ve been in both the situations and thus I can give a better explanation on this topic. I have spent a  year in an IT company. My working time was 9 to 6 or 7. After working for a year, I resigned from the job to be a self-dependent person. I can say that my decision was right as I&amp;rsquo;ve achieved my goal. I am earning decent money, and I am confident that my earnings will increase as the time passes by. Although I work from home and have a source of income, sometimes I feel frustrated because of disturbances from the surrounding. Here are the pros and cons of working from home online and working in a 9 to 5 job.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robots.txt for WordPress : Useful tips and settings for better SEO</title>
-      <link>https://www.carnaghan.com/robots.txt-for-wordpress-useful-tips-and-settings-for-better-seo/</link>
+      <link>http://localhost:1313/robots.txt-for-wordpress-useful-tips-and-settings-for-better-seo/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/robots.txt-for-wordpress-useful-tips-and-settings-for-better-seo/</guid>
+      <guid>http://localhost:1313/robots.txt-for-wordpress-useful-tips-and-settings-for-better-seo/</guid>
       <description>&lt;p&gt;Google bot and other search spiders will visit the robots.txt file of your website immediately after they hit the htaccess file. Both these files are crucial as they can affect your site&amp;rsquo;s organic presence. Htaccess has rules to block IP addresses, redirect URLs, enable gzip compression, etc. The robots.txt will have a set of rules for the search engines. It has few lines that will either block or allow crawling of files and directories. Google has been penalizing blogs with thin content. If you&amp;rsquo;re a WordPress user, you should be aware of the taxonomies of the CMS. If you have generated many tags on your site, make sure that you make then no index as they&amp;rsquo;ll cause duplicate content issues on your blog. Don&amp;rsquo;t block them in the robots.txt file if you&amp;rsquo;ve enabled tags on single posts. If you don&amp;rsquo;t do this, page rank and link juice will be wasted. No index attribute for tags can be easily added via Yoast plugin.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WordPress Post dates : Don&#39;t be a fool to hide them</title>
-      <link>https://www.carnaghan.com/wordpress-post-dates-dont-be-a-fool-to-hide-them/</link>
+      <link>http://localhost:1313/wordpress-post-dates-dont-be-a-fool-to-hide-them/</link>
       <pubDate>Wed, 22 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wordpress-post-dates-dont-be-a-fool-to-hide-them/</guid>
+      <guid>http://localhost:1313/wordpress-post-dates-dont-be-a-fool-to-hide-them/</guid>
       <description>&lt;p&gt;Many self-proclaimed SEO experts believe that hiding WordPress date helps in improving search engine rankings. I supported their strategy until I started thinking more about user experience and rich snippets. If you&amp;rsquo;ve come across a post that claims to improve SERP position after removing dates from the blog, you&amp;rsquo;re being misled. Google knows when you&amp;rsquo;ve published a blog post through the sitemap file that has both published/modified dates. So you can&amp;rsquo;t fool it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Online Plagiarism Checkers that are Free</title>
-      <link>https://www.carnaghan.com/best-online-plagiarism-checkers-that-are-free/</link>
+      <link>http://localhost:1313/best-online-plagiarism-checkers-that-are-free/</link>
       <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-online-plagiarism-checkers-that-are-free/</guid>
+      <guid>http://localhost:1313/best-online-plagiarism-checkers-that-are-free/</guid>
       <description>&lt;p&gt;Plagiarism in the online world is the art of stealing others content without the copyright holder&amp;rsquo;s permission. It is bad for bloggers because duplicate content can affect their blog&amp;rsquo;s search engine visibility. Bloggers are not the only professionals worried about Plagiarism. Teachers always fear that their students might copy the homework from any one of the billions of sites available in Google&amp;rsquo;s search index. If you think that your hard work has been copied or if you&amp;rsquo;re a teacher who wants to check the genuineness of student&amp;rsquo;s homework, use the below tools to find all websites that have duplicate content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best way to Change WP Login and admin URL in WordPress</title>
-      <link>https://www.carnaghan.com/best-way-to-change-wp-login-and-admin-url-in-wordpress/</link>
+      <link>http://localhost:1313/best-way-to-change-wp-login-and-admin-url-in-wordpress/</link>
       <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-way-to-change-wp-login-and-admin-url-in-wordpress/</guid>
+      <guid>http://localhost:1313/best-way-to-change-wp-login-and-admin-url-in-wordpress/</guid>
       <description>&lt;p&gt;Every content management system has a login page, and dashboard that allows bloggers and webmasters to manage the data published on their site and WordPress is no exception. This page is relevant. Thus it will always be on the attack of website hackers that may/may not use automated program to gain access to your site&amp;rsquo;s dashboard. The default slug to log in to your WordPress dashboard is wp-login.php, and every hacker and WordPress user knows it knows it. Thus if you&amp;rsquo;re using the default password or if you&amp;rsquo;re using weak login credentials, your site might get easily hacked (You can remove the default user i.e., admin through the users page in WP).&lt;/p&gt;</description>
     </item>
     <item>
       <title>WordPress 404 errors : How to fix them easily with plugins?</title>
-      <link>https://www.carnaghan.com/wordpress-404-errors-how-to-fix-them-easily-with-plugins/</link>
+      <link>http://localhost:1313/wordpress-404-errors-how-to-fix-them-easily-with-plugins/</link>
       <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/wordpress-404-errors-how-to-fix-them-easily-with-plugins/</guid>
+      <guid>http://localhost:1313/wordpress-404-errors-how-to-fix-them-easily-with-plugins/</guid>
       <description>&lt;p&gt;404 errors in WordPress is caused when a user or a search bot is not able to find a page on your site. This page might be linked from your blog post or another website. According to Google webmaster tools, these errors won&amp;rsquo;t affect your site&amp;rsquo;s performance in the search engine, but you should try to get rid of them for a better user experience.&lt;/p&gt;
 &lt;p&gt;Sometimes, a lot of WordPress 404 errors can do more harm than any other factor. For example, the bounce rate will be very high as users didn&amp;rsquo;t find the page they wanted to access, they&amp;rsquo;ll hit the back button of the browser immediately without spending much time on your blog. Thus it&amp;rsquo;s a good idea to get rid of 404 errors. You can use the below tips and plugins for the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Must have best blogger widgets (2018)</title>
-      <link>https://www.carnaghan.com/must-have-best-blogger-widgets-2018/</link>
+      <link>http://localhost:1313/must-have-best-blogger-widgets-2018/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/must-have-best-blogger-widgets-2018/</guid>
+      <guid>http://localhost:1313/must-have-best-blogger-widgets-2018/</guid>
       <description>&lt;p&gt;Blogger might not be offering too many fancy and responsive templates as WordPress, but it is a powerful CMS.&lt;/p&gt;
 &lt;p&gt;In WordPress directory, there are a lot of plugins but in blogger, there are a few but useful widgets. Thus if you&amp;rsquo;re a person who doesn&amp;rsquo;t like to explore and try out new things, Blogger is the best CMS as you just have to add your favorite widgets by navigating to the layout page in Blogger and on that page you&amp;rsquo;ve to click on add gadget link.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tips to register a new profitable top level domain name</title>
-      <link>https://www.carnaghan.com/tips-to-register-a-new-profitable-top-level-domain-name/</link>
+      <link>http://localhost:1313/tips-to-register-a-new-profitable-top-level-domain-name/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/tips-to-register-a-new-profitable-top-level-domain-name/</guid>
+      <guid>http://localhost:1313/tips-to-register-a-new-profitable-top-level-domain-name/</guid>
       <description>&lt;p&gt;Registering a domain name is one of the most important activities of a person who wants to make an online career. But managing it and setting up a hosting service can be tricky. Name of a domain should be chosen wisely on the basis of below criteria.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: A DN should have one or 2 keywords that will kelp users understand what your blog/site is all about. The keywords should not contain the names of large enterprises (and their products). For example Microsoft, Google, Amazon, Windows, etc. If you ignore this, you&amp;rsquo;ll face legal action in the future. The company might register a DMCA complaint against your site which will force search engines to remove your blog from their index.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best AdSense plugins for WordPress (2018)</title>
-      <link>https://www.carnaghan.com/best-adsense-plugins-for-wordpress-2018/</link>
+      <link>http://localhost:1313/best-adsense-plugins-for-wordpress-2018/</link>
       <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-adsense-plugins-for-wordpress-2018/</guid>
+      <guid>http://localhost:1313/best-adsense-plugins-for-wordpress-2018/</guid>
       <description>&lt;p&gt;Adsense is being used on millions of blogs, and it is a source of online income for many bloggers. Have you ever wondered how the webmasters manage to add advertisements to the best and hottest positions? Most blogs are using either WordPress or Blogger CMS.&lt;/p&gt;
 &lt;p&gt;Blogger comes with an inbuilt utility to insert ads in various popular areas, i.e., above, middle and below post content. On WordPress, you don&amp;rsquo;t have to be a PHP and HTML programmer to add Google AdSense unit to your favorite position. Simply install any of the below &lt;strong&gt;best Adsense plugins for WordPress&lt;/strong&gt; and follow its setup instructions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easy Social Share Buttons for WordPress Review (latest)</title>
-      <link>https://www.carnaghan.com/easy-social-share-buttons-for-wordpress-review-latest/</link>
+      <link>http://localhost:1313/easy-social-share-buttons-for-wordpress-review-latest/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/easy-social-share-buttons-for-wordpress-review-latest/</guid>
+      <guid>http://localhost:1313/easy-social-share-buttons-for-wordpress-review-latest/</guid>
       <description>&lt;p&gt;Backlinks from social networks like Facebook, Google plus, twitter, etc are nofollow. But you&amp;rsquo;ll be shocked to know that Google uses data from social networks to rank websites in the search engine regardless whether the link is dofollow or nofollow.&lt;/p&gt;
 &lt;p&gt;When someone reads and article on your site and if he/she shares it in a group/page or on his public timeline, this link will be considered as a vote of trust. Thus, if your blog articles are shared 100s of time, there&amp;rsquo;s no doubt that your site will rank in the 1st 2 or 3 pages of Google. Making people share content is not a piece of cake. The user will not share your blog post unless he has a reason to do so.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Killer ways to make money without AdSense (2018)</title>
-      <link>https://www.carnaghan.com/killer-ways-to-make-money-without-adsense-2018/</link>
+      <link>http://localhost:1313/killer-ways-to-make-money-without-adsense-2018/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/killer-ways-to-make-money-without-adsense-2018/</guid>
+      <guid>http://localhost:1313/killer-ways-to-make-money-without-adsense-2018/</guid>
       <description>&lt;p&gt;Adsense program accepts websites that have quality content or very high organic search traffic. If your site doesn&amp;rsquo;t have any of these 2, instead of wasting your time in applying for Adsense account, use any of the below techniques to monetize your site.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve not recommended ad networks like Infolinks, Chitika, Vigilink, media.net as they pay you just one or 2 pennies for traffic from non-English speaking countries. These advertising networks demotivate bloggers due to their low payouts. Hence many bloggers quit their online careers within 5 or 6 months.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best free WordPress spam blocker plugins</title>
-      <link>https://www.carnaghan.com/best-free-wordpress-spam-blocker-plugins/</link>
+      <link>http://localhost:1313/best-free-wordpress-spam-blocker-plugins/</link>
       <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-free-wordpress-spam-blocker-plugins/</guid>
+      <guid>http://localhost:1313/best-free-wordpress-spam-blocker-plugins/</guid>
       <description>&lt;p&gt;As WordPress content management system has a commenting and trackback system, it&amp;rsquo;s always on the target of spammers. Trackback links are added below the post content. A spammer who wants his website or YouTube videos to rank high in Google or Bing will drop useless comments with some URLs.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re allowing dofollow backlinks, link juice will be transferred to the commentators website. To avoid this, install and activate the ultimate nofollow plugin on your blog. This plugin will allow you to convert all dofollow links in comments to nofollow. To block spam comments on your WordPress website, you install any of the below free plugins:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Long Tail Pro 3.0 Discount and Review (Aug 2016)</title>
-      <link>https://www.carnaghan.com/long-tail-pro-3.0-discount-and-review-aug-2016/</link>
+      <link>http://localhost:1313/long-tail-pro-3.0-discount-and-review-aug-2016/</link>
       <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/long-tail-pro-3.0-discount-and-review-aug-2016/</guid>
+      <guid>http://localhost:1313/long-tail-pro-3.0-discount-and-review-aug-2016/</guid>
       <description>&lt;p&gt;When the user opens a search engine like google or bing? What is the 1st thing he sees? A large text box accompanied with a search button. To find information, the user must enter some data in the textbox. This data in SEO world is known as the keyword. Many bloggers, webmasters, and SEO professionals use keywords to rank their websites in search engines.&lt;/p&gt;
 &lt;p&gt;Finding the right keywords is not an easy task. You&amp;rsquo;ll have to spend plenty of hours using online tools like Google AdWords, sem rush, etc. Adwords is owned by Google. It is used by online marketing professionals and agencies to advertise products or websites in Google. The advertisers use AdWords to find keywords that a user enters in the search field of the Google. You can use this free tool only if you have a Google account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>5 smart ways to reduce blog bounce rate</title>
-      <link>https://www.carnaghan.com/5-smart-ways-to-reduce-blog-bounce-rate/</link>
+      <link>http://localhost:1313/5-smart-ways-to-reduce-blog-bounce-rate/</link>
       <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/5-smart-ways-to-reduce-blog-bounce-rate/</guid>
+      <guid>http://localhost:1313/5-smart-ways-to-reduce-blog-bounce-rate/</guid>
       <description>&lt;p&gt;In my perspective, bounce rate (BR) is one of the major search engine ranking signals for a blog. If it&amp;rsquo;s below 70, search engines like Bing, Google will love your site, and they&amp;rsquo;ll rank it higher than low-quality sites. If your site&amp;rsquo;s BR is high (above 90), it will rank low in search engines. If you&amp;rsquo;re an owner of such website, use the below strategies to reduce bounce rate.&lt;/p&gt;
 &lt;h3 id=&#34;add-a-search-widget-in-sidebar&#34;&gt;Add a search widget in sidebar&lt;/h3&gt;
 &lt;p&gt;Believe it or not guys! The search bar is one of the most important elements on a blog. All top blogs in the world will have a search utility. When a visitor lands on your website and doesn&amp;rsquo;t find a relevant article, he/she will use the search utility to find a relevant article. If your blog navigation is not good, the search bar will come in rescue. If your site doesn&amp;rsquo;t have it, add a search bar immediately. You can create one for your blog with Google CSE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Commentluv review : WP plugin to increase referral traffic</title>
-      <link>https://www.carnaghan.com/commentluv-review-wp-plugin-to-increase-referral-traffic/</link>
+      <link>http://localhost:1313/commentluv-review-wp-plugin-to-increase-referral-traffic/</link>
       <pubDate>Sat, 09 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/commentluv-review-wp-plugin-to-increase-referral-traffic/</guid>
+      <guid>http://localhost:1313/commentluv-review-wp-plugin-to-increase-referral-traffic/</guid>
       <description>&lt;p&gt;Commentluv is a powerful WordPress plugin that comes in 2 versions – free &amp;amp; paid. The free version can be found in WordPress.org directory, and it has limited features. The premium or paid variant of CommentLuv offers many interesting and useful utilities that help a webmaster in many ways. When paid or free version of this plugin is active on a blog, visitors will be able to add any of the ten latest posts in the comments. Commentluv premium plugin maintains the number of clicks on a link generated by it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>4 best methods to monetize a blog and make good money online</title>
-      <link>https://www.carnaghan.com/4-best-methods-to-monetize-a-blog-and-make-good-money-online/</link>
+      <link>http://localhost:1313/4-best-methods-to-monetize-a-blog-and-make-good-money-online/</link>
       <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/4-best-methods-to-monetize-a-blog-and-make-good-money-online/</guid>
+      <guid>http://localhost:1313/4-best-methods-to-monetize-a-blog-and-make-good-money-online/</guid>
       <description>&lt;p&gt;Have a blog and want to start making money online with it? We&amp;rsquo;ve shortlisted the most widely used website monetization strategies through this article. Many bloggers around the world use these monetization methods and they have been successful so far. To execute these strategies successfully, make sure that your website gets minimum unique 200 visitors every day through search engines or social networks. If you don&amp;rsquo;t have a blog, go through this article Blogger vs WordPress and read our review of Hostgator and A small orange. You&amp;rsquo;ll get an idea of what online career and blogging is all about. Here are the 4 &lt;strong&gt;most widely used methods to monetize a blog&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How i increased blog traffic from search engines (Google &amp; Bing)</title>
-      <link>https://www.carnaghan.com/how-i-increased-blog-traffic-from-search-engines-google-bing/</link>
+      <link>http://localhost:1313/how-i-increased-blog-traffic-from-search-engines-google-bing/</link>
       <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-i-increased-blog-traffic-from-search-engines-google-bing/</guid>
+      <guid>http://localhost:1313/how-i-increased-blog-traffic-from-search-engines-google-bing/</guid>
       <description>&lt;p&gt;A Blog&amp;rsquo;s income directly depends on the number of visitors your site gets from search engines. In AdSense terms and conditions, it is clearly stated that a user should avoid all fake methods of generating traffic. Affiliate marketing doesn&amp;rsquo;t have strict terms and conditions. My blog&amp;rsquo;s traffic was down several times but I never gave up.&lt;/p&gt;
 &lt;p&gt;When I started with blogging, for the first 6 to 7 months, there were just 500 to 600 visitors/month to my site. When it was affected by a penalty, the traffic dropped to 100 or 200 visitors. These stats were not enough to generate a decent income nor was I eligible for AdSense program. Now the traffic has increased more than 10 times, 50 percent of my online income is from Adsense and the rest comes from four affiliate programs. Before the year 2016 ends, I expect my blog traffic to increase over 10000 UV/day. Here are the techniques I used to improve traffic to my blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to auto generate meta description tag in WordPress blogs</title>
-      <link>https://www.carnaghan.com/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</link>
+      <link>http://localhost:1313/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</link>
       <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</guid>
+      <guid>http://localhost:1313/how-to-auto-generate-meta-description-tag-in-wordpress-blogs/</guid>
       <description>&lt;p&gt;When it comes to blogging and search engine optimization, no other on-page element is as important as title and meta descriptions. According to Google webmaster guidelines, every page on a WordPress blog must have unique meta description and title.&lt;/p&gt;
 &lt;p&gt;If you don&amp;rsquo;t follow this guideline, your site won&amp;rsquo;t rank well in search engines, and if you&amp;rsquo;ve verified your blog with Google Webmaster tools, you&amp;rsquo;ll see duplicate tag warning in HTML improvements section of your GWT account. Meta description is one of the most important on-page elements as it is the first thing that a search engine users see (if your site appears in the search results) when they search for some information. If you&amp;rsquo;ve not added relevant keyword and a useful short information in this tag, the user will not visit your blog. Meta description length should not be less or more than 170 characters, and it shouldn&amp;rsquo;t be stuffed with keywords.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best solution to gravatar redirect chain problem on wp blogs</title>
-      <link>https://www.carnaghan.com/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</link>
+      <link>http://localhost:1313/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</guid>
+      <guid>http://localhost:1313/best-solution-to-gravatar-redirect-chain-problem-on-wp-blogs/</guid>
       <description>&lt;p&gt;Gravatar is one of the top software products of Automatic. It is used on 1000s of WordPress content management powered blogs. With this service, commentators are allowed to add their profile image that will appear alongside their comment on WordPress blogs. Gravatar is useful in many ways. It can increase user engagement on sites, and it saves a little bit of bandwidth because the commentator&amp;rsquo;s image will be served from Gravatar servers. It will also attract more comments on your blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SEMRush Free Trial account : Find Competitor Keywords and more</title>
-      <link>https://www.carnaghan.com/semrush-free-trial-account-find-competitor-keywords-and-more/</link>
+      <link>http://localhost:1313/semrush-free-trial-account-find-competitor-keywords-and-more/</link>
       <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/semrush-free-trial-account-find-competitor-keywords-and-more/</guid>
+      <guid>http://localhost:1313/semrush-free-trial-account-find-competitor-keywords-and-more/</guid>
       <description>&lt;p&gt;Professional bloggers are successful because they make wise use of SEO tools. For example, Pat Flynn, the owner of smart passive income has launched a few niche blogs that earn him over 5000 dollars every month. Patt is one of the most intelligent bloggers in the world. He makes more than 50000 dollars every month by promoting various products. He makes use of different keyword research tools.&lt;/p&gt;
 &lt;p&gt;Amit Agarwal, the top Indian blogger, initially used Google Keyword Planner to find relevant and high traffic keywords, as a result, his blog labnol generates more 2.5 million INR revenue through AdSense. Most of the articles on his site labnol.org rank on 1st page of Google.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fixing WordPress dashboard not working, showing up properly issue</title>
-      <link>https://www.carnaghan.com/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</link>
+      <link>http://localhost:1313/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</link>
       <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</guid>
+      <guid>http://localhost:1313/fixing-wordpress-dashboard-not-working-showing-up-properly-issue/</guid>
       <description>&lt;p&gt;WordPress is no doubt better than many other blogging platforms. As it is a self-hosted CMS, you&amp;rsquo;ll have to manage the site yourself. When you encounter technical issues, you or any other person with good knowledge of PHP, WP, htaccess, CSS should solve the problem. Blogger is user-friendly but it cannot be customized as WordPress. Technical issues in Blogger platform is handled by Google engineers.&lt;/p&gt;
 &lt;p&gt;Today, we&amp;rsquo;ll share 3 working solutions to one of the most frustrating WordPress issue i.e. locked or slow dashboard. If your WordPress site&amp;rsquo;s dashboard is not working, loading or showing up or if it is loading slow, don&amp;rsquo;t worry! Just follow the below instructions to restore access to the dashboard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easiest way to create SEO friendly WordPress slideshows</title>
-      <link>https://www.carnaghan.com/easiest-way-to-create-seo-friendly-wordpress-slideshows/</link>
+      <link>http://localhost:1313/easiest-way-to-create-seo-friendly-wordpress-slideshows/</link>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/easiest-way-to-create-seo-friendly-wordpress-slideshows/</guid>
+      <guid>http://localhost:1313/easiest-way-to-create-seo-friendly-wordpress-slideshows/</guid>
       <description>&lt;p&gt;Slideshows are attractive, aren&amp;rsquo;t they? Blogs with slideshows have a very less bounce rate, high level of user engagement and better conversion rate. Many webmasters embed a picture slideshow in their sites. This makes users spend more time on the sites which in turn increases its search engine rankings.&lt;/p&gt;
 &lt;p&gt;If you want to use an online tool to create slides, there&amp;rsquo;s no better tool than SlideShare. This tool can generate slideshow code. Thus, you can easily embed your slideshow on any blog/website. If you use this code, you will be wasting your page rank as the code will link your site to SlideShare without adding rel=&amp;ldquo;nofollow&amp;rdquo; attribute. The generated code will add an iframe to your site. Some search engines ignore the content in iframes. In such cases, you can use the best WordPress slideshow plugin, the Meta Slider. If you don&amp;rsquo;t use WordPress content management system, you can use a Jquery slideshow plugin. There are two main advantages of using the WP plugin:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Move WordPress site from one server to another with no downtime</title>
-      <link>https://www.carnaghan.com/move-wordpress-site-from-one-server-to-another-with-no-downtime/</link>
+      <link>http://localhost:1313/move-wordpress-site-from-one-server-to-another-with-no-downtime/</link>
       <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/move-wordpress-site-from-one-server-to-another-with-no-downtime/</guid>
+      <guid>http://localhost:1313/move-wordpress-site-from-one-server-to-another-with-no-downtime/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve managed to move my WordPress site from one server to another a couple of times with 0 seconds downtime and no loss of traffic. For a newbie, the transfer process can take almost an hour. For an experienced guy, the time will be reduced to 20 or 25 minutes. Migrating a WordPress site is impossible if you&amp;rsquo;re using a slow internet connection. So make sure that you&amp;rsquo;re a broadband user with a web speed of at least 1 or 2 MBPS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HostGator Review 2018 : Powerful servers and great uptime</title>
-      <link>https://www.carnaghan.com/hostgator-review-2018-powerful-servers-and-great-uptime/</link>
+      <link>http://localhost:1313/hostgator-review-2018-powerful-servers-and-great-uptime/</link>
       <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/hostgator-review-2018-powerful-servers-and-great-uptime/</guid>
+      <guid>http://localhost:1313/hostgator-review-2018-powerful-servers-and-great-uptime/</guid>
       <description>&lt;p&gt;Yesterday, the 1st of April might have been the best day for you but it was an awful day for me. My top site, which generates a decent income was down for nearly 4 hours in the daytime. The site was not accessible to 100s of search engine users from 12:30 PM to 4:20 PM. The downtime was due to a network issue and misconfiguration by ASO staff.&lt;/p&gt;
 &lt;p&gt;The network issue started around 12:30 PM and it was resolved after 45 minutes. The staff moved the affected domains to a new IP address but the mapping was not correct. So from 1:00 PM onwards, the homepage of my blog was being redirected to some shi*t site. This resulted in 100s of 404 errors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress security and malware removal plugins</title>
-      <link>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</link>
+      <link>http://localhost:1313/best-wordpress-security-and-malware-removal-plugins/</link>
       <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-security-and-malware-removal-plugins/</guid>
+      <guid>http://localhost:1313/best-wordpress-security-and-malware-removal-plugins/</guid>
       <description>&lt;p&gt;WordPress CMS has been prone to many online threats ever since Matt Mullenweg and the team officially launched it. The content management system is impressive, but you can’t stop hackers from attacking websites powered by WP. Attacks can be prevented by installing a WordPress security plugin. If the internet is the only source of your income, you shouldn&amp;rsquo;t risk your site. There are a lot of useful web tools that can keep your website safe. The best ones are listed below:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mailchimp latest Pricing, Review and Features</title>
-      <link>https://www.carnaghan.com/mailchimp-latest-pricing-review-and-features/</link>
+      <link>http://localhost:1313/mailchimp-latest-pricing-review-and-features/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mailchimp-latest-pricing-review-and-features/</guid>
+      <guid>http://localhost:1313/mailchimp-latest-pricing-review-and-features/</guid>
       <description>&lt;p&gt;Many bloggers believe that email marketing is the best strategy to have a loyal and regular audience. Thus, you&amp;rsquo;ll find an email opt-in widget on all popular blogs. There are a lot of email subscription service for blogs and in my perspective, Mailchimp tops the list. Mailchimp pricing is attractive, cheap and its features are powerful. The free version of MailChimp service allows you to change newsletter template, design, title. It can generate newsletter automatically from your blogs RSS feed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EWWW image optimizer reduces JPG, PNG file size on WP blogs</title>
-      <link>https://www.carnaghan.com/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</link>
+      <link>http://localhost:1313/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</link>
       <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</guid>
+      <guid>http://localhost:1313/ewww-image-optimizer-reduces-jpg-png-file-size-on-wp-blogs/</guid>
       <description>&lt;p&gt;Reducing jpg, png file size on self-hosted WordPress blogs will not only improve its load time but it will also increase the search engine rankings of your post. Google considers site speed as a ranking factor. There are two ways to reduce picture size before uploading to your blog. Install a standalone Windows or Linux software that will resize images or use a WP plugin. The 2nd option is better than the 1st. Ever since I started blogging, I used the WP-SmushIt plugin for the same. Last night, after updating the WP-smushIt plugin, I saw a message that Yahoo would be stopping its free version of WP-smushIt service and to continue using the plugin, I have to upgrade to pro version. This made me search for a WP-smushIt alternative. After doing a bit of internet research, I ended up installing EWWW. Here&amp;rsquo;s my review for the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best keyword density checker for WordPress (2018)</title>
-      <link>https://www.carnaghan.com/best-keyword-density-checker-for-wordpress-2018/</link>
+      <link>http://localhost:1313/best-keyword-density-checker-for-wordpress-2018/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-keyword-density-checker-for-wordpress-2018/</guid>
+      <guid>http://localhost:1313/best-keyword-density-checker-for-wordpress-2018/</guid>
       <description>&lt;p&gt;My technology blog was penalized at least 4 to 5 times. In my initial days of blogging career, I was not aware of terms like keyword density, on page SEO, backlinks, etc. I indulged myself in link building activities, and I was not focused on sharing top quality content. These three blogging mistakes killed my blog&amp;rsquo;s traffic up to 70 to 80%.&lt;/p&gt;
 &lt;p&gt;As they say, we learn from our mistakes and hard work pays off, I worked hard for 3 to 4 months to regain the lost traffic and rectified all errors that I committed. In those four months, I removed around 400 blog posts and improved the content quality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best backlink checker tools to check link profile of any website</title>
-      <link>https://www.carnaghan.com/best-backlink-checker-tools-to-check-link-profile-of-any-website/</link>
+      <link>http://localhost:1313/best-backlink-checker-tools-to-check-link-profile-of-any-website/</link>
       <pubDate>Sat, 21 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-backlink-checker-tools-to-check-link-profile-of-any-website/</guid>
+      <guid>http://localhost:1313/best-backlink-checker-tools-to-check-link-profile-of-any-website/</guid>
       <description>&lt;p&gt;One of the most discussed topics in SEO is backlink. Backlinks help a blog to get higher ranking in search engines. But they can be a reason for the death of your blog too. Backlinks can be created manually by the user or artificially via software. If you write a high-quality article which has unique content, your article will be referred to another website via a backlink.&lt;/p&gt;
 &lt;p&gt;Natural links are useful, and you should avoid creating links using any other method. Google has explicitly mentioned in its webmaster guidelines that it will show no mercy on sites that participate in link exchanges, link trades, 5etc. Google&amp;rsquo;s Penguin algorithm has proven to be a sworn enemy of websites with bad link profiles. The Penguin algorithm is refreshed every 3 or 4 months. Tools such as Mozcast and algoroo can make you aware of any Google update. Today, I&amp;rsquo;ll be sharing the best five most powerful tools to check backlinks. These tools can generate a report on the daily, monthly or yearly basis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autoptimize vs Better WordPress minify plugins</title>
-      <link>https://www.carnaghan.com/autoptimize-vs-better-wordpress-minify-plugins/</link>
+      <link>http://localhost:1313/autoptimize-vs-better-wordpress-minify-plugins/</link>
       <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/autoptimize-vs-better-wordpress-minify-plugins/</guid>
+      <guid>http://localhost:1313/autoptimize-vs-better-wordpress-minify-plugins/</guid>
       <description>&lt;p&gt;Page load times of WordPress CMS powered blogs can decrease if webmasters start using a caching plugin. The two most widely used plugins for caching are W3TC and WordPress super cache. These 2 plugins create static HTML files from all of your blog posts and it saves these files to the cache folder on a disk.&lt;/p&gt;
 &lt;p&gt;WordPress saves blog posts in database tables. When a search engine or a visitor requests it via permalink, WordPress loads the post from the database and it renders it as an HTML file.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Wordpress Related Posts Plugins (2018)</title>
-      <link>https://www.carnaghan.com/best-wordpress-related-posts-plugins-2018/</link>
+      <link>http://localhost:1313/best-wordpress-related-posts-plugins-2018/</link>
       <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-related-posts-plugins-2018/</guid>
+      <guid>http://localhost:1313/best-wordpress-related-posts-plugins-2018/</guid>
       <description>&lt;p&gt;Related posts plugins on blogs are useful in many ways. All blogs powered with WordPress content management system use them. They improve the internal linking structure of your website. They also help in reducing bounce rate of a website.&lt;/p&gt;
 &lt;p&gt;These plugins can be configured to show related posts on the sidebar as a widget. They can show relevant posts above or below a blog post with or without shortcodes. I&amp;rsquo;ve been blogging since the year 2013, and I&amp;rsquo;ve used these below best Wordpress related posts plugins on my blogs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best WordPress social media plugins (2018)</title>
-      <link>https://www.carnaghan.com/best-wordpress-social-media-plugins-2018/</link>
+      <link>http://localhost:1313/best-wordpress-social-media-plugins-2018/</link>
       <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-wordpress-social-media-plugins-2018/</guid>
+      <guid>http://localhost:1313/best-wordpress-social-media-plugins-2018/</guid>
       <description>&lt;p&gt;There was a time when search engines like MSN, Bing, Yahoo, and Google were considered as the only source of website traffic. Now things have changed a lot. Social network sites like FB, Twitter, Google+ are used by billions of people across the world. When you have a good audience on sites like Twitter, Facebook, Google Plus, Instagram, you don&amp;rsquo;t have to depend on search engines for website traffic. Blogs are probably incomplete without a social media plugin. These plugins make sharing of blog posts easier for visitors. Almost all websites (excluding social network sites) have such plugins installed on their website. Below are the three main advantages of these plugins:&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to start a blog: A Free Guide for beginners (2018)</title>
-      <link>https://www.carnaghan.com/how-to-start-a-blog-a-free-guide-for-beginners-2018/</link>
+      <link>http://localhost:1313/how-to-start-a-blog-a-free-guide-for-beginners-2018/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-start-a-blog-a-free-guide-for-beginners-2018/</guid>
+      <guid>http://localhost:1313/how-to-start-a-blog-a-free-guide-for-beginners-2018/</guid>
       <description>&lt;p&gt;If you want to start a blog, through the below points as we have shared a detailed guide for creating a new blog.&lt;/p&gt;
 &lt;h2 id=&#34;step-by-step-guide-for-starting-a-blog&#34;&gt;Step-by-step guide for starting a blog&lt;/h2&gt;
 &lt;h3 id=&#34;1-choose-a-niche&#34;&gt;1) Choose a Niche&lt;/h3&gt;
@@ -772,9 +772,9 @@
     </item>
     <item>
       <title>Best Blogging Platform : Blogger vs WordPress Comparision</title>
-      <link>https://www.carnaghan.com/best-blogging-platform-blogger-vs-wordpress-comparision/</link>
+      <link>http://localhost:1313/best-blogging-platform-blogger-vs-wordpress-comparision/</link>
       <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-blogging-platform-blogger-vs-wordpress-comparision/</guid>
+      <guid>http://localhost:1313/best-blogging-platform-blogger-vs-wordpress-comparision/</guid>
       <description>&lt;p&gt;WordPress and Blogger are 2 of the most popular blogging platforms/content management systems of all time. They are free to use. These 2 platforms are so powerful that users can build/launch a new website within a couple of minutes.&lt;/p&gt;
 &lt;p&gt;As a newbie, I used Blogger platform as I didn&amp;rsquo;t want to risk my money in an adventure that I&amp;rsquo;ve never been a part of before. After 5 - 6 months, I migrated my site to WordPress. Well, if you&amp;rsquo;re starting up with blogging and if you&amp;rsquo;re confused in choosing the best blogging platform for you then please go through the below paragraphs:&lt;/p&gt;</description>
     </item>

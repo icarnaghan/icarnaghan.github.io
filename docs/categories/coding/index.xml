@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coding on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/categories/coding/</link>
+    <link>http://localhost:1313/categories/coding/</link>
     <description>Recent content in Coding on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TypeScript Demystified</title>
-      <link>https://www.carnaghan.com/typescript-demystified/</link>
+      <link>http://localhost:1313/typescript-demystified/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/typescript-demystified/</guid>
+      <guid>http://localhost:1313/typescript-demystified/</guid>
       <description>&lt;p&gt;TypeScript can be a confusing term for anyone new to JavaScript development. The first impression of TypeScript for beginners is that it is a programming language, more or less, similar to JavaScript. Even professionals with enough coding experience often fail to define TypeScript. So how can we put the answer to this question - What is TypeScript?&lt;/p&gt;
 &lt;p&gt;TypeScript is a superset of JavaScript. It has optional static typing, classes, and interfaces. TypeScript is not a separate programming language, what makes it different from JavaScript lies in part of its name - &lt;em&gt;Type&lt;/em&gt;. Every programming language has data types, In JavaScript these include the commonly used number, string, boolean, etc. To understand TypeScript, we first need to understand how JavaScript behaves with its data types.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Started with Entity Modeling in OpenText AppWorks</title>
-      <link>https://www.carnaghan.com/getting-started-with-entity-modeling-in-opentext-appworks/</link>
+      <link>http://localhost:1313/getting-started-with-entity-modeling-in-opentext-appworks/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/getting-started-with-entity-modeling-in-opentext-appworks/</guid>
+      <guid>http://localhost:1313/getting-started-with-entity-modeling-in-opentext-appworks/</guid>
       <description>&lt;p&gt;AppWorks provides a handy feature for modeling business objects through the use of entities. Objects could take the form of any aspect of a business application you are building. For example, if you needed to write an application that would be used as part of a school&amp;rsquo;s administration system you may include entities that represented objects such as teachers, students, courses, lessons, and so on. AppWorks provides a nice interface for managing these different types of entities and even lets you build relationships. The term entity modeling is not new to this platform, the concept behind this has been around for a long time, but it has traditionally been the responsibility of database engineers or software developers to define. The low-code platform AppWorks provides now enables business analysts to define these entities and relationships, without the need to have a software engineering background.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Low-Code Development with OpenText AppWorks</title>
-      <link>https://www.carnaghan.com/low-code-development-with-opentext-appworks/</link>
+      <link>http://localhost:1313/low-code-development-with-opentext-appworks/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/low-code-development-with-opentext-appworks/</guid>
+      <guid>http://localhost:1313/low-code-development-with-opentext-appworks/</guid>
       <description>&lt;p&gt;OpenText AppWorks is an application development platform that enables rapid creation of software designed to meet business problems. It&amp;rsquo;s low-code capabilities means that we can involve requirements specialists and business analysts in the development process while working along-side developers implementing more advanced services integrations and business processes. A few months ago I wrote a couple of articles outlining how to install AppWorks locally using Docker as well as setting up a version control system for your applications using SVN. If you are interested in setting up AppWorks as a development environment, I highly recommend checking these out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding Asynchronous JavaScript</title>
-      <link>https://www.carnaghan.com/understanding-asynchronous-javascript/</link>
+      <link>http://localhost:1313/understanding-asynchronous-javascript/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/understanding-asynchronous-javascript/</guid>
+      <guid>http://localhost:1313/understanding-asynchronous-javascript/</guid>
       <description>&lt;p&gt;The term &amp;ldquo;asynchronous&amp;rdquo; is often associated with JavaScript, which can be a confusing concept, especially for beginners. This can become even more confusing because JavaScript is a synchronous language with asynchronous capabilities. In order to understand asynchronous development in general, we need to start with the difference between synchronous and asynchronous programming. In simple terms, executing one task or item at a time is often referred to as synchronous, while executing multiple tasks (or threads) at a time is referred to as asynchronous.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding Higher Order Functions in JavaScript</title>
-      <link>https://www.carnaghan.com/understanding-higher-order-functions-in-javascript/</link>
+      <link>http://localhost:1313/understanding-higher-order-functions-in-javascript/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/understanding-higher-order-functions-in-javascript/</guid>
+      <guid>http://localhost:1313/understanding-higher-order-functions-in-javascript/</guid>
       <description>&lt;p&gt;A function is an organized block of code that is created for a specific task. It can accept and return values. The main purpose of using functions is for code reusability and organization. In JavaScript, functions can be considered &amp;lsquo;higher-order&amp;rsquo;. To better understand this term, we need to look at some basic concepts related to JavaScript functions.&lt;/p&gt;
 &lt;h2 id=&#34;functions-in-javascript&#34;&gt;Functions in JavaScript&lt;/h2&gt;
 &lt;p&gt;Take a look at the following code snippet:&lt;/p&gt;
@@ -58,30 +58,30 @@
     </item>
     <item>
       <title>Quick Intro to Express.js</title>
-      <link>https://www.carnaghan.com/quick-intro-to-express.js/</link>
+      <link>http://localhost:1313/quick-intro-to-express.js/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/quick-intro-to-express.js/</guid>
+      <guid>http://localhost:1313/quick-intro-to-express.js/</guid>
       <description>&lt;p&gt;If you have ever come across Node.js, then you may have heard the word &amp;ldquo;Express.js&amp;rdquo;. Express is also a part of popular full-stack web development stacks - MEAN and MERN. M, A/R, and N, meaning MongoDB, Angular/React, and Node.js, respectively are very popular in the web development community, while E, i.e. Express.js is unpopular. Many developers who work with MEAN or MERN stack don&amp;rsquo;t even know what is the exact meaning of express. So in this article, we will discuss express.js with examples.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Up and Running in Node.js for Beginners</title>
-      <link>https://www.carnaghan.com/up-and-running-in-node.js-for-beginners/</link>
+      <link>http://localhost:1313/up-and-running-in-node.js-for-beginners/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/up-and-running-in-node.js-for-beginners/</guid>
+      <guid>http://localhost:1313/up-and-running-in-node.js-for-beginners/</guid>
       <description>&lt;p&gt;The word &amp;ldquo;Node.js&amp;rdquo; is very popular today in the web development community. Everyone is talking about Node.js. The IT giants, startups, everyone wants Node.js developers. But what is Node.js and why it is so popular? Simply put, Node.js is nothing but JavaScript outside the browser. Yes, you read it right. Node.js is JavaScript that runs outside the browser. Not much difference, right? But no doubt, Node.js is one of the most popular &amp;ldquo;language&amp;rdquo; today. So in this article, we will discuss everything about Node.js. Before we jump to node.js, let&amp;rsquo;s talk about JavaScript first.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding the Role of Kubernetes in Application Development</title>
-      <link>https://www.carnaghan.com/understanding-the-role-of-kubernetes-in-application-development/</link>
+      <link>http://localhost:1313/understanding-the-role-of-kubernetes-in-application-development/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/understanding-the-role-of-kubernetes-in-application-development/</guid>
+      <guid>http://localhost:1313/understanding-the-role-of-kubernetes-in-application-development/</guid>
       <description>&lt;p&gt;Traditional software application development depended upon a mirroring of all conditions across launch environments including the supporting hardware structure and configuration, the operating system, and the asset files. Even slight variations between the development environment and the launch environment can result in application error or failure. This model of software development and launch created needless complexity, taxing limited server resources. The development and implementation of Kubernetes has eliminated most of these issues, smoothing out the path from development and testing to launch and implementation. Understanding the role of Kubernetes in your application development is essential if you are to avoid many of these application development and launch issues.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating a Super Simple JavaScript Validated Form</title>
-      <link>https://www.carnaghan.com/creating-a-super-simple-javascript-validated-form/</link>
+      <link>http://localhost:1313/creating-a-super-simple-javascript-validated-form/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/creating-a-super-simple-javascript-validated-form/</guid>
+      <guid>http://localhost:1313/creating-a-super-simple-javascript-validated-form/</guid>
       <description>&lt;p&gt;There are times when you need to create a basic HTML form that provides validation to end users. Without leveraging a framework or additional libraries, this can be easily achieved by using JavaScript directly. This article walks through the basic steps of creating a simple validated form using basic selectors and error handling. Our requirements are:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;For successful submission, all fields must be entered correctly within our validation rules&lt;/li&gt;
@@ -93,231 +93,231 @@
     </item>
     <item>
       <title>Setting up a Local SVN Container for your AppWorks Development Environment</title>
-      <link>https://www.carnaghan.com/setting-up-a-local-svn-container-for-your-appworks-development-environment/</link>
+      <link>http://localhost:1313/setting-up-a-local-svn-container-for-your-appworks-development-environment/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/setting-up-a-local-svn-container-for-your-appworks-development-environment/</guid>
+      <guid>http://localhost:1313/setting-up-a-local-svn-container-for-your-appworks-development-environment/</guid>
       <description>&lt;p&gt;In my last post I walked through the process of setting up a local instance of AppWorks 20.2 using the container image from OpenText. Any development work ideally should be managed in Version Control System (VCS). The preferred VCS for OpenText AppWorks is Subversion (SVN). It has been a long time since I used SVN so I needed to quickly bring myself up to speed. Thankfully there is a handy quick start guide at Apache that walks through the various SVN commands. Once you have SVN installed, the &amp;lsquo;svn help&amp;rsquo; command also provides a nice breakdown of everything you would need to know to successfully navigate an SVN repository. Since I&amp;rsquo;m already using Docker for my AppWorks installation, it makes sense that I would also want to use this platform to run my SVN server.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Standing up OpenText AppWorks 20.2 Docker Containers in 10 Minutes</title>
-      <link>https://www.carnaghan.com/standing-up-opentext-appworks-20.2-docker-containers-in-10-minutes/</link>
+      <link>http://localhost:1313/standing-up-opentext-appworks-20.2-docker-containers-in-10-minutes/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/standing-up-opentext-appworks-20.2-docker-containers-in-10-minutes/</guid>
+      <guid>http://localhost:1313/standing-up-opentext-appworks-20.2-docker-containers-in-10-minutes/</guid>
       <description>&lt;p&gt;The latest version of OpenText AppWorks Cloud Edition (CE) 20.2 was recently released and promises to improve &amp;ldquo;developer agility through simplification and improved visibility with a new List Designer, new Action Bar Designer and added support for full translation of layouts.&amp;rdquo; In addition this release comes available packaged in a Docker container, which makes it much easier to setup locally as a development environment or to simply try out the new features of this release.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Regular Expressions in JavaScript</title>
-      <link>https://www.carnaghan.com/regular-expressions-in-javascript/</link>
+      <link>http://localhost:1313/regular-expressions-in-javascript/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/regular-expressions-in-javascript/</guid>
+      <guid>http://localhost:1313/regular-expressions-in-javascript/</guid>
       <description>&lt;p&gt;In programming, there are many ways to work with strings. A performant way to work with them is through the use of Regular expressions, also known as Regex.&lt;/p&gt;
 &lt;p&gt;By using regular expressions, you can search for a substring within a string, replace a substring within a string, and extract information from that string. Regular expressions are supported in almost every language. There can be small differences, but the general concept is the same. Javascript is one of the few languages that has direct built-in support for regular expressions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Important Features of ES6</title>
-      <link>https://www.carnaghan.com/important-features-of-es6/</link>
+      <link>http://localhost:1313/important-features-of-es6/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/important-features-of-es6/</guid>
+      <guid>http://localhost:1313/important-features-of-es6/</guid>
       <description>&lt;p&gt;EcmaScript is the standardized scripting language that JavaScript and some other languages, like ActionScript implement. JavaScript was invented by Brendan Eich in 1995 and became an ECMA standard in 1997. ECMAScript 2015 is version 6 of the ECMA Script programming language therefore known as ES6. There are many new features in ES6 which are listed below.&lt;/p&gt;
 &lt;h2 id=&#34;block-scoping&#34;&gt;Block Scoping&lt;/h2&gt;
 &lt;p&gt;The lack of block scoping created confusion in ES5. A new keyword &lt;strong&gt;let&lt;/strong&gt; works similarly to var but the variable it declares is block-scoped and exists within the current block only.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Manipulating the Document Object Model (DOM)</title>
-      <link>https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom/</link>
+      <link>http://localhost:1313/javascript-manipulating-the-document-object-model-dom/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom/</guid>
+      <guid>http://localhost:1313/javascript-manipulating-the-document-object-model-dom/</guid>
       <description>&lt;p&gt;The way in which logical structure of a document is accessed and manipulated in HTML is known as Document Object Model or DOM. It is a programming interface for HTML. Whenever a document loads in the browser, a tree-like (or forest) structure is created. Methods provided by the DOM can be used to access and manipulate this tree programmatically.&lt;/p&gt;
 &lt;h2 id=&#34;why-use-dom&#34;&gt;Why use DOM?&lt;/h2&gt;
 &lt;p&gt;The DOM is used to access and manipulate elements in an HTML document. But why do we need to use the DOM for this? Let&amp;rsquo;s understand this by use of an example. Let&amp;rsquo;s suppose we have an input field and a button next to it. When the button is clicked, whatever typed in the input field should appear below the input field. How can we do this with plain HTML? We need to dynamically access the value of the input field on the button click and then display the value below in a paragraph. We will implement this example, but first, we should discuss DOM methods that will be needed for accessing and manipulating elements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top Ten Angular Extensions for Visual Studio Code</title>
-      <link>https://www.carnaghan.com/top-ten-angular-extensions-for-visual-studio-code/</link>
+      <link>http://localhost:1313/top-ten-angular-extensions-for-visual-studio-code/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-ten-angular-extensions-for-visual-studio-code/</guid>
+      <guid>http://localhost:1313/top-ten-angular-extensions-for-visual-studio-code/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve been doing any development in Angular, the chances are you have been using Visual Studio Code (VS Code) for your editor. If you haven&amp;rsquo;t been using Visual Studio Code, I highly recommend checking it out. There are a number of extensions that I have come to rely on that greatly simplify my development workflow listed below. I&amp;rsquo;ve included my favorite top ten with their descriptions and links below. To install them, simply start VS Code and open the command palette (Ctrl-Shift-P) Windows / Linux or (Cmd-Shift-P) Mac, and select Install Extension. Choose the extension name from the list and once installed reload/restart Visual Studio Code. Hopefully you will find these extensions as useful I do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Objects</title>
-      <link>https://www.carnaghan.com/javascript-objects/</link>
+      <link>http://localhost:1313/javascript-objects/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-objects/</guid>
+      <guid>http://localhost:1313/javascript-objects/</guid>
       <description>&lt;p&gt;The last couple of lessons focused on arrays, and hopefully by now you will have come to see the value of using them in your code. Objects expand on the concept of arrays, except for a few differences, which provide greater control of the data stored. It is said, in Javascript, &amp;ldquo;Almost everything is objects&amp;rdquo;. Dates are always objects, Arrays are always objects, functions are always objects, and regular expressions are always objects. Primitive data types such as Numbers, Boolean and Strings are also objects when defined with the new keyword.&lt;/p&gt;</description>
     </item>
     <item>
       <title>7 Ways to Improve Your Site&#39;s Crawlability (And Why You Should)</title>
-      <link>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</link>
+      <link>http://localhost:1313/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</guid>
+      <guid>http://localhost:1313/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</guid>
       <description>&lt;p&gt;While keyword research, link-building, content optimization, and other on-page strategies can improve your domain&amp;rsquo;s search ranking, search engine optimization (SEO) starts with getting your pages indexed and to do that you need to ensure they&amp;rsquo;re crawler-friendly.&lt;/p&gt;
 &lt;p&gt;Crawler bots, like human users, appreciate sites which have clear, structured, readable data. However, since crawlers can only spend a limited amount of time and resources per site, domains with incoherent site maps, broken links, or 404 errors might not get indexed at all, effectively invisibilizing it for all potential users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Object-Oriented Programming Demystified</title>
-      <link>https://www.carnaghan.com/object-oriented-programming-demystified/</link>
+      <link>http://localhost:1313/object-oriented-programming-demystified/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/object-oriented-programming-demystified/</guid>
+      <guid>http://localhost:1313/object-oriented-programming-demystified/</guid>
       <description>&lt;p&gt;Object-oriented programming (OOP) is the most common programming type and an essential part of popular programming languages, such as Java, C++ and C#. Its name offers an insight into how OOP languages work, which is by revolving around objects and using objects to get things done. The term object refers to a chunk of code that acts together as a whole and can be reused at any time, as well as interact with other objects. Some of the very basic elements of OOP include objects, classes and methods. Object-oriented programming works in a way that enables programmers to reuse their code and use it in multiple different instances, without having to write the code all over again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Arrow Functions: How Do They Work?</title>
-      <link>https://www.carnaghan.com/javascript-arrow-functions-how-do-they-work/</link>
+      <link>http://localhost:1313/javascript-arrow-functions-how-do-they-work/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-arrow-functions-how-do-they-work/</guid>
+      <guid>http://localhost:1313/javascript-arrow-functions-how-do-they-work/</guid>
       <description>&lt;p&gt;ES6 introduced a number of exciting features to the JavaScript standard classes, string templates, array and object de-structuring, block-scope variable declarations with &amp;ldquo;let&amp;rdquo; and &amp;ldquo;const&amp;rdquo;, and perhaps the most visible new feature, arrow functions. Arrow functions have quickly become the standard way of writing functions among professional JavaScript developers. Because they are so widespread, it&amp;rsquo;s essential for every JavaScript programmer to understand arrow functions - what they are, how to write them, and how they are different from ordinary functions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Closures</title>
-      <link>https://www.carnaghan.com/javascript-closures/</link>
+      <link>http://localhost:1313/javascript-closures/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-closures/</guid>
+      <guid>http://localhost:1313/javascript-closures/</guid>
       <description>&lt;p&gt;Anyone who has worked in JavaScript for any amount of time will likely come across concepts that require a deeper level of study in order to fully understand. Closures is certainly one of those areas that has caused me to review and experiment with several times. The purpose of this article is to provide a succinct overview of closures and offer several snippets of code to play around with in order to better understand this often tricky to grasp concept. Consciously or Unconsciously, most developers use closures while programming in JavaScript. Most of the time, everything works fine, but it is always better to understand how they work as they provide better control over your code. Moreover, at some point you might be asked to explain what closures are and hopefully by the end of this you will be in a much better position to do that. So let&amp;rsquo;s start with what a closure is. A simplified explanation would be that a closure is an inner function that has access to the variables of the outer function. This is called the scope chain. See my earlier article on JavaScript Scope if you need a refresher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning to Program in TIC-80, a Fantasy Console</title>
-      <link>https://www.carnaghan.com/learning-to-program-in-tic-80-a-fantasy-console/</link>
+      <link>http://localhost:1313/learning-to-program-in-tic-80-a-fantasy-console/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/learning-to-program-in-tic-80-a-fantasy-console/</guid>
+      <guid>http://localhost:1313/learning-to-program-in-tic-80-a-fantasy-console/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re 40 years old or older, you might have learned how to use a computer on an old Commodore 64, Apple II or another computer about the same age. One of the things you probably learned about was the BASIC programming language. Maybe you were lucky enough to have a computer at home. One thing you probably learned was that if you wanted to play games, one way was to buy computer magazines at the bookstore and type in published source code. If you&amp;rsquo;re like some people, you learned a few things about programming from typing in those games, and went on to write your own. &lt;/p&gt;</description>
     </item>
     <item>
       <title>AWS CodePipeline for Static Websites</title>
-      <link>https://www.carnaghan.com/aws-codepipeline-for-static-websites/</link>
+      <link>http://localhost:1313/aws-codepipeline-for-static-websites/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/aws-codepipeline-for-static-websites/</guid>
+      <guid>http://localhost:1313/aws-codepipeline-for-static-websites/</guid>
       <description>&lt;p&gt;AWS offers an immense array of features for deploying and managing complex sites. There are however a lot of use cases where you want to quickly setup an easy to use pipeline for deploying static websites (without a build process). I am going to cover how to get started using AWS to setup a basic no-frills web server using an easy-to-use deployment setup via AWS code repository and deployment services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Arrays - Properties and Methods</title>
-      <link>https://www.carnaghan.com/javascript-arrays-properties-and-methods/</link>
+      <link>http://localhost:1313/javascript-arrays-properties-and-methods/</link>
       <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-arrays-properties-and-methods/</guid>
+      <guid>http://localhost:1313/javascript-arrays-properties-and-methods/</guid>
       <description>&lt;p&gt;We are going to cover some of the most commonly used properties and methods in JavaScript, for working with arrays. There are a lot of other methods which are not covered here, including newer ES6 methods. The goal here is to get you started working with arrays and gaining an understanding of the fundamental ways we can access and manipulate data. The table below summarizes the various methods we will cover in this lesson:&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Arrays - Fundamentals</title>
-      <link>https://www.carnaghan.com/javascript-arrays-fundamentals/</link>
+      <link>http://localhost:1313/javascript-arrays-fundamentals/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-arrays-fundamentals/</guid>
+      <guid>http://localhost:1313/javascript-arrays-fundamentals/</guid>
       <description>&lt;p&gt;Earlier we looked at datatypes and variables. Arrays take the concept of a variable or binding one step further and allow us to form groups of values within a data structure, which we can then manage in our code. A good use for an array is a list of data. Arrays not only let you group data, but they offer a range of tools or methods to update and manipulate their contents. They are used commonly across different programming languages and have become a routine way of passing around data within applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Scope</title>
-      <link>https://www.carnaghan.com/javascript-scope/</link>
+      <link>http://localhost:1313/javascript-scope/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-scope/</guid>
+      <guid>http://localhost:1313/javascript-scope/</guid>
       <description>&lt;p&gt;Scope determines what variables or bindings are available to JavaScript within its current context. For example, if a variable is defined outside of any functions within your code (often referred to as the main call stack), these variables are available to all other code embedded within other blocks and functions. Variables defined in main are often referred to as &amp;lsquo;Global Variables&amp;rsquo; because they are globally available throughout your application. But what about those variables that are defined within functions?&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Call Stack</title>
-      <link>https://www.carnaghan.com/javascript-call-stack/</link>
+      <link>http://localhost:1313/javascript-call-stack/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-call-stack/</guid>
+      <guid>http://localhost:1313/javascript-call-stack/</guid>
       <description>&lt;p&gt;In earlier lessons, we wrote code without using any functions. Now that you have been introduced to the various ways we can organize our code within function declarations and expressions, it is helpful to step back for a moment to understand the flow of execution within our code. JavaScript uses a call stack to in order to manage this flow, which is essentially a data structure (or to-do list) that keeps track of function calls using a Last In First Out (LIFO) ordering system. Let&amp;rsquo;s take a look at an example to help explain this concept.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Functions</title>
-      <link>https://www.carnaghan.com/javascript-functions/</link>
+      <link>http://localhost:1313/javascript-functions/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-functions/</guid>
+      <guid>http://localhost:1313/javascript-functions/</guid>
       <description>&lt;p&gt;Functions are repeatable blocks of code. They are fundamental to most programming languages and allow you to build applications with reusable code that can be called with different arguments. The best way to explain functions is through an example. Suppose you wanted a quick way to calculate how much your bill would be with tip (assume for this example the bill amount includes tax).&lt;/p&gt;
 &lt;h2 id=&#34;try-it-out&#34;&gt;&lt;strong&gt;→ Try it out&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Create two files called &lt;strong&gt;index.html&lt;/strong&gt; and &lt;strong&gt;script.js&lt;/strong&gt; and enter the code below into each. Alternatively, if you followed along in the previous lesson, use the existing script.js file and replace its content with code below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Loops</title>
-      <link>https://www.carnaghan.com/javascript-loops/</link>
+      <link>http://localhost:1313/javascript-loops/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-loops/</guid>
+      <guid>http://localhost:1313/javascript-loops/</guid>
       <description>&lt;p&gt;Often in programming, we need to carry out similar instructions a number of different times. Loops help reduce redundant code and let you quickly offload repetitive tasks to the computer. In JavaScript there are several types of loops. In this lesson we are going to examine while, do while, and for loops.&lt;/p&gt;
 &lt;h2 id=&#34;while-and-do-while-loops&#34;&gt;While and Do While loops&lt;/h2&gt;
 &lt;p&gt;As their names suggest, while and do while loops carry out a number of tasks &amp;lsquo;while&amp;rsquo; a certain condition is true. Take for example the need to display a series of  numbers each incrementing by 1 until it we reach a certain limit (10). This could be carried out by writing the following code:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using JavaScript Fetch API to Retrieve sample JSON data</title>
-      <link>https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/</link>
+      <link>http://localhost:1313/using-javascript-fetch-api-to-retrieve-sample-json-data/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/</guid>
+      <guid>http://localhost:1313/using-javascript-fetch-api-to-retrieve-sample-json-data/</guid>
       <description>&lt;p&gt;A while ago I wrote an article called Using jQuery.AJAX() to Retrieve Sample JSON Data. Since this time I&amp;rsquo;ve been slowly using more and more native JavaScript to get things done, so I thought it was time to revisit this concept using the fetch() API.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It has been very convenient over the years to use jQuery to simplify tasks that otherwise would have been more challenging to write in native JavaScript. Since ES6 has become pretty much mainstream nowadays, it is safe to take advantage of some of the features and benefits it brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Conditional Statements</title>
-      <link>https://www.carnaghan.com/javascript-conditional-statements/</link>
+      <link>http://localhost:1313/javascript-conditional-statements/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-conditional-statements/</guid>
+      <guid>http://localhost:1313/javascript-conditional-statements/</guid>
       <description>&lt;p&gt;Conditional statements (commonly called if statements) provide a way for JavaScript to make decisions and run specified code based on a set of criteria. In JavaScript, the criteria or condition is surrounded in parenthesis and the resulting code to run is contained in a block. Up until now, we have been examining single line statements. In JavaScript, a block of code is surrounded by curly braces. Let&amp;rsquo;s look at an example.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Operators</title>
-      <link>https://www.carnaghan.com/javascript-operators/</link>
+      <link>http://localhost:1313/javascript-operators/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-operators/</guid>
+      <guid>http://localhost:1313/javascript-operators/</guid>
       <description>&lt;p&gt;JavaScript provides different kinds of operators which enable us to perform actions on given values or variables used in our code. As you develop more complex code, you will come to rely on operators for performing the various functionally you are building. Before we dive into operators, let&amp;rsquo;s clear up a couple of fundamental programming terms, statements and expressions.&lt;/p&gt;
 &lt;p&gt;A statement is a line of code or action that consist of values, variables, and operators. In the last lesson you created several statements that assigned values to variables using the assignment = operator. &lt;strong&gt;Statements can set values but do not become values themselves&lt;/strong&gt;. Statements end with a semi-colon. In contrast, an expression is a piece of code that resolves to a value, i.e. values, calculations resulting in other values, variables, and groups of variables.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript Data Types, Values, and Variables</title>
-      <link>https://www.carnaghan.com/javascript-data-types-values-and-variables/</link>
+      <link>http://localhost:1313/javascript-data-types-values-and-variables/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/javascript-data-types-values-and-variables/</guid>
+      <guid>http://localhost:1313/javascript-data-types-values-and-variables/</guid>
       <description>&lt;p&gt;JavaScript is one of the three core technologies used to build websites and web applications. Alongside HTML and CSS, JavaScript provides the interactive functionality commonly used throughout the web. In this lesson you will be introduced to some of the core concepts of JavaScript.&lt;/p&gt;
 &lt;p&gt;To follow along, you will need a modern web browser, such as Google Chrome or equivalent with developer tools. You will also need a capable text editor. I highly recommend Microsoft Visual Studio Code. The first concept we are going to cover in this lesson is variables. Variables are spaces of memory where you can store information of a certain type, that can be retrieved later in your code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poor Decisions Impacted by Bias in Software Development</title>
-      <link>https://www.carnaghan.com/poor-decisions-impacted-by-bias-in-software-development/</link>
+      <link>http://localhost:1313/poor-decisions-impacted-by-bias-in-software-development/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/poor-decisions-impacted-by-bias-in-software-development/</guid>
+      <guid>http://localhost:1313/poor-decisions-impacted-by-bias-in-software-development/</guid>
       <description>&lt;p&gt;Beyond Bias provides an excellent overview of the five different categories of biases, similarity, expedience, experience, distance, and safety. As someone who has worked in the software development field for a number of years, I have witnessed accounts of poor decision making and its ramifications within the organizations I have worked for. Specifically within software development I have witnessed poor decision making during proposal efforts, architectural decisions, and delivery.&lt;/p&gt;
 &lt;p&gt;Bidding on work, especially within the federal space, can be a time consuming and involved effort by many parties. On technical proposals, it is essential that the correct mix of people are part of the proposal team. I have observed how biases within the expedience domain can often come to play within business development. One project I was recently involved with in the last few years suffered from lack of technical input during the proposal phase, and availability and confirmation bias led the team to under bid the work. This had negative consequences on expectation of scope and delivery efforts later on. The situation could have been prevented by ensuring more technical expertise was placed within the team and those making the decisions affecting scope did an objective evidence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Web Development Tools for Beginners</title>
-      <link>https://www.carnaghan.com/web-development-tools-for-beginners/</link>
+      <link>http://localhost:1313/web-development-tools-for-beginners/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/web-development-tools-for-beginners/</guid>
+      <guid>http://localhost:1313/web-development-tools-for-beginners/</guid>
       <description>&lt;p&gt;So you are an individual with a passion for doing something big or someone who wants to share his ideas with the world. For both reasons the best way to make your name would be building a website. Perhaps, there could be many reasons you want a site. Maybe for your small business, an art website to lighten up the world with a fire inside your soul, create amazing ideas or just to spread positivity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Systems Integration Demystified</title>
-      <link>https://www.carnaghan.com/systems-integration-demystified/</link>
+      <link>http://localhost:1313/systems-integration-demystified/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/systems-integration-demystified/</guid>
+      <guid>http://localhost:1313/systems-integration-demystified/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;This post contains affiliate links. If you click through and make a purchase, I may receive a commission (at no additional cost to you). As an Amazon Associate I earn from qualifying purchases. This helps support the blog and allows me to continue to make free content. Thank you for your support!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;One of the benefits of working at a large organization is the opportunity to work with a considerable number of very bright and talented individuals. Recently I went through a role transition from traditionally supporting web based content management systems to supporting large interconnected systems. I was fortunate to connect with a colleague during that transition time who was well versed on the latest technologies and approaches in software development, specifically with a focus on distributed systems and modern systems integration. This post highlights five main areas that are worth research and understanding if modern-day systems integration projects is something you might be involved with in your current work or in the near future. My disclaimer is that I am not an expert in any of these domains, however I want to pass along good material that I will be studying further and is hopefully of benefit to others.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best IDE for PHP Web Development</title>
-      <link>https://www.carnaghan.com/best-ide-for-php-web-development/</link>
+      <link>http://localhost:1313/best-ide-for-php-web-development/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-ide-for-php-web-development/</guid>
+      <guid>http://localhost:1313/best-ide-for-php-web-development/</guid>
       <description>&lt;p&gt;PHP is a scripting language that powers over some of the busiest websites on the web. Several languages have been introduced since 2005. None of them have affected the popularity of PHP. Before IDEs were launched, seasoned developers and beginners used vi or notepad to write PHP code. Once the code was ready, developers moved the PHP file to the webapps folder of the web server to check whether their code is working as expected or not. If the browser didn&amp;rsquo;t display error, developers used to check log files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Where to buy AI domain for the best price?</title>
-      <link>https://www.carnaghan.com/where-to-buy-ai-domain-for-the-best-price/</link>
+      <link>http://localhost:1313/where-to-buy-ai-domain-for-the-best-price/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/where-to-buy-ai-domain-for-the-best-price/</guid>
+      <guid>http://localhost:1313/where-to-buy-ai-domain-for-the-best-price/</guid>
       <description>&lt;p&gt;The AI domain extension was launched in 1994/1995 for the use of companies and individuals based in a Carribean country Anguilla.&lt;/p&gt;
 &lt;p&gt;Google, the world&amp;rsquo;s largest search engine doesn&amp;rsquo;t display the information of Anguilla when you enter the search phrase as &amp;ldquo;AI&amp;rdquo;. Even Bing displays Artificial Intelligence search results for the search phrase &amp;ldquo;AI&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;In computer science, AI is an abbreviation for Artificial Intelligence. AI programs are self-learning applications that can be used for various purposes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Infrastructure Options for Hosting Multiple Drupal Sites</title>
-      <link>https://www.carnaghan.com/infrastructure-options-for-hosting-multiple-drupal-sites/</link>
+      <link>http://localhost:1313/infrastructure-options-for-hosting-multiple-drupal-sites/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/infrastructure-options-for-hosting-multiple-drupal-sites/</guid>
+      <guid>http://localhost:1313/infrastructure-options-for-hosting-multiple-drupal-sites/</guid>
       <description>&lt;p&gt;A project I was recently working on had in place a cloud-based infrastructure that was designed to support a single installation of the Drupal CMS running in Amazon Web Services (AWS). This infrastructure included an auto-scaling setup with load balancers hosting a &amp;lsquo;cache&amp;rsquo; layer and an &amp;lsquo;application&amp;rsquo; layer that hosted the Drupal CMS. On the backend tier, an AWS Relational Database Service (RDS) provided the MySQL database needed for the application. There were other components of the infrastructure such as our shared services for continuous integration, monitoring and development tools.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SSL Labs Rating Woes</title>
-      <link>https://www.carnaghan.com/ssl-labs-rating-woes/</link>
+      <link>http://localhost:1313/ssl-labs-rating-woes/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/ssl-labs-rating-woes/</guid>
+      <guid>http://localhost:1313/ssl-labs-rating-woes/</guid>
       <description>&lt;p&gt;I was recently notified that one of the sites I support was getting a &amp;lsquo;C&amp;rsquo; rating on SSL Labs. It turned out that there were three main issues that needed to be resolved. Two out of the three were relatively easy to find via the SSL Labs documentation, which required simple fixes to the ssl.conf file.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;This server is vulnerable to the POODLE attack. If possible, disable SSL 3 to mitigate&lt;/strong&gt;. This was relatively easy to fix. I resolved it by modifying ssl_protocols in the &lt;strong&gt;ssl.conf&lt;/strong&gt; file - thank you Digital Ocean for your &lt;strong&gt;comprehensive write-up&lt;/strong&gt; on this!&lt;/li&gt;
@@ -327,54 +327,54 @@
     </item>
     <item>
       <title>Top 10 Best VScode Extensions</title>
-      <link>https://www.carnaghan.com/top-10-best-vscode-extensions/</link>
+      <link>http://localhost:1313/top-10-best-vscode-extensions/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-10-best-vscode-extensions/</guid>
+      <guid>http://localhost:1313/top-10-best-vscode-extensions/</guid>
       <description>&lt;p&gt;Because of erroneous PHP and Java extensions, I&amp;rsquo;ve switched from Atom to Microsoft&amp;rsquo;s VSCode aka Visual Code Editor for writing applications.&lt;/p&gt;
 &lt;p&gt;VSCode is a powerful editor. With the help of some extensions, you can use VSCode as a replacement for RAM hogging Integrated Development Environments.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve just installed VScode and you&amp;rsquo;re searching for extensions that will improve your productivity, you&amp;rsquo;re at the right place. Below, I&amp;rsquo;ve shared the list of best Visual Code extensions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Helpful Resources for Understanding Web Application Security</title>
-      <link>https://www.carnaghan.com/helpful-resources-for-understanding-web-application-security/</link>
+      <link>http://localhost:1313/helpful-resources-for-understanding-web-application-security/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/helpful-resources-for-understanding-web-application-security/</guid>
+      <guid>http://localhost:1313/helpful-resources-for-understanding-web-application-security/</guid>
       <description>&lt;p&gt;As a developer, knowledge of web application security vulnerabilities is essential in order to build software that is both resilient to attacks and protected through a layered approach of defense. The cybersecurity landscape is constantly shifting, however a good understanding of the most common vulnerabilities is a great place to get started with security. Before reviewing the articles below, be sure to look at 10 Most Common Security Vulnerabilities. The list that follows are a handful of articles I&amp;rsquo;ve written over the years both in my graduate and professional work. They focus on application security specifically as well as an understanding of the people behind such attacks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sketching out your Perfect Website</title>
-      <link>https://www.carnaghan.com/sketching-out-your-perfect-website/</link>
+      <link>http://localhost:1313/sketching-out-your-perfect-website/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/sketching-out-your-perfect-website/</guid>
+      <guid>http://localhost:1313/sketching-out-your-perfect-website/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ve decided it&amp;rsquo;s time to start solidifying ideas for your ideal website. You have no doubt spent countless hours in the planning phase identifying your target audience, design considerations, and of course you have a solid idea of your overall content strategy. If you haven&amp;rsquo;t, then do yourself a favor and take a look at The Complete Guide to Building Your Personal Brand, What Makes an Effective Website? and How to Design a Website for a Specific Target Audience? before reading on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting to Know Git, Github and Open Source</title>
-      <link>https://www.carnaghan.com/getting-to-know-git-github-and-open-source/</link>
+      <link>http://localhost:1313/getting-to-know-git-github-and-open-source/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/getting-to-know-git-github-and-open-source/</guid>
+      <guid>http://localhost:1313/getting-to-know-git-github-and-open-source/</guid>
       <description>&lt;p&gt;Fundamental to all modern web development is a strong foundational knowledge of version control. In recent years Git has emerged as the go-to choice for many developers and continues to gain popularity. Github is a platform that uses Git for source control. It provides an environment that encourages and fosters community open source development. It is a great platform to publish and use for version control on your own web sites and projects. Below I have listed several resources for getting started with Git, Github, Github Pages and Open Source.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HTML5, CSS, and SEO Learning Resources</title>
-      <link>https://www.carnaghan.com/html5-css-and-seo-learning-resources/</link>
+      <link>http://localhost:1313/html5-css-and-seo-learning-resources/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/html5-css-and-seo-learning-resources/</guid>
+      <guid>http://localhost:1313/html5-css-and-seo-learning-resources/</guid>
       <description>&lt;p&gt;The HTML5 and CSS learning resources provided here supplement classroom materials for my CMST 386 class taught at the &lt;strong&gt;University of Maryland University College&lt;/strong&gt;. Please report any broken links in the LEO classroom. If you have any  suggestions for additional resources that could be added here, let me know. To access some of these resources you will need to sign up for a free account, which I cannot mandate in class.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nginx gzip_static: What it does and how to use it?</title>
-      <link>https://www.carnaghan.com/nginx-gzip_static-what-it-does-and-how-to-use-it/</link>
+      <link>http://localhost:1313/nginx-gzip_static-what-it-does-and-how-to-use-it/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/nginx-gzip_static-what-it-does-and-how-to-use-it/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;NGINX logo&#34; loading=&#34;lazy&#34; src=&#34;https://www.carnaghan.com/nginx-gzip_static-what-it-does-and-how-to-use-it/images/NGINX-logo.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/nginx-gzip_static-what-it-does-and-how-to-use-it/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;NGINX logo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/nginx-gzip_static-what-it-does-and-how-to-use-it/images/NGINX-logo.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Like other top web servers, Nginx lets webmasters enable Gzip compression for their websites. It can compress scripts and stylesheets in a web page on the fly. The Gzip file&amp;rsquo;s size is significantly lower than the original file. Nginx supports 9 Gzip compression levels.1 is the lowest and 9 is the highest. To gzip a file, Nginx will use invoke a function and the function will use system resources during the file conversion process. The function will take few milliseconds to execute.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google AMP pros and cons: Should you implement AMP on your website?</title>
-      <link>https://www.carnaghan.com/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</link>
+      <link>http://localhost:1313/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</guid>
+      <guid>http://localhost:1313/google-amp-pros-and-cons-should-you-implement-amp-on-your-website/</guid>
       <description>&lt;p&gt;After Googleweblight, AMP aka Accelerated Mobile Pages is the new initiative from the search engine giant Google to make the web fast. As of today, over 900K sites are powered by AMP.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve used AMP on my site for a month. Below, I&amp;rsquo;ve shared the Pros and Cons of Google AMP.&lt;/p&gt;
 &lt;h2 id=&#34;pros-of-google-amp-advantages&#34;&gt;Pros of Google AMP (Advantages)&lt;/h2&gt;
@@ -383,74 +383,74 @@
     </item>
     <item>
       <title>Lessons Learned using Drupal’s Domain Access Module</title>
-      <link>https://www.carnaghan.com/lessons-learned-using-drupals-domain-access-module/</link>
+      <link>http://localhost:1313/lessons-learned-using-drupals-domain-access-module/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/lessons-learned-using-drupals-domain-access-module/</guid>
+      <guid>http://localhost:1313/lessons-learned-using-drupals-domain-access-module/</guid>
       <description>&lt;p&gt;Over the last few months my team has been developing microsites to accompany our main website. The requirements for these sites included having their own domain, theme and separate content. After reviewing options in Drupal 7, I decided the best approach given our situation was to use the Domain Access Module. The Domain Access Module provides a very solid and powerful framework for developing additional sites within your existing Drupal CMS, but it can also be somewhat complicated to setup for any given use case. I have documented some of the lessons learned over the last few months as we implemented Domain Access in our own project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fix Remove Query Strings from Static Resources warning</title>
-      <link>https://www.carnaghan.com/fix-remove-query-strings-from-static-resources-warning/</link>
+      <link>http://localhost:1313/fix-remove-query-strings-from-static-resources-warning/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/fix-remove-query-strings-from-static-resources-warning/</guid>
+      <guid>http://localhost:1313/fix-remove-query-strings-from-static-resources-warning/</guid>
       <description>&lt;p&gt;Yesterday, I was checking the performance of one of my sites with GTmetrix and Pingdom tools. Although my site takes about 1 second to open in any browser, the tools were reporting remove query strings from static resources warning.&lt;/p&gt;
 &lt;p&gt;Anything that follows after the question mark i.e &amp;ldquo;?&amp;rdquo; is called a query string. You&amp;rsquo;ll find URLs with query strings on dynamic sites. If the site serves static content, it doesn&amp;rsquo;t make sense to use them. The website I&amp;rsquo;m talking about is a small blog. Hence, I decided to get rid of the warning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to move or renew LetsEncrypt SSL certificate manually?</title>
-      <link>https://www.carnaghan.com/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</link>
+      <link>http://localhost:1313/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</guid>
+      <guid>http://localhost:1313/how-to-move-or-renew-letsencrypt-ssl-certificate-manually/</guid>
       <description>&lt;p&gt;As mentioned in my earlier blog post, I am using LetsEncrypt free SSL certificate on one of my sites. The certificate was due to expire in few weeks. The CertBot dispatched an alert message for the same on my official email address.&lt;/p&gt;
 &lt;p&gt;As I&amp;rsquo;m using SSL for the first time and having several doubts in mind, I decided to renew LetsEncrypt certificate immediately. I fired the following command in the Linux terminal (10 days prior the certificate&amp;rsquo;s expiry date) and restarted Nginx.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Letsencrypt review: Should you use free SSL certificate?</title>
-      <link>https://www.carnaghan.com/letsencrypt-review-should-you-use-free-ssl-certificate/</link>
+      <link>http://localhost:1313/letsencrypt-review-should-you-use-free-ssl-certificate/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/letsencrypt-review-should-you-use-free-ssl-certificate/</guid>
+      <guid>http://localhost:1313/letsencrypt-review-should-you-use-free-ssl-certificate/</guid>
       <description>&lt;p&gt;After Google declared HTTPS as a ranking signal, thousands of sites have switched to HTTPS from HTTP. To secure your site with HTTPS, you must install an SSL certificate on the server and configure the web server to redirect HTTP traffic to HTTPS.&lt;/p&gt;
 &lt;p&gt;Before Let&amp;rsquo;s Encrypt Certificate Authority was launched in 2016, companies used to charge a hefty amount for providing SSL certificates. Now, you can easily get free SSL certificates to secure your personal or business portal, thanks to Let&amp;rsquo;s Encrypt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix logrotate not working problem?</title>
-      <link>https://www.carnaghan.com/how-to-fix-logrotate-not-working-problem/</link>
+      <link>http://localhost:1313/how-to-fix-logrotate-not-working-problem/</link>
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-fix-logrotate-not-working-problem/</guid>
+      <guid>http://localhost:1313/how-to-fix-logrotate-not-working-problem/</guid>
       <description>&lt;p&gt;If your app is appending the errors and website visitor&amp;rsquo;s IP address, browser data, etc to a log file, you should manually archive old log files or use Logrotate.&lt;/p&gt;
 &lt;p&gt;If you don&amp;rsquo;t do so, the server will run out of storage memory and your application may crash.&lt;/p&gt;
 &lt;p&gt;Logrotate is a powerful program that archives and removes old log files. It saves heaps of storage memory by automatically compressing log files generated by Apache, NGINX, MySQL, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HTTP to HTTPS migration: Important thing you should know</title>
-      <link>https://www.carnaghan.com/http-to-https-migration-important-thing-you-should-know/</link>
+      <link>http://localhost:1313/http-to-https-migration-important-thing-you-should-know/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/http-to-https-migration-important-thing-you-should-know/</guid>
+      <guid>http://localhost:1313/http-to-https-migration-important-thing-you-should-know/</guid>
       <description>&lt;p&gt;According to Google, HTTPS is a ranking signal. If you make your website secure by configuring the web server to deliver HTTPS pages, your site may rank higher than an HTTP only portal.&lt;/p&gt;
 &lt;p&gt;More importantly, web browsers have begun to warn their users of non-secure web pages. The Google Chrome browser (version 56) marks non-https website pages as insecure when they have an HTML field for entering passwords, credit or debit card details, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to set preferred domain correctly in Google Search Console</title>
-      <link>https://www.carnaghan.com/how-to-set-preferred-domain-correctly-in-google-search-console/</link>
+      <link>http://localhost:1313/how-to-set-preferred-domain-correctly-in-google-search-console/</link>
       <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-set-preferred-domain-correctly-in-google-search-console/</guid>
+      <guid>http://localhost:1313/how-to-set-preferred-domain-correctly-in-google-search-console/</guid>
       <description>&lt;p&gt;Setting a preferred domain is one of the most important things to do after launching a new site. It takes few seconds to set a PD. Before setting a preferred domain, you should make sure that Google indexes only the URLS which you want to appear in search results. To do so, you must set up a 301 redirect.&lt;/p&gt;
 &lt;p&gt;A 301 redirect will prevent duplicate content issues. It will tell search engines that they should index the correct web pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fix No space left on device error while reading upstream in Nginx</title>
-      <link>https://www.carnaghan.com/fix-no-space-left-on-device-error-while-reading-upstream-in-nginx/</link>
+      <link>http://localhost:1313/fix-no-space-left-on-device-error-while-reading-upstream-in-nginx/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/fix-no-space-left-on-device-error-while-reading-upstream-in-nginx/</guid>
+      <guid>http://localhost:1313/fix-no-space-left-on-device-error-while-reading-upstream-in-nginx/</guid>
       <description>&lt;p&gt;Nginx is one of the world&amp;rsquo;s most powerful web servers. It has a robust caching system which eliminates the need for optimizing websites with third-party caching solutions.&lt;/p&gt;
 &lt;p&gt;While managing your website, you may come across the strange error called No Space Left on Device while reading upstream.&lt;/p&gt;
 &lt;p&gt;You won&amp;rsquo;t know that Nginx is throwing the &amp;ldquo;No Space Left error&amp;rdquo; until you check the HTTP response header or go through the log files. To see the response header, install the Redirect Path Chrome extension or use the online redirect checker tool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search traffic dropped after switching to HTTPS? Try these solutions</title>
-      <link>https://www.carnaghan.com/search-traffic-dropped-after-switching-to-https-try-these-solutions/</link>
+      <link>http://localhost:1313/search-traffic-dropped-after-switching-to-https-try-these-solutions/</link>
       <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/search-traffic-dropped-after-switching-to-https-try-these-solutions/</guid>
+      <guid>http://localhost:1313/search-traffic-dropped-after-switching-to-https-try-these-solutions/</guid>
       <description>&lt;p&gt;HTTPS protocol makes your website secure. Google had declared HTTPS as a ranking signal last year which means that secure sites can have higher organic visibility than nonsecure websites.&lt;/p&gt;
 &lt;p&gt;If your site is selling products online, you&amp;rsquo;ll see a boost in conversion because the browsers will mark your website as safe.&lt;/p&gt;
 &lt;p&gt;Before you go ahead and enable HTTPS on your website, you must learn the Google Content Guidelines.&lt;/p&gt;
@@ -458,90 +458,90 @@
     </item>
     <item>
       <title>Modern Application Frameworks, Legacy Browsers and Security Implications</title>
-      <link>https://www.carnaghan.com/modern-application-frameworks-legacy-browsers-and-security-implications/</link>
+      <link>http://localhost:1313/modern-application-frameworks-legacy-browsers-and-security-implications/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/modern-application-frameworks-legacy-browsers-and-security-implications/</guid>
+      <guid>http://localhost:1313/modern-application-frameworks-legacy-browsers-and-security-implications/</guid>
       <description>&lt;p&gt;I was recently sent an article titled ‘How it feels to learn JavaScript in 2016’. Aguinaga, J. (2016).  It is a somewhat amusing take on the current state of JavaScript frameworks and libraries available to web developers and how this environment is changing so quickly. All quirks aside, modern application frameworks provide us with much interactivity and web functionality we take for granted. The modern web browser has to cope with these advancements and continue to evolve to meet the demands of its users and developers. In the Federal government and other organizations that are not able to update their software systems to keep up with the pace, libraries called polyfills have been created to add functionality to legacy browsers that were never designed to run such rich modern web applications. Modernizr is one of the most popular HTML5 polyfills available as open source software at &lt;a href=&#34;https://github.com/Modernizr&#34;&gt;https://github.com/Modernizr&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 7 Best web hosting services for 2018</title>
-      <link>https://www.carnaghan.com/top-7-best-web-hosting-services-for-2018/</link>
+      <link>http://localhost:1313/top-7-best-web-hosting-services-for-2018/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-7-best-web-hosting-services-for-2018/</guid>
+      <guid>http://localhost:1313/top-7-best-web-hosting-services-for-2018/</guid>
       <description>&lt;p&gt;Web hosting is the backbone of a website. It is crucial to the success of a blogger, business, and the website. A poor web hosting firm will have big downtimes. Because of poor infrastructure, the network latency will be high and your site will rank below faster websites in the search engines.&lt;/p&gt;
 &lt;p&gt;Web hosting services are of three types, shared, VPS, dedicated, and cloud. The shared hosting plans are the cheapest of the three. They are ideal for small sites owned by newbie webmasters and beginners. VPS and dedicated plans are costly as compared to shared. They are suitable for business or larger websites owned by experienced webmasters. Cloud platforms are suitable for websites whose traffic may explode anytime.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using jQuery.AJAX() to Retrieve Sample JSON Data</title>
-      <link>https://www.carnaghan.com/using-jquery.ajax-to-retrieve-sample-json-data/</link>
+      <link>http://localhost:1313/using-jquery.ajax-to-retrieve-sample-json-data/</link>
       <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/using-jquery.ajax-to-retrieve-sample-json-data/</guid>
+      <guid>http://localhost:1313/using-jquery.ajax-to-retrieve-sample-json-data/</guid>
       <description>&lt;p&gt;Traditionally the X in AJAX has usually equated XML (eXtensive Markup Notation). In recent years, JSON (JavaScript Object Notation) has taken over in many cases due to its overall efficiency and ease of use. In general, JSON is a much less verbose syntax, which has gained a lot of popularity in modern JavaScript frameworks. Part of this popularity can be attributed to the fact that JSON data can be parsed quicker and because it&amp;rsquo;s less verbose, less bandwidth is needed to transmit it back and forth. In this overview we will look at how easy it is to get up and running consuming JSON data using the popular jQuery library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analyzing Nginx and Apache access log and error log files</title>
-      <link>https://www.carnaghan.com/analyzing-nginx-and-apache-access-log-and-error-log-files/</link>
+      <link>http://localhost:1313/analyzing-nginx-and-apache-access-log-and-error-log-files/</link>
       <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/analyzing-nginx-and-apache-access-log-and-error-log-files/</guid>
+      <guid>http://localhost:1313/analyzing-nginx-and-apache-access-log-and-error-log-files/</guid>
       <description>&lt;p&gt;A log file generated by a web/database server is one of the most important files. It contains useful information on visitors, errors, warnings, etc. Some people think log files as server resource killer. Hence, they disable them in Apache, DB or NGINX configuration file. One more reason why people disable or ignore server logs is because the content of logs is difficult to understand. Hence, most noob webmasters use a log file analyzer program to check server logs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Atom packages for web development (2018)</title>
-      <link>https://www.carnaghan.com/best-atom-packages-for-web-development-2018/</link>
+      <link>http://localhost:1313/best-atom-packages-for-web-development-2018/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-atom-packages-for-web-development-2018/</guid>
+      <guid>http://localhost:1313/best-atom-packages-for-web-development-2018/</guid>
       <description>&lt;p&gt;The black background of the text editor soothes my eyes. The text color is great and the interface of the Atom editor is awesome. If you don&amp;rsquo;t like the default Look and Feels, you are free to change it as per your preference or download a new Atom theme. My favorite color is black so I don&amp;rsquo;t find it necessary to change the theme.&lt;/p&gt;
 &lt;p&gt;The atom editor gets updates on a regular basis. Since I&amp;rsquo;ve started using the editor, GitHub has rolled out many updates. Each update makes the editor better. I&amp;rsquo;m interested only in code. Hence, I haven&amp;rsquo;t checked the full features of Atom editor. For me, Atom is the best tool for web development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Preparing for the Acquia Certified Developer Exam Drupal 8</title>
-      <link>https://www.carnaghan.com/preparing-for-the-acquia-certified-developer-exam-drupal-8/</link>
+      <link>http://localhost:1313/preparing-for-the-acquia-certified-developer-exam-drupal-8/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/preparing-for-the-acquia-certified-developer-exam-drupal-8/</guid>
+      <guid>http://localhost:1313/preparing-for-the-acquia-certified-developer-exam-drupal-8/</guid>
       <description>&lt;p&gt;The Acquia Certified Developer exam Drupal 8 just launched a couple of months ago. I was interested in studying for this exam as I have been working in Drupal 8 for the last six months and future projects look most likely to be Drupal 8 based. I had looked at the various Acquia certification tracks in the past, however I was never fully committed to the Drupal 7 track so I was happy when Acquia announced first the Foundations and then later the Certified Developer exams. I took the Foundations exam first and found that while I was weaker in my front-end Drupal 8 skills, I managed to pass. Later when I sat for the Certified Developer exam I realized there was a bit of cross over in terms of the questions, in fact I think a few of them were taken directly from the foundations exam. I would recommend anyone considering the Certified Developer exam to first take Foundations as it will give you a good idea of the type of questions to expect.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dependency Injection / Service Container Example</title>
-      <link>https://www.carnaghan.com/dependency-injection-/-service-container-example/</link>
+      <title>Dependency Injection Service Container Example</title>
+      <link>http://localhost:1313/dependency-injection-service-container-example/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/dependency-injection-/-service-container-example/</guid>
+      <guid>http://localhost:1313/dependency-injection-service-container-example/</guid>
       <description>&lt;p&gt;In an earlier post, I outlined the basics of dependency injection and talked a little bit about the Drupal 8 service container and how we can use this in our code. Day 16 of Drupal Activity Cards provides a task for us to implement dependency injection in one of the Drupal 8 Example modules.&lt;/p&gt;
 &lt;p&gt;The examples module is a great resource for developers getting started in Drupal coding. The modules included gives us basic functionality that provides easy to follow starting points for a number of different needs. For our dependency injection example we are going to look at page_example, a simple module for generating a Drupal 8 page via a controller. A function called simple() returns a basic page. We are going to extend this function to provide a log entry every time a use visits this page.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Nginx PHP-FPM MySQL (MariaDB) stack for Windows</title>
-      <link>https://www.carnaghan.com/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</link>
+      <link>http://localhost:1313/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</guid>
+      <guid>http://localhost:1313/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</guid>
       <description>&lt;p&gt;I own a laptop which has a dedicated graphics card. I am a developer who prefers using Linux OS. I&amp;rsquo;ve tried 3 distros of Linux, Mint, Ubuntu, OpenSuse. No matter what version of Linux I use, the OS fails to recognize the AMD graphics card in my laptop and the WiFi connection always drops. I fixed the WiFi issue by upgrading the driver but the GPU installation always fails. Hence, I decided to give up using Linux and stick with Windows 10 OS for development tasks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Logging in Drupal 8</title>
-      <link>https://www.carnaghan.com/logging-in-drupal-8/</link>
+      <link>http://localhost:1313/logging-in-drupal-8/</link>
       <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/logging-in-drupal-8/</guid>
+      <guid>http://localhost:1313/logging-in-drupal-8/</guid>
       <description>&lt;p&gt;Logging is very important in any production site because we don&amp;rsquo;t have the same ability to debug code that we have in our development environments. Drupal 7 had a very robust logging system called watchdog(), which has been replaced by logger in Drupal 8. This post summarizes a basic use case for logging in Drupal 8 continuing the Drupal 8 Activity Cards series on Day 13.&lt;/p&gt;
 &lt;p&gt;Amber Matz breaks down logging in Drupal 8 concisely in How to Log Messages in Drupal 8. In her article, she breaks down the code needed to implement logger and provides solid explanations. The examples provided involve procedural coding in the .module file as does the example I provide in this article. If you are writing controllers or forms that extend ControllerBase or FormBase then it would be better to use the service container to inject logger into your code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction to Drupal 8 Theming</title>
-      <link>https://www.carnaghan.com/introduction-to-drupal-8-theming/</link>
+      <link>http://localhost:1313/introduction-to-drupal-8-theming/</link>
       <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/introduction-to-drupal-8-theming/</guid>
+      <guid>http://localhost:1313/introduction-to-drupal-8-theming/</guid>
       <description>&lt;p&gt;Drupal 8 has a new theme engine, however many of the concepts we are familiar with in Drupal 7 are still in place in this new version. Themes still have the same ability to overwrite various templates within core, only now instead of modifying .tpl.php files, you will be creating Twig files in their place. Theme functions are still available to use, however they are now kept in the .theme file instead of template.php. Other changes worthy of exploring in more depth are briefly summarized below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating a Custom Content Entity Type</title>
-      <link>https://www.carnaghan.com/creating-a-custom-content-entity-type/</link>
+      <link>http://localhost:1313/creating-a-custom-content-entity-type/</link>
       <pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/creating-a-custom-content-entity-type/</guid>
+      <guid>http://localhost:1313/creating-a-custom-content-entity-type/</guid>
       <description>&lt;p&gt;Drupal 8 has seen a lot of improvements for content entities and with the new Drupal console, setting up a content entity has been made a lot easier with the addition of boilerplate code generation. Day 11 of the Drupal 8 Activity Card set focuses on content entities, how they can be setup in Drupal 8, how we might add our own custom fields to the boilerplate code provided, and how this is managed within the Drupal 8 administration system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuring your Local Drupal 8 Development Environment</title>
-      <link>https://www.carnaghan.com/configuring-your-local-drupal-8-development-environment/</link>
+      <link>http://localhost:1313/configuring-your-local-drupal-8-development-environment/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/configuring-your-local-drupal-8-development-environment/</guid>
+      <guid>http://localhost:1313/configuring-your-local-drupal-8-development-environment/</guid>
       <description>&lt;p&gt;I have struggled with properly optimizing my local environment in terms of enabling debugging and disabling cache for a while. There isn&amp;rsquo;t that many steps you need to cover in order to have a proper working development environment. After reviewing Day 10 I completed setting up my environment the correct way and have outlined this in the following sections.&lt;/p&gt;
 &lt;h2 id=&#34;step-1-enable-settingslocalphp&#34;&gt;Step 1 Enable settings.local.php&lt;/h2&gt;
 &lt;ul&gt;
@@ -582,137 +582,137 @@
     </item>
     <item>
       <title>Attaching JS and CSS Assets in Drupal 8</title>
-      <link>https://www.carnaghan.com/attaching-js-and-css-assets-in-drupal-8/</link>
+      <link>http://localhost:1313/attaching-js-and-css-assets-in-drupal-8/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/attaching-js-and-css-assets-in-drupal-8/</guid>
+      <guid>http://localhost:1313/attaching-js-and-css-assets-in-drupal-8/</guid>
       <description>&lt;p&gt;Drupal 8 has introduced a different way of attaching JavaScript and CSS to themes and custom modules via a new concept called libraries, which are covered in Day 9. Libraries are essentially .yml files that define different groups of assets that can later be attached via module code. When I started working with the theme layer in Drupal 8, I quickly realized that certain things are very different from Drupal 7. One of the main gotchas for anyone new to Drupal 8 is the idea that JavaScript libraries are now only loaded where they are needed. In contrast to Drupal 7 where jQuery for example, was loaded on every page, in Drupal 8 jQuery is no longer automatically loaded. This provides for a better optimized site with only the required libraries included in areas that they are needed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drupal 8 Plugin System</title>
-      <link>https://www.carnaghan.com/drupal-8-plugin-system/</link>
+      <link>http://localhost:1313/drupal-8-plugin-system/</link>
       <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/drupal-8-plugin-system/</guid>
+      <guid>http://localhost:1313/drupal-8-plugin-system/</guid>
       <description>&lt;p&gt;There is a lot of new terminology in Drupal 8 and for anyone not familiar with Object Oriented programming, some of it can be downright confusing. For myself, I have worked with OOP for quite a while, however I have not spent as much time writing custom modules for Drupal 7. While I am familiar on the surface with the hook system and API at a very novice level, I have never really had to do any intense back end development in D7. Now that I am working in Drupal 8, things are quite different with my projects at work. Thankfully my OOP background has filled in some of the gaps, however my lack of Drupal 7 module development knowledge has proven to be a burden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cron Queuing in Drupal 8</title>
-      <link>https://www.carnaghan.com/cron-queuing-in-drupal-8/</link>
+      <link>http://localhost:1313/cron-queuing-in-drupal-8/</link>
       <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/cron-queuing-in-drupal-8/</guid>
+      <guid>http://localhost:1313/cron-queuing-in-drupal-8/</guid>
       <description>&lt;p&gt;Day 7 focuses mainly on the Drupal Queue API. The main resource for this card is an article called Drupal 8 Queue API – Powerful Manual and Cron Queueing, which I had referenced in an earlier post. Before completing any of the materials, I had no previous experience with the Queue API, nor hook_entity_insert, which was used to create a demo queue system in the referenced article. After going through the article I gained a better understanding of how the queue system works. At a high level the following steps outline the process of constructing the module that is documented in this article along with relevant links to the API.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Services and Dependency Injection</title>
-      <link>https://www.carnaghan.com/services-and-dependency-injection/</link>
+      <link>http://localhost:1313/services-and-dependency-injection/</link>
       <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/services-and-dependency-injection/</guid>
+      <guid>http://localhost:1313/services-and-dependency-injection/</guid>
       <description>&lt;p&gt;For several years I have worked as an ASP.NET MVC developer and have become intimately familiar with terms such as services and dependency injection and services. It is refreshing to see some of these familiar concepts surfacing in Drupal 8. Day 6 focuses mainly on introducing us to services and dependency injection via several online resources. There is no exercises or tasks in this card as the aim is to simply gain an understanding of some of these concepts. I saw a lot of overlap in terms of syntax and how dependency injection is handled in Drupal 8 compared with Unity and StuctureMap in ASP.NET, so anyone from background or other traditional object oriented languages such as Java will be familiar with a lot of this. I have outlined the main takeaways I got from the Day 6 below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drupal 8 Migration</title>
-      <link>https://www.carnaghan.com/drupal-8-migration/</link>
+      <link>http://localhost:1313/drupal-8-migration/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/drupal-8-migration/</guid>
+      <guid>http://localhost:1313/drupal-8-migration/</guid>
       <description>&lt;p&gt;I have had some exposure to the migrate module in the past, mostly with Drupal 7 and more recently for a Drupal 8 migration project that required importing of a small (under 1000) set of records stored in a CSV file. Todays D8Card focuses on the new migration module that comes partly with core and also partly in the form of contributed modules.&lt;/p&gt;
 &lt;h2 id=&#34;migrate-core--migrate-contrib&#34;&gt;Migrate Core &amp;amp; Migrate Contrib&lt;/h2&gt;
 &lt;p&gt;The purpose of todays set of tasks was to import a couple of small CSV files using migrate and some of the contributed modules. I started out by reviewing the links posted in the card and then proceeded to download and install migrate_tools, migrate_plus, and migrate_source_csv. What comes with Drupal 8 core out of the box is pretty limited and only contains migration functionality for moving content from previous Drupal sites. It definitely makes the upgrade process less painful, however if you want to get into migration code that can manage a multitude of external sources, then you will want to grab to contrib modules above.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The New Block System in Drupal 8</title>
-      <link>https://www.carnaghan.com/the-new-block-system-in-drupal-8/</link>
+      <link>http://localhost:1313/the-new-block-system-in-drupal-8/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-new-block-system-in-drupal-8/</guid>
+      <guid>http://localhost:1313/the-new-block-system-in-drupal-8/</guid>
       <description>&lt;p&gt;Among the many changes in Drupal 8, the blocks system received an overhaul, which has improved much of its functionality significantly. Some of the most notable take aways include the new block page layout and UI for updating, adding, and editing blocks, the addition of custom blocks and fieldable types (similar to content types), and integration with display view modes to allow for rendering changes based on block placement. Day 5 directs you to a good introductory video of the new blocks system by the Drupalize.me team.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Configuration Forms</title>
-      <link>https://www.carnaghan.com/building-configuration-forms/</link>
+      <link>http://localhost:1313/building-configuration-forms/</link>
       <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/building-configuration-forms/</guid>
+      <guid>http://localhost:1313/building-configuration-forms/</guid>
       <description>&lt;p&gt;In Day 3 we are starting to accelerate in terms of skills developed by the cards. This card has us create our first Drupal 8 module, learn about Drupal 8 Form API and learn about the Configuration API. The card starts off with directing you to several Drupal.org documentation pages including Creating a Custom Page,  Defining and using your own configuration in Drupal 8, Providing Default configuration, and Simple Configuration API. Except for the Creating a Custom Page document, everything else here is focused on giving you a solid overview of the configuration system within Drupal 8.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paragraphs Module</title>
-      <link>https://www.carnaghan.com/paragraphs-module/</link>
+      <link>http://localhost:1313/paragraphs-module/</link>
       <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/paragraphs-module/</guid>
+      <guid>http://localhost:1313/paragraphs-module/</guid>
       <description>&lt;p&gt;I have to be honest, before completing Day 2 tasks, I had never actually used the Paragraphs module before. I heard others mention it in the past and considered looking at it at some point, however until today I did not realize what I was missing in terms of the power and flexibility that this module has to offer. The d8cards.com Paragraphs Module card begins with directing you to YouTube tutorial by Zane Sensenig, embedded below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drupal 8 Configuration Management</title>
-      <link>https://www.carnaghan.com/drupal-8-configuration-management/</link>
+      <link>http://localhost:1313/drupal-8-configuration-management/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/drupal-8-configuration-management/</guid>
+      <guid>http://localhost:1313/drupal-8-configuration-management/</guid>
       <description>&lt;h2 id=&#34;the-21-day-challenge&#34;&gt;THE 21 DAY CHALLENGE&lt;/h2&gt;
 &lt;p&gt;I’ve been trying to learn Drupal 8 for the last couple of months as I was landed in the middle of a D8 project at work. Being involved on the project has taught me a lot about Drupal 8 module development and Symfony in general, however I have started questioning the way I am writing code and if in fact it is the best way or the ‘Drupal’ way. I decided I needed some additional exposure to Drupal 8, not only in terms of module development, but as a platform in its entirety including front-end, configuration as well as back-end.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xdebug &#43; Scotchbox Vagrant &#43; PHPStorm in Three Steps</title>
-      <link>https://www.carnaghan.com/xdebug--scotchbox-vagrant--phpstorm-in-three-steps/</link>
+      <link>http://localhost:1313/xdebug--scotchbox-vagrant--phpstorm-in-three-steps/</link>
       <pubDate>Sat, 06 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/xdebug--scotchbox-vagrant--phpstorm-in-three-steps/</guid>
+      <guid>http://localhost:1313/xdebug--scotchbox-vagrant--phpstorm-in-three-steps/</guid>
       <description>&lt;p&gt;I come from a .NET background where I was spoiled by the ease of use and integration of Visual Studio. Recently much of my development work has moved to the open source and the world of Drupal 8 where I have gotten by until recently with Sublime Text and Atom. Since I have started writing custom modules, I needed a way to effectively debug my code and I had heard good things about the PHP debugger Xdebug. Unfortunately it can be a little tricky to setup, so I have outlined the basic steps I needed to go through using my favorite Vagrant environment Scotchbox. If you are unfamiliar with Scotchbox, check out my earlier posts Scotchbox Vagrant LAMP Stack and Drupal Development Environment in less than 10 Minutes&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using PostGreSQL with Scotchbox Vagrant LAMP Stack</title>
-      <link>https://www.carnaghan.com/using-postgresql-with-scotchbox-vagrant-lamp-stack/</link>
+      <link>http://localhost:1313/using-postgresql-with-scotchbox-vagrant-lamp-stack/</link>
       <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/using-postgresql-with-scotchbox-vagrant-lamp-stack/</guid>
+      <guid>http://localhost:1313/using-postgresql-with-scotchbox-vagrant-lamp-stack/</guid>
       <description>&lt;p&gt;I have been using Scotchbox for a while now and continue to be impressed by it&amp;rsquo;s simplicity and ease of use compared to other Vagrant environments I have used in the past. Recently I started working on a Drupal 8 project that required the use of a PostGreSQL (PostGres) database. Thankfully, when I checked the Scotchbox 2.0 documentation, it appeared that PostGres came packaged up with the environment and ready to use. After doing a little bit of research I realized I needed to follow a couple of steps in order to get this running properly with a PostGres client. I am outlining the steps below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Namecheap Review 2018: Cheap SSL certificates and domains</title>
-      <link>https://www.carnaghan.com/namecheap-review-2018-cheap-ssl-certificates-and-domains/</link>
+      <link>http://localhost:1313/namecheap-review-2018-cheap-ssl-certificates-and-domains/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/namecheap-review-2018-cheap-ssl-certificates-and-domains/</guid>
+      <guid>http://localhost:1313/namecheap-review-2018-cheap-ssl-certificates-and-domains/</guid>
       <description>&lt;p&gt;Last week, I was thinking about registering a new domain name for my new project. My first choice was GoDaddy. I had shortlisted a few TLDs from GoDaddy, but I was not able to buy a domain name for less than 10$.&lt;/p&gt;
 &lt;p&gt;GoDaddy runs a promotion wherein new customers can register a TLD for USD 0.99. I&amp;rsquo;ve been using GoDaddy for three years. Hence, I was not eligible for this offer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix 403 forbidden error in Nginx?</title>
-      <link>https://www.carnaghan.com/how-to-fix-403-forbidden-error-in-nginx/</link>
+      <link>http://localhost:1313/how-to-fix-403-forbidden-error-in-nginx/</link>
       <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-fix-403-forbidden-error-in-nginx/</guid>
+      <guid>http://localhost:1313/how-to-fix-403-forbidden-error-in-nginx/</guid>
       <description>&lt;p&gt;403 access forbidden error message is displayed on the browser when you try to open a file whose public access has been blocked by the webmaster or because of a permission problem. In other words, the web server is saying that you are not allowed to view the file.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re a webmaster (blogger) and if you&amp;rsquo;re facing this issue, then it &amp;rsquo;s obvious that you don&amp;rsquo;t have much experience in web server configuration and management. There&amp;rsquo;s nothing to be ashamed of. Let&amp;rsquo;s understand these two issues in detail.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TTFB first byte time : Why it is important and how to reduce it?</title>
-      <link>https://www.carnaghan.com/ttfb-first-byte-time-why-it-is-important-and-how-to-reduce-it/</link>
+      <link>http://localhost:1313/ttfb-first-byte-time-why-it-is-important-and-how-to-reduce-it/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/ttfb-first-byte-time-why-it-is-important-and-how-to-reduce-it/</guid>
+      <guid>http://localhost:1313/ttfb-first-byte-time-why-it-is-important-and-how-to-reduce-it/</guid>
       <description>&lt;p&gt;TTFB aka first-byte time is nothing but the time taken by the first byte to reach the client machine when the client seeks a response from the server after the browser running on it makes an HTTP GET request. A small TTFB value indicates that your web server is fast. A high TTFB value denotes that your site is slow in responding to the browser&amp;rsquo;s HTTP GET request. To fix the problem, you&amp;rsquo;ll have to work on the code or check web server and DB configuration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proof : HTTP 500 Internal Server Errors Impact Google Rankings</title>
-      <link>https://www.carnaghan.com/proof-http-500-internal-server-errors-impact-google-rankings/</link>
+      <link>http://localhost:1313/proof-http-500-internal-server-errors-impact-google-rankings/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/proof-http-500-internal-server-errors-impact-google-rankings/</guid>
+      <guid>http://localhost:1313/proof-http-500-internal-server-errors-impact-google-rankings/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re a regular reader of this blog, you may have noticed that this site was throwing error establishing database connection or internal server errors last week.&lt;/p&gt;
 &lt;p&gt;The issue which was caused by the Linux out of memory manager has now been fixed, and the site is now live 24 x 7. I&amp;rsquo;m using this server to host some other WordPress websites as well.&lt;/p&gt;
 &lt;p&gt;Fixing the error was a very confusing task for me. To be honest, I didn&amp;rsquo;t know about OOM process killer in Linux. If I knew how this module worked, the error would have been fixed on the day the error message appeared the system log file.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The OOM Killer : How to Fix Out of Memory Error in Linux?</title>
-      <link>https://www.carnaghan.com/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</link>
+      <link>http://localhost:1313/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</guid>
+      <guid>http://localhost:1313/the-oom-killer-how-to-fix-out-of-memory-error-in-linux/</guid>
       <description>&lt;p&gt;Since two weeks, my website was frequently crashing because the MySQL server stopped abruptly at random times of the day.&lt;/p&gt;
 &lt;p&gt;This issue started when I was on a holiday. My site was down for several hours. I configured crontab to start MySQL server when the service had stopped. This didn&amp;rsquo;t help.&lt;/p&gt;
 &lt;p&gt;I enabled query cache to reduce the load on the server. I use NGINX Fast CGI cache, APCu, and OpCache for my sites. Thus, I didn&amp;rsquo;t felt the need to install a caching plugin for my WordPress blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Fix the WordPress White Screen of Death</title>
-      <link>https://www.carnaghan.com/how-to-fix-the-wordpress-white-screen-of-death/</link>
+      <link>http://localhost:1313/how-to-fix-the-wordpress-white-screen-of-death/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/how-to-fix-the-wordpress-white-screen-of-death/</guid>
+      <guid>http://localhost:1313/how-to-fix-the-wordpress-white-screen-of-death/</guid>
       <description>&lt;p&gt;The dreaded WordPress white screen of death means something has gone wrong and is preventing your website from loading. In most cases, the white screen of death will prevent both the front and back end from loading correctly and all you can see is a blank white screen in your web browser. The white screen of death is often caused by a faulty plugin or theme. In some cases, corrupt files, a database error, or a hosting issue could be the cause of the problem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fixing MySQL Server Has Gone Away problem</title>
-      <link>https://www.carnaghan.com/fixing-mysql-server-has-gone-away-problem/</link>
+      <link>http://localhost:1313/fixing-mysql-server-has-gone-away-problem/</link>
       <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/fixing-mysql-server-has-gone-away-problem/</guid>
+      <guid>http://localhost:1313/fixing-mysql-server-has-gone-away-problem/</guid>
       <description>&lt;p&gt;All my websites are hosted on an unmanaged VPS. The VPS has enough of RAM and a decent CPU. It can handle ten high traffic blogs.&lt;/p&gt;
 &lt;p&gt;I had never faced any problems until last week when my website started displaying error establishing a database connection to the visitors instead of the content. This error was reported after I changed one of the table&amp;rsquo;s structure.&lt;/p&gt;
 &lt;h4 id=&#34;why-the-heck-did-i-change-the-structure&#34;&gt;Why the heck did I change the structure?&lt;/h4&gt;
@@ -720,299 +720,299 @@
     </item>
     <item>
       <title>Web Application Database Vulnerabilities to be Aware of</title>
-      <link>https://www.carnaghan.com/web-application-database-vulnerabilities-to-be-aware-of/</link>
+      <link>http://localhost:1313/web-application-database-vulnerabilities-to-be-aware-of/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/web-application-database-vulnerabilities-to-be-aware-of/</guid>
+      <guid>http://localhost:1313/web-application-database-vulnerabilities-to-be-aware-of/</guid>
       <description>&lt;p&gt;The use of malicious code attacks against web applications and more specifically, web enabled databases, is on the rise and continues to be a greater threat as systems become more complicated and reliant on third party libraries and frameworks.  There are many different types of exploits and vulnerabilities associated with malicious code attacks which can potentially threaten the very databases that power such applications. Several areas of vulnerabilities are discussed below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SQL Injection Explained</title>
-      <link>https://www.carnaghan.com/sql-injection-explained/</link>
+      <link>http://localhost:1313/sql-injection-explained/</link>
       <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/sql-injection-explained/</guid>
+      <guid>http://localhost:1313/sql-injection-explained/</guid>
       <description>&lt;p&gt;SQL injection has been a method of attacking databases through multiple tiers of application infrastructure for many years, MacVittie (2008).  SQL or Sequential Query Language is a database language used to interact with large quantities of data, typically stored in tables inside a Relational Database Management System (DBMS).  Each command using the SQL language typically generates a result set of data.  An example of this follows:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;select * from accounts
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The (*) is effectively used to return (all) columns of data in the ‘accounts’ table.  A similar, and more dangerous statement could be issued using the drop command:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Operating Systems Security: Protection Measures Analysis</title>
-      <link>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</link>
+      <link>http://localhost:1313/operating-systems-security-protection-measures-analysis/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/operating-systems-security-protection-measures-analysis/</guid>
+      <guid>http://localhost:1313/operating-systems-security-protection-measures-analysis/</guid>
       <description>&lt;p&gt;The Internet has brought us a wealth of conveniences and everyday tools that we could not live without and more importantly a dependency that we cannot break. In the workplace the Internet has become a part of our day to day lives. We rely on instant communication with our co-workers, friends and colleagues as well as access to a multitude of information at our fingertips. Children from younger ages are becoming more involved with computers and technology in a trend will continue as the Internet of Things evolves around us in every day appliances. Unfortunately, with all these convenience come challenges and risks that we need to deal with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CMST 385 Software Setup and Webpage Publishing</title>
-      <link>https://www.carnaghan.com/cmst-385-software-setup-and-webpage-publishing/</link>
+      <link>http://localhost:1313/cmst-385-software-setup-and-webpage-publishing/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/cmst-385-software-setup-and-webpage-publishing/</guid>
+      <guid>http://localhost:1313/cmst-385-software-setup-and-webpage-publishing/</guid>
       <description>&lt;h2 id=&#34;software-setup&#34;&gt;Software Setup&lt;/h2&gt;
 &lt;p&gt;For this class you will require three main applications, a text editor, an SSH client and an FTP client. A text editor will be used to write your HTML documents. SSH (Secure SHell) is a text based application which will enable you to setup your Nova web server account, which we will be using to host your web pages online. Finally an FTP (File Transfer Protocol) client will be needed to actually copy over or upload your files to Nova from your PC or Mac. I am recommending your install Atom for text editing, FileZilla for FTP, and PuTTY SSH client for Windows users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three Simple Steps to Setup Your UMUC Nova Server Account</title>
-      <link>https://www.carnaghan.com/three-simple-steps-to-setup-your-umuc-nova-server-account/</link>
+      <link>http://localhost:1313/three-simple-steps-to-setup-your-umuc-nova-server-account/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/three-simple-steps-to-setup-your-umuc-nova-server-account/</guid>
+      <guid>http://localhost:1313/three-simple-steps-to-setup-your-umuc-nova-server-account/</guid>
       <description>&lt;p&gt;Nova is a Unix based web server which is used through various computer studies courses at UMUC. If you are taking one of my web design classes or are enrolled in another UMUC class that uses Nova, the information provided here should be helpful. Nova is the server you will be using to setup your web directories for publishing content online. In order to set up a Nova account you will need you MyUMUC login and password. Once created you will be assigned a unique Nova login account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unix Permissions For UMUC&#39;s Nova Server Explained</title>
-      <link>https://www.carnaghan.com/unix-permissions-for-umucs-nova-server-explained/</link>
+      <link>http://localhost:1313/unix-permissions-for-umucs-nova-server-explained/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/unix-permissions-for-umucs-nova-server-explained/</guid>
+      <guid>http://localhost:1313/unix-permissions-for-umucs-nova-server-explained/</guid>
       <description>&lt;p&gt;All files and directories created in a Unix environment such as Nova are assigned permissions based on the level of access available to different user groups. In order to understand permissions better, we will discuss users, groups and ownership.&lt;/p&gt;
 &lt;h2 id=&#34;users&#34;&gt;Users&lt;/h2&gt;
 &lt;p&gt;Unix is a multi-user operating system. It serves many users who have ownership or certain privileges of resources on the system. You have recently set up a Nova account at UMUC and therefore have become one of its users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drupal Development Environment</title>
-      <link>https://www.carnaghan.com/drupal-development-environment/</link>
+      <link>http://localhost:1313/drupal-development-environment/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/drupal-development-environment/</guid>
+      <guid>http://localhost:1313/drupal-development-environment/</guid>
       <description>&lt;p&gt;Drupal can be installed on any number of environments, but since it was developed primarily to run on an Apache server with PHP and MySQL database, it makes sense to mimic this environment as much as possible in a development sandbox. There are LAMP applications for both Windows (WAMP / XAMP) and Mac OS (MAMP) which can serve as a Linux replacement, however recent innovations with Virtual Machines and Vagrant means that we can re-create a more native environment for development quickly and easily. Below I will describe how you can setup Drupal using some of these tools in less than 10 minutes. The Vagrant setup used here is Scotch Box. The objective is to setup a Drupal development environment with full LAMP stack capabilities including command line access and Drush integration using the native Linux file system for speed and compatibility.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freedom of Information Act (FOIA) Quick Overview</title>
-      <link>https://www.carnaghan.com/freedom-of-information-act-foia-quick-overview/</link>
+      <link>http://localhost:1313/freedom-of-information-act-foia-quick-overview/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/freedom-of-information-act-foia-quick-overview/</guid>
+      <guid>http://localhost:1313/freedom-of-information-act-foia-quick-overview/</guid>
       <description>&lt;p&gt;Lately I&amp;rsquo;ve been carrying out some work involving the Freedom of Information Act (FOIA). There is tons of information about FOIA on the web including on the official foia.gov website, however I decided to summarize the main points of this law in an easy to read / digestible format. This article is broken down into three main parts, a brief intro, the main areas covered in the law, and concludes with the exemptions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Managed WordPress Hosting with Media Temple</title>
-      <link>https://www.carnaghan.com/managed-wordpress-hosting-with-media-temple/</link>
+      <link>http://localhost:1313/managed-wordpress-hosting-with-media-temple/</link>
       <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/managed-wordpress-hosting-with-media-temple/</guid>
+      <guid>http://localhost:1313/managed-wordpress-hosting-with-media-temple/</guid>
       <description>&lt;p&gt;I recently migrated this site to Media Temple&amp;rsquo;s managed Wordpress hosting plan. For a number of years I had been running a dedicated server through CoreNetworks, which I have been extremely happy with. More recently however I have come to realize I no longer have the need for dedicated server and began researching cheaper managed hosting alternatives, which brought me to Media Temple. Over the years I have heard a lot of good things about this company so when I found out about their WordPress plans, I decided to make the plunge and migrate carnaghan.com to its new home. So far my experiences have been relatively positive.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scotch Box Vagrant LAMP Stack</title>
-      <link>https://www.carnaghan.com/scotch-box-vagrant-lamp-stack/</link>
+      <link>http://localhost:1313/scotch-box-vagrant-lamp-stack/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/scotch-box-vagrant-lamp-stack/</guid>
+      <guid>http://localhost:1313/scotch-box-vagrant-lamp-stack/</guid>
       <description>&lt;p&gt;For a while now I have been using WAMP as my daily driver for Drupal development on my Windows 8 machine. For anyone who is a Drupal developer and uses WAMP (or a variation LAMP stack on Windows) has probably felt the pain it brings in terms of sluggishness, incompatibility with native Linux applications (Drush anyone?), and a headache administer PHP modules. I won’t even get into the problems I’ve had in the past getting cURL to work properly in Windows. I decided it was finally time for me to explore Vagrant as I had heard a lot about it but had never taken the time to do any amount of research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top 5 Favorite Web Development Podcasts</title>
-      <link>https://www.carnaghan.com/top-5-favorite-web-development-podcasts/</link>
+      <link>http://localhost:1313/top-5-favorite-web-development-podcasts/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/top-5-favorite-web-development-podcasts/</guid>
+      <guid>http://localhost:1313/top-5-favorite-web-development-podcasts/</guid>
       <description>&lt;p&gt;I am often interested in hearing about how people within the software development community keep up with the latest changes in tools, technologies and programming languages. It seems that every few months there is a new framework or better way of doing something in an entirely new tool-set or language. For me personally, I don&amp;rsquo;t have much time during the day to spend reading the latest industry blogs and online development new outlets, so to help supplement this I routinely listen to a number of podcasts on my commute to and from the office.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing email in a local development environment</title>
-      <link>https://www.carnaghan.com/testing-email-in-a-local-development-environment/</link>
+      <link>http://localhost:1313/testing-email-in-a-local-development-environment/</link>
       <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/testing-email-in-a-local-development-environment/</guid>
+      <guid>http://localhost:1313/testing-email-in-a-local-development-environment/</guid>
       <description>&lt;p&gt;Have you ever had a need to test email functionality on an application within your local development setup?  I have found this process to be both time consuming and confusing in the past, especially when working within firewall restrictions.  Of course we can always test with real dummy email addresses, but what if we accidently send a mass email out to real users?  It is much better to test everything locally first.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MSDN Perks: Azure Development Environment</title>
-      <link>https://www.carnaghan.com/msdn-perks-azure-development-environment/</link>
+      <link>http://localhost:1313/msdn-perks-azure-development-environment/</link>
       <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/msdn-perks-azure-development-environment/</guid>
+      <guid>http://localhost:1313/msdn-perks-azure-development-environment/</guid>
       <description>&lt;p&gt;Recently Microsoft started offering a $100 per month credit to all MSDN subscribers for using their Azure cloud based services.  A lot of developers here at ICF have MSDN subscriptions so I definitely recommend checking this out if you haven&amp;rsquo;t already done so.  I never really considered using Azure for anything as I had assumed it was mostly used as a cloud based hosting service similar to Amazon.  It wasn&amp;rsquo;t until I recently read a blog post by Scott Hanselman that I realized Azure could be used for much more than that. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Drupal Ladder</title>
-      <link>https://www.carnaghan.com/drupal-ladder/</link>
+      <link>http://localhost:1313/drupal-ladder/</link>
       <pubDate>Mon, 18 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/drupal-ladder/</guid>
+      <guid>http://localhost:1313/drupal-ladder/</guid>
       <description>&lt;p&gt;Last week I attended my first Drupal &amp;rsquo;learn sprint&amp;rsquo;.  For anyone interested in contributing to the Drupal community, learn sprints are a great way to network with other professionals in the area while learning how you can contribute to Drupal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Decision Tree Outline</title>
-      <link>https://www.carnaghan.com/decision-tree-outline/</link>
+      <link>http://localhost:1313/decision-tree-outline/</link>
       <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/decision-tree-outline/</guid>
+      <guid>http://localhost:1313/decision-tree-outline/</guid>
       <description>&lt;p&gt;The decision tree application is currently a work-in-progress.  The main source files can be downloaded here: &lt;strong&gt;Source Files.&lt;/strong&gt;  The current demo is non-functional and only shows a subset of the application, which will be developed in the upcoming weeks: &lt;strong&gt;Demo Application (Work in progress)&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Number and Password Problems</title>
-      <link>https://www.carnaghan.com/number-and-password-problems/</link>
+      <link>http://localhost:1313/number-and-password-problems/</link>
       <pubDate>Fri, 06 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/number-and-password-problems/</guid>
+      <guid>http://localhost:1313/number-and-password-problems/</guid>
       <description>&lt;p&gt;The following are my responses to a series of simple PHP problems (attached in the Word File).  I needed to review Doyle (2010) chapters 9 and 10 which cover form submission and session variables in order to complete these exercises.  I also leaned on chapter 18 which goes into depth on regular expressions to assist with pattern recognition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More PHP String Functions</title>
-      <link>https://www.carnaghan.com/more-php-string-functions/</link>
+      <link>http://localhost:1313/more-php-string-functions/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/more-php-string-functions/</guid>
+      <guid>http://localhost:1313/more-php-string-functions/</guid>
       <description>&lt;p&gt;This week I rewrote one of the PHP tasks from earlier and created a new function to emulate the functionality of str_pad.  The function I wrote accepts a text string parameter, length, a reverse parameter (for padding on left or right) and finally an optional symbol parameter to show where the padding is happening.  In addition to this I have outlined what I am planning on developing for a Drupal module later in the semester.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Strings</title>
-      <link>https://www.carnaghan.com/strings/</link>
+      <link>http://localhost:1313/strings/</link>
       <pubDate>Sat, 16 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/strings/</guid>
+      <guid>http://localhost:1313/strings/</guid>
       <description>&lt;p&gt;PHP provides many different functions for manipulating strings.  Some of the more common functions are provided here, however for a full listing of all the available string functions see &lt;a href=&#34;http://www.php.net/manual/en/ref.strings.php&#34;&gt;http://www.php.net/manual/en/ref.strings.php&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PHP Language Basics</title>
-      <link>https://www.carnaghan.com/php-language-basics/</link>
+      <link>http://localhost:1313/php-language-basics/</link>
       <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/php-language-basics/</guid>
+      <guid>http://localhost:1313/php-language-basics/</guid>
       <description>&lt;p&gt;This week I have been focusing on the first few chapters of Doyle (2010), specifically on PHP language basics, decisions and loops and strings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conditional Statements and Looping</title>
-      <link>https://www.carnaghan.com/conditional-statements-and-looping/</link>
+      <link>http://localhost:1313/conditional-statements-and-looping/</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/conditional-statements-and-looping/</guid>
+      <guid>http://localhost:1313/conditional-statements-and-looping/</guid>
       <description>&lt;p&gt;Conditional statements (or decisions) and loops make up a good portion of programming code in general.  I am familiar with these concepts though other languages, however I have never programmed them in PHP.  This week I have been reviewing the first 5 chapters of Beginning PHP 5.3, which has been giving me a good solid introduction to PHP.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data Types, Variables and Constants</title>
-      <link>https://www.carnaghan.com/data-types-variables-and-constants/</link>
+      <link>http://localhost:1313/data-types-variables-and-constants/</link>
       <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/data-types-variables-and-constants/</guid>
+      <guid>http://localhost:1313/data-types-variables-and-constants/</guid>
       <description>&lt;p&gt;Variables in PHP are similar to define and use as with other programming languages.  PHP uses loose typed variables, in other words they do not have to be defined specifically as a datatype upon initialization and can be changed to other data types using expressions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction to PHP</title>
-      <link>https://www.carnaghan.com/introduction-to-php/</link>
+      <link>http://localhost:1313/introduction-to-php/</link>
       <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/introduction-to-php/</guid>
+      <guid>http://localhost:1313/introduction-to-php/</guid>
       <description>&lt;p&gt;This week I have been reading the first five chapters of Beginning PHP 5.3, Doyle (2010).  Chapter 1 gave a good overview of PHP and it&amp;rsquo;s advantages.  It drew comparisons to other programming languages, which I found interesting coming from a ColdFusion background.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dynamic Websites</title>
-      <link>https://www.carnaghan.com/dynamic-websites/</link>
+      <link>http://localhost:1313/dynamic-websites/</link>
       <pubDate>Mon, 28 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/dynamic-websites/</guid>
+      <guid>http://localhost:1313/dynamic-websites/</guid>
       <description>&lt;p&gt;This summer I have enrolled in a Dynamic Websites independent study for my graduate program.  The course will focus mainly on developing PHP programming skills, something I have been lacking and interested in developing for some time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coldfusion 9 and IIS</title>
-      <link>https://www.carnaghan.com/coldfusion-9-and-iis/</link>
+      <link>http://localhost:1313/coldfusion-9-and-iis/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/coldfusion-9-and-iis/</guid>
+      <guid>http://localhost:1313/coldfusion-9-and-iis/</guid>
       <description>&lt;p&gt;I have been developing in ColdFusion for a while locally using the built in web server. Recently at work several of the projects I am involved with moved to an IIS production server. In order to test fully in my local environment I needed to install IIS and setup ColdFusion to use it as the server instead of its built in version.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aptana acquired by Appcelerator</title>
-      <link>https://www.carnaghan.com/aptana-acquired-by-appcelerator/</link>
+      <link>http://localhost:1313/aptana-acquired-by-appcelerator/</link>
       <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/aptana-acquired-by-appcelerator/</guid>
+      <guid>http://localhost:1313/aptana-acquired-by-appcelerator/</guid>
       <description>&lt;p&gt;Aptana, the company behind the popular programming Integrated Development Environment (IDE) Aptana Studio, announced today that they have been acquired by Appcelerator. Aptana has been the choice for many web development professionals for quite some time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Joomla 1.6 Pushes Enterprise Level Features</title>
-      <link>https://www.carnaghan.com/new-joomla-1.6-pushes-enterprise-level-features/</link>
+      <link>http://localhost:1313/new-joomla-1.6-pushes-enterprise-level-features/</link>
       <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/new-joomla-1.6-pushes-enterprise-level-features/</guid>
+      <guid>http://localhost:1313/new-joomla-1.6-pushes-enterprise-level-features/</guid>
       <description>&lt;p&gt;The new version of the popular Joomla Content Management System (CMS) was released early last week and has already reached over 115k in downloads. 1.6 has been in the making for some time and earlier beta versions have been tested over the last few month. The first release candidate (RC1) was made available for download on December 14th, 2010.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get the Latest on ColdFusion at CFHour</title>
-      <link>https://www.carnaghan.com/get-the-latest-on-coldfusion-at-cfhour/</link>
+      <link>http://localhost:1313/get-the-latest-on-coldfusion-at-cfhour/</link>
       <pubDate>Fri, 14 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/get-the-latest-on-coldfusion-at-cfhour/</guid>
+      <guid>http://localhost:1313/get-the-latest-on-coldfusion-at-cfhour/</guid>
       <description>&lt;p&gt;One of the challenges of having a long commute to work is finding new and interesting ways to make the morning and evening drives more interesting. Over the last year I have found the perfect answer by subscribing to podcasts that I am interested in, which have also served to advance my own personal development and education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MySpace More Layoffs and Reflecting on What Went Wrong</title>
-      <link>https://www.carnaghan.com/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</link>
+      <link>http://localhost:1313/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</link>
       <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</guid>
+      <guid>http://localhost:1313/myspace-more-layoffs-and-reflecting-on-what-went-wrong/</guid>
       <description>&lt;p&gt;Last July, Inside the Webb reported on new changes coming to MySpace in an effort to streamline the overall design of the social networking giant. As reported at the time, the changes were long overdue, however overhauling such a large organization was no easy task.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Firefox 3.6 Released</title>
-      <link>https://www.carnaghan.com/firefox-3.6-released/</link>
+      <link>http://localhost:1313/firefox-3.6-released/</link>
       <pubDate>Thu, 21 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/firefox-3.6-released/</guid>
+      <guid>http://localhost:1313/firefox-3.6-released/</guid>
       <description>&lt;p&gt;Mozilla has just released their latest version of the popular web browser Firefox.  The new version has been significantly improved making it 20% faster than the previous version. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Northern Ireland Dating Site Redesign</title>
-      <link>https://www.carnaghan.com/northern-ireland-dating-site-redesign/</link>
+      <link>http://localhost:1313/northern-ireland-dating-site-redesign/</link>
       <pubDate>Wed, 30 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/northern-ireland-dating-site-redesign/</guid>
+      <guid>http://localhost:1313/northern-ireland-dating-site-redesign/</guid>
       <description>&lt;p&gt;NIDating is a free Northern Ireland Dating and matching personals service for local singles from Belfast to all other regions across the province. The site also caters to other singles throughout the rest of the UK and Ireland.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with a Digg.com Software Engineer Kurt Wilms</title>
-      <link>https://www.carnaghan.com/interview-with-a-digg.com-software-engineer-kurt-wilms/</link>
+      <link>http://localhost:1313/interview-with-a-digg.com-software-engineer-kurt-wilms/</link>
       <pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-a-digg.com-software-engineer-kurt-wilms/</guid>
+      <guid>http://localhost:1313/interview-with-a-digg.com-software-engineer-kurt-wilms/</guid>
       <description>&lt;p&gt;As a web designer myself, I have found that other web designers I talk to always have favorite websites they go to for inspiration. Not saying they want to copy a specific website, but there are just some site&amp;rsquo;s that &amp;ldquo;stick&amp;rdquo; and really inspire you to create web designs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with ThisWebHost - An Impressive new Web Hosting Company</title>
-      <link>https://www.carnaghan.com/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</link>
+      <link>http://localhost:1313/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</link>
       <pubDate>Sat, 24 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</guid>
+      <guid>http://localhost:1313/interview-with-thiswebhost-an-impressive-new-web-hosting-company/</guid>
       <description>&lt;p&gt;Finding a decent web hosting company today is difficult. So many companies overprice, can&amp;rsquo;t keep uptime promises, have horrible support, or offer you barely any space to store your site&amp;rsquo;s files and content. The few that have shown promise in the past are some of my favorites: Hostgator, Dreamhost, Bluehost, etc. However as I was browsing the web one night (like always) I ran into a great looking hosting company, This*.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobile Device Applications from a Development Perspective</title>
-      <link>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</link>
+      <link>http://localhost:1313/mobile-device-applications-from-a-development-perspective/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</guid>
+      <guid>http://localhost:1313/mobile-device-applications-from-a-development-perspective/</guid>
       <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;
 &lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;
 &lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blue Ridge Mountain Exchange</title>
-      <link>https://www.carnaghan.com/blue-ridge-mountain-exchange/</link>
+      <link>http://localhost:1313/blue-ridge-mountain-exchange/</link>
       <pubDate>Thu, 15 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/blue-ridge-mountain-exchange/</guid>
+      <guid>http://localhost:1313/blue-ridge-mountain-exchange/</guid>
       <description>&lt;p&gt;The Blue Ridge Mountain Exchange™ (BRME) is a non-profit membership corporation that is implementing a regional complementary currency for the Roanoke, Virginia, area.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Adobe&#39;s Primary Developer of Rich Internet Applications Mark Anders</title>
-      <link>https://www.carnaghan.com/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</link>
+      <link>http://localhost:1313/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</link>
       <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</guid>
+      <guid>http://localhost:1313/interview-with-adobes-primary-developer-of-rich-internet-applications-mark-anders/</guid>
       <description>&lt;p&gt;Mark Anders is a senior principal scientist at Adobe Systems, and one of his core responsibilities is to make Flash the platform for building the next generation of rich internet applications. Prior to Adobe&amp;rsquo;s acquisition of Macromedia, Anders started and led the Flex Builder Team, but he is probably best known for his work at Microsoft, where during a decade-long career he led the creation of ASP.NET.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Richard C Cook Website and Blog Lauches</title>
-      <link>https://www.carnaghan.com/richard-c-cook-website-and-blog-lauches/</link>
+      <link>http://localhost:1313/richard-c-cook-website-and-blog-lauches/</link>
       <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/richard-c-cook-website-and-blog-lauches/</guid>
+      <guid>http://localhost:1313/richard-c-cook-website-and-blog-lauches/</guid>
       <description>&lt;p&gt;Richard C Cook is a former U.S. federal government analyst who works as a writer and private consultant with particular focus on Monetary Reform. His articles on economics, politics, and space policy have been published in numerous magazines and newspapers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Melting Moments</title>
-      <link>https://www.carnaghan.com/melting-moments/</link>
+      <link>http://localhost:1313/melting-moments/</link>
       <pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/melting-moments/</guid>
+      <guid>http://localhost:1313/melting-moments/</guid>
       <description>&lt;p&gt;Melting Moments has been launched at &lt;a href=&#34;http://www.melting-moments.co.uk&#34;&gt;http://www.melting-moments.co.uk&lt;/a&gt;.  Melting Moments is a Northern Ireland based wedding catering services company specializing in chocolate fountain products.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Evolution of Internet Service Providers</title>
-      <link>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</link>
+      <link>http://localhost:1313/the-evolution-of-internet-service-providers/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</guid>
+      <guid>http://localhost:1313/the-evolution-of-internet-service-providers/</guid>
       <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
 &lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TSI (Ireland) Ltd.</title>
-      <link>https://www.carnaghan.com/tsi-ireland-ltd./</link>
+      <link>http://localhost:1313/tsi-ireland-ltd./</link>
       <pubDate>Mon, 28 Feb 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/tsi-ireland-ltd./</guid>
+      <guid>http://localhost:1313/tsi-ireland-ltd./</guid>
       <description>&lt;h2 id=&#34;background-information&#34;&gt;Background Information&lt;/h2&gt;
 &lt;p&gt;TSI Ireland was formed over a year ago in February 1999 as a Private Limited Company.  Financial backing came from the two partners within the company, Mr. Martin Hamill and Mr. Eric Carson (Business Manager for Orange, Northern Ireland).  Staff comprised of 6 full time workers split into the following areas: two Administration personnel, a telecoms engineer, sales director, account manager and the managing director.  The company also undertakes contract work from additional 6 workers who are primarily involved with sales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Multi-drop Link</title>
-      <link>https://www.carnaghan.com/building-a-multi-drop-link/</link>
+      <link>http://localhost:1313/building-a-multi-drop-link/</link>
       <pubDate>Thu, 28 Oct 1999 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/building-a-multi-drop-link/</guid>
+      <guid>http://localhost:1313/building-a-multi-drop-link/</guid>
       <description>&lt;p&gt;Computers play a vital role in the commercial world today as I.T. advancements mean newer tools and facilities available in all industries.  However without the means of communications between workstations within a computer network, the distribution of information would not be as straightforward as it has now become.&lt;/p&gt;
 &lt;p&gt;When looking at how this type of communication is possible, it is necessary to examine the physical hardware and software processes involved.  A multi-drop link is quite simply a very basic communication device that enables multiple Personal Computers to interconnect with each other.  This is made possible through a special chip found inside all Intel x86 PC’s called the Universal Synchronous / Asynchronous Receiver / Transmitter (USART).  This chip allows two important processes that are required for any type of two-way communications.  Input and Output of data can be sent to and from this chip which therefore makes it possible to build a link to another of it’s kind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Relational Student Database Report</title>
-      <link>https://www.carnaghan.com/relational-student-database-report/</link>
+      <link>http://localhost:1313/relational-student-database-report/</link>
       <pubDate>Mon, 27 Apr 1998 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/relational-student-database-report/</guid>
+      <guid>http://localhost:1313/relational-student-database-report/</guid>
       <description>&lt;p&gt;I produced this report for any user to understand how a database has been implemented and how it is to be used.  It will include the different diagrams needed to create a final user-friendly form to be used as the front end of the system.  The objective of the form is to allow the user access to the information stored, in a quick and useful manner so as they can use the information as needed.&lt;/p&gt;</description>
     </item>
   </channel>

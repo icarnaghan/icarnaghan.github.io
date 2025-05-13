@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Icons on Ian Carnaghan</title>
-    <link>https://www.carnaghan.com/tags/icons/</link>
+    <link>http://localhost:1313/tags/icons/</link>
     <description>Recent content in Icons on Ian Carnaghan</description>
     <image>
       <title>Ian Carnaghan</title>
-      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.carnaghan.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Latest Free Icon Search Engine FindIcons.com</title>
-      <link>https://www.carnaghan.com/the-latest-free-icon-search-engine-findicons.com/</link>
+      <link>http://localhost:1313/the-latest-free-icon-search-engine-findicons.com/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/the-latest-free-icon-search-engine-findicons.com/</guid>
+      <guid>http://localhost:1313/the-latest-free-icon-search-engine-findicons.com/</guid>
       <description>&lt;p&gt;Just a few weeks ago I got a great interview with the creator of IconFinder.net, one of the only free icon search engines online. Recently I&amp;rsquo;ve come across another one which has just as many great icons shared, plus the ability to log in and save your favorite sets!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Martin Leblanc Eigtved, Founder of IconFinder.net</title>
-      <link>https://www.carnaghan.com/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</link>
+      <link>http://localhost:1313/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</link>
       <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</guid>
+      <guid>http://localhost:1313/interview-with-martin-leblanc-eigtved-founder-of-iconfinder.net/</guid>
       <description>&lt;p&gt;So many design blogs and showcases today are giving away icons for free. Even in large sets, social media icons and small graphics are making their way into the big time. I&amp;rsquo;m a huge fan of collecting icons, and all of these free sites are extremely useful and always in my bookmarks.&lt;/p&gt;</description>
     </item>
   </channel>

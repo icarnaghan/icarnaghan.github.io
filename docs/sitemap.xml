@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.carnaghan.com/categories/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.carnaghan.com/categories/cms/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+    <loc>https://www.carnaghan.com/tags/cmst-290/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/posts/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/tags/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/categories/ux-design/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/categories/cms/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/visual-composer-review/</loc>
@@ -80,9 +92,6 @@
     <loc>https://www.carnaghan.com/tags/javascript/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.carnaghan.com/tags/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.carnaghan.com/tags/bitesize-javascript/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -131,20 +140,11 @@
     <loc>https://www.carnaghan.com/tags/usability-testing/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.carnaghan.com/categories/ux-design/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.carnaghan.com/security-risk-management-bitesize-cissp-study-notes/</loc>
     <lastmod>2019-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/learning-to-program-in-tic-80-a-fantasy-console/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/tags/cmst-290/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/modern-design-approaches-frameworks-and-resources/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/categories/data-analytics/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
@@ -2465,7 +2465,7 @@
     <loc>https://www.carnaghan.com/freelance-writing-vs-blogging-which-is-better/</loc>
     <lastmod>2016-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.carnaghan.com/dependency-injection-/-service-container-example/</loc>
+    <loc>https://www.carnaghan.com/dependency-injection-service-container-example/</loc>
     <lastmod>2016-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/best-nginx-php-fpm-mysql-mariadb-stack-for-windows/</loc>

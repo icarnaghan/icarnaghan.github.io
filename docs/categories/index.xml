@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ux-Design</title>
+      <link>https://www.carnaghan.com/categories/ux-design/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/categories/ux-design/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cms</title>
       <link>https://www.carnaghan.com/categories/cms/</link>
@@ -60,13 +67,6 @@
       <link>https://www.carnaghan.com/categories/cybersecurity/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/categories/cybersecurity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ux-Design</title>
-      <link>https://www.carnaghan.com/categories/ux-design/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.carnaghan.com/categories/ux-design/</guid>
       <description></description>
     </item>
     <item>
